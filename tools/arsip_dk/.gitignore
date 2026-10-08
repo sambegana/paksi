@@ -1,0 +1,6 @@
+# Data kerja berisi daftar file, pratinjau foto, dan log rollback — jangan di-commit.
+data_arsip/
+credentials.json
+token_*.json
+*.service-account.json
+__pycache__/

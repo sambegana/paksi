@@ -1,6 +1,9 @@
 # Rencana Penamaan & Penandaan Arsip Foto/Video — Drive Delta Kapuas
 
-Status: **DRAF — belum dieksekusi.** Belum ada satu file pun yang diubah.
+Status: **pipeline siap, belum dijalankan terhadap Drive.** Belum ada satu file pun yang diubah.
+Kode & petunjuk menjalankan: [`tools/arsip_dk/README.md`](../tools/arsip_dk/README.md).
+
+Keputusan terkini: Delta Kapuas = **Shared Drive**; eksekusi lewat skrip Drive API (opsi B) yang dijalankan di laptop pemilik kredensial.
 
 ## 0. Prasyarat yang belum terpenuhi
 

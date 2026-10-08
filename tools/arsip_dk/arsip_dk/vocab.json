@@ -1,0 +1,13 @@
+{
+  "MGV": {"nama": "Mangrove & vegetasi pesisir", "panduan": "hutan bakau, nipah, akar tunjang/napas, bibit dan persemaian mangrove, tutupan vegetasi pantai"},
+  "SNG": {"nama": "Sungai, muara & perairan", "panduan": "badan air sebagai subjek utama: sungai, anak sungai, kanal, muara, pasang-surut, tepian sungai"},
+  "KMP": {"nama": "Kampung, permukiman & infrastruktur", "panduan": "rumah panggung, dermaga, jembatan, jalan, sekolah, fasilitas desa"},
+  "MSY": {"nama": "Masyarakat & potret", "panduan": "orang sebagai subjek utama tanpa kegiatan terstruktur: potret warga, nelayan, keluarga"},
+  "KGT": {"nama": "Kegiatan & acara", "panduan": "aktivitas terorganisir: rapat, pelatihan, diskusi, penanaman bersama, survei lapangan, upacara"},
+  "SWT": {"nama": "Satwa", "panduan": "hewan sebagai subjek utama: bekantan, monyet, burung, ikan, kepiting, udang, reptil"},
+  "PRH": {"nama": "Perahu & transportasi air", "panduan": "sampan, perahu motor, speedboat, kapal sebagai subjek utama"},
+  "UDR": {"nama": "Foto/video udara (drone)", "panduan": "sudut pandang dari udara/drone, lanskap dari atas"},
+  "MTP": {"nama": "Mata pencaharian & ekonomi", "panduan": "menangkap ikan, alat tangkap, tambak, kebun, pertanian, pengolahan hasil, pasar"},
+  "DOK": {"nama": "Dokumen, peta & papan informasi", "panduan": "foto dokumen, peta, spanduk, papan nama, tangkapan layar, slide presentasi"},
+  "LLN": {"nama": "Lain-lain / perlu ditinjau", "panduan": "tidak cocok dengan kategori mana pun, atau gambar terlalu buram/gelap untuk dikenali"}
+}
