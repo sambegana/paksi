@@ -1,0 +1,171 @@
+{
+ "judul": {
+  "Hutan & Kebun": 504,
+  "Iklim & Global": 46,
+  "Tambang & Energi": 105,
+  "Perkotaan & Tata Ruang": 135,
+  "Ekosistem Esensial & Pangan": 93,
+  "Pesisir & Laut": 16
+ },
+ "media": {
+  "Hutan & Kebun": 227,
+  "Iklim & Global": 36,
+  "Tambang & Energi": 70,
+  "Perkotaan & Tata Ruang": 91,
+  "Ekosistem Esensial & Pangan": 62,
+  "Pesisir & Laut": 15
+ },
+ "total_judul": 879,
+ "kanal_sendiri": 151,
+ "lainnya": 147,
+ "R": {
+  "Pesisir & Laut": {
+   "n": 4,
+   "respons": 100.0,
+   "tindakan": 0.0,
+   "indeks": 37.5,
+   "dist": {
+    "0": 0,
+    "1": 2,
+    "2": 2,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "Hutan & Kebun": {
+   "n": 6,
+   "respons": 50.0,
+   "tindakan": 16.666666666666668,
+   "indeks": 25.0,
+   "dist": {
+    "0": 3,
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 0
+   }
+  },
+  "Tambang & Energi": {
+   "n": 5,
+   "respons": 40.0,
+   "tindakan": 20.0,
+   "indeks": 20.0,
+   "dist": {
+    "0": 3,
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 0
+   }
+  },
+  "Perkotaan & Tata Ruang": {
+   "n": 6,
+   "respons": 66.66666666666667,
+   "tindakan": 16.666666666666668,
+   "indeks": 37.5,
+   "dist": {
+    "0": 2,
+    "1": 0,
+    "2": 3,
+    "3": 1,
+    "4": 0
+   }
+  },
+  "Iklim & Global": {
+   "n": 5,
+   "respons": 20.0,
+   "tindakan": 0.0,
+   "indeks": 10.0,
+   "dist": {
+    "0": 4,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "Ekosistem Esensial & Pangan": {
+   "n": 5,
+   "respons": 60.0,
+   "tindakan": 20.0,
+   "indeks": 35.0,
+   "dist": {
+    "0": 2,
+    "1": 0,
+    "2": 2,
+    "3": 1,
+    "4": 0
+   }
+  }
+ },
+ "all": {
+  "n": 31,
+  "respons": 54.83870967741935,
+  "tindakan": 12.903225806451612,
+  "indeks": 27.419354838709676,
+  "dist": {
+   "0": 14,
+   "1": 4,
+   "2": 9,
+   "3": 4,
+   "4": 0
+  }
+ },
+ "bulan": {
+  "Hutan & Kebun": {
+   "2026-06": 12,
+   "2026-07": 20,
+   "2026-08": 45,
+   "2026-09": 125,
+   "2026-10": 253,
+   "2026-11": 49
+  },
+  "Iklim & Global": {
+   "2026-06": 1,
+   "2026-07": 6,
+   "2026-08": 3,
+   "2026-09": 7,
+   "2026-10": 24,
+   "2026-11": 5
+  },
+  "Tambang & Energi": {
+   "2026-06": 15,
+   "2026-07": 14,
+   "2026-08": 12,
+   "2026-09": 32,
+   "2026-10": 31,
+   "2026-11": 1
+  },
+  "Perkotaan & Tata Ruang": {
+   "2026-06": 6,
+   "2026-07": 25,
+   "2026-08": 12,
+   "2026-09": 33,
+   "2026-10": 56,
+   "2026-11": 3
+  },
+  "Ekosistem Esensial & Pangan": {
+   "2026-06": 2,
+   "2026-07": 11,
+   "2026-08": 8,
+   "2026-09": 32,
+   "2026-10": 39,
+   "2026-11": 1
+  },
+  "Pesisir & Laut": {
+   "2026-06": 1,
+   "2026-07": 3,
+   "2026-08": 1,
+   "2026-09": 5,
+   "2026-10": 6
+  }
+ },
+ "slug": {
+  "Pesisir & Laut": "pesisir-laut",
+  "Hutan & Kebun": "hutan-kebun",
+  "Tambang & Energi": "tambang-energi",
+  "Perkotaan & Tata Ruang": "perkotaan-tata-ruang",
+  "Iklim & Global": "iklim-global",
+  "Ekosistem Esensial & Pangan": "ekosistem-esensial-pangan"
+ }
+}

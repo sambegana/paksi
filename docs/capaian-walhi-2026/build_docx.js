@@ -105,13 +105,13 @@ C.push(H1("2. Capaian per Isu"));
 const fills = { 3: "DEEAF6", 4: "BDD7EE" };
 ISU.forEach((k, i) => {
   C.push(H2(`2.${i + 1} ${JUDUL[k]}`));
-  C.push(P([{ t: `${S.judul[k]} judul berita · ${S.media[k]} media · respons ${pct(R[k].respons)} · tindakan nyata ${pct(R[k].tindakan)}`, b: true }]));
-  C.push(P(PJ[k]));
+  C.push(P([{ t: `${S.judul[k]} judul berita · ${S.media[k]} media · respons ${pct(R[k].respons)} · tindakan nyata ${pct(R[k].tindakan)}`, b: true }], { keepNext: true }));
+  C.push(P(PJ[k], { keepNext: true }));
   C.push(...fig(`gambar-${i + 3}-${S.slug[k]}.png`, `Skor respons pemerintah per narasi WALHI — ${JUDUL[k]}`));
   const rs = rows.filter(r => r.isu === k);
-  C.push(...table(`Narasi WALHI dan respons pemerintah — ${JUDUL[k]}`, [3100, 4572, 1400],
-    ["Narasi WALHI (tanggal · lembaga dituju)", "Respons pemerintah", "Skor"],
-    rs.map(r => [`${r.narasi_walhi} (${r.tanggal} · ${r.alamat})`, r.url_respons ? [r.respons_pemerintah + " ", { t: "[sumber]", link: r.url_respons }] : r.respons_pemerintah, `${r.skor} – ${SKOR[r.skor]}`]),
+  C.push(...table(`Narasi WALHI dan respons pemerintah — ${JUDUL[k]}`, [2700, 2000, 3172, 1200],
+    ["Narasi WALHI", "Lembaga dituju", "Respons pemerintah", "Skor"],
+    rs.map(r => [r.label_pendek, r.lembaga_ringkas, r.url_respons ? [r.respons_ringkas + " ", { t: "[sumber]", link: r.url_respons }] : r.respons_ringkas, `${r.skor} – ${SKOR[r.skor]}`]),
     { size: 18, fills: rs.map(r => fills[r.skor]) }));
 });
 
@@ -121,7 +121,8 @@ C.push(
   B(`Data pemberitaan: semua judul berita Google News yang memuat “WALHI”, diambil per 2 hari selama 1 Juni – 2 November 2026. Judul ganda dan berita dari kanal milik WALHI dibuang (${S.kanal_sendiri} judul). Judul dipilah ke isu dengan kata kunci; ${S.lainnya} judul tidak masuk isu mana pun (umumnya kebencanaan dan kegiatan organisasi).`),
   B("Narasi yang dikode: per isu, tuntutan WALHI dikelompokkan, lalu diambil kelompok dengan judul terbanyak (maksimal 6). Pemilihan tidak melihat ada atau tidaknya respons."),
   B("Skor = respons tertinggi dari lembaga yang dituju setelah narasi muncul. Tindakan yang searah tetapi tidak menyebut WALHI tetap dihitung; artinya searah, belum tentu karena WALHI."),
-  B("Keterbatasan: Google News tidak mencakup TV, cetak, dan media sosial; jumlah narasi per isu kecil (satu skor menggeser persentase ±17 poin); dikode satu orang tanpa uji antar-pengode."),
+  B("Rincian narasi, kutipan respons, dan alasan skor ada di berkas narasi_respons.csv."),
+  B("Keterbatasan: Google News tidak mencakup TV, cetak, dan media sosial; jumlah narasi per isu kecil (4–6 narasi per isu, jadi satu skor menggeser persentase 17–25 poin); dikode satu orang tanpa uji antar-pengode."),
 );
 
 const doc = new Document({

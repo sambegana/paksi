@@ -91,8 +91,8 @@ ax.text(len(order2) - 0.5, allr["respons"] + 1.5, f"rata-rata respons {pct_id(al
 ax.set_xticks(x)
 ax.set_xticklabels([k.replace(" & ", " &\n") for k in order2], fontsize=8.3)
 ax.set_ylabel("Persen narasi")
-ax.set_ylim(0, 105)
-ax.legend(loc="upper left", fontsize=8.3, ncol=2)
+ax.set_ylim(0, 110)
+ax.legend(loc="lower left", bbox_to_anchor=(0, 1.0), fontsize=8.3, ncol=2)
 save(fig, "gambar-2-respons-per-isu")
 
 # ---- Gambar 3–8: per isu ----
