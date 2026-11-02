@@ -4,7 +4,7 @@ template: sheet
 cols: 2
 title: WALHI & Karhutla 2026 — Analisis Media dan Respons Pemerintah
 subtitle: Uji dua klaim dengan analisis isi berita (1 Jun – 2 Nov 2026)
-korpus: Google News RSS, 2.124 judul unik, 9 aktor
+korpus: Google News RSS, 3.406 judul unik, 2.124 penyebutan aktor di judul
 status: Studi rintisan — belum diuji antar-pengode
 ---
 Klaim 1 didukung data: WALHI adalah sumber non-negara paling banyak dimuat di judul berita karhutla. Klaim 2 perlu dua angka, bukan satu: sekitar **50%** narasi WALHI dijawab pemerintah, tetapi hanya sekitar **21%** yang dijawab dengan tindakan nyata.
@@ -64,7 +64,7 @@ Skala respons: **0** tidak ada respons, **1** ditolak / kontra-narasi, **2** dia
 19 Okt     | 38 | 92 | 3  | 0
 * 26 Okt   | 70 | 9  | 21 | 4
 ```
-Lonjakan pertama 17 Agu: debat WALHI vs Menteri LH di Konsultasi Nasional LH, Pekanbaru. Puncak Greenpeace 19 Okt: isu kabut asap lintas batas. Sejak Sep, WALHI melampaui KLH hampir tiap minggu.
+Lonjakan pertama 17 Agu: debat WALHI vs Menteri LH di Konsultasi Nasional LH, Pekanbaru. Puncak Greenpeace 19 Okt: isu kabut asap lintas batas. Sejak Sep, WALHI melampaui KLH setiap minggu.
 
 ## D Isu 1 — Siapa yang paling banyak muncul di judul
 ```chart bar horizontal unit=" judul"
