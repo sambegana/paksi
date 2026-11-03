@@ -1,0 +1,452 @@
+<title>Topik 2 WALHI Jawa</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: laporan kerja dua kolom (daftar isi lengket + isi), satu kolom di ponsel. Palet: lumpur pesisir, mangrove, air pasang. */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --ink:#1c2422; --muted:#5a6662; --line:#d9dfdb;
+  --mangrove:#1e6b55; --mangrove-soft:#e3efe9; --tide:#245c86; --tide-soft:#e4edf5;
+  --silt:#9a6a1f; --silt-soft:#f5ecdc; --risk:#a63a2b; --risk-soft:#f7e6e2;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--tide);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--tide);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:13.5px}
+nav.toc p{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{color:var(--muted);text-decoration:none;display:flex;gap:8px}
+nav.toc a::before{content:counter(t,decimal-leading-zero);font-family:var(--mono);font-size:11px;padding-top:2px;color:var(--line)}
+nav.toc a:hover{color:var(--ink)}
+main{min-width:0}
+header.top{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:8px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--mangrove)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,4.6vw,46px);line-height:1.08;margin:10px 0 14px;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(23px,2.8vw,30px);line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--body);font-weight:600;font-size:16.5px;margin:26px 0 8px}
+h4{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px}
+p{margin:0 0 12px;max-width:72ch}
+.lede{font-size:17.5px;color:var(--muted);max-width:68ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12.5px;color:var(--muted);margin-top:16px}
+section{padding-block:40px 8px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sub{color:var(--muted);margin-bottom:20px;max-width:70ch}
+ul.tight{margin:0 0 12px;padding-left:20px;max-width:74ch}
+ul.tight li{margin-bottom:6px}
+.pill{display:inline-block;font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.03em;padding:2px 8px;border-radius:3px;white-space:nowrap}
+.p-go{background:var(--mangrove-soft);color:var(--mangrove)}
+.p-warn{background:var(--silt-soft);color:var(--silt)}
+.p-risk{background:var(--risk-soft);color:var(--risk)}
+.p-info{background:var(--tide-soft);color:var(--tide)}
+
+.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:22px 24px;margin:24px 0 8px;display:grid;gap:10px}
+.verdict .big{font-family:var(--display);font-size:24px;font-weight:600;line-height:1.25}
+.countdown{display:flex;flex-wrap:wrap;gap:24px;margin-top:6px}
+.countdown div{display:grid}
+.countdown b{font-family:var(--display);font-size:34px;line-height:1;font-weight:600;font-variant-numeric:tabular-nums}
+.countdown span{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+.challenge{display:grid;gap:14px;margin-top:14px}
+.challenge article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.challenge h4{margin:0 0 4px}
+.challenge p{margin:0;font-size:14.5px}
+.challenge .you h4{color:var(--silt)}
+.challenge .me h4{color:var(--mangrove)}
+
+.tbl{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td small,li small{color:var(--muted)}
+.doi{font-family:var(--mono);font-size:12px;word-break:break-all}
+
+.weights{display:grid;gap:8px;margin:14px 0 18px;max-width:640px}
+.wrow{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr) 44px;gap:12px;align-items:center;font-size:14px}
+.bar{height:12px;background:var(--line);position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--mangrove)}
+.wrow .num{font-family:var(--mono);text-align:right}
+
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:12px 0}
+.card{background:var(--surface);border:1px solid var(--line);padding:16px 18px;min-width:0}
+.card h4{margin-top:0}
+.swot .card{border-top:3px solid var(--line)}
+.swot .s{border-top-color:var(--mangrove)}.swot .w{border-top-color:var(--silt)}
+.swot .o{border-top-color:var(--tide)}.swot .t{border-top-color:var(--risk)}
+.swot .s h4{color:var(--mangrove)}.swot .w h4{color:var(--silt)}.swot .o h4{color:var(--tide)}.swot .t h4{color:var(--risk)}
+.swot ul{margin:0;padding-left:18px;font-size:14.2px}
+.swot li{margin-bottom:6px}
+
+.score{display:inline-flex;gap:3px;vertical-align:middle}
+.score i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.score i.on{background:var(--mangrove)}
+
+.toc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.toc-flow .step{background:var(--surface);border:1px solid var(--line);padding:12px 14px;font-size:13.8px;min-width:0}
+.toc-flow .step b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:500}
+.toc-flow .imp{grid-column:1/-1;background:var(--mangrove-soft);border-color:transparent}
+.outputs{display:grid;gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove)}
+.outputs ol{margin:6px 0 0;padding-left:20px;font-size:14.2px}
+.callout{background:var(--silt-soft);padding:14px 18px;margin:14px 0;max-width:78ch;font-size:14.6px}
+.callout.blue{background:var(--tide-soft)}
+.callout.red{background:var(--risk-soft)}
+.callout p:last-child{margin:0}
+footer{font-size:13px;color:var(--muted);padding-top:28px}
+ol.src{font-size:13px;padding-left:20px;display:grid;gap:4px;max-width:90ch}
+ol.src li{word-break:break-word}
+
+@media (max-width:900px){
+  .wrap{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:24px 60px}
+  nav.toc{position:static;border:1px solid var(--line);background:var(--surface);padding:14px 16px}
+  nav.toc ol{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc-flow{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .grid2,.challenge article{grid-template-columns:minmax(0,1fr)}
+  nav.toc ol{grid-template-columns:minmax(0,1fr)}
+  .toc-flow{grid-template-columns:minmax(0,1fr)}
+  .wrow{grid-template-columns:minmax(0,1fr) 44px}.wrow .bar{grid-column:1/-1;grid-row:2}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+<style>
+.chart{display:grid;gap:10px;margin:16px 0 8px;max-width:720px}
+.crow{display:grid;grid-template-columns:minmax(0,190px) minmax(0,1fr) 92px;gap:12px;align-items:center;font-size:14px}
+.ctrack{height:16px;background:transparent;border-left:1px solid var(--line);position:relative}
+.ctrack i{position:absolute;inset:0 auto 0 0;background:var(--silt);min-width:2px}
+.ctrack i.eco{background:var(--mangrove)}
+.ctrack i.sea{background:var(--tide)}
+.crow .num{font-family:var(--mono);font-variant-numeric:tabular-nums;text-align:right;font-size:13px}
+.chain{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin:14px 0}
+.chain div{background:var(--surface);border:1px solid var(--line);padding:10px 12px;font-size:13.6px;min-width:0}
+.chain b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500;margin-bottom:3px}
+.zones{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:12px 0}
+.zones .card{border-top:3px solid var(--line)}
+.zones .za{border-top-color:var(--mangrove)}.zones .zb{border-top-color:var(--silt)}.zones .zc{border-top-color:var(--risk)}
+.idea{background:var(--surface);border:1px solid var(--line);padding:18px 20px;margin:14px 0;display:grid;gap:8px}
+.idea h3{margin:0;font-family:var(--display);font-size:21px;font-weight:600}
+.idea .tag{font-family:var(--mono);font-size:11.5px;color:var(--muted);letter-spacing:.04em}
+.idea dl{display:grid;grid-template-columns:minmax(0,170px) minmax(0,1fr);gap:6px 16px;margin:4px 0 0;font-size:14.3px}
+.idea dt{font-family:var(--mono);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+.idea dd{margin:0}
+.idea .pc{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:12px;margin-top:4px}
+.idea .pc div{font-size:14px;padding:10px 12px}
+.idea .plus{background:var(--mangrove-soft)}.idea .minus{background:var(--risk-soft)}
+.idea .pc b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;margin-bottom:3px;font-weight:500}
+.rec{border-left:4px solid var(--mangrove)}
+blockquote{margin:10px 0;padding:8px 16px;border-left:3px solid var(--tide);color:var(--muted);font-size:14.6px;max-width:74ch}
+@media (max-width:900px){.chain{grid-template-columns:repeat(2,minmax(0,1fr))}.zones{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:620px){.chain{grid-template-columns:minmax(0,1fr)}.crow{grid-template-columns:minmax(0,1fr) 84px}.crow .ctrack{grid-column:1/-1;grid-row:2}.idea dl,.idea .pc{grid-template-columns:minmax(0,1fr)}}
+</style>
+
+<div class="wrap">
+<nav class="toc" aria-label="Daftar isi">
+  <p>Isi</p>
+  <ol>
+    <li><a href="#kenapa">Kenapa subsidence-first</a></li>
+    <li><a href="#konsep">Konsep &amp; apakah itu "model"</a></li>
+    <li><a href="#arahan">Membaca arahan atasan</a></li>
+    <li><a href="#dump">Dumping masalah</a></li>
+    <li><a href="#ide">Enam ide alternatif</a></li>
+    <li><a href="#banding">Perbandingan</a></li>
+    <li><a href="#usul">Usulan saya</a></li>
+    <li><a href="#diskusi">Bahan diskusi atasan</a></li>
+    <li><a href="#sumber">Sumber</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <div class="eyebrow">Lanjutan analisis Global EbA Fund · Bahan diskusi internal WALHI</div>
+  <h1>Subsidence-first, Topik 2, dan enam arah proposal</h1>
+  <p class="lede">Tiga bagian. Pertama, penjelasan kenapa subsidensi harus ditangani lebih dulu dan seperti apa kerangkanya. Kedua, pembacaan arahan atasan: Topik 2, Strategic Objective 1, Pilar 1 dan 2. Ketiga, daftar masalah di Jawa dan enam ide proposal yang bisa dipilih atau digabung.</p>
+  <div class="meta"><span>3 November 2026</span><span>Tenggat submit: 16 November 2026</span></div>
+</header>
+
+<section id="kenapa">
+  <h2>Kenapa "subsidence-first"</h2>
+  <p class="sub">Intinya soal skala. Di pesisir utara Jawa, daratan turun jauh lebih cepat daripada laut naik. Juga jauh lebih cepat daripada kemampuan mangrove meninggikan dirinya.</p>
+
+  <div class="chart" role="img" aria-label="Perbandingan laju dalam milimeter per tahun: subsidensi Demak 146, Semarang 144, Pekalongan 138; ambang mangrove 6,1; kenaikan muka laut global 3,7">
+    <div class="crow"><span>Subsidensi Demak (2020–23)</span><div class="ctrack"><i style="width:100%"></i></div><span class="num">~146 mm/th</span></div>
+    <div class="crow"><span>Subsidensi Semarang</span><div class="ctrack"><i style="width:98.6%"></i></div><span class="num">~144 mm/th</span></div>
+    <div class="crow"><span>Subsidensi Pekalongan</span><div class="ctrack"><i style="width:94.5%"></i></div><span class="num">~138 mm/th</span></div>
+    <div class="crow"><span>Batas mangrove masih bisa mengejar</span><div class="ctrack"><i class="eco" style="width:4.2%"></i></div><span class="num">6,1 mm/th</span></div>
+    <div class="crow"><span>Kenaikan muka laut global</span><div class="ctrack"><i class="sea" style="width:2.5%"></i></div><span class="num">3,7 mm/th</span></div>
+  </div>
+  <p><small>Skala batang sebanding. Angka subsidensi adalah laju di titik-titik terparah hasil InSAR 2020–2023 (IJOG), dan studi lain dengan metode atau periode berbeda memberi angka lebih rendah. Ambang mangrove dari Saintilan et al. 2020 (<i>Science</i>): di atas sekitar 6,1 mm/tahun kenaikan muka air relatif, mangrove sangat mungkin gagal menumpuk sedimen secara berkelanjutan. Kenaikan muka laut global dari IPCC AR6 (2006–2018).</small></p>
+
+  <h3>Logikanya dalam lima langkah</h3>
+  <div class="chain">
+    <div><b>Penyebab</b>Pengambilan air tanah, terutama oleh industri, ditambah pemadatan endapan aluvial muda dan beban bangunan.</div>
+    <div><b>Akibat</b>Tanah turun 5–15 cm per tahun di titik terparah. Ini puluhan kali laju kenaikan laut.</div>
+    <div><b>Tanggul</b>Ikut turun dan harus terus ditinggikan. Daratan di belakangnya makin di bawah muka laut dan butuh pompa selamanya (Takagi 2017).</div>
+    <div><b>Mangrove</b>Tumbuh, lalu tenggelam lagi. Inilah yang terjadi di belakang struktur BwN Demak (van Bijsterveldt 2023).</div>
+    <div><b>Kesimpulan</b>Tanpa menghentikan penyebabnya, semua investasi adaptasi, hijau maupun abu-abu, jadi treadmill yang mahal.</div>
+  </div>
+  <p>Kabar baiknya, subsidensi akibat air tanah <b>bisa dihentikan</b>. Tokyo dan Osaka hampir menghentikannya setelah membatasi pemompaan pada 1960–70-an. Bangkok menurunkan lajunya lewat izin, zona larangan, tarif air tanah, dan peralihan ke air permukaan. Penurunan yang sudah terjadi tidak bisa dibalik, tetapi laju ke depan bisa ditekan.</p>
+  <p>Ada juga dimensi keadilan yang dekat dengan WALHI. <b>Yang memompa air tanah dan yang tenggelam sering kali bukan orang yang sama.</b> Kawasan industri mengambil airnya, sedangkan desa nelayan dan kampung miskin menanggung rob, sumur asin, dan kehilangan rumah.</p>
+</section>
+
+<section id="konsep">
+  <h2>Konsepnya, dan apakah itu sebuah "model"</h2>
+  <div class="callout blue"><p><b>Supaya jelas:</b> "subsidence-first" adalah <b>label yang saya buat</b> untuk laporan sebelumnya, bukan nama model atau framework baku. Substansinya bersandar pada literatur yang mapan: Takagi et al. 2017 ("the need for prioritizing actions against land subsidence"), Erkens et al. 2015 tentang kota-kota pesisir yang tenggelam, temuan Demak, dan pengalaman Tokyo dan Bangkok. Kalau dipakai di proposal, sebut sebagai <em>prinsip urutan intervensi</em> dan rujuk sumber-sumber itu, jangan diklaim sebagai model yang sudah teruji.</p></div>
+
+  <p>Bentuknya adalah <b>kerangka urutan</b> (sequencing): urutan keputusan sebelum uang adaptasi dibelanjakan. Ada empat langkah:</p>
+  <ol class="tight">
+    <li><b>Diagnosa.</b> Petakan laju subsidensi (InSAR/GNSS) dan tumpangkan dengan peta izin air tanah, ekosistem, dan permukiman.</li>
+    <li><b>Hentikan penyebabnya.</b> Tata kelola air tanah: izin, meteran, tarif progresif untuk industri, zona larangan, dan pasokan air pengganti (SPAM air permukaan). Ini instrumen <em>polluter-pays</em>.</li>
+    <li><b>Zonasi intervensi</b> berdasarkan laju turunnya tanah (tabel di bawah).</li>
+    <li><b>Keadilan dan pemantauan.</b> Siapa menanggung biaya, siapa direlokasi, dengan persetujuan seperti apa (FPIC). Pantau secara terbuka, termasuk oleh komunitas.</li>
+  </ol>
+
+  <div class="zones">
+    <div class="card za"><h4>Zona A · Turun lambat</h4><p>Laju di bawah ambang kemampuan mangrove. Restorasi ekosistem (EMR: pulihkan hidrologi dulu, baru tanam) bisa berdiri sendiri sebagai pertahanan pesisir.</p></div>
+    <div class="card zb"><h4>Zona B · Turun sedang</h4><p>EbA hanya berhasil kalau air tanah dikendalikan dan pasokan sedimen dikelola. Desain hibrida hijau–abu masuk akal di sini, sesuai aksi ES-08 NAP.</p></div>
+    <div class="card zc"><h4>Zona C · Turun cepat</h4><p>Ekosistem tidak bisa menyelamatkan daratan. Pilihannya relokasi terencana berbasis hak, dengan mangrove sebagai sabuk transisi yang melindungi selama proses pindah.</p></div>
+  </div>
+  <p><small>Batas angka antar-zona belum ada di literatur untuk Jawa. Menentukannya justru salah satu produk riset yang bisa dibiayai.</small></p>
+  <p><b>Kaitannya dengan Topik 2:</b> subsidence-first tidak hilang kalau kita pindah ke Topik 2. Zona C adalah persoalan <em>keamanan manusia</em>: orang kehilangan rumah, tanah, dan mata pencaharian, dan relokasi bisa menimbulkan konflik baru. Prinsip ini bisa menjadi satu komponen dalam proposal bertopik 2 (lihat Ide 1).</p>
+</section>
+
+<section id="arahan">
+  <h2>Membaca arahan atasan: Topik 2 + SO1 + Pilar 1 dan 2</h2>
+  <h3>Koreksi atas penilaian saya sebelumnya</h3>
+  <p>Di laporan pertama saya menilai Topik 2 "lemah" karena call menyebut "fragile or conflict-affected regions", dan Jawa tidak masuk kategori itu secara internasional. Setelah membaca ulang, penilaian itu terlalu sempit. Formulir aplikasi menamai topik ini <b>"Human development from a security lens"</b>. Isinya juga menyebut hal-hal yang sangat relevan untuk Jawa:</p>
+  <blockquote>"…recognising that climate action can also contribute to insecurity by changing power dynamics … if not implemented in a conflict sensitive manner." · "…mitigate natural resource-related tensions … strengthen social cohesion around shared natural resources."</blockquote>
+  <p>Kalimat pertama nyaris persis menggambarkan apa yang WALHI dokumentasikan selama ini: proyek atas nama iklim dan pembangunan yang menggusur atau memagari ruang hidup warga. Dengan lensa <b>keamanan manusia</b> (konsep UNDP 1994: aman dari kekurangan dan aman dari rasa takut), Jawa punya kasus kuat, dan WALHI punya keunggulan yang tidak dimiliki INGO besar.</p>
+  <div class="callout"><p><b>Risiko yang tetap ada.</b> Reviewer mungkin membandingkan dengan proyek di Irak atau Sahel. Satu-satunya hibah $500 ribu dalam sejarah fund ini memang untuk IOM di Irak, tentang EbA dan risiko konflik. Jangan melebih-lebihkan dengan menyebut Jawa "zona konflik". Pakai istilah "contested resource zones" dan "high-risk zones", lalu dukung dengan data konflik agraria dan perpindahan penduduk.</p></div>
+
+  <h3>Konsekuensi teknis dari kombinasi ini</h3>
+  <div class="tbl"><table>
+    <tr><th>Pilihan</th><th>Artinya</th><th>Catatan</th></tr>
+    <tr><td>Strategic Objective 1</td><td>Kesadaran, basis bukti, dan kapasitas kelembagaan untuk mengarusutamakan EbA serta integrasi vertikal</td><td>Cocok dengan kekuatan WALHI di pengetahuan dan pengorganisasian. Produk utamanya bukti, alat, dan kapasitas, bukan regulasi baru.</td></tr>
+    <tr><td>Pilar 2 · Functional Data &amp; Science</td><td>Asesmen risiko, pemodelan, analisis biaya-manfaat, MEL, pengetahuan tradisional</td><td>GPM mewajibkan rencana operasional agar data benar-benar dipakai pengambil keputusan.</td></tr>
+    <tr><td>Pilar 1 · <b>hanya satu sub-opsi</b></td><td>Aturan GPM: kalau Pilar 2 dipilih, Pilar 1 hanya boleh satu sub-opsi</td><td>Harus diputuskan: <em>Policy &amp; policy instruments</em> atau <em>Education, capacity building &amp; skills</em>. Lihat bahan diskusi di bawah.</td></tr>
+    <tr><td>Topik 2</td><td>Mengatasi hambatan kebijakan, regulasi, finansial, dan kesadaran yang menghalangi investasi EbA di zona berisiko tinggi</td><td>Bahasanya berorientasi <em>investasi</em>, sedangkan SO1 berorientasi <em>pengetahuan</em>. Setiap ide harus menunjukkan keputusan investasi mana yang berubah karena pengetahuan itu (APBD, Dana Desa, PSN, program mangrove).</td></tr>
+  </table></div>
+
+  <h3>Kerangka "keamanan" Indonesia yang bisa dijadikan kait</h3>
+  <p>Topik 2 meminta integrasi EbA ke kerangka keamanan. Untuk WALHI, kerangka yang aman dan relevan adalah yang berbasis keamanan manusia dan sipil, bukan pertahanan militer:</p>
+  <ul class="tight">
+    <li><b>UU 7/2012 tentang Penanganan Konflik Sosial.</b> Mengatur pencegahan konflik, termasuk yang dipicu sumber daya alam. Di daerah dijalankan Kesbangpol dan Tim Terpadu. Celahnya: EbA dan perubahan iklim belum masuk analisis pencegahan konflik.</li>
+    <li><b>Perpres 18/2014 tentang Perlindungan dan Pemberdayaan Perempuan dan Anak dalam Konflik Sosial (P3AKS).</b> Jembatan langsung ke skor gender. <small>(Status rencana aksinya perlu dicek.)</small></li>
+    <li><b>Permen LHK 10/2024 tentang pelindungan pejuang lingkungan (anti-SLAPP).</b> Relevan karena pejuang adaptasi lokal kerap dikriminalisasi. <small>(Sedang ada uji materi. Cek statusnya.)</small></li>
+    <li><b>RIPB 2020–2044 dan UU 24/2007 tentang Penanggulangan Bencana.</b> Celahnya: bencana lambat seperti subsidensi dan rob kronis jarang tercatat sebagai bencana, sehingga warga terdampak tidak masuk skema perlindungan.</li>
+    <li><b>KHDPK hutan Jawa (sekitar 1,1 juta ha dikeluarkan dari pengelolaan Perhutani, 2022).</b> Sumber konflik tenurial baru di hulu. <small>(Nomor SK di berbagai sumber tidak konsisten. Cek teks resmi.)</small></li>
+  </ul>
+  <p><small>Call juga menyebut "align community-driven resilience with evolving national defence mandates". Bagian ini sebaiknya <b>tidak</b> diambil WALHI. Keselarasan dengan topik bersifat "welcomed but not required", jadi cukup mengambil sebagian topik.</small></p>
+</section>
+
+<section id="dump">
+  <h2>Dumping masalah</h2>
+  <p class="sub">Semua yang muncul, belum disaring. Kolom "dimensi keamanan" menunjukkan di mana persoalan ekologi berubah menjadi ketegangan sosial atau hilangnya rasa aman.</p>
+  <div class="tbl"><table>
+    <tr><th>Masalah</th><th>Lokasi contoh</th><th>Dimensi keamanan manusia</th><th>Peran EbA</th></tr>
+    <tr><td colspan="4"><b>Pesisir utara</b></td></tr>
+    <tr><td>Desa tenggelam, perpindahan karena iklim tanpa kerangka relokasi</td><td>Bedono &amp; Timbulsloko (Demak), Pekalongan</td><td>Kehilangan rumah dan tanah. Ketegangan dengan komunitas penerima. Tidak tercatat sebagai pengungsi bencana.</td><td>Sabuk mangrove transisi, perencanaan relokasi</td></tr>
+    <tr><td>Rob kronis, sumur asin, sanitasi buruk</td><td>Pantura Jateng &amp; Jabar</td><td>Keamanan air dan kesehatan. Beban kerja perempuan untuk mencari air.</td><td>Pemulihan hidrologi pesisir</td></tr>
+    <tr><td>Status tanah yang hilang ditelan laut ("tanah musnah") dan tanah timbul hasil restorasi</td><td>Pantura</td><td>Hak atas tanah hilang. Sengketa siapa pemilik lahan mangrove yang pulih.</td><td>Restorasi yang memperkuat tenurial komunitas</td></tr>
+    <tr><td>Industri memompa air tanah, warga yang tenggelam</td><td>Semarang, Pekalongan, Cekungan Bandung</td><td>Ketimpangan: penyebab dan penanggung risiko berbeda</td><td>Prasyarat agar EbA berhasil (subsidence-first)</td></tr>
+    <tr><td>Nelayan tergusur reklamasi dan Tanggul Laut</td><td>Teluk Jakarta, Surabaya Waterfront, segmen Pantura</td><td>Akses ke ruang tangkap, mata pencaharian</td><td>Mangrove dan perikanan, desain yang peka konflik</td></tr>
+    <tr><td>Lumbung padi Pantura: intrusi air laut, kekeringan, alih fungsi lahan ke industri</td><td>Indramayu, Karawang, Subang</td><td>Ketahanan pangan, konflik air antara petani dan tambak</td><td>Mosaik mangrove–tambak–sawah</td></tr>
+    <tr><td colspan="4"><b>Karst dan air</b></td></tr>
+    <tr><td>Tambang semen vs. petani dan mata air</td><td>Kendeng (Pati, Rembang)</td><td>Konflik terbuka bertahun-tahun, kriminalisasi</td><td>Perlindungan jasa air karst (KLHS, KBAK)</td></tr>
+    <tr><td>Wisata tanpa AMDAL vs. mata air dan telaga</td><td>Gunung Sewu (Gunungkidul)</td><td>Keamanan air saat kemarau, ketergantungan pada truk tangki</td><td>Perlindungan resapan, kelembagaan air lokal</td></tr>
+    <tr><td>Industri air minum kemasan vs. irigasi warga</td><td>Klaten, Sukabumi <small>(perlu dicek)</small></td><td>Persaingan atas sumber air bersama</td><td>Tata kelola mata air</td></tr>
+    <tr><td>Pencemaran industri di DAS Citarum</td><td>Bandung Raya</td><td>Kesehatan, hilangnya pertanian dan perikanan</td><td>Restorasi riparian dan DAS</td></tr>
+    <tr><td colspan="4"><b>Hulu, hutan, dan vulkanik</b></td></tr>
+    <tr><td>Konflik tenurial pasca-KHDPK: penggarap lama vs. pemegang izin baru vs. Perhutani</td><td>Hutan Jabar, Jateng, Jatim</td><td>Penggusuran petani, ketegangan antarwarga</td><td>Agroforestri sebagai pengendali longsor dan banjir sekaligus jalan damai</td></tr>
+    <tr><td>Longsor dan banjir bandang di hulu yang gundul</td><td>Garut (Cimanuk), Batu (Brantas)</td><td>Korban jiwa, kehilangan lahan</td><td>Restorasi lereng, agroforestri</td></tr>
+    <tr><td>Relokasi pasca-erupsi plus tambang pasir</td><td>Semeru (Lumajang), Merapi</td><td>Risiko berlapis. Kasus kekerasan terhadap penolak tambang pasir (Salim Kancil, 2015).</td><td>Pengelolaan lereng dan sungai lahar</td></tr>
+    <tr><td colspan="4"><b>Lintas lanskap</b></td></tr>
+    <tr><td>PSN dan tambang yang diamankan aparat</td><td>Wadas (Purworejo), Tumpang Pitu (Banyuwangi)</td><td>Rasa takut dan sekuritisasi ruang hidup</td><td>Penilaian alternatif berbasis ekosistem</td></tr>
+    <tr><td>"Green grabbing": proyek mangrove, karbon, dan NbS yang memagari ruang kelola rakyat</td><td>Seluruh pesisir</td><td>Persis risiko yang disebut Topik 2: aksi iklim yang mengubah relasi kuasa</td><td>EbA berbasis hak dengan uji kepekaan konflik</td></tr>
+    <tr><td>Kriminalisasi pejuang lingkungan dan adaptasi</td><td>Kendeng, Wadas, pesisir</td><td>Keamanan personal dan kebebasan sipil</td><td>Perlindungan kelembagaan komunitas pengelola EbA</td></tr>
+    <tr><td>Tidak ada data resmi perpindahan akibat bencana lambat</td><td>Seluruh Jawa</td><td>Yang tidak tercatat, tidak dilindungi</td><td>Basis bukti (SO1 dan Pilar 2)</td></tr>
+    <tr><td>Jakarta: penggusuran untuk normalisasi sungai, panas kota, subsidensi</td><td>DKI</td><td>Rumah, kesehatan</td><td>Riparian berbasis komunitas (contoh Ciliwung Condet)</td></tr>
+  </table></div>
+</section>
+
+<section id="ide">
+  <h2>Enam ide alternatif</h2>
+  <p class="sub">Semua ide disusun di dalam kerangka atasan (Topik 2, SO1, Pilar 1 dan 2) dan muat dalam batas 1 outcome dan 4 output. Masing-masing disertai kelebihan dan kelemahannya.</p>
+
+  <article class="idea">
+    <span class="tag">Ide 1 · Pesisir · Jateng (+ Pantura Jabar)</span>
+    <h3>Tenggelam tanpa mengungsi: bukti dan pedoman relokasi yang peka konflik untuk desa pesisir yang turun</h3>
+    <dl>
+      <dt>Inti</dt><dd>Menerapkan subsidence-first untuk menentukan desa mana yang masih bisa dipertahankan dengan EbA dan mana yang perlu relokasi terencana. Menyusun pedoman relokasi berbasis hak dengan mangrove sebagai sabuk transisi.</dd>
+      <dt>Ketegangan yang ditangani</dt><dd>Perpindahan karena iklim, sengketa tanah musnah dan tanah timbul, ketegangan dengan komunitas penerima, nelayan vs. Tanggul Laut</dd>
+      <dt>Produk SO1</dt><dd>Atlas perpindahan dan subsidensi Pantura. Data warga terdampak yang terpilah gender. Pelatihan untuk BPBD, Bappeda, dan Kesbangpol.</dd>
+      <dt>Pilar 2</dt><dd>InSAR ditumpangkan dengan data sosial. Analisis biaya-manfaat bertahan vs. pindah.</dd>
+      <dt>Pilar 1</dt><dd>Policy: pedoman teknis relokasi dan zonasi. Atau capacity building: kurikulum untuk pemda.</dd>
+      <dt>Core Indicator</dt><dd>1, 3, 10</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Data paling kuat. Kaitan dengan NAP jelas ("Northern Java greatest compound risk"). Paling langsung menunjukkan sisi keamanan manusia.</div>
+      <div class="minus"><b>Kelemahan</b>Demak dan Pekalongan padat donor. Isu relokasi sensitif bagi warga, dan WALHI bisa dituduh "mendorong warga pergi". Topiknya bersinggungan langsung dengan Tanggul Laut.</div></div>
+  </article>
+
+  <article class="idea">
+    <span class="tag">Ide 2 · Lintas lanskap · Alat</span>
+    <h3>Do No Harm untuk adaptasi: alat uji kepekaan konflik bagi investasi EbA dan NbS di Jawa</h3>
+    <dl>
+      <dt>Inti</dt><dd>Mengembangkan dan menguji alat penapisan untuk investasi adaptasi (fase NbS Tanggul Laut, program rehabilitasi mangrove, Dana Desa, izin perhutanan sosial). Alat ini menggabungkan kriteria mutu EbA (FEBA) dengan analisis konflik dan tenurial, lalu diintegrasikan ke KLHS, AMDAL, dan analisis pencegahan konflik daerah.</dd>
+      <dt>Ketegangan yang ditangani</dt><dd>Green grabbing, aksi iklim yang mengubah relasi kuasa, maladaptasi</dd>
+      <dt>Produk SO1</dt><dd>Alat dan panduan. 3–5 studi kasus penerapan. Pelatihan untuk penyusun KLHS dan AMDAL, Bappeda, dan Kesbangpol.</dd>
+      <dt>Pilar 2</dt><dd>Kerangka indikator, uji coba, dan evaluasi alat</dd>
+      <dt>Pilar 1</dt><dd>Policy: memasukkan alat ke pedoman KLHS atau analisis konflik daerah</dd>
+      <dt>Core Indicator</dt><dd>1, 3, 2</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Paling inovatif, karena belum ada di portofolio fund. Menjawab kalimat kunci Topik 2 secara harfiah. Sangat khas WALHI dan bisa direplikasi ke mana saja, sehingga skor katalitiknya tinggi.</div>
+      <div class="minus"><b>Kelemahan</b>Abstrak kalau tidak diuji di lanskap nyata. Butuh akses ke dokumen proyek pemerintah. Manfaat bagi warga bersifat tidak langsung.</div></div>
+  </article>
+
+  <article class="idea">
+    <span class="tag">Ide 3 · Karst · Jateng + DIY</span>
+    <h3>Air karst sebagai perekat sosial: Kendeng dan Gunung Sewu</h3>
+    <dl>
+      <dt>Inti</dt><dd>Memetakan konflik atas sumber air karst (tambang, wisata, air minum kemasan) bersama hidrologinya. Menunjukkan bahwa melindungi resapan dan mata air (EbA) menurunkan ketegangan, lalu memperkuat kelembagaan air komunitas dan memasukkannya ke penetapan KBAK dan RTRW.</dd>
+      <dt>Ketegangan yang ditangani</dt><dd>Persaingan air saat kemarau, konflik tambang</dd>
+      <dt>Produk SO1</dt><dd>Peta hidrososial, valuasi jasa air (lanjutan Sumarga 2024), modul pengetahuan lokal tentang telaga</dd>
+      <dt>Pilar 2</dt><dd>Hidrologi karst, valuasi</dd>
+      <dt>Pilar 1</dt><dd>Policy: KBAK dan RTRW</dd>
+      <dt>Core Indicator</dt><dd>1, 3, 10</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Rekam jejak WALHI terkuat (KLHS Kendeng). Tautan ke UNCCD/LDN jelas. Donor sepi.</div>
+      <div class="minus"><b>Kelemahan</b>Konflik tambang membuat pemerintah sulit diajak. Rantai dampak iklimnya (kekeringan) kurang tajam dibanding pesisir. Tidak ada peran Jabar.</div></div>
+  </article>
+
+  <article class="idea">
+    <span class="tag">Ide 4 · Hulu · Jabar (+ Jateng, Jatim)</span>
+    <h3>Hutan Jawa pasca-KHDPK: agroforestri EbA sebagai jalan damai tenurial</h3>
+    <dl>
+      <dt>Inti</dt><dd>Di kawasan KHDPK yang rawan longsor dan banjir, menghasilkan bukti bahwa agroforestri yang dikelola rakyat menurunkan risiko bencana. Hasilnya dipakai untuk menyusun pedoman agar izin perhutanan sosial memuat kriteria EbA dan mekanisme penyelesaian sengketa.</dd>
+      <dt>Ketegangan yang ditangani</dt><dd>Penggarap lama vs. pemegang izin baru vs. Perhutani</dd>
+      <dt>Produk SO1</dt><dd>Peta konflik tenurial ditumpangkan dengan risiko bencana. Bukti efektivitas agroforestri. Pelatihan untuk pendamping perhutanan sosial.</dd>
+      <dt>Pilar 2</dt><dd>Pemodelan erosi dan aliran permukaan. Survei rumah tangga.</dd>
+      <dt>Pilar 1</dt><dd>Policy: kriteria izin perhutanan sosial. Atau capacity building untuk pendamping.</dd>
+      <dt>Core Indicator</dt><dd>1, 2, 3</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Memberi Jabar peran utama yang wajar. Jendela kebijakannya baru (DPR sedang mengevaluasi KHDPK). Belum disentuh donor EbA. Selaras dengan wacana WKR.</div>
+      <div class="minus"><b>Kelemahan</b>Bukti WALHI di sini perlu dicek. Isunya bisa tergeser ke soal kehutanan dan tenurial, sehingga sisi iklimnya kurang terlihat. Kemenhut harus diajak.</div></div>
+  </article>
+
+  <article class="idea">
+    <span class="tag">Ide 5 · Pangan · Pantura Jabar</span>
+    <h3>Lumbung padi yang tergerus laut: ketahanan pangan dan air di Indramayu–Karawang–Subang</h3>
+    <dl>
+      <dt>Inti</dt><dd>Memetakan intrusi air laut, kekeringan, dan alih fungsi lahan. Menyusun bukti untuk mosaik lanskap mangrove–tambak–sawah yang meredam konflik air antara petani dan petambak, lalu memasukkannya ke RTRW dan program ketahanan pangan daerah.</dd>
+      <dt>Ketegangan yang ditangani</dt><dd>Ketahanan pangan, konflik air, alih fungsi ke kawasan industri</dd>
+      <dt>Produk SO1</dt><dd>Atlas risiko pangan-air. Pelatihan penyuluh.</dd>
+      <dt>Pilar 2</dt><dd>Salinitas, hidrologi, ekonomi rumah tangga</dd>
+      <dt>Pilar 1</dt><dd>Policy: RTRW dan program pangan</dd>
+      <dt>Core Indicator</dt><dd>1, 3, 10</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Jabar sebagai jangkar. Narasi pangan resonan dengan prioritas pemerintah, sehingga pemda mudah diajak. 90% mangrove Pantura Jabar rusak.</div>
+      <div class="minus"><b>Kelemahan</b>Rekam jejak WALHI Jabar di sini belum jelas. Sisi "keamanan" lebih lemah. Ada risiko tumpang tindih dengan program pertanian.</div></div>
+  </article>
+
+  <article class="idea">
+    <span class="tag">Ide 6 · Payung · Empat provinsi</span>
+    <h3>Observatorium iklim–konflik–ekosistem Jawa</h3>
+    <dl>
+      <dt>Inti</dt><dd>Jaringan WALHI di empat provinsi memantau secara sistematis hubungan antara tekanan iklim, kerusakan ekosistem, dan konflik sumber daya. Hasilnya berupa sistem peringatan dini untuk Kesbangpol dan BPBD, serta laporan tahunan "keamanan manusia dan ekosistem Jawa".</dd>
+      <dt>Ketegangan yang ditangani</dt><dd>Semua klaster, dari sisi data</dd>
+      <dt>Produk SO1</dt><dd>Basis data, laporan, dan pelatihan pemantau komunitas</dd>
+      <dt>Pilar 2</dt><dd>Kerangka indikator dan basis data terbuka</dd>
+      <dt>Pilar 1</dt><dd>Capacity building</dd>
+      <dt>Core Indicator</dt><dd>3, 10, 2</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Memanfaatkan seluruh jaringan dan memuat keempat provinsi sesuai arahan awal. Paling sejalan dengan SO1.</div>
+      <div class="minus"><b>Kelemahan</b>Skor inovasi dan katalitik rendah, karena "observatorium" sering dinilai sebagai business-as-usual. Rawan menjadi aset terbengkalai setelah dana habis. Tidak ada perubahan investasi yang konkret.</div></div>
+  </article>
+</section>
+
+<section id="banding">
+  <h2>Perbandingan cepat</h2>
+  <p class="sub">Penilaian kualitatif saya, tiga titik paling baik. Untuk "kepadatan donor", tiga titik berarti paling sepi pesaing.</p>
+  <div class="tbl"><table>
+    <tr><th>Kriteria</th><th>Ide 1 Relokasi</th><th>Ide 2 Do No Harm</th><th>Ide 3 Karst</th><th>Ide 4 KHDPK</th><th>Ide 5 Pangan</th><th>Ide 6 Observatorium</th></tr>
+    <tr><td>Kecocokan Topik 2</td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td></tr>
+    <tr><td>Kejelasan rantai iklim → EbA</td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td></tr>
+    <tr><td>Inovasi dan katalitik</td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td></tr>
+    <tr><td>Keunggulan khas WALHI</td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td></tr>
+    <tr><td>Peluang pemerintah mau terlibat</td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td></tr>
+    <tr><td>Kepadatan donor (sepi = baik)</td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td></tr>
+    <tr><td>Peran Jabar</td><td>Replikasi</td><td>Lokasi uji</td><td>Tidak ada</td><td>Jangkar</td><td>Jangkar</td><td>Setara</td></tr>
+  </table></div>
+</section>
+
+<section id="usul">
+  <h2>Usulan saya: gabungkan Ide 2 dengan dua lanskap uji</h2>
+  <div class="idea rec">
+    <span class="tag">Kombinasi Ide 2 + Ide 1 + Ide 4</span>
+    <h3>Conflict-Sensitive EbA for Java: alat, bukti, dan kapasitas, diuji di pesisir yang tenggelam dan hutan yang diperebutkan</h3>
+    <p>Ide 2 menjadi mesin inovasinya. Alat itu diuji di dua lanskap yang kontras: <b>pesisir Pantura Jateng</b> (subsidence-first, relokasi, Tanggul Laut) dan <b>hulu hutan KHDPK di Jabar</b> (agroforestri, sengketa tenurial). Kontras pesisir dan hulu membuktikan alatnya bisa direplikasi, dan Jabar mendapat peran utama yang nyata.</p>
+    <dl>
+      <dt>Outcome</dt><dd>Pemda dan kementerian terkait di Jateng dan Jabar memakai bukti dan alat kepekaan konflik untuk mengarahkan investasi EbA di zona sumber daya yang diperebutkan.</dd>
+      <dt>Output 1</dt><dd>Basis bukti iklim–ekosistem–konflik di dua lanskap: atlas subsidensi dan perpindahan, serta peta konflik tenurial dan bencana (Pilar 2).</dd>
+      <dt>Output 2</dt><dd>Alat Do No Harm untuk EbA dan NbS, diuji pada 4–5 investasi nyata (Pilar 2).</dd>
+      <dt>Output 3</dt><dd>Kapasitas dan pengarusutamaan: pelatihan untuk Bappeda, BPBD, Kesbangpol, dan penyusun KLHS; alat masuk ke pedoman atau analisis pencegahan konflik daerah (Pilar 1).</dd>
+      <dt>Output 4</dt><dd>Forum lintas sektor yang terlembaga, ditambah pertukaran pengetahuan dengan DIY, Jatim, dan Jakarta, serta forum internasional.</dd>
+      <dt>Core Indicator</dt><dd>1 (instrumen dipengaruhi), 2 (forum), 3 (alat MEL), dengan indikator 10 sebagai cadangan</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kenapa ini</b>Satu-satunya kombinasi yang sekaligus tinggi di kecocokan Topik 2, inovasi, dan keunggulan WALHI. SO1 terpenuhi karena produknya pengetahuan dan kapasitas, sedangkan dampaknya berupa perubahan keputusan investasi.</div>
+      <div class="minus"><b>Yang perlu dicek dulu</b>Apakah WALHI Jabar punya basis kerja di kawasan KHDPK? Kalau tidak, ganti lanskap kedua dengan karst (Ide 3), dengan konsekuensi Jabar hanya menjadi lokasi replikasi.</div></div>
+  </div>
+</section>
+
+<section id="diskusi">
+  <h2>Bahan diskusi dengan atasan</h2>
+  <ol class="tight">
+    <li><b>Sub-opsi Pilar 1 hanya boleh satu.</b>
+      <ul class="tight">
+        <li><em>Policy &amp; policy instruments</em> membuka Core Indicator 1 dan lebih kuat di skor katalitik.</li>
+        <li><em>Education &amp; capacity building</em> lebih selaras dengan SO1, tapi dampaknya terlihat lebih lunak.</li>
+      </ul>
+      Saran saya: Policy, dengan kegiatan pelatihan tetap masuk sebagai aktivitas.</li>
+    <li><b>Seberapa jauh memakai kata "keamanan".</b> Di Indonesia, istilah ini bisa mengundang sekuritisasi. Usul saya: pakai "human security" secara konsisten, dan secara sadar tidak mengambil bagian "national defence mandates" dari call.</li>
+    <li><b>Kesediaan bekerja dengan Kesbangpol dan Bappeda.</b> Topik 2 menuntut jembatan ke lembaga pemerintah, dan surat keterlibatan menjadi bukti yang dilihat reviewer.</li>
+    <li><b>Peran Jabar.</b> Kalau atasan tetap ingin Jabar sebagai prioritas, Ide 4 atau Ide 5 memberi jalan yang paling masuk akal. Kepastiannya bergantung pada basis kerja WALHI Jabar.</li>
+    <li><b>Waktu.</b> Keputusan konsep harus dikunci paling lambat Jumat, 6 November, agar sprint penulisan tetap jalan.</li>
+  </ol>
+</section>
+
+<section id="sumber">
+  <h2>Sumber</h2>
+  <ol class="src">
+    <li><a href="https://globalebafund.org/wp-content/uploads/2026/08/Global-EbA-Fund_Medium-size-grants-Call-for-Proposals.pdf">Global EbA Fund, Call for Proposals Medium-Size Grants (Agustus 2026), Topik 2</a></li>
+    <li><a href="https://globalebafund.org/wp-content/uploads/2026/08/Global-EbA-Fund-Grants-Procedure-Manual.pdf">Grants Procedure Manual: Strategic Objectives &amp; aturan Action Pillar</a></li>
+    <li><a href="https://ijog.geologi.esdm.go.id/index.php/IJOG/article/view/1041">IJOG: laju subsidensi Demak, Semarang, Pekalongan 2020–2023</a></li>
+    <li><a href="https://researchers.mq.edu.au/en/publications/thresholds-of-mangrove-survival-under-rapid-sea-level-rise/">Saintilan et al. 2020, Thresholds of mangrove survival under rapid sea level rise, <i>Science</i> 368 (doi 10.1126/science.aba2656)</a></li>
+    <li><a href="https://doi.org/10.1038/s41893-023-01226-1">van Bijsterveldt et al. 2023, <i>Nature Sustainability</i></a> · <a href="https://doi.org/10.3390/su9040619">Takagi et al. 2017, <i>Sustainability</i></a></li>
+    <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10314896/">Scientific Data 2023: kota pesisir Jawa turun ≥9× laju kenaikan laut</a></li>
+    <li><a href="https://globalebafund.org/project/piloting-sustainable-financing-solutions-to-invest-in-ecosystem-based-adaptation-eba-for-disaster-and-conflict-risk-reduction-in-iraq/">Proyek IOM Irak, satu-satunya hibah $500 ribu sebelumnya</a></li>
+    <li><a href="https://mongabay.co.id/2022/05/20/menyoal-reposisi-pengelolaan-hutan-jawa/">Mongabay: reposisi pengelolaan hutan Jawa (KHDPK)</a> · <a href="https://news.republika.co.id/berita/t0h7vk371/khawatir-rusak-hutan-dpr-ri-evaluasi-sk-khdpk">Republika: DPR evaluasi SK KHDPK (Agustus 2025)</a></li>
+    <li><a href="https://peraturan.bpk.go.id/Details/300669">Permen LHK 10/2024 (BPK)</a> · <a href="https://mongabay.co.id/2024/09/13/aturan-perlindungan-bagi-pejuang-lingkungan-hidup-terbit-seperti-apa/">Mongabay: aturan pelindungan pejuang lingkungan</a></li>
+  </ol>
+  <footer>Belum diverifikasi: Erkens et al. 2015 dan riwayat Tokyo/Osaka/Bangkok dikutip dari pengetahuan umum dan riset sebelumnya, belum dicek ulang. Status Perpres 18/2014 (P3AKS), nomor resmi SK KHDPK, dan kasus air minum kemasan di Klaten/Sukabumi juga perlu dicek sebelum dikutip di proposal.</footer>
+</section>
+</main>
+</div>
