@@ -1,0 +1,556 @@
+<title>EbA Fund WALHI Jawa</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: laporan kerja dua kolom (daftar isi lengket + isi), satu kolom di ponsel. Palet: lumpur pesisir, mangrove, air pasang. */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --ink:#1c2422; --muted:#5a6662; --line:#d9dfdb;
+  --mangrove:#1e6b55; --mangrove-soft:#e3efe9; --tide:#245c86; --tide-soft:#e4edf5;
+  --silt:#9a6a1f; --silt-soft:#f5ecdc; --risk:#a63a2b; --risk-soft:#f7e6e2;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--tide);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--tide);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:13.5px}
+nav.toc p{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{color:var(--muted);text-decoration:none;display:flex;gap:8px}
+nav.toc a::before{content:counter(t,decimal-leading-zero);font-family:var(--mono);font-size:11px;padding-top:2px;color:var(--line)}
+nav.toc a:hover{color:var(--ink)}
+main{min-width:0}
+header.top{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:8px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--mangrove)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,4.6vw,46px);line-height:1.08;margin:10px 0 14px;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(23px,2.8vw,30px);line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--body);font-weight:600;font-size:16.5px;margin:26px 0 8px}
+h4{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px}
+p{margin:0 0 12px;max-width:72ch}
+.lede{font-size:17.5px;color:var(--muted);max-width:68ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12.5px;color:var(--muted);margin-top:16px}
+section{padding-block:40px 8px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sub{color:var(--muted);margin-bottom:20px;max-width:70ch}
+ul.tight{margin:0 0 12px;padding-left:20px;max-width:74ch}
+ul.tight li{margin-bottom:6px}
+.pill{display:inline-block;font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.03em;padding:2px 8px;border-radius:3px;white-space:nowrap}
+.p-go{background:var(--mangrove-soft);color:var(--mangrove)}
+.p-warn{background:var(--silt-soft);color:var(--silt)}
+.p-risk{background:var(--risk-soft);color:var(--risk)}
+.p-info{background:var(--tide-soft);color:var(--tide)}
+
+.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:22px 24px;margin:24px 0 8px;display:grid;gap:10px}
+.verdict .big{font-family:var(--display);font-size:24px;font-weight:600;line-height:1.25}
+.countdown{display:flex;flex-wrap:wrap;gap:24px;margin-top:6px}
+.countdown div{display:grid}
+.countdown b{font-family:var(--display);font-size:34px;line-height:1;font-weight:600;font-variant-numeric:tabular-nums}
+.countdown span{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+.challenge{display:grid;gap:14px;margin-top:14px}
+.challenge article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.challenge h4{margin:0 0 4px}
+.challenge p{margin:0;font-size:14.5px}
+.challenge .you h4{color:var(--silt)}
+.challenge .me h4{color:var(--mangrove)}
+
+.tbl{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td small,li small{color:var(--muted)}
+.doi{font-family:var(--mono);font-size:12px;word-break:break-all}
+
+.weights{display:grid;gap:8px;margin:14px 0 18px;max-width:640px}
+.wrow{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr) 44px;gap:12px;align-items:center;font-size:14px}
+.bar{height:12px;background:var(--line);position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--mangrove)}
+.wrow .num{font-family:var(--mono);text-align:right}
+
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:12px 0}
+.card{background:var(--surface);border:1px solid var(--line);padding:16px 18px;min-width:0}
+.card h4{margin-top:0}
+.swot .card{border-top:3px solid var(--line)}
+.swot .s{border-top-color:var(--mangrove)}.swot .w{border-top-color:var(--silt)}
+.swot .o{border-top-color:var(--tide)}.swot .t{border-top-color:var(--risk)}
+.swot .s h4{color:var(--mangrove)}.swot .w h4{color:var(--silt)}.swot .o h4{color:var(--tide)}.swot .t h4{color:var(--risk)}
+.swot ul{margin:0;padding-left:18px;font-size:14.2px}
+.swot li{margin-bottom:6px}
+
+.score{display:inline-flex;gap:3px;vertical-align:middle}
+.score i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.score i.on{background:var(--mangrove)}
+
+.toc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.toc-flow .step{background:var(--surface);border:1px solid var(--line);padding:12px 14px;font-size:13.8px;min-width:0}
+.toc-flow .step b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:500}
+.toc-flow .imp{grid-column:1/-1;background:var(--mangrove-soft);border-color:transparent}
+.outputs{display:grid;gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove)}
+.outputs ol{margin:6px 0 0;padding-left:20px;font-size:14.2px}
+.callout{background:var(--silt-soft);padding:14px 18px;margin:14px 0;max-width:78ch;font-size:14.6px}
+.callout.blue{background:var(--tide-soft)}
+.callout.red{background:var(--risk-soft)}
+.callout p:last-child{margin:0}
+footer{font-size:13px;color:var(--muted);padding-top:28px}
+ol.src{font-size:13px;padding-left:20px;display:grid;gap:4px;max-width:90ch}
+ol.src li{word-break:break-word}
+
+@media (max-width:900px){
+  .wrap{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:24px 60px}
+  nav.toc{position:static;border:1px solid var(--line);background:var(--surface);padding:14px 16px}
+  nav.toc ol{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc-flow{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .grid2,.challenge article{grid-template-columns:minmax(0,1fr)}
+  nav.toc ol{grid-template-columns:minmax(0,1fr)}
+  .toc-flow{grid-template-columns:minmax(0,1fr)}
+  .wrow{grid-template-columns:minmax(0,1fr) 44px}.wrow .bar{grid-column:1/-1;grid-row:2}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+
+<div class="wrap">
+<nav class="toc" aria-label="Daftar isi">
+  <p>Isi laporan</p>
+  <ol>
+    <li><a href="#ringkasan">Ringkasan &amp; keputusan</a></li>
+    <li><a href="#tantangan">Asumsi yang saya tantang</a></li>
+    <li><a href="#grant">Grant dalam satu halaman</a></li>
+    <li><a href="#kebijakan">Pintu masuk kebijakan</a></li>
+    <li><a href="#provinsi">Peta lima provinsi</a></li>
+    <li><a href="#strength">Strength: bukti yang kita punya</a></li>
+    <li><a href="#opportunity">Opportunity: teknologi luar</a></li>
+    <li><a href="#swot">SWOT &amp; strategi</a></li>
+    <li><a href="#konsep">Konsep yang direkomendasikan</a></li>
+    <li><a href="#alternatif">Konsep alternatif</a></li>
+    <li><a href="#rencana">Sprint 13 hari &amp; agenda riset</a></li>
+    <li><a href="#risiko">Risiko &amp; pertanyaan</a></li>
+    <li><a href="#sumber">Sumber</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <div class="eyebrow">Analisis peluang hibah · WALHI Eksekutif Nasional · Region Jawa</div>
+  <h1>Global EbA Fund, Medium-Size Grants 2026: layak dikejar, dengan syarat</h1>
+  <p class="lede">Analisis call for proposals, Core Indicator Framework, dan Grants Procedure Manual. Isinya: posisi WALHI, bukti ilmiah per provinsi, teknologi dari negara lain yang bisa ditransfer, SWOT, satu konsep proposal yang direkomendasikan, dan rencana kerja menuju tenggat.</p>
+  <div class="meta"><span>Disusun 3 November 2026</span><span>Dokumen sumber: CfP Agustus 2026 · CIF Agustus 2026 · GPM · FAQ Okt 2026</span></div>
+</header>
+
+<section id="ringkasan">
+  <h2>Ringkasan dan keputusan</h2>
+  <div class="verdict">
+    <span class="pill p-warn">Rekomendasi: GO bersyarat</span>
+    <div class="big">Ajukan satu proposal yang tajam, dengan Jawa Tengah sebagai jangkar. Jangan ajukan proposal "empat provinsi sekaligus".</div>
+    <div class="countdown">
+      <div><b>13</b><span>hari ke tenggat (16 Nov)</span></div>
+      <div><b>10</b><span>hibah di seluruh dunia</span></div>
+      <div><b>~6%</b><span>tingkat lolos historis (dari aplikasi eligible)</span></div>
+      <div><b>$500k</b><span>maksimal, 24 bulan</span></div>
+    </div>
+  </div>
+  <p>Grant ini cocok dengan WALHI dalam satu hal penting: fund ini membiayai <em>enabling environment</em> (kebijakan, bukti, pembiayaan publik, tata kelola), bukan proyek tanam. Peta kebijakan nasional kebetulan sedang berpihak. NAP Indonesia 2026–2030 menyebut EbA sebagai "core implementation model" dan menyatakan pantai utara Jawa menanggung risiko majemuk terbesar. Portofolio fund belum punya satu pun proyek di Jawa.</p>
+  <p>Ada tiga syarat. Kalau salah satunya tidak terpenuhi dalam 48 jam, lebih baik mundur dan menyiapkan putaran berikutnya dengan matang:</p>
+  <ul class="tight">
+    <li><b>Dokumen due diligence siap.</b> Laporan keuangan teraudit tahun buku terakhir, akta dan SK Kemenkumham, organigram, kebijakan safeguard, dan sistem pencatatan jam kerja staf. Semuanya dalam bahasa Inggris atau sudah diterjemahkan.</li>
+    <li><b>Ada tim penulis yang dibebaskan dari tugas lain</b> selama 9–10 hari kerja: minimal satu penulis utama berbahasa Inggris, satu orang anggaran, dan satu orang substansi pesisir/kebijakan.</li>
+    <li><b>Ada keterlibatan pemerintah yang bisa dibuktikan.</b> Minimal surat dukungan atau keterlibatan (bukan penerima dana) dari Bappeda Jateng atau Direktorat Adaptasi KLH. Tema 3 secara eksplisit meminta organisasi yang "actively collaborating with national governments".</li>
+  </ul>
+  <div class="callout red"><p><b>Peringatan jujur.</b> Persaingannya global dan ketat. Sepanjang tujuh putaran sebelumnya, fund ini menerima lebih dari 2.000 aplikasi dan mendanai sekitar 54–80 proyek. Pemenangnya didominasi INGO dan lembaga riset (WWF, CI, WRI, IIED, SEI). Proposal WALHI hanya kompetitif kalau inovasinya jelas dan tidak terbaca sebagai proposal advokasi yang dibungkus EbA.</p></div>
+</section>
+
+<section id="tantangan">
+  <h2>Asumsi yang saya tantang</h2>
+  <p class="sub">Sebagian rencana awal kemungkinan akan melemahkan proposal. Ini yang perlu diubah, dan alasannya.</p>
+  <div class="challenge">
+    <article><div class="you"><h4>Asumsi awal</h4><p>Jawa Barat jadi prioritas pertama.</p></div>
+      <div class="me"><h4>Temuan</h4><p>Basis bukti terkuat ada di <b>Jawa Tengah</b>: studi BwN Demak, data subsidensi Semarang–Pekalongan, valuasi karst Kendeng, plus Pergub 61/2023 (transfer fiskal ekologis) dan RAD-API provinsi. Kerja WALHI Jabar paling sedikit terdokumentasi secara daring. Jabar lebih tepat sebagai provinsi replikasi.</p></div></article>
+    <article><div class="you"><h4>Asumsi awal</h4><p>Empat provinsi digarap sekaligus.</p></div>
+      <div class="me"><h4>Temuan</h4><p>$500 ribu untuk 24 bulan di empat provinsi berarti kurang dari $63 ribu per provinsi per tahun. Untuk kerja kebijakan, angka itu tipis. Reviewer menilai kelayakan ("feasible"). Saran: satu provinsi jangkar, satu provinsi replikasi, satu lokasi kontras (karst DIY). Jatim dan Jakarta cukup lewat pertukaran pengetahuan.</p></div></article>
+    <article><div class="you"><h4>Asumsi awal</h4><p>Jurnal UI (CUDJ) bisa jadi "strength".</p></div>
+      <div class="me"><h4>Temuan</h4><p>Artikelnya: Aminullah &amp; Sari (2024), "Betawi Culture as Cultural Capital in Resilience Against Flood Disasters". Ini studi kualitatif satu kasus (Padepokan Ciliwung Condet), tanpa ukuran hasil. Jurnalnya baru dan belum terindeks Scopus. Bisa dipakai sebagai <em>ilustrasi</em> kearifan lokal, tapi bukan bukti efektivitas. Bukti untuk Jakarta: Abidin 2011, Takagi 2017, Sumarga 2023.</p></div></article>
+    <article><div class="you"><h4>Asumsi awal</h4><p>"Kembangkan potensi" di lapangan.</p></div>
+      <div class="me"><h4>Temuan</h4><p>Fund ini secara tegas "does not support … stand-alone field implementation". Juga tidak boleh ada skema seed grant ke komunitas. Kerja lapangan WALHI (Wilayah Kelola Rakyat/WKR, pemulihan) harus diposisikan sebagai <em>pekerjaan yang sudah ada</em> dan menjadi sumber bukti. Yang dibiayai adalah perubahan kebijakan, instrumen fiskal, standar, dan sistem pemantauan.</p></div></article>
+    <article><div class="you"><h4>Asumsi awal</h4><p>Narasi tolak Giant Sea Wall jadi inti.</p></div>
+      <div class="me"><h4>Temuan</h4><p>Pemerintah kini memulai Tanggul Laut dengan fase mangrove/NbS (demplot Timbulsloko, Oktober 2026). Proposal yang semata oposisi akan terbaca sebagai advokasi. Bingkai yang menang adalah "subsidence-first" ditambah standar EbA berbasis hak, supaya NbS tidak menjadi kedok bagi infrastruktur abu-abu. Posisi kritis WALHI tetap utuh, tapi diterjemahkan menjadi instrumen.</p></div></article>
+  </div>
+</section>
+
+<section id="grant">
+  <h2>Grant dalam satu halaman</h2>
+  <p class="sub">Fakta keras dari dokumen resmi. Yang dicetak tebal adalah aturan yang sering membuat aplikasi gugur.</p>
+  <div class="tbl"><table>
+    <tr><th>Aspek</th><th>Ketentuan</th><th>Implikasi untuk WALHI</th></tr>
+    <tr><td>Dana &amp; durasi</td><td>Hingga USD 500.000, maks. 24 bulan. 10 hibah. Ini call medium-size pertama dalam sejarah fund.</td><td>Belum ada preseden pemenang medium. Rata-rata hibah sebelumnya sekitar $250 ribu.</td></tr>
+    <tr><td>Tenggat</td><td>Portal IUCN, 12 Okt – <b>16 Nov 2026</b>. Proyek mulai 2027.</td><td>Target unggah Jumat 13 Nov. Dua hari sisanya penyangga untuk masalah portal.</td></tr>
+    <tr><td>Bahasa</td><td><b>Wajib bahasa Inggris</b>, termasuk dokumen legal yang diterjemahkan.</td><td>Butuh penerjemah atau editor sejak hari ke-1.</td></tr>
+    <tr><td>Struktur logframe</td><td><b>1 outcome, maks. 4 output, maks. 5 aktivitas per output</b>, milestone per 6 bulan.</td><td>Memaksa fokus. Lima provinsi tidak akan muat.</td></tr>
+    <tr><td>Indikator</td><td><b>Minimal 3 Core Indicator</b> dari 12 yang tersedia. Pelaporan tiap 15 Januari, tanpa penghitungan ganda.</td><td>Pilih 1, 2, 3, dan 12 (lihat bagian konsep).</td></tr>
+    <tr><td>Objektif &amp; pilar</td><td>Pilih <b>1 Strategic Objective</b> dan <b>maks. 2 Action Pillar</b>. Kalau Pilar 2 atau 3 dipilih, Pilar 1 hanya boleh satu sub-opsi.</td><td>Rekomendasi: SO2 + Pilar 1 (Kebijakan) + Pilar 2 (Data &amp; Sains).</td></tr>
+    <tr><td>Konsorsium</td><td>Untuk aktivitas tingkat negara wajib ada konsorsium dengan organisasi lokal, dan <b>≥25% anggaran ke mitra lokal</b>.</td><td>WALHI sendiri lokal, tapi aturannya ambigu. Aman: alokasikan ≥25% ke lembaga anggota WALHI yang berbadan hukum sendiri dan ke universitas.</td></tr>
+    <tr><td>Pemerintah</td><td><b>Tidak boleh menerima dana</b>, tidak boleh sub-grant. Boleh menjadi anggota konsorsium.</td><td>Pemerintah ikut sebagai mitra tanpa dana. Kirim surat keterlibatan.</td></tr>
+    <tr><td>Harus berbasis kerja yang sudah ada</td><td>"Project must be built / based off existing work". Tidak boleh fase 2 dari proyek fund sebelumnya.</td><td>WKR, Ekonomi Nusantara, kerja Kendeng/KLHS, dan pemantauan Pantura menjadi fondasi.</td></tr>
+    <tr><td>Due diligence</td><td>Laporan keuangan teraudit, anggaran tahunan, pengaturan audit, kebijakan safeguard, akuntansi berbasis software, <b>pencatatan jam kerja staf</b>, audit eksternal proyek (dianggarkan).</td><td>Cek hari ini. Ini penentu skor "Institutional &amp; Budget" (20%).</td></tr>
+    <tr><td>Larangan lain</td><td>Tidak ada seed grant. Tidak boleh tiket kelas bisnis. Tidak ada pendanaan bagi kantor IUCN/UNEP.</td><td>Jangan desain "dana hibah kecil untuk kelompok tani/nelayan".</td></tr>
+    <tr><td>Lampiran</td><td>Formulir aplikasi, ToC + Logframe, template anggaran, kuesioner due diligence, deklarasi, mandat co-applicant, CV, organigram, peta lokasi.</td><td>Tujuh dokumen. Bagi tugas per dokumen.</td></tr>
+  </table></div>
+
+  <h3>Bobot penilaian</h3>
+  <div class="weights" role="img" aria-label="Bobot penilaian: Pendekatan proyek 40 persen, Inovatif dan katalitik 20 persen, Keberlanjutan 20 persen, Kelembagaan dan anggaran 20 persen">
+    <div class="wrow"><span>Pendekatan proyek (EbA, desain/ToC, gender &amp; inklusi)</span><div class="bar"><i style="width:100%"></i></div><span class="num">40%</span></div>
+    <div class="wrow"><span>Inovatif &amp; katalitik</span><div class="bar"><i style="width:50%"></i></div><span class="num">20%</span></div>
+    <div class="wrow"><span>Keberlanjutan (termasuk tautan NDC/NAP)</span><div class="bar"><i style="width:50%"></i></div><span class="num">20%</span></div>
+    <div class="wrow"><span>Kelembagaan &amp; anggaran</span><div class="bar"><i style="width:50%"></i></div><span class="num">20%</span></div>
+  </div>
+  <p>Halaman web fund menegaskan penilaian medium-size memberi penekanan khusus pada "exceptionally high standards for innovation and scalability".</p>
+
+  <h3>Tiga tema opsional dan kecocokannya dengan WALHI</h3>
+  <div class="tbl"><table>
+    <tr><th>Tema</th><th>Kecocokan</th><th>Alasan</th></tr>
+    <tr><td>1 · Innovative finance (modal swasta, blended finance, bankability)</td><td><span class="pill p-warn">Sedang</span></td><td>WALHI tidak menerima dana korporasi dan kritis terhadap komodifikasi alam. Tema ini hanya bisa diambil lewat <em>pembiayaan publik</em> (transfer fiskal ekologis, Dana Desa, pungutan pengguna air). Reviewer yang mengharapkan modal swasta mungkin menilainya kurang.</td></tr>
+    <tr><td>2 · Human development &amp; security</td><td><span class="pill p-risk">Lemah</span></td><td>Tema ini ditujukan untuk konteks "fragile or conflict-affected". Jawa tidak masuk kategori itu menurut standar internasional. Konflik agraria (Kendeng, pesisir) nyata, tapi framing-nya berisiko tidak meyakinkan.</td></tr>
+    <tr><td>3 · Interlinkages / policy coherence lintas Konvensi Rio &amp; Sendai</td><td><span class="pill p-go">Kuat</span></td><td>Di formulir aplikasi, judul tema ini adalah <em>"Driving EbA Policy Coherence through Subnational Leadership across UNFCCC, CBD, UNCCD and UNDRR"</em>. Penekanan pada kepemimpinan subnasional sangat pas dengan kerja tingkat provinsi.</td></tr>
+  </table></div>
+</section>
+
+<section id="kebijakan">
+  <h2>Pintu masuk kebijakan Indonesia</h2>
+  <p class="sub">Skor keberlanjutan (20%) menuntut tautan eksplisit ke NAP/NDC/NBSAP/LDN/Sendai. Semua acuan harus mutakhir, karena reviewer akan menangkap rujukan usang (misalnya RAN-API 2014).</p>
+  <div class="tbl"><table>
+    <tr><th>Instrumen</th><th>Isi yang relevan</th><th>Status</th></tr>
+    <tr><td><b>NAP Indonesia 2026–2030</b> (KLH/BPLH, diserahkan 13 Nov 2025)</td><td>EbA sebagai "core implementation model". "Northern Java experiences the greatest compound risk." Aksi ES-08/DRR-02: pertahanan hibrida hijau–abu untuk Teluk Jakarta, Semarang, Pekalongan. Disusun dengan dukungan IKI/GIZ, donor yang sama dengan fund ini.</td><td><span class="pill p-go">Terverifikasi</span></td></tr>
+    <tr><td><b>Second NDC</b> (Okt 2025)</td><td>Pilar ketahanan ekosistem &amp; lanskap. Annex 2 memuat "Implementation of ecosystem-based adaptation in coastal zone". Menyebut ProKlim dan Destana sebagai wahana komunitas.</td><td><span class="pill p-go">Terverifikasi</span></td></tr>
+    <tr><td>IBSAP 2025–2045</td><td>NBSAP nasional, selaras KMGBF. Hubungkan ke target restorasi ekosistem.</td><td><span class="pill p-info">Jumlah target perlu dicek</span></td></tr>
+    <tr><td>Target LDN</td><td>Kemenhut menyebut 12,3 juta ha pada 2030. Dokumen lama menyebut 2040.</td><td><span class="pill p-warn">Tidak konsisten</span></td></tr>
+    <tr><td>RIPB 2020–2044 (Perpres 87/2020)</td><td>Rencana induk penanggulangan bencana, selaras dengan Sendai.</td><td><span class="pill p-go">Terverifikasi</span></td></tr>
+    <tr><td>RPJMN 2025–2029 (Perpres 12/2025)</td><td>Giant Sea Wall Pantura tercantum sebagai PSN indikatif.</td><td><span class="pill p-go">Terverifikasi</span></td></tr>
+    <tr><td>BOPPJ (Perpres 77/2025)</td><td>Otorita Tanggul Laut Pantura. Fase awal "mulai dengan mangrove" (Okt 2026), konstruksi abu-abu 2027.</td><td><span class="pill p-warn">Bergerak cepat</span></td></tr>
+    <tr><td><b>Pergub Jateng 61/2023</b></td><td>Bantuan keuangan berbasis ekologi ke kabupaten/kota. Satu-satunya skema transfer fiskal ekologis (EFT) di Jawa yang terkonfirmasi.</td><td><span class="pill p-go">Terkonfirmasi (BIOFIN)</span></td></tr>
+    <tr><td>RAD-API Jateng (Kepgub 660.1/64/2023) &amp; Perda Jateng 1/2024 (RPPLH)</td><td>Rencana aksi adaptasi provinsi. Demak, Kota Pekalongan, dan Salatiga punya RAD-API kabupaten/kota.</td><td><span class="pill p-info">Isi belum dibaca</span></td></tr>
+    <tr><td>PP 27/2025 tentang mangrove</td><td>Perlindungan dan pengelolaan ekosistem mangrove. Target rehabilitasi 600 ribu ha pada 2029.</td><td><span class="pill p-go">Terverifikasi</span></td></tr>
+    <tr><td>ProKlim</td><td>Kriteria adaptasinya belum memuat kriteria EbA atau mangrove yang eksplisit, dan celah ini bisa diisi. Dasar hukumnya mungkin sudah diganti Permen LH/BPLH 9/2026.</td><td><span class="pill p-risk">Cek JDIH KLH</span></td></tr>
+    <tr><td>Badan Pengelola Gambut &amp; Mangrove (pengganti BRGM)</td><td>Dilaporkan dibentuk lewat Keppres pada September 2026.</td><td><span class="pill p-risk">Belum terverifikasi</span></td></tr>
+  </table></div>
+</section>
+
+<section id="provinsi">
+  <h2>Peta lima provinsi</h2>
+  <p class="sub">Penilaian kualitatif: kekuatan bukti, aset WALHI yang terdokumentasi, peluang kebijakan, dan kepadatan donor (semakin padat, semakin besar risiko duplikasi).</p>
+  <div class="tbl"><table>
+    <tr><th>Provinsi</th><th>Situasi EbA kunci</th><th>Bukti</th><th>Aset WALHI</th><th>Peluang kebijakan</th><th>Kepadatan donor</th><th>Peran usulan</th></tr>
+    <tr><td><b>Jawa Tengah</b></td><td>Subsidensi dan rob Demak–Semarang–Pekalongan (hingga ~14 cm/tahun). Karst Kendeng dan air.</td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td>Pergub 61/2023 (EFT), RAD-API, RPPLH, aksi ES-08 NAP</td><td><span class="pill p-risk">Tinggi</span><br><small>BwN, BOPPJ, AF Kemitraan, GCF BRAVE</small></td><td><span class="pill p-go">Jangkar</span></td></tr>
+    <tr><td><b>Jawa Barat</b></td><td>DAS Citarum &amp; subsidensi Cekungan Bandung. Pantura (Indramayu–Karawang): ~90% dari 43 ribu ha mangrove rusak. Pesisir selatan.</td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td>Belum ada EFT, sehingga peluang desain skema baru terbuka. RAD-API belum ditemukan.</td><td><span class="pill p-warn">Sedang</span><br><small>Haskoning di Cirebon</small></td><td><span class="pill p-info">Replikasi</span></td></tr>
+    <tr><td><b>DI Yogyakarta</b></td><td>Kekeringan karst Gunung Sewu/Gunungkidul. Gumuk pasir Parangtritis. Mata air lereng Merapi.</td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td>Sengketa penciutan KBAK (Kawasan Bentang Alam Karst). Pengelolaan telaga. Komunitas Resan di 42 desa.</td><td><span class="pill p-go">Rendah</span></td><td><span class="pill p-info">Kontras karst (opsional)</span></td></tr>
+    <tr><td>Jawa Timur</td><td>Mangrove Wonorejo/Pamurbaya vs reklamasi Surabaya Waterfront. DAS Brantas hulu. Semeru.</td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td><span class="score"><i class="on"></i><i class="on"></i><i></i></span></td><td>EFT baru sebatas riset (IPB). Advokasi reklamasi.</td><td><span class="pill p-warn">Belum jelas</span></td><td><span class="pill p-warn">Pertukaran pengetahuan</span></td></tr>
+    <tr><td>DKI Jakarta</td><td>Subsidensi, Giant Sea Wall segmen 3.3, mangrove Muara Angke, riparian Ciliwung.</td><td><span class="score"><i class="on"></i><i class="on"></i><i class="on"></i></span></td><td><span class="score"><i class="on"></i><i></i><i></i></span></td><td>Pergub 90/2021 (RPRKD), monev aksi adaptasi. Arena paling politis.</td><td><span class="pill p-risk">Tinggi</span></td><td><span class="pill p-warn">Fase berikutnya</span></td></tr>
+  </table></div>
+  <p><b>Mengapa Jakarta memang tepat di urutan terakhir:</b> buktinya sebenarnya kuat, tetapi ruang kebijakannya didominasi PSN dan donor besar. Kerja WALHI di sana juga paling oposisional. Untuk call ini, Jakarta cukup menjadi studi pembanding dan forum berbagi. Jurnal CUDJ dan kasus Ciliwung Condet berguna sebagai cerita, bukan sebagai fondasi.</p>
+</section>
+
+<section id="strength">
+  <h2>Strength: bukti dan kerja yang sudah kita punya</h2>
+  <p class="sub">Jurnal yang DOI-nya sudah dicek ke Crossref ditandai <span class="pill p-go">DOI ✓</span>. Sejauh ini baru abstrak yang dibaca. Baca teks lengkap sebelum mengutip angka apa pun di proposal.</p>
+
+  <h3>Jurnal kunci per provinsi</h3>
+  <div class="tbl"><table>
+    <tr><th>Rujukan</th><th>Mengapa penting untuk proposal</th><th>Status</th></tr>
+    <tr><td colspan="3"><b>Jawa Tengah</b></td></tr>
+    <tr><td>van Bijsterveldt et al. (2023). Subsidence reveals potential impacts of future sea level rise on inhabited mangrove coasts. <i>Nature Sustainability</i> 6. <span class="doi">10.1038/s41893-023-01226-1</span></td><td>Bukti dari Demak bahwa subsidensi mengalahkan pemulihan mangrove. Ini argumen inti "subsidence-first": EbA harus disertai tata kelola air tanah.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Winterwerp et al. (2020). Managing erosion of mangrove-mud coasts with permeable dams – lessons learned. <i>Ecological Engineering</i> 158. <span class="doi">10.1016/j.ecoleng.2020.106078</span></td><td>Pelajaran resmi BwN: berhasil atau tidaknya bergantung kondisi lokal, pemeliharaan, dan keterlibatan warga.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Sumarga et al. (2024). Water provision benefits from karst ecosystems: Watuputih, North Kendeng. <i>Environmental and Sustainability Indicators</i> 24. <span class="doi">10.1016/j.indic.2024.100518</span></td><td>Valuasi jasa ekosistem air karst Kendeng yang ditinjau sejawat. Menguatkan argumen JMPPK dan WALHI.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Yastika, Shimizu &amp; Abidin (2019). Land subsidence 2003–2017 in coastal Semarang (SBAS DInSAR). <i>Advances in Space Research</i> 63. <span class="doi">10.1016/j.asr.2018.11.008</span></td><td>Data laju subsidensi Semarang.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Pamungkas &amp; Rudiarto (2026). Smart and Adaptive Coastal Living: Pekalongan. <i>JISDeP</i> (Bappenas) 7(1). <span class="doi">10.46456/jisdep.v7i1.843</span></td><td>Diterbitkan Bappenas, sehingga berguna sebagai kait kebijakan.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td colspan="3"><b>Jawa Barat</b></td></tr>
+    <tr><td>Siswanto &amp; Francés (2019). How LULC changes affect water, flooding and sedimentation: Upper Citarum. <i>Environmental Earth Sciences</i> 78. <span class="doi">10.1007/s12665-019-8561-0</span></td><td>Bukti berbasis model bahwa tutupan lahan mendorong banjir Citarum.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Abidin et al. (2008). Land subsidence of the Bandung Basin (GPS &amp; InSAR). <i>J. Applied Geodesy</i>. <span class="doi">10.1515/JAG.2008.019</span></td><td>Mengaitkan subsidensi dengan ekstraksi air tanah industri.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Ardiansyah et al. (2021). Land use and climate change impacts on flood inundation, Lower Cimanuk. <i>JITL</i> 23. <span class="doi">10.29244/jitl.23.2.53-60</span></td><td>Interaksi tata guna lahan dan iklim dalam risiko banjir.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td colspan="3"><b>DI Yogyakarta</b></td></tr>
+    <tr><td>Putri et al. (2024). Drought causes and adaptation strategies, karst Gunungkidul. <i>Geosfera Indonesia</i> 9(2). <span class="doi">10.19184/geosi.v9i2.46536</span></td><td>Tinjauan pemicu dan opsi adaptasi.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Amin et al. (2017). Management of an underground river, Gunung Sewu. <i>Forum Geografi</i> 31. <span class="doi">10.23917/forgeo.v31i1.4502</span></td><td>Model pengelolaan air berbasis komunitas.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Martias (2024). Hydrosocial and dwelling perspectives of telaga, Gunungsewu. <i>Biokultur</i> 13(1). <span class="doi">10.20473/bk.v13i1.52253</span></td><td>Dimensi pengetahuan lokal (kriteria FEBA dan "traditional knowledge").</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td colspan="3"><b>Jawa Timur</b></td></tr>
+    <tr><td>Nurdela &amp; Ichwandi (2015). Community-based forest management for ecotourism, Wonorejo mangrove. <i>Bonorowo Wetlands</i> 5. <span class="doi">10.13057/bonorowo/w050105</span></td><td>Bukti manfaat ekonomi bagi komunitas. Bukti untuk Jatim tipis secara umum.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td colspan="3"><b>DKI Jakarta</b></td></tr>
+    <tr><td>Takagi et al. (2017). Effectiveness and Limitation of Coastal Dykes in Jakarta: The Need for Prioritizing Actions against Land Subsidence. <i>Sustainability</i> 9. <span class="doi">10.3390/su9040619</span></td><td>Pijakan sejawat terkuat untuk argumen "tanggul tidak cukup, tangani subsidensi dulu".</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Abidin et al. (2011). Land subsidence of Jakarta and its relation with urban development. <i>Natural Hazards</i> 59. <span class="doi">10.1007/s11069-011-9866-9</span></td><td>Rujukan kanonik subsidensi Jakarta.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Sumarga et al. (2023). Ecosystem services of urban mangrove: Angke Kapuk. <i>Forests</i> 14(9). <span class="doi">10.3390/f14091796</span></td><td>Valuasi mangrove Jakarta.</td><td><span class="pill p-go">DOI ✓</span></td></tr>
+    <tr><td>Aminullah &amp; Sari (2024). Betawi Culture as Cultural Capital in Resilience Against Flood Disasters. <i>CUDJ</i> 2(2). <span class="doi">10.7454/cudj.v2i1.1028</span></td><td>Jurnal UI yang kamu temukan. Isinya kualitatif, satu kasus, tanpa ukuran hasil. Pakai hanya sebagai ilustrasi EbA riparian berbasis budaya.</td><td><span class="pill p-warn">Bukti lemah</span></td></tr>
+  </table></div>
+
+  <h3>Kerja WALHI yang bisa menjadi "existing work"</h3>
+  <ul class="tight">
+    <li><b>Wilayah Kelola Rakyat (WKR).</b> Kerangka tata kuasa, tata kelola, tata produksi, tata konsumsi. Bisa diposisikan sebagai model tata kelola EbA berbasis hak, sesuai kriteria FEBA 1.5 (equitable governance).</li>
+    <li><b>Ekonomi Nusantara (2021).</b> Riset di lima lanskap, termasuk lokasi Jatim dan pesisir. <i>Perlu dicek</i> lokasi Jawa mana saja yang tercakup, karena ini jangkar "built off existing work" yang paling langsung.</li>
+    <li><b>Kendeng dan KLHS.</b> Contoh nyata advokasi yang menghasilkan instrumen kebijakan: KLHS Tahap I merekomendasikan agar CAT Watuputih tidak ditambang. Bukti kapasitas WALHI memengaruhi kebijakan (Core Indicator 1).</li>
+    <li><b>Pantura Jateng.</b> Data WALHI tentang 109 desa tenggelam (2020), penolakan geser mangrove untuk tol Semarang–Demak, dan kritik Giant Sea Wall yang konsisten sejak 2024.</li>
+    <li><b>Gunung Sewu (WALHI Yogyakarta).</b> Temuan 13 usaha wisata tanpa AMDAL dan pembelaan KBAK.</li>
+    <li><b>WALHI Region Jawa.</b> Platform koordinasi lintas provinsi yang sudah ada. Bisa ditingkatkan menjadi mekanisme koordinasi multipihak (Core Indicator 2).</li>
+  </ul>
+  <div class="callout"><p><b>Celah yang harus ditutup minggu ini:</b> dokumentasi kerja WALHI Jabar dan Jatim sangat tipis di internet. Minta setiap Eksekutif Daerah (ED) mengirim satu halaman "track record EbA-relevan" berisi tiga hal: kasus, hasil, dan dokumen bukti.</p></div>
+</section>
+
+<section id="opportunity">
+  <h2>Opportunity: teknologi dan model dari negara lain</h2>
+  <p class="sub">Disaring dengan dua pertanyaan. Apakah buktinya kuat, termasuk kegagalannya? Apakah cocok dengan nilai WALHI? Yang paling berguna justru pelajaran dari pilot yang gagal.</p>
+  <div class="tbl"><table>
+    <tr><th>Model (negara)</th><th>Bukti</th><th>Transfer ke Jawa</th><th>Kecocokan WALHI</th></tr>
+    <tr><td><b>Ecological Fiscal Transfer</b> (ICMS-Ecológico Brasil; TAKE/TAPE Indonesia)</td><td>Efek ke kawasan lindung kecil tapi nyata. Di Jawa baru ada Pergub Jateng 61/2023, dan Jabar belum punya.</td><td>Tambahkan indikator EbA (mata air, hidrologi mangrove, sempadan, kepatuhan izin air tanah).</td><td><span class="pill p-go">Sangat tinggi</span><br><small>Pembiayaan publik, tanpa komodifikasi</small></td></tr>
+    <tr><td><b>Tata kelola air tanah</b> (Bangkok; Tokyo/Osaka)</td><td>Bangkok menekan subsidensi lewat izin, zona larangan, tarif, dan peralihan ke air permukaan. Pemulihan sebagian.</td><td>Pantura dan Cekungan Bandung. Penawar berbasis bukti untuk narasi tanggul.</td><td><span class="pill p-go">Sangat tinggi</span><br><small>Polluter-pays bagi industri</small></td></tr>
+    <tr><td><b>Ecological Mangrove Restoration</b> (Tiwoho, Sulut; kegagalan Filipina)</td><td>Tiwoho: tutupan ~91% setelah hidrologi dipulihkan. Filipina: keberhasilan hidup tanaman hanya 10–20% karena salah spesies dan salah lokasi.</td><td>Standar teknis untuk target rehabilitasi nasional dan fase NbS BOPPJ.</td><td><span class="pill p-go">Sangat tinggi</span></td></tr>
+    <tr><td><b>Dana adaptasi yang dikendalikan komunitas</b> (Kenya CCCF lalu FLLoCA)</td><td>Skala nasional, namun buktinya sebagian besar literatur abu-abu. Pendanaan pernah tersendat.</td><td>Menu EbA dalam Dana Desa dan Musrenbangdes. Saat ini desa berinvestasi secara reaktif setelah bencana.</td><td><span class="pill p-go">Tinggi</span></td></tr>
+    <tr><td><b>Pungutan pengguna DAS wajib</b> (PFES Vietnam, Dekret 99/2010; Cidanau, Banten)</td><td>Sekitar USD 50–60 juta per tahun. Additionality-nya lemah di sebagian lokasi (CIFOR).</td><td>PDAM, industri air minum kemasan, PLTA Citarum dan Brantas.</td><td><span class="pill p-warn">Sedang–tinggi</span><br><small>Hanya jika berbentuk pungutan regulatif, bukan pasar</small></td></tr>
+    <tr><td><b>FEBA screening + valuasi GIZ</b> (standar global)</td><td>FEBA: 5 kriteria dan 20 standar mutu, dirancang untuk menolak "business-as-usual dibungkus EbA".</td><td>Alat uji "apakah proyek hijau ini benar-benar EbA" untuk Pantura.</td><td><span class="pill p-go">Tinggi</span></td></tr>
+    <tr><td><b>Analisis biaya-manfaat Copenhagen Cloudburst</b></td><td>Solusi biru-hijau ditambah pipa memberi manfaat sosial sekitar DKK 9 miliar lebih besar daripada opsi pipa saja (analisis kota sendiri).</td><td>Metodenya: perbandingan biaya-manfaat abu-abu vs biru-hijau di Semarang/Demak.</td><td><span class="pill p-go">Tinggi</span></td></tr>
+    <tr><td>Eco-DRR Potential Map (Jepang)</td><td>Masuk dalam NBSAP Jepang. Belum ada evaluasi hasil.</td><td>Peta tumpang susun bahaya dan ekosistem untuk longsor dan lereng vulkanik.</td><td><span class="pill p-info">Sedang</span></td></tr>
+    <tr><td>Sponge City (Tiongkok)</td><td>Zhengzhou tetap banjir besar pada 2021 setelah menghabiskan sekitar 60 miliar yuan.</td><td>Hanya untuk hujan sedang. Jangan "membeli merek"-nya.</td><td><span class="pill p-warn">Kasus pembanding</span></td></tr>
+    <tr><td>Asuransi parametrik ekosistem, blue carbon (Mikoko Pamoja), water fund</td><td>Bergantung pada pihak asuransi atau kredit karbon, atau dikendalikan korporasi.</td><td>Belum ada pemicu yang cocok untuk subsidensi.</td><td><span class="pill p-risk">Tidak cocok</span><br><small>Sebut hanya sebagai pembanding</small></td></tr>
+  </table></div>
+  <p>Satu poin penting: <b>tidak satu pun intervensi ekosistem bisa mengimbangi subsidensi 10–15 cm per tahun.</b> Ini bukan kelemahan proposal. Justru inilah alasan proposal ini adalah kerja <em>enabling environment</em>: tanpa tata kelola air tanah dan tata ruang, restorasi mangrove di Pantura akan tenggelam. Inilah narasi yang membedakan WALHI dari pelamar lain.</p>
+</section>
+
+<section id="swot">
+  <h2>SWOT WALHI untuk call ini</h2>
+  <div class="grid2 swot">
+    <div class="card s"><h4>Strengths</h4><ul>
+      <li>Jaringan 498 organisasi di 29 provinsi, dengan 5 ED di Jawa dan platform WALHI Region Jawa.</li>
+      <li>Kerangka WKR dan Ekonomi Nusantara bisa menjadi "existing work" yang sah.</li>
+      <li>Rekam jejak memengaruhi instrumen kebijakan (KLHS Kendeng, KBAK Gunung Sewu).</li>
+      <li>Kepercayaan akar rumput dan praktik persetujuan atas dasar informasi awal tanpa paksaan (FPIC) dengan nelayan, petani, dan komunitas karst. Ini menopang skor gender dan inklusi.</li>
+      <li>Independen: tidak menerima dana korporasi. Kredibel sebagai pengawas mutu NbS.</li>
+    </ul></div>
+    <div class="card w"><h4>Weaknesses</h4><ul>
+      <li>Citra oposisional, padahal fund menginginkan kolaborasi dengan pemerintah.</li>
+      <li>Kapasitas sains kuantitatif terbatas (hidrologi, InSAR, valuasi ekonomi), sehingga butuh mitra universitas.</li>
+      <li>Belum punya kredensial di bidang EFT dan desain fiskal.</li>
+      <li>Dokumentasi WALHI Jabar dan Jatim tipis.</li>
+      <li>Kebiasaan program yang berat di lapangan bertentangan dengan larangan "field implementation".</li>
+      <li>Hanya tersedia 13 hari, dan proposal wajib berbahasa Inggris.</li>
+    </ul></div>
+    <div class="card o"><h4>Opportunities</h4><ul>
+      <li>NAP 2026–2030 menjadikan EbA model inti dan menyebut Jawa Utara paling berisiko.</li>
+      <li>Fase NbS Tanggul Laut membuka ruang untuk standar mutu EbA.</li>
+      <li>Pergub Jateng 61/2023 bisa diperkaya. Jabar belum punya EFT.</li>
+      <li>Fund belum punya proyek di Jawa maupun di pesisir yang mengalami subsidensi.</li>
+      <li>IKI mendanai BwN Demak dan penyusunan NAP, sehingga alur donornya selaras.</li>
+      <li>Jalur lanjutan ke GCF/Adaptation Fund (Kemitraan sudah terakreditasi).</li>
+    </ul></div>
+    <div class="card t"><h4>Threats</h4><ul>
+      <li>Hanya 10 hibah di seluruh dunia, dengan tingkat lolos sekitar 6%. Pesaingnya INGO besar.</li>
+      <li>Demak dan Pekalongan padat donor (BwN, BOPPJ, AF, GCF BRAVE, Haskoning), sehingga risiko duplikasi tinggi.</li>
+      <li>Giant Sea Wall adalah PSN, sehingga ada risiko pemerintah enggan memberi surat dukungan.</li>
+      <li>Regulasi terus berubah (ProKlim, badan mangrove, pemisahan KLH dan Kemenhut).</li>
+      <li>Batas ilmiah: subsidensi bisa menggagalkan EbA kalau dijual secara berlebihan.</li>
+    </ul></div>
+  </div>
+  <h3>Strategi yang keluar dari SWOT</h3>
+  <div class="tbl"><table>
+    <tr><th>Kombinasi</th><th>Strategi</th></tr>
+    <tr><td>S–O</td><td>Gunakan jaringan dan rekam jejak KLHS untuk mengisi celah implementasi NAP (aksi ES-08) di tingkat provinsi. WALHI bisa menjadi pengawas mutu NbS yang kredibel.</td></tr>
+    <tr><td>W–O</td><td>Tutup celah sains dan fiskal lewat konsorsium: universitas (Undip/UGM/IPB) untuk subsidensi dan valuasi, dan organisasi yang berpengalaman di EFT (misalnya jaringan advokasi anggaran). Mereka sekaligus memenuhi syarat ≥25% mitra lokal.</td></tr>
+    <tr><td>S–T</td><td>Ubah kritik Giant Sea Wall menjadi standar "subsidence-first". Posisinya bukan menolak NbS, melainkan memastikan NbS sungguhan. Hindari Timbulsloko sebagai lokasi utama, dan pilih desa Pantura lain yang belum disentuh donor.</td></tr>
+    <tr><td>W–T</td><td>Batasi geografi. Kerjakan dokumen due diligence lebih dulu. Kalau surat keterlibatan pemerintah tidak didapat dalam 4 hari, turunkan ambisi kebijakan ke tingkat kabupaten (Demak/Gunungkidul) atau tunda ke putaran berikut.</td></tr>
+  </table></div>
+</section>
+
+<section id="konsep">
+  <h2>Konsep yang direkomendasikan</h2>
+  <p class="eyebrow">Judul kerja</p>
+  <h3 style="margin-top:4px;font-family:var(--display);font-size:22px;font-weight:600">Subsidence-First, Rights-Based EbA for Java's Coasts and Karst: Standards and Public Finance for Subnational Policy Coherence</h3>
+  <p>Proyek ini menerjemahkan pelajaran Demak (EbA gagal kalau subsidensi tidak ditangani) dan kerja WKR WALHI menjadi tiga instrumen kebijakan subnasional: standar mutu EbA, insentif fiskal publik, dan pemantauan oleh komunitas. Jawa Tengah menjadi jangkar, Jawa Barat menjadi lokasi replikasi, dan karst Gunungkidul menjadi lokasi kontras untuk ekosistem daratan.</p>
+
+  <div class="tbl"><table>
+    <tr><th>Pilihan di formulir</th><th>Rekomendasi</th><th>Alasan</th></tr>
+    <tr><td>Tema</td><td>Tema 3, Policy Coherence through Subnational Leadership</td><td>Paling cocok dengan kerja tingkat provinsi dan tautan NAP/NBSAP/LDN/Sendai.</td></tr>
+    <tr><td>Strategic Objective</td><td>SO2: celah tata kelola dan regulasi</td><td>Inti proyek adalah instrumen kebijakan. Komponen fiskal tetap tercakup sebagai instrumen.</td></tr>
+    <tr><td>Action Pillar</td><td>Pilar 1 (Policy &amp; policy instruments) + Pilar 2 (Functional Data &amp; Science)</td><td>Kombinasi yang diizinkan: satu sub-opsi Pilar 1 ditambah Pilar 2.</td></tr>
+    <tr><td>Barrier (maks. 2)</td><td>Governance challenges; Finance challenges</td><td>Sesuai dua mesin perubahan proyek: standar dan insentif fiskal.</td></tr>
+    <tr><td>Ekosistem (maks. 2)</td><td>Coastal &amp; Marine Areas; Wetlands (mangrove). Karst masuk lewat "Other"</td><td>Pertimbangkan membuang karst kalau formulir terlalu sempit.</td></tr>
+    <tr><td>Dampak iklim</td><td>Rising sea levels, Flooding, Water scarcity</td><td>Rob, banjir, kekeringan karst.</td></tr>
+    <tr><td>SDG (selain 13)</td><td>SDG 6, 14, 11 (atau 15)</td><td></td></tr>
+  </table></div>
+
+  <h3>Theory of Change (ringkas)</h3>
+  <div class="toc-flow">
+    <div class="step"><b>Masalah</b>Investasi pesisir Jawa (tanggul, rehabilitasi mangrove) mengabaikan subsidensi dan hak warga, sehingga EbA gagal atau menjadi kedok.</div>
+    <div class="step"><b>Jika</b>Ada bukti subsidensi yang terbuka, standar mutu EbA, dan insentif fiskal yang memberi imbalan pada hasil ekosistem…</div>
+    <div class="step"><b>Dan</b>Komunitas (WKR) memantau dan pemerintah daerah ikut merancang di forum yang terlembaga…</div>
+    <div class="step"><b>Maka</b>Pemda mengadopsi instrumen yang menyalurkan anggaran publik ke EbA yang layak secara hidrologis dan adil.</div>
+    <div class="step imp"><b>Dampak jangka panjang</b>Kerentanan masyarakat pesisir dan karst Jawa terhadap rob, banjir, dan kekeringan menurun. Model ini direplikasi ke provinsi lain lewat jalur NAP, dan menjadi konsep pendanaan ke GCF/AF.</div>
+  </div>
+
+  <h3>Outcome dan empat output</h3>
+  <p><b>Outcome tunggal:</b> Pemerintah provinsi Jateng dan Jabar, serta dua kabupaten percontohan, mengadopsi atau secara resmi mengusulkan instrumen kebijakan dan fiskal yang mengintegrasikan EbA berbasis hak dan prinsip subsidence-first, sejalan dengan NAP 2026–2030.</p>
+  <div class="outputs">
+    <div class="card"><h4>Output 1 · Bukti terbuka: Java EbA Feasibility Atlas</h4><ol>
+      <li>Tumpang susun data InSAR/GNSS subsidensi dengan kesesuaian hidrologi mangrove dan izin air tanah (mitra universitas).</li>
+      <li>Analisis biaya-manfaat abu-abu vs biru-hijau di dua lokasi (koridor Pantura Jateng dan mata air Gunungkidul).</li>
+      <li>Baseline adaptasi di 4–6 lokasi WKR pesisir dan karst (data terpilah gender).</li>
+      <li>Policy brief berbahasa Indonesia dan Inggris.</li>
+    </ol></div>
+    <div class="card"><h4>Output 2 · Standar: Java EbA Quality Standard berbasis FEBA</h4><ol>
+      <li>Adaptasi kriteria FEBA dan Ecological Mangrove Restoration (EMR) menjadi alat penapisan proyek NbS di Pantura.</li>
+      <li>Uji coba alat pada 3 rencana investasi pesisir (termasuk fase NbS BOPPJ jika akses tersedia).</li>
+      <li>Rekomendasi untuk revisi RAD-API Jateng, RPPLH, dan kriteria ProKlim.</li>
+    </ol></div>
+    <div class="card"><h4>Output 3 · Pembiayaan publik: EFT-Adaptasi dan menu EbA Dana Desa</h4><ol>
+      <li>Usulan indikator EbA untuk Pergub Jateng 61/2023 (revisi atau petunjuk teknis).</li>
+      <li>Naskah akademik dan draf skema TAPE untuk Jawa Barat.</li>
+      <li>Menu kegiatan EbA dalam Dana Desa beserta daftar periksa sensitif-konflik, diuji di sekitar 6 desa (tanpa menyalurkan dana).</li>
+      <li>Concept note investasi untuk GCF/AF bersama entitas terakreditasi.</li>
+    </ol></div>
+    <div class="card"><h4>Output 4 · Koordinasi dan pemantauan oleh komunitas</h4><ol>
+      <li>Forum EbA Jawa lintas sektor yang dilembagakan melalui SK Bappeda atau kesepakatan formal.</li>
+      <li>Sistem pemantauan EbA berbasis komunitas (rob, mata air, mangrove) yang terhubung ke monev RAD-API.</li>
+      <li>Pertukaran pengetahuan dengan Jatim dan Jakarta, ditambah satu acara di arena COP atau Konvensi Rio.</li>
+    </ol></div>
+  </div>
+
+  <h3>Core Indicators yang dipilih</h3>
+  <div class="tbl"><table>
+    <tr><th>Core Indicator</th><th>Target indikatif</th><th>Bukti yang dibutuhkan</th></tr>
+    <tr><td>1 · Kebijakan/instrumen yang dikembangkan atau dipengaruhi</td><td class="num">≥4</td><td>Draf, surat pengajuan resmi, notulen, dan laporan konsultasi. Tahapan harus jelas (in development, formally proposed, adopted).</td></tr>
+    <tr><td>2 · Mekanisme koordinasi yang terlembaga</td><td class="num">1–2</td><td>Dokumen pembentukan. Konsultasi ad-hoc <b>tidak</b> dihitung.</td></tr>
+    <tr><td>3 · Instrumen MEL efektivitas EbA</td><td class="num">1–2</td><td>Wajib menjelaskan siapa yang memelihara instrumen setelah proyek selesai, dan dengan sumber daya apa.</td></tr>
+    <tr><td>12 · Instrumen pembiayaan dikembangkan/diperbaiki</td><td class="num">2</td><td>Skema EFT dan menu Dana Desa. Jangan dihitung ganda dengan indikator 1, dan tetapkan fungsi utama tiap produk.</td></tr>
+  </table></div>
+  <p><small>Indikator 10 (produk pengetahuan) sengaja tidak dipilih agar tidak terjadi penghitungan ganda. Indikator 9 (luas ekosistem) dan 7–8 (lapangan kerja, pendapatan) juga dihindari karena proyek tidak berbasis implementasi lapangan.</small></p>
+
+  <h3>Sketsa anggaran (USD 500.000 / 24 bulan)</h3>
+  <div class="tbl"><table>
+    <tr><th>Pos</th><th>USD</th><th>%</th><th>Catatan</th></tr>
+    <tr><td>Personel inti WALHI (koordinator, staf kebijakan, MEL, keuangan, ED paruh waktu)</td><td class="num">175.000</td><td class="num">35%</td><td>Wajib ada pencatatan jam kerja</td></tr>
+    <tr><td>Mitra lokal (universitas dan lembaga anggota berbadan hukum)</td><td class="num">135.000</td><td class="num">27%</td><td>Memenuhi syarat ≥25%</td></tr>
+    <tr><td>Studi dan data (pengolahan InSAR, analisis biaya-manfaat, analisis hukum)</td><td class="num">45.000</td><td class="num">9%</td><td></td></tr>
+    <tr><td>Dialog kebijakan, forum, lokakarya</td><td class="num">45.000</td><td class="num">9%</td><td>Tanpa honor untuk pejabat pemerintah</td></tr>
+    <tr><td>Partisipasi komunitas, FPIC, gender dan inklusi sosial (GESI)</td><td class="num">30.000</td><td class="num">6%</td><td>Fund meminta alokasi GESI yang eksplisit</td></tr>
+    <tr><td>Produk pengetahuan, terjemahan, komunikasi</td><td class="num">20.000</td><td class="num">4%</td><td></td></tr>
+    <tr><td>Perjalanan</td><td class="num">20.000</td><td class="num">4%</td><td>Kelas ekonomi</td></tr>
+    <tr><td>MEL dan audit eksternal proyek</td><td class="num">15.000</td><td class="num">3%</td><td>Audit wajib dianggarkan</td></tr>
+    <tr><td>Biaya tidak langsung</td><td class="num">15.000</td><td class="num">3%</td><td>Cek batas di template anggaran</td></tr>
+    <tr><td><b>Total</b></td><td class="num"><b>500.000</b></td><td class="num"><b>100%</b></td><td></td></tr>
+  </table></div>
+  <p><small>Sketsa ini belum dicocokkan dengan template anggaran resmi. Saya tidak menemukan batas biaya tidak langsung di Grants Procedure Manual, jadi periksa template sebelum mengunci angka.</small></p>
+
+  <h3>Mengapa konsep ini bisa menang</h3>
+  <ul class="tight">
+    <li><b>Inovasi (20%).</b> EFT dengan indikator adaptasi belum ada di Jawa. Standar NbS berprinsip subsidence-first juga belum ada di portofolio fund.</li>
+    <li><b>Katalitik.</b> Mengubah alokasi anggaran publik yang sudah ada, dan berujung pada concept note GCF/AF. GPM secara eksplisit menyebut "serve to develop a larger proposal to another funding mechanism".</li>
+    <li><b>EbA (40%).</b> Rantai dampak iklimnya jelas (subsidensi ditambah kenaikan muka laut, berujung rob). Konsep ini juga jujur soal batas EbA, dan reviewer yang paham akan menghargai itu.</li>
+    <li><b>Keberlanjutan (20%).</b> Instrumen melekat pada Pergub, RAD-API, dan Dana Desa, sehingga tetap berjalan tanpa dana proyek.</li>
+  </ul>
+</section>
+
+<section id="alternatif">
+  <h2>Konsep alternatif</h2>
+  <div class="grid2">
+    <div class="card"><h4>B · Karst Water Security Coherence (Kendeng + Gunung Sewu)</h4>
+      <p>EbA untuk air karst lewat KBAK, KLHS, dan LDN. Tautannya ke UNCCD dan CBD sangat jelas, dan WALHI punya rekam jejak terkuat di Kendeng.</p>
+      <p><span class="pill p-warn">Risiko</span> Konflik tambang membuat keterlibatan pemerintah sulit. Narasi iklimnya (kekeringan) kurang tajam dibanding Pantura. Bukti di Gunung Sewu sedang.</p></div>
+    <div class="card"><h4>C · Java EbA Evidence &amp; MEL Commons</h4>
+      <p>Alat penapisan FEBA, analisis biaya-manfaat, dan pemantauan warga (perluasan PetaBencana untuk rob dan kekeringan) di lima provinsi.</p>
+      <p><span class="pill p-warn">Risiko</span> Paling aman dan paling sesuai dengan WALHI, tapi skor inovasinya sedang. Lebih tepat dijadikan tulang punggung MEL di konsep A daripada berdiri sendiri.</p></div>
+  </div>
+</section>
+
+<section id="rencana">
+  <h2>Sprint 13 hari dan agenda riset</h2>
+  <h3>Sprint menuju tenggat</h3>
+  <div class="tbl"><table>
+    <tr><th>Tanggal</th><th>Kegiatan</th><th>Keluaran</th></tr>
+    <tr><td class="num">Sel 3 – Rab 4 Nov</td><td>Rapat go/no-go Eknas. Cek dokumen due diligence. Buat akun portal IUCN. Kirim pertanyaan ke Sekretariat.</td><td>Keputusan GO atau mundur, daftar dokumen</td></tr>
+    <tr><td class="num">Rab 4 – Jum 6 Nov</td><td>Kunci konsep dan geografi. Konfirmasi mitra (universitas, lembaga anggota). Minta surat keterlibatan dari KLH (Dit. Adaptasi) dan Bappeda Jateng/Jabar.</td><td>Daftar konsorsium, mandat co-applicant</td></tr>
+    <tr><td class="num">Sab 7 – Sen 9 Nov</td><td>ToC, logframe (1 outcome, 4 output), tabel aktivitas, pemilihan Core Indicators, draf anggaran.</td><td>Form ToC dan logframe v1, anggaran v1</td></tr>
+    <tr><td class="num">Sel 10 – Rab 11 Nov</td><td>Narasi bagian 2.1–2.15 (sesuai batas kata), gender, risiko, exit strategy, peta lokasi, CV, organigram.</td><td>Formulir aplikasi v1</td></tr>
+    <tr><td class="num">Kam 12 Nov</td><td><b>Red team:</b> dua orang di luar tim menilai dengan bobot 40/20/20/20. Penyuntingan bahasa Inggris.</td><td>Daftar perbaikan, v2</td></tr>
+    <tr><td class="num">Jum 13 Nov</td><td>Rekonsiliasi anggaran dengan aktivitas, tanda tangan deklarasi, <b>unggah</b>.</td><td>Tanda terima portal</td></tr>
+    <tr><td class="num">Sab 14 – Sen 16 Nov</td><td>Penyangga saja, tidak ada pekerjaan baru.</td><td></td></tr>
+  </table></div>
+
+  <h3>Agenda riset (paralel dan pasca-pengajuan)</h3>
+  <p>Agenda ini tetap berguna apa pun hasilnya. Kalau lolos, ini fase awal implementasi. Kalau tidak, ini bahan proposal berikutnya (putaran small-grant 2027, GCF, AF).</p>
+  <div class="tbl"><table>
+    <tr><th>Pertanyaan riset</th><th>Metode</th><th>Mitra</th><th>Waktu</th></tr>
+    <tr><td>Di titik mana subsidensi membuat EbA mangrove tidak layak?</td><td>Tumpang susun InSAR (Sentinel-1) dengan kesesuaian mangrove dan izin air tanah</td><td>Undip/ITB/UGM</td><td>Bulan 1–4</td></tr>
+    <tr><td>Bagaimana indikator Pergub 61/2023 bisa memberi imbalan pada EbA?</td><td>Analisis hukum dan fiskal, wawancara Bappeda dan BPKAD</td><td>Jaringan advokasi anggaran</td><td>Bulan 1–3</td></tr>
+    <tr><td>Apa hasil adaptasi dari lokasi WKR di Jawa?</td><td>Baseline partisipatif terpilah gender, kerangka FEBA</td><td>ED Jateng, Jabar, DIY</td><td>Bulan 1–6</td></tr>
+    <tr><td>Abu-abu vs biru-hijau: mana lebih murah per rumah tangga yang terlindungi?</td><td>Analisis biaya-manfaat ala Copenhagen, sumber valuasi GIZ</td><td>Ekonom lingkungan (IPB/UI)</td><td>Bulan 3–9</td></tr>
+    <tr><td>Desa memakai Dana Desa untuk apa ketika menghadapi rob atau kekeringan?</td><td>Analisis APBDes dan data PODES di 6 desa</td><td>Lembaga anggota</td><td>Bulan 2–6</td></tr>
+    <tr><td>Jakarta: apakah model riparian Ciliwung Condet bisa diukur dampaknya?</td><td>Desain evaluasi lanjutan dari studi CUDJ</td><td>UI (SKSG)</td><td>Fase berikutnya</td></tr>
+  </table></div>
+
+  <h3>Daftar bacaan wajib (urut prioritas)</h3>
+  <ol class="tight">
+    <li>NAP Indonesia 2026–2030: bagian Jawa Utara dan aksi ES-08/DRR-02.</li>
+    <li>van Bijsterveldt et al. 2023 (<i>Nature Sustainability</i>) dan Winterwerp et al. 2020: pelajaran Demak.</li>
+    <li>Takagi et al. 2017: batas tanggul dan prioritas subsidensi.</li>
+    <li>FEBA EbA Qualification Criteria &amp; Quality Standards (Bertram et al. 2017). Dipakai juga oleh reviewer.</li>
+    <li>Pergub Jateng 61/2023 dan kertas kebijakan TAPE Jabar (CRJ Jabar).</li>
+    <li>GIZ/EURAC/UNU (2018), Climate Risk Assessment for EbA Guidebook. Dirujuk langsung oleh GPM.</li>
+    <li>Sumarga et al. 2024 (karst Kendeng) dan Putri et al. 2024 (Gunungkidul).</li>
+    <li>Soanes et al. 2021, prinsip Locally Led Adaptation (IIED/WRI).</li>
+  </ol>
+</section>
+
+<section id="risiko">
+  <h2>Risiko dan pertanyaan untuk Sekretariat</h2>
+  <div class="tbl"><table>
+    <tr><th>Risiko</th><th>Kemungkinan</th><th>Mitigasi</th></tr>
+    <tr><td>Dokumen audit atau terjemahan legal tidak siap</td><td><span class="pill p-risk">Tinggi</span></td><td>Cek hari ini. Ini syarat mundur.</td></tr>
+    <tr><td>Pemerintah tidak mau memberi surat dukungan karena isu PSN</td><td><span class="pill p-warn">Sedang</span></td><td>Gunakan jalur NAP (KLH) yang netral, bukan BOPPJ. Turunkan ke tingkat kabupaten jika perlu.</td></tr>
+    <tr><td>Duplikasi dengan BwN, BOPPJ, AF, GCF di Demak dan Pekalongan</td><td><span class="pill p-warn">Sedang</span></td><td>Pilih desa Pantura yang tidak tercakup. Nyatakan sinergi secara eksplisit di bagian 2.10.</td></tr>
+    <tr><td>Reviewer menilai proyek terlalu advokatif</td><td><span class="pill p-warn">Sedang</span></td><td>Bahasa instrumen dan standar. Tunjukkan kolaborasi lewat forum terlembaga.</td></tr>
+    <tr><td>Rujukan regulasi usang</td><td><span class="pill p-info">Rendah</span></td><td>Verifikasi ProKlim, badan mangrove, dan target LDN sebelum mengutip.</td></tr>
+  </table></div>
+  <h3>Pertanyaan ke Sekretariat (lewat kontak di situs atau portal)</h3>
+  <ul class="tight">
+    <li>Apakah syarat ≥25% ke mitra lokal berlaku jika pelamar utama sendiri adalah NGO nasional di negara penerima?</li>
+    <li>Apakah Eksekutif Daerah WALHI, yang berada di bawah badan hukum yang sama, dihitung sebagai mitra lokal?</li>
+    <li>Adakah batas persentase biaya tidak langsung untuk medium-size grant?</li>
+  </ul>
+</section>
+
+<section id="sumber">
+  <h2>Sumber</h2>
+  <ol class="src">
+    <li><a href="https://globalebafund.org/medium-size-grants/">Global EbA Fund – Medium-Size Grants</a></li>
+    <li><a href="https://globalebafund.org/wp-content/uploads/2026/08/Global-EbA-Fund_Medium-size-grants-Call-for-Proposals.pdf">Call for Proposals Medium-Size Grants (Agustus 2026)</a></li>
+    <li><a href="https://globalebafund.org/wp-content/uploads/2026/08/Global-EbA-Fund-Core-Indicator-Framework_August-2026.pdf">Core Indicator Framework (Agustus 2026)</a></li>
+    <li><a href="https://globalebafund.org/wp-content/uploads/2026/08/Global-EbA-Fund-Grants-Procedure-Manual.pdf">Grants Procedure Manual</a></li>
+    <li><a href="https://globalebafund.org/wp-content/uploads/2026/10/FAQ_Global-EbA-Fund-Open-Calls-for-Proposals_Oct26.pdf">FAQ Open Calls (Oktober 2026)</a></li>
+    <li><a href="https://globalebafund.org/projects/">Portofolio proyek Global EbA Fund</a> · <a href="https://international-climate-initiative.com/PROJECT1433-1">Halaman IKI (statistik aplikasi)</a></li>
+    <li><a href="https://unfccc.int/sites/default/files/resource/NAP_Indonesia__2025__.pdf">NAP Indonesia 2026–2030</a> · <a href="https://unfccc.int/sites/default/files/2025-10/Indonesia_Second%20NDC_2025.10.24.pdf">Second NDC Indonesia</a></li>
+    <li><a href="https://www.peraturan.go.id/files/perpres-no-77-tahun-2025.pdf">Perpres 77/2025 (BOPPJ)</a> · <a href="https://en.antaranews.com/news/434454/indonesia-to-begin-giant-sea-wall-project-with-mangroves">Antara: Giant Sea Wall dimulai dengan mangrove</a></li>
+    <li><a href="https://www.biofin.org/?p=1255">BIOFIN: Pergub Jateng 61/2023</a> · <a href="https://crjournal.jabarprov.go.id/index.php/crj/article/download/375/126/869">CRJ Jabar: TAPE Jawa Barat</a></li>
+    <li><a href="https://scholarhub.ui.ac.id/cudj/vol2/iss2/3">Aminullah &amp; Sari 2024, CUDJ</a></li>
+    <li><a href="https://doi.org/10.1038/s41893-023-01226-1">van Bijsterveldt et al. 2023</a> · <a href="https://doi.org/10.1016/j.ecoleng.2020.106078">Winterwerp et al. 2020</a> · <a href="https://doi.org/10.3390/su9040619">Takagi et al. 2017</a></li>
+    <li><a href="https://smujo.id/biodiv/article/view/3402">Djamaluddin et al. 2019 (EMR Tiwoho)</a> · <a href="https://repository.seafdec.org.ph/handle/10862/93">Primavera &amp; Esteban 2008</a></li>
+    <li><a href="https://www.iied.org/g04167">FEBA EbA Qualification Criteria</a> · <a href="https://www.iied.org/10211iied">Locally Led Adaptation principles</a></li>
+    <li><a href="https://climate-adapt.eea.europa.eu/ro/metadata/case-studies/the-economics-of-managing-heavy-rains-and-stormwater-in-copenhagen-2013-the-cloudburst-management-plan/">Copenhagen Cloudburst CBA</a> · <a href="https://www.cbd.int/financial/pes/indonesia-peswater.pdf">PES Cidanau</a></li>
+    <li><a href="https://www.greenclimate.fund/portfolio/projects/sap070">GCF SAP070 (Pekalongan–Batang)</a> · <a href="https://www.haskoning.com/en/newsroom/news/2026/haskoning-wins-north-java-coastal-protection-project-advancing-indonesias-climate-resilience">Haskoning: Demak &amp; Cirebon</a></li>
+    <li><a href="https://mongabay.co.id/2022/11/07/42-tahun-walhi-rumah-gerakan-bersama-untuk-keadilan-ekologis/">Mongabay: 42 tahun WALHI</a> · <a href="https://mongabay.co.id/2025/09/30/lingkungan-rusak-walhi-deklarasikan-hari-keadilan-ekologis/">Mongabay: PNLH XIV (2025)</a></li>
+  </ol>
+  <footer>Catatan metode: dokumen resmi grant dibaca utuh. Jurnal sebagian besar diverifikasi lewat metadata dan abstrak (DOI dicek di Crossref), belum lewat teks lengkap. Situs walhi.or.id menolak akses otomatis, sehingga kerja WALHI dirangkum dari pemberitaan dan perlu dikonfirmasi oleh tiap ED. Klaim berlabel "belum terverifikasi" jangan dikutip di proposal sebelum dicek.</footer>
+</section>
+</main>
+</div>
