@@ -1,0 +1,104 @@
+{
+ "jumlah_media": 1267,
+ "rilis_total": 77,
+ "rilis_aktif": 69,
+ "dikecualikan": {
+  "duplikat": 2,
+  "kelembagaan": 3,
+  "terjemahan": 3
+ },
+ "produksi_utama": {
+  "Hutan & Kebun": 19,
+  "Lintas isu": 16,
+  "Tambang & Energi": 5,
+  "Iklim & Global": 8,
+  "Perkotaan & Tata Ruang": 9,
+  "Pesisir & Laut": 8,
+  "Ekosistem Esensial & Pangan": 4
+ },
+ "produksi_kedua": {
+  "Pesisir & Laut": 3,
+  "Tambang & Energi": 5,
+  "Perkotaan & Tata Ruang": 3,
+  "Hutan & Kebun": 6,
+  "Ekosistem Esensial & Pangan": 4,
+  "Iklim & Global": 3
+ },
+ "pemuatan": {
+  "Hutan & Kebun": [
+   19,
+   14,
+   85
+  ],
+  "Lintas isu": [
+   14,
+   8,
+   36
+  ],
+  "Tambang & Energi": [
+   5,
+   4,
+   15
+  ],
+  "Perkotaan & Tata Ruang": [
+   9,
+   8,
+   48
+  ],
+  "Pesisir & Laut": [
+   8,
+   6,
+   19
+  ],
+  "Iklim & Global": [
+   7,
+   5,
+   15
+  ],
+  "Ekosistem Esensial & Pangan": [
+   4,
+   3,
+   19
+  ]
+ },
+ "lama_judul_walhi": {
+  "Hutan & Kebun": 423,
+  "Perkotaan & Tata Ruang": 101,
+  "Ekosistem Esensial & Pangan": 79,
+  "Tambang & Energi": 75,
+  "Pesisir & Laut": 12,
+  "Iklim & Global": 34
+ },
+ "baru_judul_walhi": {
+  "Hutan & Kebun": 495,
+  "Perkotaan & Tata Ruang": 133,
+  "Ekosistem Esensial & Pangan": 109,
+  "Tambang & Energi": 104,
+  "Pesisir & Laut": 55,
+  "Iklim & Global": 51
+ },
+ "baru_semua_berita": {
+  "Hutan & Kebun": 662,
+  "Perkotaan & Tata Ruang": 195,
+  "Ekosistem Esensial & Pangan": 153,
+  "Tambang & Energi": 199,
+  "Pesisir & Laut": 107,
+  "Iklim & Global": 92
+ },
+ "media_berbeda": {
+  "Hutan & Kebun": 260,
+  "Perkotaan & Tata Ruang": 120,
+  "Ekosistem Esensial & Pangan": 94,
+  "Tambang & Energi": 126,
+  "Pesisir & Laut": 69,
+  "Iklim & Global": 65
+ },
+ "irisan_pesisir": {
+  "Perkotaan & Tata Ruang": 40,
+  "Tambang & Energi": 20,
+  "Hutan & Kebun": 9,
+  "Ekosistem Esensial & Pangan": 24,
+  "Iklim & Global": 6
+ },
+ "berita_terkait_rilis": 237
+}

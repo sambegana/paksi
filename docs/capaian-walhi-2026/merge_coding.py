@@ -3,13 +3,16 @@ Aturan rekonsiliasi didokumentasikan di OVERRIDE di bawah."""
 import json, csv, os
 HERE = os.path.dirname(os.path.abspath(__file__))
 rows = []
-for f in "HABC":
+for f in "HABCD":
     for x in json.load(open(os.path.join(HERE, "pengodean", f"respons_{f}.json"))):
         x["_src"] = f; rows.append(x)
 key = lambda x: (x["_src"], x["label_pendek"])
 # (sumber, label lama) -> perubahan. None = buang (duplikat di isu lain).
 OVERRIDE = {
- ("A", "Regulasi data center"): None,                   # duplikat B "Data center: Komdigi akui" (Perkotaan)
+ ("A", "Regulasi data center"): None,
+ ("A", "Izin pasir laut Bintan"): None,                 # periode Agu–Okt: hanya disuarakan 7 Jun
+ ("A", "Adopsi AO ICJ iklim"): None,                    # periode Agu–Okt: terakhir disuarakan 31 Jul
+ ("B", "PETI Sumbar: operator jerat"): {"skor": "0", "catatan_tambah": " Periode Agu–Okt: penindakan terjadi Juli (di luar periode); tidak ditemukan tindakan baru 1 Agu–2 Nov, pemodal belum disentuh."},                   # duplikat B "Data center: Komdigi akui" (Perkotaan)
  ("B", "Beriga: DPRD revisi zonasi"): None,             # duplikat A Batu Beriga (Pesisir); skor lebih rendah dipakai
  ("C", "Tidak ditemukan") : "cek",                      # dua baris; ditangani per narasi di bawah
  ("C", "Sebagian izin dibekukan"): {"skor": "2", "catatan_tambah": " Diturunkan 3→2 oleh penyunting: pembekuan izin adalah penindakan karhutla, bukan evaluasi izin gambut."},
@@ -87,9 +90,25 @@ RINGKAS = {  # label_pendek -> (lembaga, respons ringkas)
 }
 for x in out:
     x["lembaga_ringkas"], x["respons_ringkas"] = RINGKAS[x["label_pendek"]]
+ISU_KEDUA = {
+ "Batalkan PSN tambak Pantura": "Ekosistem Esensial & Pangan", "Usut limbah minyak Lampung": "Tambang & Energi",
+ "Cabut IUP Timah Batu Beriga": "Tambang & Energi", "Kaji ulang Giant Sea Wall": "Perkotaan & Tata Ruang",
+ "Koreksi RUU Daerah Kepulauan": "Tambang & Energi", "Moratorium data center": "Pesisir & Laut",
+ "Kaji data center Jatiluhur": "Ekosistem Esensial & Pangan", "Lindungi mata air Kota Batu": "Ekosistem Esensial & Pangan",
+ "Revisi Raqan RTRW Aceh": "Tambang & Energi", "Audit tata ruang Solok": "Hutan & Kebun",
+ "Tolak PLTP Gunung Ungaran": "Ekosistem Esensial & Pangan", "Transisi energi berkeadilan": "Iklim & Global",
+ "Usut tumpahan batu bara": "Pesisir & Laut", "Tindak tambang emas ilegal": "Hutan & Kebun",
+ "Kesehatan korban asap": "Perkotaan & Tata Ruang", "Pemulihan lahan terbakar": "Ekosistem Esensial & Pangan",
+ "Audit proyek karbon": "Hutan & Kebun", "Buka dana iklim Kalbar": "Hutan & Kebun", "FOLU Net Sink terancam": "Hutan & Kebun",
+ "Audit izin konsesi gambut": "Hutan & Kebun", "Pulihkan ekosistem gambut": "Pesisir & Laut",
+ "Evaluasi food estate Papua": "Hutan & Kebun", "Evaluasi tambang DAS Kapuas": "Tambang & Energi",
+ "Tumpang tindih DAS Aia Dingin": "Hutan & Kebun",
+}
+for x in out:
+    x["isu_kedua"] = ISU_KEDUA.get(x["label_pendek"], "")
 ORDER = ["Pesisir & Laut", "Hutan & Kebun", "Tambang & Energi", "Perkotaan & Tata Ruang", "Iklim & Global", "Ekosistem Esensial & Pangan"]
 out.sort(key=lambda x: (ORDER.index(x["isu"]), -int(x["jumlah_judul"])))
-F = ["isu", "label_pendek", "lembaga_ringkas", "respons_ringkas", "narasi_walhi", "tanggal", "alamat", "jumlah_judul", "respons_pemerintah", "skor", "url_narasi", "url_respons", "catatan"]
+F = ["isu", "isu_kedua", "label_pendek", "lembaga_ringkas", "respons_ringkas", "narasi_walhi", "tanggal", "alamat", "jumlah_judul", "respons_pemerintah", "skor", "url_narasi", "url_respons", "catatan"]
 with open(os.path.join(HERE, "narasi_respons.csv"), "w", newline="") as f:
     w = csv.DictWriter(f, F, extrasaction="ignore"); w.writeheader(); w.writerows(out)
 from collections import Counter
