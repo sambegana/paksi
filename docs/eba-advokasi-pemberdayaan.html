@@ -1,0 +1,275 @@
+<title>Advokasi atau Pemberdayaan</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: laporan kerja dua kolom (daftar isi lengket + isi), satu kolom di ponsel. Palet: lumpur pesisir, mangrove, air pasang. */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --ink:#1c2422; --muted:#5a6662; --line:#d9dfdb;
+  --mangrove:#1e6b55; --mangrove-soft:#e3efe9; --tide:#245c86; --tide-soft:#e4edf5;
+  --silt:#9a6a1f; --silt-soft:#f5ecdc; --risk:#a63a2b; --risk-soft:#f7e6e2;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--tide);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--tide);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:13.5px}
+nav.toc p{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{color:var(--muted);text-decoration:none;display:flex;gap:8px}
+nav.toc a::before{content:counter(t,decimal-leading-zero);font-family:var(--mono);font-size:11px;padding-top:2px;color:var(--line)}
+nav.toc a:hover{color:var(--ink)}
+main{min-width:0}
+header.top{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:8px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--mangrove)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,4.6vw,46px);line-height:1.08;margin:10px 0 14px;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(23px,2.8vw,30px);line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--body);font-weight:600;font-size:16.5px;margin:26px 0 8px}
+h4{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px}
+p{margin:0 0 12px;max-width:72ch}
+.lede{font-size:17.5px;color:var(--muted);max-width:68ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12.5px;color:var(--muted);margin-top:16px}
+section{padding-block:40px 8px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sub{color:var(--muted);margin-bottom:20px;max-width:70ch}
+ul.tight{margin:0 0 12px;padding-left:20px;max-width:74ch}
+ul.tight li{margin-bottom:6px}
+.pill{display:inline-block;font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.03em;padding:2px 8px;border-radius:3px;white-space:nowrap}
+.p-go{background:var(--mangrove-soft);color:var(--mangrove)}
+.p-warn{background:var(--silt-soft);color:var(--silt)}
+.p-risk{background:var(--risk-soft);color:var(--risk)}
+.p-info{background:var(--tide-soft);color:var(--tide)}
+
+.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:22px 24px;margin:24px 0 8px;display:grid;gap:10px}
+.verdict .big{font-family:var(--display);font-size:24px;font-weight:600;line-height:1.25}
+.countdown{display:flex;flex-wrap:wrap;gap:24px;margin-top:6px}
+.countdown div{display:grid}
+.countdown b{font-family:var(--display);font-size:34px;line-height:1;font-weight:600;font-variant-numeric:tabular-nums}
+.countdown span{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+.challenge{display:grid;gap:14px;margin-top:14px}
+.challenge article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.challenge h4{margin:0 0 4px}
+.challenge p{margin:0;font-size:14.5px}
+.challenge .you h4{color:var(--silt)}
+.challenge .me h4{color:var(--mangrove)}
+
+.tbl{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td small,li small{color:var(--muted)}
+.doi{font-family:var(--mono);font-size:12px;word-break:break-all}
+
+.weights{display:grid;gap:8px;margin:14px 0 18px;max-width:640px}
+.wrow{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr) 44px;gap:12px;align-items:center;font-size:14px}
+.bar{height:12px;background:var(--line);position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--mangrove)}
+.wrow .num{font-family:var(--mono);text-align:right}
+
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:12px 0}
+.card{background:var(--surface);border:1px solid var(--line);padding:16px 18px;min-width:0}
+.card h4{margin-top:0}
+.swot .card{border-top:3px solid var(--line)}
+.swot .s{border-top-color:var(--mangrove)}.swot .w{border-top-color:var(--silt)}
+.swot .o{border-top-color:var(--tide)}.swot .t{border-top-color:var(--risk)}
+.swot .s h4{color:var(--mangrove)}.swot .w h4{color:var(--silt)}.swot .o h4{color:var(--tide)}.swot .t h4{color:var(--risk)}
+.swot ul{margin:0;padding-left:18px;font-size:14.2px}
+.swot li{margin-bottom:6px}
+
+.score{display:inline-flex;gap:3px;vertical-align:middle}
+.score i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.score i.on{background:var(--mangrove)}
+
+.toc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.toc-flow .step{background:var(--surface);border:1px solid var(--line);padding:12px 14px;font-size:13.8px;min-width:0}
+.toc-flow .step b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:500}
+.toc-flow .imp{grid-column:1/-1;background:var(--mangrove-soft);border-color:transparent}
+.outputs{display:grid;gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove)}
+.outputs ol{margin:6px 0 0;padding-left:20px;font-size:14.2px}
+.callout{background:var(--silt-soft);padding:14px 18px;margin:14px 0;max-width:78ch;font-size:14.6px}
+.callout.blue{background:var(--tide-soft)}
+.callout.red{background:var(--risk-soft)}
+.callout p:last-child{margin:0}
+footer{font-size:13px;color:var(--muted);padding-top:28px}
+ol.src{font-size:13px;padding-left:20px;display:grid;gap:4px;max-width:90ch}
+ol.src li{word-break:break-word}
+
+@media (max-width:900px){
+  .wrap{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:24px 60px}
+  nav.toc{position:static;border:1px solid var(--line);background:var(--surface);padding:14px 16px}
+  nav.toc ol{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc-flow{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .grid2,.challenge article{grid-template-columns:minmax(0,1fr)}
+  nav.toc ol{grid-template-columns:minmax(0,1fr)}
+  .toc-flow{grid-template-columns:minmax(0,1fr)}
+  .wrow{grid-template-columns:minmax(0,1fr) 44px}.wrow .bar{grid-column:1/-1;grid-row:2}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+<style>
+.spectrum{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;margin:18px 0 8px;border:1px solid var(--line)}
+.spectrum div{padding:14px 16px;font-size:14px;min-width:0}
+.spectrum div+div{border-left:1px solid var(--line)}
+.spectrum h4{margin:0 0 6px}
+.spectrum .no{background:var(--risk-soft)}.spectrum .no h4{color:var(--risk)}
+.spectrum .yes{background:var(--mangrove-soft)}.spectrum .yes h4{color:var(--mangrove)}
+.spectrum .meh{background:var(--silt-soft)}.spectrum .meh h4{color:var(--silt)}
+.spectrum ul{margin:6px 0 0;padding-left:18px}
+.spectrum li{margin-bottom:4px}
+.quote{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--tide);padding:12px 16px;margin:10px 0;font-size:14.4px;max-width:80ch}
+.quote cite{display:block;font-style:normal;font-family:var(--mono);font-size:11.5px;color:var(--muted);margin-top:6px}
+.answer{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:18px 22px;margin:18px 0}
+.answer p:last-child{margin:0}
+.answer .big{font-family:var(--display);font-size:22px;font-weight:600;line-height:1.3;margin-bottom:8px}
+.rest{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:12px 0}
+.rest .card h4{margin-top:0}
+.rest .card p{margin:0;font-size:13.8px}
+.rest .card .who{display:block;margin-top:8px;font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--muted)}
+.rest .pe{border-top:3px solid var(--mangrove)}.rest .po{border-top:3px solid var(--tide)}
+@media (max-width:900px){.rest{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:620px){.spectrum,.rest{grid-template-columns:minmax(0,1fr)}.spectrum div+div{border-left:0;border-top:1px solid var(--line)}}
+</style>
+
+<div class="wrap">
+<nav class="toc" aria-label="Daftar isi">
+  <p>Isi</p>
+  <ol>
+    <li><a href="#jawab">Jawaban singkat</a></li>
+    <li><a href="#dokumen">Apa kata dokumen fund</a></li>
+    <li><a href="#spektrum">Spektrum: mana yang dibiayai</a></li>
+    <li><a href="#pemberdayaan">Pemberdayaan yang oke</a></li>
+    <li><a href="#susun">Menyusun ulang konsep</a></li>
+    <li><a href="#putusan">Yang perlu diputuskan</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <div class="eyebrow">Lanjutan diskusi Global EbA Fund · Advokasi atau pemberdayaan?</div>
+  <h1>Advokasi kebijakan, pemberdayaan, atau keduanya?</h1>
+  <p class="lede">Apakah proposal NbS warga ini berarti advokasi kebijakan dan tata ruang? Apakah memang itu yang diminta EbA Fund? Dan apakah program pemberdayaan langsung boleh masuk? Jawabannya disusun dari kutipan langsung dokumen fund.</p>
+  <div class="meta"><span>4 November 2026</span><span>Sumber: CfP, Grants Procedure Manual, FAQ, Core Indicator Framework</span></div>
+</header>
+
+<section id="jawab">
+  <h2>Jawaban singkat</h2>
+  <div class="answer">
+    <div class="big">Bukan hanya advokasi kebijakan. Pemberdayaan boleh, bahkan perlu, asal menjadi jalan menuju perubahan sistem, bukan tujuan akhirnya.</div>
+    <p>Fund meminta <b>"enabling environment"</b> (lingkungan pemungkin). Kebijakan dan tata ruang hanya salah satu bentuknya. Bentuk lainnya: pengetahuan dan bukti, kapasitas, tata kelola, koordinasi, dan pembiayaan.</p>
+    <p>Yang <b>tidak</b> dibiayai adalah program lapangan yang berdiri sendiri: menanam, membangun, membagi bantuan, tanpa kaitan ke perubahan yang lebih luas.</p>
+  </div>
+  <p>Ada konsekuensi dari arahan atasan yang perlu disadari. <b>SO1 justru berpusat pada pengetahuan dan kapasitas, bukan regulasi.</b> Jadi dengan SO1, pemberdayaan warga punya tempat yang sah. Komponen kebijakan tetap perlu, supaya perubahannya bertahan setelah proyek selesai.</p>
+  <p>Dan tidak, pemberdayaan <b>jangan dihilangkan</b>. Tanpa komponen komunitas, proposal WALHI akan terlihat seperti kerja lembaga riset. Keunggulan utama WALHI dibanding INGO besar akan hilang, dan skor partisipasi serta inklusi (bagian dari bobot 40%) juga melemah.</p>
+</section>
+
+<section id="dokumen">
+  <h2>Apa kata dokumen fund</h2>
+  <h3>Yang dibatasi</h3>
+  <div class="quote">"…the Fund does not support business-as-usual activities or stand-alone field implementation projects."<cite>Call for Proposals, General Track</cite></div>
+  <div class="quote">"Projects must not focus primarily on field implementation in the scope of the proposal. Field interventions are allowed if clearly justified."<cite>Grants Procedure Manual §1.2</cite></div>
+  <div class="quote">"No, the Global EbA Fund will not support a seed grants program directly."<cite>FAQ, Oktober 2026</cite></div>
+
+  <h3>Yang justru diminta</h3>
+  <div class="quote">"Strengthened locally led EbA interventions and documented replication pathways through targeted knowledge management and exchange."<cite>Call for Proposals, Expected outcomes</cite></div>
+  <div class="quote">Pilar 1 memuat sub-opsi <b>"Education, capacity building and skills development"</b>. Ketiga pilar juga menyebut: "Field implementation to support this work could be considered under this pillar when clearly justified."<cite>Grants Procedure Manual §1.2</cite></div>
+  <div class="quote">Core Indicator 4 menghitung warga yang "increased their knowledge and capacity on climate change adaptation through ecosystem-based approach". Warga yang mengikuti minimal 80% pelatihan dihitung sebagai penerima manfaat langsung. Sebaliknya, <b>"projects focused solely on strategy or policy development cannot report under this indicator"</b>, dan pejabat yang dilatih tidak dihitung.<cite>Core Indicator Framework, Indikator 4</cite></div>
+  <p>Kutipan terakhir paling penting. Proyek yang hanya bekerja di kebijakan tidak bisa melaporkan penerima manfaat. Fund ingin melihat manusia yang kapasitasnya bertambah, bukan hanya dokumen.</p>
+  <p>Formulir aplikasi juga punya pertanyaan khusus: <i>"Does the project involve a field component? If yes, please describe why it is necessary."</i> Artinya, komponen lapangan boleh ada, asal alasannya ditulis.</p>
+</section>
+
+<section id="spektrum">
+  <h2>Spektrum: mana yang dibiayai</h2>
+  <div class="spectrum">
+    <div class="no"><h4>Tidak dibiayai</h4>
+      <ul>
+        <li>Penanaman atau pembangunan fisik sebagai kegiatan utama</li>
+        <li>Membagi bibit, alat, atau bantuan</li>
+        <li>Hibah kecil ke kelompok warga (seed grant)</li>
+        <li>Pelatihan generik tanpa tindak lanjut</li>
+      </ul></div>
+    <div class="yes"><h4>Titik ideal</h4>
+      <ul>
+        <li>Pemberdayaan yang terhubung ke sistem: warga jadi pemantau, pengelola yang diakui, dan peserta perencanaan</li>
+        <li>Bukti, pengetahuan, dan pertukaran antarkomunitas</li>
+        <li>Pengakuan dalam kebijakan, tata ruang, dan anggaran</li>
+      </ul></div>
+    <div class="meh"><h4>Dibiayai, tapi kehilangan keunggulan WALHI</h4>
+      <ul>
+        <li>Kajian dan policy brief murni</li>
+        <li>Lobi kebijakan tanpa basis komunitas</li>
+        <li>Tidak bisa melaporkan Core Indicator 4</li>
+      </ul></div>
+  </div>
+  <p><small>Fund tidak menetapkan batas persentase untuk komponen lapangan. Patokan kerja saya: kegiatan langsung dengan komunitas sekitar 30–40% dari kegiatan, dan setiap kegiatan itu menghasilkan sesuatu yang dipakai di tingkat sistem (data untuk pemda, kelembagaan yang diakui, model yang direplikasi). Ini penilaian saya, bukan aturan fund.</small></p>
+</section>
+
+<section id="pemberdayaan">
+  <h2>Pemberdayaan yang oke vs. yang berisiko</h2>
+  <div class="tbl"><table>
+    <tr><th>Bentuk pemberdayaan</th><th>Status</th><th>Syarat agar lolos</th></tr>
+    <tr><td>Warga dilatih menjadi pemantau ekosistem (sedimen mangrove, debit mata air, suhu, genangan)</td><td><span class="pill p-go">Oke</span></td><td>Datanya masuk sistem pemantauan pemda atau RAD-API (Core Indicator 3)</td></tr>
+    <tr><td>Penguatan kelembagaan kelompok pengelola NbS: legalitas, aturan kelola, SK pengakuan</td><td><span class="pill p-go">Oke</span></td><td>Menjadi syarat agar situs diakui di tata ruang</td></tr>
+    <tr><td>Pelatihan partisipasi dalam Musrenbang, konsultasi RDTR, dan KLHS</td><td><span class="pill p-go">Oke</span></td><td>Ada forum nyata tempat kapasitas itu dipakai. Sejalan dengan hak atas kota.</td></tr>
+    <tr><td>Pertukaran belajar antarkomunitas (misalnya Condet ↔ Code ↔ Resan)</td><td><span class="pill p-go">Oke</span></td><td>Disebut langsung di expected outcomes ("replication pathways"). Dokumentasikan hasilnya.</td></tr>
+    <tr><td>Kepemimpinan perempuan dan pemuda dalam pengelolaan NbS</td><td><span class="pill p-go">Oke</span></td><td>Diukur dengan data terpilah gender. Menguatkan skor gender.</td></tr>
+    <tr><td>Pendampingan usaha berbasis ekosistem (ekowisata mangrove, produk olahan)</td><td><span class="pill p-warn">Hati-hati</span></td><td>Hanya kalau usaha itu membiayai keberlanjutan NbS. Pakai pendekatan Ekonomi Nusantara, bukan skema CSR.</td></tr>
+    <tr><td>Pilot kecil untuk pendekatan yang belum pernah dicoba</td><td><span class="pill p-warn">Hati-hati</span></td><td>Harus dijelaskan di pertanyaan "field component" dan dibatasi skalanya</td></tr>
+    <tr><td>Penanaman massal, pembangunan fisik, bagi bibit</td><td><span class="pill p-risk">Hindari</span></td><td>Kecuali skalanya sangat kecil dan jelas berfungsi sebagai demonstrasi</td></tr>
+    <tr><td>Dana bergulir atau hibah ke kelompok</td><td><span class="pill p-risk">Dilarang</span></td><td>FAQ secara eksplisit melarang seed grant</td></tr>
+  </table></div>
+</section>
+
+<section id="susun">
+  <h2>Menyusun ulang konsep NbS warga</h2>
+  <p>Kalau dilihat lagi, konsep NbS warga dari halaman sebelumnya <b>sudah setengahnya pemberdayaan</b>. Komposisinya tinggal dibuat eksplisit:</p>
+  <div class="rest">
+    <div class="card pe"><h4>Output 1 · Warga sebagai peneliti</h4><p>Warga dilatih memantau ekosistem bersama universitas. Hasilnya bukti manfaat adaptasi.</p><span class="who">Pemberdayaan → Pilar 2</span></div>
+    <div class="card pe"><h4>Output 2 · Belajar antarkomunitas</h4><p>Pertukaran, katalog, dan penguatan kelembagaan kelompok pengelola.</p><span class="who">Pemberdayaan → SO1</span></div>
+    <div class="card po"><h4>Output 3 · Pengakuan kebijakan</h4><p>Situs dan praktik masuk RDTR, Perwal, ProKlim, KLHS.</p><span class="who">Kebijakan → Pilar 1</span></div>
+    <div class="card po"><h4>Output 4 · Forum dan perlindungan</h4><p>Forum warga dengan pemda, uji kepekaan konflik, pelindungan pejuang lingkungan.</p><span class="who">Tata kelola → Topik 2</span></div>
+  </div>
+  <p>Dengan komposisi ini, Core Indicator yang bisa dilaporkan bertambah:</p>
+  <div class="tbl"><table>
+    <tr><th>Core Indicator</th><th>Sumber</th><th>Catatan</th></tr>
+    <tr><td>1 · Kebijakan atau instrumen</td><td>Output 3</td><td></td></tr>
+    <tr><td>2 · Mekanisme koordinasi</td><td>Output 4</td><td>Harus terlembaga, bukan pertemuan sesekali</td></tr>
+    <tr><td>3 · Instrumen MEL</td><td>Output 1</td><td>Jelaskan siapa memeliharanya setelah proyek selesai</td></tr>
+    <tr><td><b>4 · Penerima manfaat dengan kapasitas meningkat</b></td><td>Output 1 dan 2</td><td><b>Baru terbuka karena ada pemberdayaan.</b> Kehadiran minimal 80%, data terpilah gender.</td></tr>
+    <tr><td>9 · Luas ekosistem dengan praktik lebih baik</td><td>Output 3</td><td>Opsional. Luas situs yang diakui lewat rencana atau kebijakan bisa dihitung tanpa penanaman.</td></tr>
+  </table></div>
+  <p>Dalam proposal, hindari kata "advokasi" yang terdengar berhadap-hadapan. Pakai istilah yang dikenal reviewer: <i>policy engagement</i>, <i>policy uptake</i>, <i>mainstreaming</i>, <i>locally led adaptation</i>. Substansinya tetap sama.</p>
+</section>
+
+<section id="putusan">
+  <h2>Yang perlu diputuskan</h2>
+  <ol class="tight">
+    <li><b>Sub-opsi Pilar 1.</b> Dengan SO1 dan komponen pemberdayaan yang kuat, saya sekarang condong ke <b>Education, capacity building &amp; skills development</b>. Komponen kebijakan tetap bisa dikerjakan dan dilaporkan lewat Core Indicator 1, karena Core Indicator tidak terikat pada pilihan pilar.</li>
+    <li><b>Proporsi.</b> Setujui patokan kerja: sekitar 30–40% kegiatan langsung bersama komunitas, dan sisanya untuk bukti, kebijakan, dan forum.</li>
+    <li><b>Siapa yang mendampingi di tiap situs.</b> Pemberdayaan butuh pendamping lapangan. Tentukan apakah ED WALHI, lembaga anggota, atau komunitasnya sendiri. Pilihan ini juga menentukan pemenuhan syarat ≥25% anggaran untuk mitra lokal.</li>
+  </ol>
+</section>
+</main>
+</div>
