@@ -1,0 +1,356 @@
+{
+ "id": "R02",
+ "tanggal": "2026-08-14",
+ "rentang": [
+  "2026-08-13",
+  "2026-08-29"
+ ],
+ "kueri": [
+  "walhi karhutla \"sesak napas\"",
+  "walhi \"aksi serentak\" karhutla",
+  "\"negara seremonial\" karhutla",
+  "aksi karhutla \"sesak napas\" negara korporasi",
+  "demo walhi karhutla berulang"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 17,
+ "berita": [
+  {
+   "judul": "Karhutla Kembali Terjadi, Koalisi Masyarakat Sipil: Jambi Belum Merdeka dari Asap - Gaperta.Id",
+   "media": "Gaperta.Id",
+   "tanggal": "14 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"sesak napas\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://gaperta.id/karhutla-kembali-terjadi-koalisi-masyarakat-sipil-jambi-belum-merdeka-dari-asap/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Demo WALHI Soroti Karhutla yang Terus Berulang - Liputan6.com",
+   "media": "Liputan6.com",
+   "tanggal": "14 Aug 2026",
+   "kueri": [
+    "walhi \"aksi serentak\" karhutla",
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.liputan6.com/photo/read/8270079/demo-walhi-soroti-karhutla-yang-terus-berulang",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Demo WALHI Soroti Karhutla yang Terus Berulang\nWahana Lingkungan Hidup Indonesia (WALHI) menggelar aksi serentak di enam wilayah pada momentum 81 tahun kemerdekaan Indonesia, Jumat (14/8/2026).",
+    "Di Jakarta, aktivis WALHI berunjuk rasa di kawasan Tosari untuk menyoroti kebakaran hutan dan lahan yang terus berulang."
+   ]
+  },
+  {
+   "judul": "Indonesia yang Belum Merdeka dari Asap - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "14 Aug 2026",
+   "kueri": [
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/indonesia-yang-belum-merdeka-dari-asap",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi menyuarakan keprihatinan sekaligus kemarahan pada pemerintah yang gagal menjawab akar persoalan kebakaran hutan dan lahan di Indonesia.",
+    "Menjelang peringatan Hari Ulang Tahun Ke-81 Kemerdekaan Republik Indonesia, Jumat (14/8/2026), Wahana Lingkungan Hidup Indonesia (Walhi) memilih membawa pesan yang berbeda."
+   ]
+  },
+  {
+   "judul": "WALHI Sebut Sumsel Lumbung Asap - beritapagi.co.id",
+   "media": "beritapagi.co.id",
+   "tanggal": "14 Aug 2026",
+   "kueri": [
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://beritapagi.co.id/2026/08/14/walhi-sebut-sumsel-lumbung-asap/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Palembang,BP- Wahana Lingkungan Hidup (WALHI) Sumatera Selatan (Sumsel) mengkritik cara pandang dan penanganan kebakaran hutan dan lahan (karhutla) yang selama ini cenderung menempatkan kebakaran sebagai persoalan musim kemarau atau bencana",
+    "Bentuk kritik tersebut disampaikan WALHI Sumsel lewat gerakan aksi simbolik ‘Sumsel Lumbung Asap’ di Dusun 3, Desa Arisan Jaya, Kecamatan Pemulutan Barat, Kabupaten Ogan lir, Sumsel, Jumat (14/8/2026)."
+   ]
+  },
+  {
+   "judul": "Kalimantan Dikepung Asap Kebakaran Hutan, Ada 500 Lebih Titik Api - Indonesia Online",
+   "media": "Indonesia Online",
+   "tanggal": "20 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"sesak napas\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://indonesiaonline.co.id/kalimantan-dikepung-asap-kebakaran-hutan-ada-500-lebih-titik-api/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Dia mengutip data Walhi Kalimantan Selatan yang menunjukkan tingginya titik panas di wilayah konsesi.",
+    "Sorotan terhadap titik panas di kawasan konsesi juga muncul dalam pemantauan Walhi."
+   ]
+  },
+  {
+   "judul": "Karhutla Kalimantan: Kemarahan warga Kalimantan yang 'tercekik' kabut asap seumur hidup - BBC",
+   "media": "BBC",
+   "tanggal": "21 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"sesak napas\"",
+    "aksi karhutla \"sesak napas\" negara korporasi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/cx2v3v70x87o",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Plt Kepala Dinas Pendidikan dan Kebudayaan Provinsi Kalimantan Barat, Syarif Faisal, mengatakan pembelajaran tatap muka di Kota Pontianak telah kembali dilaksanakan, sedangkan di Kabupaten Kubu Raya masih dilakukan secara daring.",
+    "Sementara itu, melalui siaran pers Kementerian Kehutanan pada 20 Agustus, pemerintah mengklaim telah memperkuat operasi terpadu pengendalikan karhutla."
+   ],
+   "kalimat_walhi": [
+    "Itu sebabnya, menurut Koordinator Pengkampanye Walhi (Wahana Lingkungan Hidup) Nasional, Uli Arta Siagian \"negara seolah-olah tidak mampu menjawab akar persoalan kebakaran hutan dan lahan dan tunduk pada kepentingan korporasi\".",
+    "Dalam analisis Walhi periode Januari-Juli 2026, secara keseluruhan, Pulau Kalimantan mencatat 34.262 hotspot dengan luas indikatif karhutla mencapai 33.837 hektare, tersebar di Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalima"
+   ]
+  },
+  {
+   "judul": "WALHI: Karhutla Berulang di Sumatera dan Kalimantan karena Perizinan Ekstraktif di Ekosistem Gambut - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kompas.tv/nasional/687114/walhi-karhutla-berulang-di-sumatera-dan-kalimantan-karena-perizinan-ekstraktif-di-ekosistem-gambut",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JAKARTA, KOMPAS.TV - Direktur Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (WALHI) Boy Jeffry Even Sembiring menegaskan kebakaran hutan dan lahan (karhutla) yang terjadi berulang di Sumatera dan Kalimantan tidak bisa dilepaskan dari",
+    "Baca Juga: Kemlu Sebut Belum Ada Protes Resmi soal Asap Karhutla dari Negara Tetangga\nWALHI pun menyoroti titik-titik api yang muncul di areal konsesi perusahaan."
+   ]
+  },
+  {
+   "judul": "Karhutla Kalimantan: Korporasi Picu Asap, Peladang Jadi Kambing Hitam - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"sesak napas\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Green Policing Polda Riau Diuji Karhutla, WALHI: Jangan Hanya Jadi Jargon - Riau Online",
+   "media": "Riau Online",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.riauonline.co.id/riau/read/2026/08/25/green-policing-polda-riau-diuji-karhutla-walhi-jangan-hanya-jadi-jargon",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "RIAU ONLINE, PEKANBARU - Program Green Policing yang digagas Polda Riau mendapat dukungan dari Wahana Lingkungan Hidup Indonesia (WALHI) Riau.",
+    "Direktur WALHI Riau, Eko Yunanda, mengatakan Green Policing seharusnya tidak hanya menjadi jargon atau kegiatan seremonial."
+   ]
+  },
+  {
+   "judul": "Karhutla Berulang, WALHI Kritik Pendekatan Kriminal Pihak Berwenang karena Hanya Sasar Perorangan - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kompas.tv/nasional/687268/karhutla-berulang-walhi-kritik-pendekatan-kriminal-pihak-berwenang-karena-hanya-sasar-perorangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ia menilai pernyataan Presiden Prabowo Subianto untuk menindak tegas perusahaan-perusahaan yang terindikasi melanggar dan menyebabkan karhutla sudah benar.",
+    "kata Direktur Tindak Pidana Tertentu (Dirtipidter) Bareskrim Polri Brigjen Mohammad Irhamni, Minggu (23/8/2026)."
+   ],
+   "kalimat_walhi": [
+    "JAKARTA, KOMPAS.TV - Direktur Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (WALHI), Boy Jerry Even Sembiring, mengkritik pendekatan statistik kriminal oleh pihak berwenang dalam menangani kasus kebakaran hutan dan lahan (karhutla) y",
+    "Berdasarkan investigasi WALHI, Boy membantah karhutla yang terjadi di Kalimantan dan Sumatera semata-mata disebabkan oleh masyarakat."
+   ]
+  },
+  {
+   "judul": "Karhutla Berulang, WALHI: Praktik Buruk Penerbitan Izin Hutan, Pendekatan Kriminal Dikritik - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.tribunnews.com/nasional/7873288/karhutla-berulang-walhi-praktik-buruk-penerbitan-izin-hutan-pendekatan-kriminal-dikritik",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Gambut Rusak Jadi Bom Waktu: Walhi Sebut 6 Wilayah Rawan Karhutla di Kalteng - OWRITE",
+   "media": "OWRITE",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"sesak napas\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.owrite.id/nasional/2026/08/26/gambut-rusak-jadi-bom-waktu-walhi-sebut-6-wilayah-rawan-karhutla-di-kalteng/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Direktur Eksekutif Walhi Kalimantan Tengah Janang Firman Palanungkai menyatakan enam daerah di Kalimantan Tengah menjadi titik rawan kebakaran hutan dan lahan (karhutla), yakni Kota Palangka Raya, Kabupaten Kotawaringin Timur, Kapuas, Pulan",
+    "kata Janang dalam konferensi pers Walhi, Rabu, 26 Agustus 2026."
+   ]
+  },
+  {
+   "judul": "Cerita Kabut Asap Karhutla Mencekik Napas Mereka yang Rentan - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"sesak napas\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://prohealth.id/cerita-kabut-asap-karhutla-mencekik-napas-mereka-yang-rentan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Berdasarkan data Wahana Lingkungan Hidup Indonesia (WALHI), sepanjang periode 1–24 Agustus 2026 terdeteksi sebanyak 202.848 titik hotspot di seluruh Indonesia.",
+    "Direktur WALHI Kalbar Sri Hartini menyebut jumlah titik panas dengan tingkat kepercayaan tinggi telah mencapai 4.638 titik per 25 Agustus 2026."
+   ]
+  },
+  {
+   "judul": "SENTIMEN PUBLIK TERHADAP PENANGANAN BENCANA KEBAKARAN HUTAN DAN LAHAN - Drone Emprit Publications",
+   "media": "Drone Emprit Publications",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "aksi karhutla \"sesak napas\" negara korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pers.droneemprit.id/sentimen-publik-terhadap-penanganan-bencana-kebakaran-hutan-dan-lahan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Mensesneg membantah pengusaha pimpin pemadaman, dan Menteri Lingkungan sebut asap ke Malaysia akibat arah angin.",
+    "Visual awan kata membuktikan fokus utama publik tak beranjak dari \"kabut asap\", \"kebakaran hutan\", \"Prabowo Subianto\", \"Gubernur Sumsel\", & ancaman \"el nino\"."
+   ],
+   "kalimat_walhi": [
+    "Aktivis WALHI mengkritik penegakan hukum yang hanya menyasar perorangan."
+   ]
+  },
+  {
+   "judul": "\"Karhutla berulang, kritik dan desakan mahasiswa menguat\" Halaman all - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/tepenic08/6a90f3a5c925c45b3d013566/karhutla-berulang-kritik-dan-desakan-mahasiswa-menguat?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Mereka juga menyatakan bahwa apabila tuntutan tersebut tidak dipenuhi dalam batas waktu yang ditentukan, Gubernur Kalimantan Selatan didesak untuk mengundurkan diri sebagai bentuk pertanggungjawaban."
+   ],
+   "kalimat_walhi": [
+    "Salah satu aksi yang menjadi bagian dari rangkaian tersebut dilakukan oleh Wahana Lingkungan Hidup Indonesia (WALHI) pada Jumat, 14 Agustus 2026.",
+    "Berdasarkan pemberitaan Liputan6, WALHI menggelar aksi secara serentak di enam wilayah, yaitu Kalimantan Tengah, Kalimantan Selatan, Kalimantan Barat, Kalimantan Timur, Jambi, dan Sumatera Selatan."
+   ]
+  },
+  {
+   "judul": "Walhi Sebut 99 Persen Karhutla Disebabkan Aktivitas Korporasi, Singgung Kondisi di Indonesia - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"sesak napas\"",
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kompas.tv/nasional/688014/walhi-sebut-99-persen-karhutla-disebabkan-aktivitas-korporasi-singgung-kondisi-di-indonesia?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JAKARTA, KOMPAS.TV - Wahana Lingkungan Hidup Indonesia (Walhi) menyebut 99 persen kebakaran hutan dan lahan (karhutla) disebabkan oleh aktivitas korporasi.",
+    "Koordinator Pengkampanye Eksekutif Nasional Walhi, Uli Arta Siagian mengatakan riset yang ada terkait karhutla menyebutkan, hanya 1 persen kebakaran hutan dan lahan terjadi secara alami."
+   ]
+  },
+  {
+   "judul": "Ratusan ”Hotspot” Terdeteksi di Hutan dan Lahan Konsesi, Karhutla di Lampung Kian Meluas - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "demo walhi karhutla berulang"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/ratusan-hotspot-terdeteksi-di-kawasan-hutan-dan-lahan-konsesi-karhutla-di-lampung-kian-meluas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Lampung mendorong aparat penegak hukum selidiki dan usut jika ada pelanggaran hukum di baliknya.",
+    "Direktur Eksekutif Walhi Lampung Irfan Tri Musri mengungkapkan, dari hasil analisis spasial Walhi Lampung terhadap data titik panas NASA Fire Data selama periode 23-28 Agustus 2026, terdapat 386 titik panas yang terdeteksi berada di dalam l"
+   ]
+  }
+ ]
+}

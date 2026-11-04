@@ -1,0 +1,210 @@
+{
+ "id": "R22",
+ "tanggal": "2026-10-15",
+ "rentang": [
+  "2026-10-14",
+  "2026-11-05"
+ ],
+ "kueri": [
+  "walhi RSPO \"Astra Agro\"",
+  "walhi AAL RSPO",
+  "RSPO \"Astra Agro Lestari\"",
+  "RSPO AALI anggota",
+  "Friends of the Earth RSPO Astra"
+ ],
+ "jejaring": [
+  "Friends of the Earth",
+  "TuK",
+  "Milieudefensie"
+ ],
+ "jumlah_berita": 9,
+ "berita": [
+  {
+   "judul": "1,9 Juta Hektare Lahan Terbakar, Hampir 90% di Luar Konsesi Sawit - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "RSPO \"Astra Agro Lestari\"",
+    "RSPO AALI anggota"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/berita/industri/6ae83295194f6/1-9-juta-hektare-lahan-terbakar-hampir-90-di-luar-konsesi-sawit",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "RSPO: Karhutla RI Meningkat 38%, Kalimantan Jadi Wilayah Kebakaran Terluas - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "RSPO \"Astra Agro Lestari\"",
+    "RSPO AALI anggota"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/berita/industri/6ae996e8af68d/rspo-karhutla-ri-meningkat-38-kalimantan-jadi-wilayah-kebakaran-terluas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Astra Agro Lestari Resmi Jadi Anggota Penuh RSPO - InfoSAWIT",
+   "media": "InfoSAWIT",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "RSPO \"Astra Agro Lestari\"",
+    "RSPO AALI anggota"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.infosawit.com/2026/10/21/astra-agro-lestari-resmi-jadi-anggota-penuh-rspo/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Carrefour Terancam Rugi hingga Rp 4 Triliun Akibat Kerusuhan Prancis - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "RSPO AALI anggota"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/berita/industri/6ad80c51e0803/carrefour-terancam-rugi-hingga-rp-4-triliun-akibat-kerusuhan-prancis",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Anomali Iklim Tingkatkan Risiko Karhutla, APHI Tekankan Pentingnya Mitigasi Berbasis Data - InfoSAWIT",
+   "media": "InfoSAWIT",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "RSPO \"Astra Agro Lestari\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.infosawit.com/2026/10/22/anomali-iklim-tingkatkan-risiko-karhutla-aphi-tekankan-pentingnya-mitigasi-berbasis-data/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Astra Agro Lestari Resmi Jadi Anggota RSPO, Bidik Sertifikasi Sawit Berkelanjutan - Agricom.id",
+   "media": "Agricom.id",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "RSPO \"Astra Agro Lestari\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.agricom.id/2026/1571/berita/astra-agro-lestari-resmi-jadi-anggota-rspo-bidik-sertifikasi-sawit-berkelanjutan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Kalimantan Tengah Soroti Rantai Pasok Sawit Global - Agricom.id",
+   "media": "Agricom.id",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "walhi RSPO \"Astra Agro\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.agricom.id/2026/1725/berita/karhutla-kalimantan-tengah-soroti-rantai-pasok-sawit-global/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Desakan tersebut disampaikan tiga organisasi masyarakat sipil, yakni TuK INDONESIA, WALHI Kalimantan Tengah, dan Sawit Watch.",
+    "Direktur Eksekutif WALHI Kalimantan Tengah, Janang Firman Palanungkai, menegaskan bahwa perusahaan pembeli perlu mengambil tindakan apabila pelanggaran terbukti, termasuk mendorong pemulihan dampak lingkungan dan memenuhi hak masyarakat ter"
+   ]
+  },
+  {
+   "judul": "Terima Astra Agro Lestari (AALI) Jadi Anggota, RSPO Dikaitkan Isu Greenwashing - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "RSPO \"Astra Agro Lestari\"",
+    "RSPO AALI anggota",
+    "Friends of the Earth RSPO Astra"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/berita/industri/6ae56966a8bdd/terima-astra-agro-lestari-aali-jadi-anggota-rspo-dikaitkan-isu-greenwashing",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "Friends of the Earth",
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jadi Anggota Baru RSPO, Perusahaan Sawit Didorong Lakukan Perbaikan - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "RSPO \"Astra Agro Lestari\"",
+    "RSPO AALI anggota",
+    "Friends of the Earth RSPO Astra"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/berita/industri/6ae56966a8bdd/jadi-anggota-baru-rspo-perusahaan-sawit-didorong-lakukan-perbaikan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "Friends of the Earth",
+    "TuK"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

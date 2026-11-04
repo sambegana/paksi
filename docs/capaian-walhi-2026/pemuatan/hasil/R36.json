@@ -1,0 +1,191 @@
+{
+ "id": "R36",
+ "tanggal": "2026-09-29",
+ "rentang": [
+  "2026-09-28",
+  "2026-10-14"
+ ],
+ "kueri": [
+  "walhi petambak KOMPI",
+  "KOMPI tambak pantura",
+  "\"revitalisasi tambak\" pantura",
+  "walhi \"ketahanan pangan\" petambak",
+  "petambak PSN tambak KKP",
+  "KIARA tambak pantura"
+ ],
+ "jejaring": [
+  "KOMPI",
+  "Jatayu",
+  "KIARA"
+ ],
+ "jumlah_berita": 8,
+ "berita": [
+  {
+   "judul": "Koalisi Minta PSN Revitalisasi Tambak Pantura Dihentikan - Betahita",
+   "media": "Betahita",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi petambak KOMPI",
+    "KOMPI tambak pantura",
+    "\"revitalisasi tambak\" pantura",
+    "walhi \"ketahanan pangan\" petambak",
+    "petambak PSN tambak KKP"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12446/koalisi-minta-psn-revitalisasi-tambak-pantura-dihentikan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Teo Reffelsen",
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [
+    "KOMPI"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Kamis, 01 Oktober 2026\nBETAHITA.ID - Walhi mendesak pemerintah hentikan PSN Revitalisasi Tambak Pantura.",
+    "Koalisi Masyarakat Pesisir Indramayu (Kompi) dan Wahana Lingkungan Hidup Indonesia (Walhi) menilai persoalan utama PSN Revitalisasi Tambak Pantura adalah perubahan penguasaan ruang dan kendali atas sistem pangan pesisir."
+   ]
+  },
+  {
+   "judul": "Gantikan Listyo Sigit Prabowo, Komjen Suyudi Ario Seto Segera Dilantik Jadi Kapolri Baru - Harian Massa Id - Harian Massa",
+   "media": "Harian Massa",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.harianmassa.id/news/2717702920/gantikan-listyo-sigit-prabowo-komjen-suyudi-ario-seto-segera-dilantik-jadi-kapolri-baru",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Ratusan Nelayan Datangi Kementerian Kelautan Tolak PSN Tambak - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "03 Oct 2026",
+   "kueri": [
+    "walhi petambak KOMPI",
+    "KOMPI tambak pantura",
+    "\"revitalisasi tambak\" pantura",
+    "walhi \"ketahanan pangan\" petambak",
+    "petambak PSN tambak KKP"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/10/03/ratusan-nelayan-datangi-kementerian-kelautan-tolak-psn-tambak/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 14,
+   "penutur_walhi": [
+    "Teo Reffelsen",
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [
+    "KOMPI",
+    "Jatayu"
+   ],
+   "kalimat_pemerintah": [
+    "- KKP menyebut revitalisasi bertujuan meningkatkan produktivitas dan kesejahteraan pembudidaya, tetapi warga menuntut proyek dibatalkan.",
+    "Mida Saragih, Manajer Kampanye Pesisir dan Laut Walhi Eksekutif Nasional, mengatakan, sebagai kementerian yang bertanggung jawab terhadap kelautan dan perikanan, seharusnya KKP melindungi masyarakat pesisir, sebagaimana amanat Undang-undang.",
+    "“KKP seharusnya bisa memastikan hak masyarakat pesisir bisa terlindungi serta melibatkan mereka secara bermakna dalam setiap pengambilan keputusan yang menyangkut wilayah kelolanya,”",
+    "Fariz Abiyyu Putra W, Staff Pengelolaan Sumber Daya Walhi Jabar mengatakan, klaim KKP yang menyebut bahwa lokasi proyek merupakan kosong tidak menggambarkan kondisi lapangan.",
+    "Selain itu, KKP perlu memastikan keterbukaan informasi, perlindungan tambak rakyat dan ekosistem mangrove, serta pengawasan terhadap potensi pencemaran, abrasi, dan perubahan lingkungan."
+   ],
+   "kalimat_walhi": [
+    "- Warga dan Walhi mempersoalkan dampak ekologis serta transparansi proyek.",
+    "Meski perwakilan warga dan Walhi menyampaikan penolakan dalam sidang AMDAL pada April 2026, SKKLH proyek tetap terbit pada 18 Juni 2026."
+   ]
+  },
+  {
+   "judul": "Perpres Nomor 74 Tahun 2026 Resmi Terbit, KKP Kawal Ketat Pasokan Ikan Nasional dari Hulu ke Hilir - faktakalbar",
+   "media": "faktakalbar",
+   "tanggal": "04 Oct 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://faktakalbar.id/berita/perpres-nomor-74-tahun-2026-resmi-terbit-kkp-kawal-ketat-pasokan-ikan-nasional-dari-hulu-ke-hilir",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Kelautan dan Perikanan (KKP) memastikan kebijakan tersebut didukung dengan penguatan pasokan ikan dari sektor hulu hingga hilir.",
+    "Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono mengatakan ketersediaan ikan berkualitas penting untuk memenuhi kebutuhan protein masyarakat.",
+    "Wakil Menteri Kelautan dan Perikanan Didit Herdiawan Ashaf menyebut pendekatan hulu-hilir tersebut diperlukan untuk memperkuat rantai nilai perikanan secara menyeluruh."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Walhi Didemo Koalisi Pendukung Revitalisasi Tambak Pantura Jawa - Iconomics",
+   "media": "Iconomics",
+   "tanggal": "28 Sep 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura",
+    "walhi \"ketahanan pangan\" petambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.theiconomics.com/change-management/walhi-didemo-koalisi-pendukung-revitalisasi-tambak-pantura-jawa/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 13,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Didemo Koalisi Pendukung Revitalisasi Tambak Pantura Jawa\nPuluhan massa yang tergabung dalam Koalisi Pemuda Anti Antek Asing (KOPAAAS) mendesak Wahana Lingkungan Hidup Indonesia (WALHI) dibubarkan.",
+    "Koordinator aksi KOPAAAS, Afrudin mengatakan pihaknya mempertanyakan sikap WALHI yang dinilai menolak sejumlah program pemerintah, termasuk program revitalisasi tambak di wilayah Pantai Utara (Pantura) Jawa."
+   ]
+  },
+  {
+   "judul": "Muncul Desakan Pembubaran WALHI, Koalisi Pemuda Anti Antek Asing Gelar Aksi di Tengah Diskusi Publik - Jempolindo.id",
+   "media": "Jempolindo.id",
+   "tanggal": "28 Sep 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura",
+    "walhi \"ketahanan pangan\" petambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://jempolindo.id/muncul-desakan-pembubaran-walhi-koalisi-pemuda-anti-antek-asing-gelar-aksi-di-tengah-diskusi-publik/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Jakarta, Jempolindo.id — Di tengah berlangsungnya diskusi publik dan peluncuran buku Semesta Ume: Teknologi Cerdas Pertanian Leluhur di Kantor Eksekutif Nasional WALHI, Jakarta Selatan, Senin (28/9/2026), muncul desakan pembubaran terhadap ",
+    "Kelompok tersebut mendatangi kantor WALHI sekitar pukul 10.51 WIB dengan membawa tuntutan pembubaran organisasi."
+   ]
+  },
+  {
+   "judul": "Pemerintah Umumkan Gaji Manajer Kopdes Merah Putih Sesuai UMK - Harian Massa Id - Harian Massa",
+   "media": "Harian Massa",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.harianmassa.id/news/2717700823/pemerintah-umumkan-gaji-manajer-kopdes-merah-putih-sesuai-umk",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Usai Habisi Turki, Giorgio Scalvini Optimistis Italia Mampu Tampil Dominan saat Bentrok Lawan Prancis - Harian Massa Id - Harian Massa",
+   "media": "Harian Massa",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.harianmassa.id/olahraga/2717700866/usai-habisi-turki-giorgio-scalvini-optimistis-italia-mampu-tampil-dominan-saat-bentrok-lawan-prancis",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  }
+ ]
+}

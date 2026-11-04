@@ -1,0 +1,498 @@
+{
+ "id": "P12",
+ "tanggal": "2026-10-26",
+ "rentang": [
+  "2026-10-25",
+  "2026-11-10"
+ ],
+ "kueri": [
+  "walhi \"pasal 72\"",
+  "\"pasal 72\" UU Kehutanan karhutla",
+  "menhut gugat perusahaan karhutla",
+  "kemenhut gugatan perdata karhutla"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 28,
+ "berita": [
+  {
+   "judul": "Kemenhut Pasang Plang di Bekas Karhutla Kalteng - Demokratis.co.id",
+   "media": "Demokratis.co.id",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://demokratis.co.id/kemenhut-plang-bekas-karhutla-kalteng",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Menhut Pasang Plang Larangan Aktivitas di Kawasan Bekas Karhutla Kalteng - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/11/01/15434071/menhut-pasang-plang-larangan-aktivitas-di-kawasan-bekas-karhutla-kalteng",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Politikus Partai Solidaritas Indonesia ini juga menyebut Presiden Prabowo Subianto telah berkomitmen memperkuat pengamanan hutan melalui penambahan personel polisi hutan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menhut Perketat Pengamanan Hutan Bekas Karhutla di Kalimantan Tengah - VIVA.co.id",
+   "media": "VIVA.co.id",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.viva.co.id/berita/nasional/1940191-menhut-perketat-pengamanan-hutan-bekas-karhutla-di-kalimantan-tengah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menhut Perketat Pengamanan Hutan Bekas Karhutla di Kalimantan Tengah\n- ANTARA/HO-Kemenhut RI\nPalangka Raya, VIVA - Menteri Kehutanan (Menhut), Raja Juli Antoni mengatakan pemerintah memperketat pengamanan di sejumlah kawasan bekas kebakaran hutan dan lahan (karhutla) di Kalimanta",
+    "Menhut menyebut Presiden Prabowo Subianto memiliki komitmen kuat dalam menjaga kelestarian hutan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Indonesia-Singapura Bentuk Satgas Karhutla, Pakar Ungkap PR Besarnya - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/11/01/21423171/indonesia-singapura-bentuk-satgas-karhutla-pakar-ungkap-pr-besarnya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menhut Perketat Pengawasan di Wilayah Bekas Karhutla Kalimantan Tengah - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01124042/menhut-perketat-pengawasan-di-wilayah-bekas-karhutla-kalimantan-tengah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pemasangan tanda peringatan tersebut difokuskan pada sejumlah titik kawasan pemegang Perizinan Berusaha Pemanfaatan Hutan (PBPH) yang sebelumnya telah dijatuhi sanksi tegas oleh Kementerian Kehutanan, mulai dari pembekuan izin operasional hingga kewajiban hukum untuk melaksanakan",
+    "Menutup keterangannya, Menhut menegaskan bahwa komitmen tinggi Presiden Prabowo Subianto dalam menjaga kelestarian hutan diwujudkan secara nyata melalui kebijakan penambahan sumber daya manusia, termasuk penyiapan generasi baru penjaga hutan dalam jumlah yang masif."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menhut Pasang Plang Larangan di Bekas Karhutla Kalteng, Kenapa Baru Sekarang? - semaraknews.co.id - Semaraknews",
+   "media": "Semaraknews",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://semaraknews.co.id/amp/36589/menhut-pasang-plang-larangan-di-bekas-karhutla-kalteng-kenapa-baru-sekarang",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Kehutanan Raja Juli Antoni mengatakan, pemasangan plang tersebut merupakan bagian dari upaya mengamankan kawasan hutan sekaligus mempersempit ruang bagi aktivitas ilegal.",
+    "Di sisi lain, Raja Juli menyebut Presiden Prabowo Subianto telah mengambil keputusan untuk memperkuat pengamanan hutan melalui penambahan personel polisi hutan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut Tetapkan Dua Perusahaan sebagai Tersangka Kasus Kebakaran Hutan - masakini.co",
+   "media": "masakini.co",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://masakini.co/2026/11/01/kemenhut-tetapkan-dua-perusahaan-sebagai-tersangka-kasus-kebakaran-hutan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Jenderal Penegakan Hukum Kehutanan Kemenhut, Dwi Januanto Nugroho, mengatakan penegakan hukum dilakukan terhadap seluruh perusahaan tanpa membedakan asal modal, baik dalam negeri maupun asing.",
+    "Direktur Penindakan Pidana Kehutanan Kemenhut, Rudianto Saragih Napitu, menjelaskan penetapan kedua perusahaan sebagai tersangka dilakukan setelah penyidik mengumpulkan dan mendalami bukti, termasuk aktivitas di lokasi, kewajiban hukum perusahaan, serta dugaan perbuatan atau kela"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut Tetapkan PT MAP dan PT GAP sebagai Tersangka - Lensa Hukum",
+   "media": "Lensa Hukum",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lensahukum.co.id/kemenhut-tetapkan-tersangka-korporasi",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Sisir Hutan Kalteng, Menhut Raja Juli Temukan Dugaan Pembalakan Liar, Kayu hingga Ekskavator Disegel - Opsi.id",
+   "media": "Opsi.id",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://opsi.id/sisir-hutan-kalteng-menhut-raja-juli-temukan-dugaan-pembalakan-liar-kayu-hingga-ekskavator-disegel/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Baca juga: Raja Juli Sebut Gugatan Syarat Pendidikan Gibran di MK Manuver Politik Tak Beradab\nKementerian Kehutanan menegaskan pemeriksaan akan dilakukan berdasarkan fakta di lapangan serta dokumen yang berkaitan dengan kepemilikan, asal-usul kayu, dan penggunaan alat berat.",
+    "Kementerian Kehutanan menegaskan pengawasan dan penegakan hukum harus berjalan beriringan dengan upaya pencegahan kebakaran hutan demi menjaga kelestarian lingkungan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Siap Gugat Perusahaan Malaysia dan Singapura Terkait Karhutla, Korporasi Induk Ikut Dibidik - Selingkar Wilis - Selingkar Wilis",
+   "media": "Selingkar Wilis",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://www.selingkarwilis.com/nasional/amp/85017844931/walhi-siap-gugat-perusahaan-malaysia-dan-singapura-terkait-karhutla-korporasi-induk-ikut-dibidik",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tindak Tegas! Menhut Raja Juli Pasang Plang di Bekas Karhutla Kalteng, Cegah Pembalakan Liar - BeritaNusa.com - BeritaNusa.com",
+   "media": "BeritaNusa.com",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.beritanusa.com/nasional/2503171310/tindak-tegas-menhut-raja-juli-pasang-plang-di-bekas-karhutla-kalteng-cegah-pembalakan-liar",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Hutan Indonesia Terbakar, Unilever hingga Nestlé Didesak Bertanggung Jawab atas Kerusakan Lingkungan - Selingkar Wilis - Selingkar Wilis",
+   "media": "Selingkar Wilis",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.selingkarwilis.com/nasional/amp/85017845851/hutan-indonesia-terbakar-unilever-hingga-nestl%C3%A9-didesak-bertanggung-jawab-atas-kerusakan-lingkungan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenhut Tetapkan PT MAP dan PT GAP sebagai Tersangka Kasus Karhutla, 901 Hektare Lahan Terbakar - Info Temanggung",
+   "media": "Info Temanggung",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://temanggung.pikiran-rakyat.com/nasional/pr-26110537808/kemenhut-tetapkan-pt-map-dan-pt-gap-sebagai-tersangka-kasus-karhutla-901-hektare-lahan-terbakar?page=all",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenhut Tetapkan PT MAP dan PT GAP sebagai Tersangka Kasus Karhutla, 901 Hektare Lahan Terbakar - Halaman 2 - Info Temanggung",
+   "media": "Info Temanggung",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://temanggung.pikiran-rakyat.com/nasional/amp/pr-26110537808/kemenhut-tetapkan-pt-map-dan-pt-gap-sebagai-tersangka-kasus-karhutla-901-hektare-lahan-terbakar?page=2",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla Disebut Sengaja untuk Rusak Citra Pemerintah, Siapa Dalangnya? - Selingkar Wilis - Selingkar Wilis",
+   "media": "Selingkar Wilis",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.selingkarwilis.com/nasional/85017850786/karhutla-disebut-sengaja-untuk-rusak-citra-pemerintah-siapa-dalangnya",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "KLH Didesak Buka Data 335 Perusahaan Terlibat Karhutla - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "04 Nov 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/952074/klh-didesak-buka-data-335-perusahaan-terlibat-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "\"Kalau KLH/BPLH menyatakan sedang menginvestigasi kebakaran di area konsesi 335 perusahaan, maka publik berhak mengetahui perusahaan mana saja yang sedang diperiksa, di mana lokasi kebakarannya, berapa luas area yang terbakar, serta bagaimana perkembangan penanganan terhadap masi",
+    "WALHI Kalimantan Selatan mengingatkan bahwa mandat utama KLH/BPLH adalah memastikan perlindungan dan pengelolaan lingkungan hidup berjalan semestinya, termasuk mengawasi dan menegakkan hukum atas setiap pelanggaran lingkungan.",
+    "Karena itu, Menteri Lingkungan Hidup harus memprioritaskan langkah konkret: mengungkap penyebab kebakaran, mengidentifikasi penanggung jawab, serta memastikan pertanggungjawaban hukum."
+   ],
+   "kalimat_walhi": [
+    "ORGANISASI Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Selatan mendesak Kementerian Lingkungan Hidup/Badan Pengendalian Lingkungan Hidup (KLH/BPLH) secara transparan membuka data 335 perusahaan yang saat ini sedang diinvestigasi te",
+    "Direktur Eksekutif WALHI Kalimantan Selatan, Raden Rafiq Sepdian Fadel Wibisono, Rabu (4/11) menegaskan bahwa pemerintah harus mengedepankan fakta dan bukti lapangan dalam mengungkap penyebab karhutla, bukan membangun dugaan atau narasi yan"
+   ]
+  },
+  {
+   "judul": "Walhi: Perusahaan Penyebab Karhutla Perlu Ditindak Secara Hukum - NU Online",
+   "media": "NU Online",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi \"pasal 72\"",
+    "\"pasal 72\" UU Kehutanan karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://islam.nu.or.id/nasional/walhi-perusahaan-penyebab-karhutla-perlu-ditindak-secara-hukum-y5SzC",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi: Perusahaan Penyebab Karhutla Perlu Ditindak Secara Hukum\nNU Online · Senin, 26 Oktober 2026 | 21:00 WIB\nKonferensi Pers Kewajiban Kementerian Kehutanan Mewakili Warga Terdampak Kebakaran Hutan di Jakarta, Senin (26/10/2026).",
+    "(NU Online/Jannah)\nRikhul Jannah\nKontributor\nJakarta, NU Online\nWahana Lingkungan Hidup Indonesia (Walhi) menilai penindakan terhadap perusahaan yang wilayah konsesinya mengalami kebakaran hutan dan lahan (karhutla) belum maksimal."
+   ]
+  },
+  {
+   "judul": "Walhi Desak Menhut Jalankan UU Kehutanan Demi Warga Terdampak Kebakaran Hutan - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi \"pasal 72\"",
+    "\"pasal 72\" UU Kehutanan karhutla",
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pakar: Kepastian hukum dan pencegahan perlu didorong atasi karhutla - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ambon.antaranews.com/berita/349259/pakar-kepastian-hukum-dan-pencegahan-perlu-didorong-atasi-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "DPR Desak Kenaikan Gaji Guru Diprioritaskan dalam APBN 2028 di Tengah Modernisasi Sekolah - Sapos - Samarinda Pos",
+   "media": "Samarinda Pos",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.sapos.co.id/berita/2457616607/dpr-desak-kenaikan-gaji-guru-diprioritaskan-dalam-apbn-2028-di-tengah-modernisasi-sekolah?page=2",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Warga Terdampak Karhutla Menjerit, Kesehatan Terganggu hingga Ekonomi Terpuruk - NU Online",
+   "media": "NU Online",
+   "tanggal": "27 Oct 2026",
+   "kueri": [
+    "\"pasal 72\" UU Kehutanan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://islam.nu.or.id/nasional/warga-terdampak-karhutla-menjerit-kesehatan-terganggu-hingga-ekonomi-terpuruk-CXFdY",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [
+    "Christine Constanta"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Sementara itu, Manajer Pembelaan Hukum Wahana Lingkungan Hidup Indonesia (Walhi) Nasional, Christine Constanta, mengungkapkan bahwa besarnya dampak karhutla terlihat dari beban kesehatan dan hilangnya sumber penghidupan warga."
+   ]
+  },
+  {
+   "judul": "WALHI Soroti Negara yang Dinilai Abai Lindungi Korban Karhutla - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "walhi \"pasal 72\"",
+    "\"pasal 72\" UU Kehutanan karhutla",
+    "\"pasal 72\" UU Kehutanan karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/berita/600327/walhi-soroti-negara-yang-dinilai-abai-lindungi-korban-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 14,
+   "penutur_walhi": [
+    "Wahyu Eka",
+    "Christine Constanta"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JAKARTA – Wahana Lingkungan Hidup Indonesia (WALHI) menilai negara telah gagal menjalankan kewajiban hukumnya untuk melindungi dan membela masyarakat yang menjadi korban kebakaran hutan dan lahan (karhutla).",
+    "Berdasarkan analisis spasial WALHI untuk periode Januari hingga September 2026, sedikitnya 293 perusahaan pemegang Perizinan Berusaha Pemanfaatan Hutan (PBPH) mengalami kebakaran di wilayah konsesinya."
+   ]
+  },
+  {
+   "judul": "Jangan Cuma Jadi Macan Kertas! Pantau Gambut Tagih Nyali Raja Juli Seret Korporasi Karhutla ke Pidana - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "menhut gugat perusahaan karhutla",
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/jangan-cuma-jadi-macan-kertas-pantau-gambut-tagih-nyali-pemerintah-seret-korporasi-karhutla-ke-pidana",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemerintah Dinilai Abaikan Mandat UU Soal Korban Karhutla - Betahita",
+   "media": "Betahita",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "walhi \"pasal 72\"",
+    "\"pasal 72\" UU Kehutanan karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12572/pemerintah-dinilai-abaikan-mandat-uu-soal-korban-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Wahyu Eka",
+    "Christine Constanta"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Berita\nPemerintah Dinilai Abaikan Mandat UU Soal Korban Karhutla\nNegara tak pernah menggunakan mandat Pasal 72 UU Kehutanan untuk membela korban kebakaran hutan\nJumat, 30 Oktober 2026\nBETAHITA.ID - Negara dinilai tidak menjalankan kewajiban",
+    "Berdasarkan analisis spasial Walhi, periode Januari hingga September 2026, sedikitnya 293 perusahaan pemegang Perizinan Berusaha Pemanfaatan Hutan (PBPH) mengalami kebakaran di wilayah konsesinya."
+   ]
+  },
+  {
+   "judul": "Sanksi Administratif Karhutla, Cukupkah Pulihkan Kerugian? - Magdalene.co",
+   "media": "Magdalene.co",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://magdalene.co/story/sanksi-administratif-karhutla-kerugian/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenhut tetapkan dua korporasi tersangka karhutla, termasuk satu PMA - ANTARA News Sumbar",
+   "media": "ANTARA News Sumbar",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumbar.antaranews.com/berita/786627/kemenhut-tetapkan-dua-korporasi-tersangka-karhutla-termasuk-satu-pma",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Direktur Jenderal Penegakan Hukum Kehutanan Dwi Januanto Nugroho dalam keterangan dikonfirmasi dari Jakarta, Jumat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut Tetapkan Dua Korporasi Tersangka Karhutla, Salah Satunya Perusahaan Singapura - Wartakotalive.com",
+   "media": "Wartakotalive.com",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://wartakota.tribunnews.com/nasional/906093/kemenhut-tetapkan-dua-korporasi-tersangka-karhutla-salah-satunya-perusahaan-singapura",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenhut Tetapkan Dua Korporasi Tersangka Karhutla, Satu Perusahaan Berstatus PMA Singapura - Aktual.com",
+   "media": "Aktual.com",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "kemenhut gugatan perdata karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://aktual.com/kemenhut-tetapkan-dua-korporasi-tersangka-karhutla-satu-perusahaan-berstatus-pma-singapura/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Jenderal Penegakan Hukum Kehutanan Kemenhut, Dwi Januanto Nugroho, mengatakan penetapan tersangka tersebut merupakan bagian dari upaya pemerintah memperkuat penindakan terhadap korporasi yang diduga terlibat dalam tindak pidana karhutla.",
+    "Kemenhut menyatakan penanganan karhutla dilakukan melalui tiga jalur sekaligus, yakni sanksi administratif, gugatan perdata, dan proses pidana."
+   ],
+   "kalimat_walhi": []
+  }
+ ]
+}

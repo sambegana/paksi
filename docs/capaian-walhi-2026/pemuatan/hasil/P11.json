@@ -1,0 +1,1489 @@
+{
+ "id": "P11",
+ "tanggal": "2026-10-22",
+ "rentang": [
+  "2026-10-21",
+  "2026-11-06"
+ ],
+ "kueri": [
+  "walhi hanif faisol karhutla",
+  "hanif faisol karhutla",
+  "karhutla bencana struktural",
+  "hanif faisol pembakar lahan"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 84,
+ "berita": [
+  {
+   "judul": "Wamenko Pangan Ingatkan Meski Ada Berkah Hujan, Ancaman Karhutla Kalteng Belum Berakhir - Kalimantan Post",
+   "media": "Kalimantan Post",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "walhi hanif faisol karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Nyawa Bertumbangan, Jutaan Warga Terdampak, Kenapa Karhutla Tak Jadi Bencana Nasional? - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "walhi hanif faisol karhutla",
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/11/01/170500/nyawa-bertumbangan-jutaan-warga-terdampak-kenapa-karhutla-tak-jadi-bencana-nasional",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Dana Prima Tarigan"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Alasan Tak Tetapkan Status Bencana\nMenteri Koordinator Bidang Politik dan Keamanan (Menko Polkam) Dudung Abdurachman menegaskan bahwa pemerintah masih mampu menangani karhutla.",
+    "kata Dudung usai rapat membahas karhutla di Istana Kepresidenan Jakarta, Senin (12/10/2026).",
+    "Terpisah, Kepala BNPB Letjen TNI Kristomei Sianturi mengatakan pemerintah masih mempertimbangkan penetapan status bencana yang tepat untuk menangani karhutla, termasuk kemungkinan penetapan status bencana nasional.",
+    "kata Kristomei usai dilantik di Istana Negara, Jakarta, Kamis (15/10/2026).",
+    "Pernyataan WALHI tersebut merespons ucapan Wakil Menteri Koordinator Pangan Hanif Faisol Nurofiq yang menyebut kebakaran hutan dan lahan gambut disebabkan oleh ulah manusia.",
+    "“KLH/BPLH juga wajib mengeksekusi putusan pengadilan yang telah berkekuatan hukum tetap terhadap 12 korporasi dengan total 19 triliun rupiah dan eksekusi tersebut harus dilaksanakan secara transparan dan akuntabel dengan melibatkan masyarakat sipil dan/atau organisasi lingkungan "
+   ],
+   "kalimat_walhi": [
+    "Karhutla Bencana Struktural\nWahana Lingkungan Hidup Indonesia (WALHI) menyatakan, karhutla yang terus berulang bukan semata-mata persoalan individu yang menyalakan api.",
+    "Pernyataan WALHI tersebut merespons ucapan Wakil Menteri Koordinator Pangan Hanif Faisol Nurofiq yang menyebut kebakaran hutan dan lahan gambut disebabkan oleh ulah manusia."
+   ]
+  },
+  {
+   "judul": "Bukan Hanya Andalkan Hujan, Pemerintah Optimalkan Pompa Air Tangani Karhutla - Halodayak",
+   "media": "Halodayak",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://halodayak.com/bukan-hanya-andalkan-hujan-pemerintah-optimalkan-pompa-air-tangani-karhutla/?amp=1",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kolaborasi Lintas Sektor, APHI Dukung Penuntasan Penanggulangan Karhutla di Kalteng - SINDOnews Ekbis",
+   "media": "SINDOnews Ekbis",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ekbis.sindonews.com/newsread/1767061/34/kolaborasi-lintas-sektor-aphi-dukung-penuntasan-penanggulangan-karhutla-di-kalteng-1793506285",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Tata Air Gambut Tekan Risiko Karhutla Kalteng - Prokalteng",
+   "media": "Prokalteng",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://prokalteng.jawapos.com/pemerintahan/pemprov-kalteng/01/11/2026/pemerintah-tata-air-gambut-tekan-risiko-karhutla-kalteng/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator (Wamenko) Bidang Pangan, Hanif Faisol Nurofiq, menjelaskan bahwa langkah operasional ini disiapkan untuk mengantisipasi cuaca panas yang diprediksi kembali terjadi.",
+    "kata Hanif seusai rapat koordinasi di Istana Isen Mulang Rumah Jabatan Gubernur didampingi Gubernur Kalteng Agustiar Sabran dan Wakil Gubernur (Wagub) Edy Pratowo, Minggu (1/11/2026).",
+    "Wakil Menteri Koordinator (Wamenko) Bidang Pangan, Hanif Faisol Nurofiq, menjelaskan bahwa langkah operasional ini disiapkan untuk mengantisipasi cuaca panas yang diprediksi kembali terjadi.",
+    "kata Hanif seusai rapat koordinasi di Istana Isen Mulang Rumah Jabatan Gubernur didampingi Gubernur Kalteng Agustiar Sabran dan Wakil Gubernur (Wagub) Edy Pratowo, Minggu (1/11/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "175 Regu Gabungan Diterjunkan Atasi Karhutla Kalteng, Amankan Bandara Tjilik Riwut & Lumbung Pangan - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tribunnews.com/nasional/7905163/175-regu-gabungan-diterjunkan-atasi-karhutla-kalteng-amankan-bandara-tjilik-riwut-lumbung-pangan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tanggung Jawab Negara atas Karhutla dan Pelestarian Alam Indonesia: Antara Amanat Konstitusi dan Ketegasan Diplomasi Hukum Lintas Batas - Pojokkiri",
+   "media": "Pojokkiri",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pojokkiri.com/tanggung-jawab-negara-atas-karhutla-dan-pelestarian-alam-indonesia-antara-amanat-konstitusi-dan-ketegasan-diplomasi-hukum-lintas-batas/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "APHI Dukung Penuntasan Penanggulangan Karhutla di Kalimantan Tengah - agrofarm.co.id",
+   "media": "agrofarm.co.id",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "hanif faisol pembakar lahan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "http://www.agrofarm.co.id/2026/11/aphi-dukung-penuntasan-penanggulangan-karhutla-di-kalimantan-tengah/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator Bidang Pangan Hanif Faisol Nurofiq menyatakan penanganan karhutla di Kalteng menjadi bagian penting dalam menjaga kawasan penopang ketahanan pangan nasional melalui antisipasi agar tidak memperberat tekanan terhadap produksi pangan.",
+    "Ia menjelaskan penanganan karhutla melibatkan berbagai unsur, mulai dari pemerintah provinsi, pemerintah kota, TNI, Polri, Manggala Agni, kelompok pemadam dari kalangan sukarelawan dan masyarakat, hingga pelaku usaha dari APHI dan Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI)"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "APHI dukung penuntasan penanggulangan karhutla di Kalteng - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "hanif faisol pembakar lahan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5824619/aphi-dukung-penuntasan-penanggulangan-karhutla-di-kalteng",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator Bidang Pangan Hanif Faisol Nurofiq saat memimpin apel bersama tim gabungan penanganan karhutla di Palangka Raya, Jumat (30/10/2026) menyatakan penanganan karhutla di Kalteng menjadi bagian penting dalam menjaga kawasan penopang ketahanan pangan nasional ",
+    "Ia menjelaskan penanganan karhutla melibatkan berbagai unsur, mulai dari pemerintah provinsi, pemerintah kota, TNI, Polri, Manggala Agni, kelompok pemadam dari kalangan sukarelawan dan masyarakat, hingga pelaku usaha dari APHI dan Gapki."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Lindungi Kawasan Swasembada Pangan, Penanganan Karhutla di Kalteng Dipercepat - economy.okezone.com",
+   "media": "economy.okezone.com",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "hanif faisol pembakar lahan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://economy.okezone.com/amp/2026/11/01/320/3251436/lindungi-kawasan-swasembada-pangan-penanganan-karhutla-di-kalteng-dipercepat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator Bidang Pangan Hanif Faisol Nurofiq mengatakan, pengendalian karhutla di Kalimantan Tengah memiliki arti penting dalam menjaga kawasan penopang ketahanan pangan nasional.",
+    "Hanif menjelaskan, penanganan karhutla melibatkan berbagai unsur, mulai dari pemerintah provinsi dan pemerintah kota, TNI, Polri, Manggala Agni, kelompok pemadam dari kalangan sukarelawan dan masyarakat, hingga pelaku usaha yang tergabung dalam APHI dan Gabungan Pengusaha Kelapa "
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Bukan Ulah Individu, WALHI: Ini Bencana Struktural - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "walhi hanif faisol karhutla",
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://amp.suara.com/news/2026/11/02/123000/karhutla-bukan-ulah-individu-walhi-ini-bencana-struktural",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Dana Prima Tarigan"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pernyataan itu disampaikan WALHI menanggapi pandangan Wakil Menteri Koordinator Pangan Hanif Faisol Nurofiq yang menyoroti faktor manusia sebagai penyebab kebakaran lahan gambut."
+   ],
+   "kalimat_walhi": [
+    "Suara.com - Wahana Lingkungan Hidup Indonesia (WALHI) menilai kebakaran hutan dan lahan (karhutla) di Indonesia berkaitan dengan persoalan struktural dalam tata kelola lingkungan.",
+    "Pernyataan itu disampaikan WALHI menanggapi pandangan Wakil Menteri Koordinator Pangan Hanif Faisol Nurofiq yang menyoroti faktor manusia sebagai penyebab kebakaran lahan gambut."
+   ]
+  },
+  {
+   "judul": "Kemenko Pangan-Pemprov Kalteng Masifkan Pembasahan Gambut di Tiga Zona Karhutla - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "walhi hanif faisol karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/951286/kemenko-pangan-pemprov-kalteng-masifkan-pembasahan-gambut-di-tiga-zona-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "(DY/E-4)\nWAHANA Lingkungan Hidup Indonesia (Walhi) memperkirakan emisi akibat kebakaran hutan dan lahan (karhutla) pada 2026 mencapai 31 juta hingga 239 juta ton CO2 ekuivalen."
+   ]
+  },
+  {
+   "judul": "Bagaimana Cerita Rakyat Tengger Mengajarkan Perempuan Menjaga Alam? - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://amp.suara.com/lifestyle/2026/11/02/180844/bagaimana-cerita-rakyat-tengger-mengajarkan-perempuan-menjaga-alam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penggerebekan Ponpes Sukoharjo Dinilai Berlebihan, DPR: Ada Indikasi Pelanggaran HAM - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/11/02/123821/penggerebekan-ponpes-sukoharjo-dinilai-berlebihan-dpr-ada-indikasi-pelanggaran-ham",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Suara.com - Anggota Komisi XIII DPR RI dari Fraksi Partai Kebangkitan Bangsa (PKB), Mafirion Syamsuddin Rogo, menegaskan adanya indikasi kuat pelanggaran Hak Asasi Manusia (HAM) dalam penggerebekan yang dilakukan tim gabungan Brimob di Pondok Pesantren Hamalatul Qur'an, Sukoharjo"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bolehkah Polisi 'Carter' KRL untuk Operasi Penggerebekan? KCI dan Pengamat Transportasi Buka Suara - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "02 Nov 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/11/02/124914/bolehkah-polisi-carter-krl-untuk-operasi-penggerebekan-kci-dan-pengamat-transportasi-buka-suara",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Cegah Karhutla, Pemerintah Siapkan Pembasahan 10.378 Ha Gambut di Kalteng - detikcom",
+   "media": "detikcom",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/kalimantan/kalimantan-lestari/d-8735810/cegah-karhutla-pemerintah-siapkan-pembasahan-10-378-ha-gambut-di-kalteng",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator Bidang Pangan, Hanif Faisol Nurofiq, mengatakan penanganan awal akan difokuskan pada tiga kawasan yang dinilai krusial.",
+    "Merespons kondisi tersebut, Gubernur Kalimantan Tengah Agustiar Sabran telah menginstruksikan seluruh bupati dan wali kota untuk segera menggelar rapat teknis."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Mengapa Karhutla Terus Berulang? Pakar UIN Jakarta Ungkap Persoalan Sosial-Ekologis - UIN Jakarta",
+   "media": "UIN Jakarta",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://uinjkt.ac.id/id/mengapa-karhutla-terus-berulang-pakar-uin-jakarta-ungkap-persoalan-sosial-ekologis",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Perkuat Penanganan Karhutla, Gapki Dorong Perusahaan Sawit Terus Bersinergi - Seputar Cibubur",
+   "media": "Seputar Cibubur",
+   "tanggal": "04 Nov 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://seputarcibubur.pikiran-rakyat.com/ekonomi-bisnis/pr-17810541598/perkuat-penanganan-karhutla-gapki-dorong-perusahaan-sawit-terus-bersinergi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Hanif Faisol: 99 Persen Kebakaran Hutan Akibat Ulah Manusia - Tempo.co",
+   "media": "Tempo.co",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla",
+    "hanif faisol pembakar lahan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tempo.co/politik/hanif-faisol-pelaku-kebakaran-hutan-gambut-2301258",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenko Pangan Kawal Penanganan Karhutla di Empat Provinsi - CNN Indonesia",
+   "media": "CNN Indonesia",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Saat Sudah Membesar - KONTAN",
+   "media": "KONTAN",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://insight.kontan.co.id/news/saat-sudah-membesar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Said Abdullah: Kekeringan dan Karhutla Tak Boleh Jadi Bencana Tahunan yang Dianggap Biasa - DPD PDI Perjuangan Jawa Timur",
+   "media": "DPD PDI Perjuangan Jawa Timur",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pdiperjuangan-jatim.com/said-abdullah-kekeringan-dan-karhutla-tak-boleh-jadi-bencana-tahunan-yang-dianggap-biasa-2/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "tegas pria yang juga Ketua Badan Anggaran (Banggar) DPR RI tersebut.",
+    "Ia menegaskan, DPD PDI Perjuangan Jawa Timur akan terus mendorong seluruh struktur partai untuk bergotong royong dengan pemerintah daerah, BPBD, TNI-Polri, relawan, komunitas lingkungan dan masyarakat dalam menghadapi dampak musim kemarau."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Gugatan Class Action Masyarakat Kalimantan Barat - Magdalene.co",
+   "media": "Magdalene.co",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://magdalene.co/story/klaim-pemerintah-tidak-terlihat-di-kalbar/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla dan Neoliberalisme: Akar Struktural di Balik Kabut Asap Halaman all - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/anggitanurardiyati7337/6ad88f26c925c47b2e262fac/karhutla-dan-neoliberalisme-akar-struktural-di-balik-kabut-asap?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Analisis WALHI mencatat 25.524 titik panas, atau sekitar 74 persen dari total titik panas di Pulau Kalimantan, terkonsentrasi di dalam kawasan konsesi perusahaan."
+   ]
+  },
+  {
+   "judul": "Gugatan Asap Kalbar Bukan Cari Menang-Kalah, Glorio Sanen Desak Pemerintah Selesaikan Akar Karhutla - Inside Pontianak",
+   "media": "Inside Pontianak",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://insidepontianak.com/pontianak/44442/gugatan-asap-kalbar-bukan-cari-menang-kalah-glorio-sanen-desak-pemerintah-selesaikan-akar-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Napas yang Tercekik Asap: Refleksi Kritis Dampak Karhutla dan Tawaran Solus - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/ismayaninurrohmah7575/6ad8e117ed64157ee26c410c/napas-yang-tercekik-asap-refleksi-kritis-dampak-karhutla-dan-tawaran-solus",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "https://doi.org/10.xxxx/jkmi.v19i2.xxxx\nWahana Lingkungan Hidup Indonesia (WALHI).",
+    "Jakarta: WALHI Nasional."
+   ]
+  },
+  {
+   "judul": "Karhutla Kalimantan: Saat Sekolah Lumpuh Dilahap Asap - kumparan.com - Kumparan.com",
+   "media": "Kumparan.com",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kumparan.com/ebenezer-matthew/karhutla-kalimantan-saat-sekolah-lumpuh-dilahap-asap-28Ov2eotfs0",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Greenpeace: Karhutla Bukan Sekadar Kebakaran, Ada Masalah Struktural di Baliknya - KataKata.id",
+   "media": "KataKata.id",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katakata.id/greenpeace-karhutla-bukan-sekadar-kebakaran-ada-masalah-struktural-di-baliknya/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Darurat Ekologi di Bawah Kabut: Mengurai Kerentanan Struktur - Suara 'Aisyiyah",
+   "media": "Suara 'Aisyiyah",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://suaraaisyiyah.id/darurat-ekologi-di-bawah-kabut-mengurai-kerentanan-struktural-perempuan-dan-generasi-muda-dalam-bayang-bayang-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Rangkuman Pidato Prabowo Kemarin: Tak Takut MSCI, Biang Kerok Kebakaran Hutan - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/10/22/101612/rangkuman-pidato-prabowo-kemarin-tak-takut-msci-biang-kerok-kebakaran-hutan?page=2",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "- Presiden Prabowo menegaskan koalisi besar dibutuhkan demi menjaga stabilitas politik serta ekonomi nasional."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kabut Asap Cekik Sumbar dan Indonesia, PUSaKO Unand Desak Presiden Tetapkan Bencana Nasional - Sumbarkita.id",
+   "media": "Sumbarkita.id",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumbarkita.id/kabut-asap-cekik-sumbar-dan-indonesia-pusako-unand-desak-presiden-tetapkan-bencana-nasional/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Inovasi Teknologi & Partisipasi Menjaga dalam Pencegahan Karhutla Kalimant Halaman 1 - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/dinypramuliaa0552/6ada2d8334777c032c260dd2/inovasi-teknologi-partisipasi-menjaga-dalam-pencegahan-karhutla-kalimant",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Cegah Karhutla, DPKP Kalsel Balik Ratusan Hektar Lahan Pertanian di Kabupaten Banjar - Radar Banjarmasin",
+   "media": "Radar Banjarmasin",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "hanif faisol pembakar lahan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radarbanjarmasin.jawapos.com/banua/2610220047/cegah-karhutla-dpkp-kalsel-balik-ratusan-hektar-lahan-pertanian-di-kabupaten-banjar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sekretaris Dinas Pertanian dan Ketahanan Pangan (DPKP) Kalsel, Saptono, mengatakan kegiatan tersebut merupakan tindak lanjut arahan Wakil Menteri Koordinator Bidang Pangan, Hanif Faisol Nurofiq untuk mencegah praktik pembakaran lahan pertanian."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Edi Basri Desak Evaluasi Menyeluruh Penanganan Karhutla - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/pekanbaru/regional/2835210/edi-basri-desak-evaluasi-menyeluruh-penanganan-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla Meluas Udara Kalsel Kembali di Level Berbahaya - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/948008/karhutla-meluas-udara-kalsel-kembali-di-level-berbahaya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Meluas, Kualitas Udara Kalsel Masuk Level Berbahaya - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/948025/karhutla-meluas-kualitas-udara-kalsel-masuk-level-berbahaya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi laporkan empat perusahaan sawit dengan luas terbakar 3.539 ha."
+   ]
+  },
+  {
+   "judul": "WALHI Jawab Hanif Faisol: Karhutla Bencana Struktural, Jangan Kambing Hitamkan Individu - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "hanif faisol pembakar lahan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://prohealth.id/walhi-jawab-hanif-faisol-karhutla-bencana-struktural-jangan-kambing-hitamkan-individu/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Dana Prima Tarigan"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pernyataan Wakil Menteri Koordinator Pangan Hanif Faisol Nurofiq yang menyebut kebakaran hutan dan lahan (karhutla) gambut disebabkan oleh ulah manusia perlu dibaca secara lebih utuh dan tidak berhenti pada penjelasan yang menyederhanakan persoalan.",
+    "“KLH/BPLH juga wajib mengeksekusi putusan pengadilan yang telah berkekuatan hukum tetap terhadap 12 korporasi dengan total 19 triliun rupiah dan eksekusi tersebut harus dilaksanakan secara transparan dan akuntabel dengan melibatkan masyarakat sipil dan/atau organisasi lingkungan "
+   ],
+   "kalimat_walhi": [
+    "Bagi WALHI, karhutla yang terus berulang bukan semata persoalan individu yang menyalakan api, melainkan bagian dari bencana ekologis yang diproduksi oleh akumulasi praktik buruk tata kelola sumber daya alam, pemberian izin, pengeringan gamb",
+    "Dana Prima Tarigan, Kepala Departemen Komunikasi Strategis dan Jaringan Eksekutif Nasional WALHI, menegaskan bahwa karhutla bukan sekadar bencana yang dibuat manusia, tetapi bencana yang diproduksi oleh kekuatan modal dan dilegitimasi oleh "
+   ]
+  },
+  {
+   "judul": "WALHI Kritik Penanganan Karhutla, Sebut Kebakaran Gambut Berakar pada Tata Kelola - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "walhi hanif faisol karhutla",
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/berita/599847/walhi-kritik-penanganan-karhutla-sebut-kebakaran-gambut-berakar-pada-tata-kelola",
+   "teks_terbaca": true,
+   "walhi_di_isi": 18,
+   "penutur_walhi": [
+    "Dana Prima Tarigan"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pernyataan itu disampaikan WALHI untuk menanggapi Wakil Menteri Koordinator Pangan Hanif Faisol Nurofiq yang menyebut karhutla gambut disebabkan oleh ulah manusia."
+   ],
+   "kalimat_walhi": [
+    "JAKARTA – Wahana Lingkungan Hidup Indonesia (WALHI) menilai kebakaran hutan dan lahan (karhutla), khususnya di ekosistem gambut, tidak bisa semata-mata dijelaskan sebagai akibat ulah individu.",
+    "Pernyataan itu disampaikan WALHI untuk menanggapi Wakil Menteri Koordinator Pangan Hanif Faisol Nurofiq yang menyebut karhutla gambut disebabkan oleh ulah manusia."
+   ]
+  },
+  {
+   "judul": "5.000 Warga Desak Pemerintah Tetapkan Karhutla Kalimantan Tengah Sebagai Bencana Nasional - sinarharapan.net",
+   "media": "sinarharapan.net",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.sinarharapan.net/5-000-warga-desak-pemerintah-tetapkan-karhutla-kalimantan-tengah-sebagai-bencana-nasional/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Berburu Aktor Korporasi di Balik Titik Api Karhutla - law-justice.co",
+   "media": "law-justice.co",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.law-justice.co/artikel/212446/berburu-aktor-korporasi-di-balik-titik-api-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 17,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Keberlanjutan dan Lingkungan Hidup Singapura Grace Fu mengatakan, hasil investigasi otoritas negaranya menunjukkan sebagian kabut asap yang menyelimuti Singapura berasal dari kebakaran di lahan tujuh perusahaan di Indonesia.",
+    "Di Kalimantan Selatan, Polda setempat juga memastikan laporan Walhi terkait dugaan keterlibatan korporasi dalam karhutla telah naik ke tahap penyidikan.",
+    "Kapolda Kalimantan Selatan Irjen Pol Rosyanto Yudha Hermawan mengatakan laporan yang disampaikan Walhi Kalimantan Selatan telah memasuki tahap penyidikan.",
+    "Kepala Kepolisian Negara Republik Indonesia (Kapolri) Jenderal Polisi Suyudi Ario Seto menyebut Kepolisian RI (Polri) telah menetapkan tersangka 11 korporasi dan tiga di antaranya merupakan perusahaan dengan penanaman modal asing (PMA).",
+    "kata Kapolri Suyudi kepada wartawan usai Sidang Kabinet Paripurna di Kompleks Istana Kepresidenan, Jakarta, Rabu (21/10/2026).",
+    "Kapolri menyebut pihak yang berpotensi dimintai pertanggungjawaban tidak hanya terbatas pada perusahaan sebagai badan usaha, tetapi juga dapat mencakup pemilik perusahaan maupun pemegang saham yang bertanggung jawab terhadap korporasi terkait."
+   ],
+   "kalimat_walhi": [
+    "Di Indonesia, Walhi menilai penegakan hukum karhutla harus menjangkau pihak yang memiliki tanggung jawab atas pengelolaan konsesi, termasuk kemungkinan kelalaian perusahaan dalam mencegah dan mengendalikan kebakaran.",
+    "Wahana Lingkungan Hidup Indonesia (Walhi) mendesak penegakan hukum menelusuri tanggung jawab perusahaan, jaringan kelompok usaha, hingga pemilik manfaat akhir, bukan hanya pelaku pembakaran di lapangan."
+   ]
+  },
+  {
+   "judul": "Pembekuan Izin 6 Perusahaan Hutan Imbas Karhutla, Ada Keterkaitan Bisnis Haji Isam - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/video/2026/10/24/100000/pembekuan-izin-6-perusahaan-hutan-imbas-karhutla-ada-keterkaitan-bisnis-haji-isam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Keputusan tegas yang diumumkan di Istana Negara pada Rabu (21/10/2026) ini menambah total sanksi administratif di sektor kehutanan menjadi 32 perusahaan.",
+    "Penindakan ini merupakan perintah langsung Presiden Prabowo Subianto untuk menindak tegas pihak-pihak yang bertanggung jawab atas bencana karhutla."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kadin Ungkap 32,4 Persen Pengusaha Tunda Investasi, Ada Apa? - Industry.co.id",
+   "media": "Industry.co.id",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.industry.co.id/read/157875/kadin-ungkap-324-persen-pengusaha-tunda-investasi-ada-apa",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap Hari Ini, Derita Esok Hari: Lindungi Paru-Paru Anak dari Karhutla Halaman all - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/dzihnikhalisha/6adc4fb4ed641545603c3125/asap-hari-ini-derita-esok-hari-lindungi-paru-paru-anak-dari-karhutla?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Analisis Dua Tahun Ekonomi Prabowo: Antara Makro dan Realitas Struktural - Barisan.co",
+   "media": "Barisan.co",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Cara Menghilangkan Iklan di HP Oppo yang Tiba-Tiba Muncul, Praktis tanpa Aplikasi - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "25 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/tekno/2026/10/25/193500/cara-menghilangkan-iklan-di-hp-oppo-yang-tiba-tiba-muncul-praktis-tanpa-aplikasi?page=2",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Meluas, Penindakan Pelaku Harus Menyentuh Akar Masalah - Koran Jakarta ®",
+   "media": "Koran Jakarta ®",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://koran-jakarta.com/2026-10-27/karhutla-meluas-penindakan-pelaku-harus-menyentuh-akar-masalah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Anggota Komisi IV DPR RI Usman Husin menegaskan pelaku karhutla, baik perorangan, korporasi, maupun pihak asing, harus ditindak tegas tanpa pandang bulu.",
+    "ujar Usman dikutip dari laman resmi DPR RI, Senin (26/10)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Political Eco(theo)logy: Membaca Politik di Balik Karhutla - NU Online",
+   "media": "NU Online",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nu.or.id/opini/political-eco-theo-logy-membaca-politik-di-balik-karhutla-cXfnE",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Bukan Sekadar Bencana, tetapi Ujian Tata Kelola Lingkungan - kumparan.com - Kumparan.com",
+   "media": "Kumparan.com",
+   "tanggal": "27 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kumparan.com/muhammad-galih-1762496842900390364/karhutla-bukan-sekadar-bencana-tetapi-ujian-tata-kelola-lingkungan-28RLxI42eZu",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Refleksi 98 Tahun Sumpah Pemuda, Darraz Ajak Generasi Muda Lawan Oligarki, Korupsi, dan Ketimpangan - PWMU.CO",
+   "media": "PWMU.CO",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pwmu.co/refleksi-98-tahun-sumpah-pemuda-darraz-ajak-generasi-muda-lawan-oligarki-korupsi-dan-ketimpangan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bencana Kebakaran Hutan dan Lahan (Karhutla) merupakan potret nyata pelangg - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/bagasagok4778/6ae226c1ed64157df33399d2/bencana-kebakaran-hutan-dan-lahan-karhutla-merupakan-potret-nyata-pelangg",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Cermin Kegagalan Negara Membaca Krisis Ekologis - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/indepth/opini/6ae15dda82757/karhutla-cermin-kegagalan-negara-membaca-krisis-ekologis",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menggugat Keadilan Sosial yang Terbakar Bersama Asap Karhutla - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/nabilaputrimaulida6073/6ae18d5f34777c79c07e4fd2/menggugat-keadilan-sosial-yang-terbakar-bersama-asap-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menjaga kelestarian hutan, memulihkan lingkungan, dan menindak tegas para perusak alam bukan sekadar tugas sektoral Kementerian Lingkungan Hidup, melainkan sebuah ikhtiar ideologis untuk merawat martabat kemanusiaan dan menegakkan keadilan yang sejati di bumi Indonesia."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pancasila yang Tercekik Asap: Menguji Urgensi Ideologi - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/zidanberenang5081/6ae229a2c925c4224f05f1ec/pancasila-yang-tercekik-asap-menguji-urgensi-ideologi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bukan Hanya El Nino, Walhi Sebut Karhutla di Kalsel juga Dipicu Rusaknya Lahan Gambut - Radar Banjarmasin",
+   "media": "Radar Banjarmasin",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://radarbanjarmasin.jawapos.com/hukum-peristiwa/2610290009/bukan-hanya-el-nino-walhi-sebut-karhutla-di-kalsel-juga-dipicu-rusaknya-lahan-gambut",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Bukan Hanya El Nino, Walhi Sebut Karhutla di Kalsel juga Dipicu Rusaknya Lahan Gambut\nRADARBANJARMASIN.JAWAPOS.COM, BANJARBARU – Bencana kebakaran hutan dan lahan (karhutla) yang kembali melanda Kalimantan Selatan dinilai tidak bisa semata-",
+    "Wahana Lingkungan Hidup Indonesia (WALHI) Kalsel menilai kebakaran yang berulang setiap tahun menunjukkan adanya persoalan struktural dalam pengelolaan ruang dan sumber daya alam."
+   ]
+  },
+  {
+   "judul": "Karhutla dan Kepentingan Pemerintah: Sudut Pandang ala Dahrendorf Halaman 1 - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/muhammadbagasprayoga7554/6ae2bd1ced641552212c83e7/karhutla-dan-kepentingan-pemerintah-sudut-pandang-ala-dahrendorf",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Selain itu pihak Pemprov juga dalam rangka menanggapi aspirasi mahasiswa tentang tuntutan keterlibatan pemerintah pusat, menyatakan akan selalu mengupayakan agar dapat bekerja sama dengan pemerintah pusat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap di Atas Tanah Basah: Sejarah Pengabaian Ekologis Terencana ? Halaman 1 - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/andykoesoema5987/6ae2ef8234777c20f45c9ba3/asap-di-atas-tanah-basah-sejarah-pengabaian-ekologis-terencana",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Wamenko Pangan Kerahkan 175 Regu, Karhutla Palangka Raya Ditargetkan Tuntas Dua Pekan - mmckalteng",
+   "media": "mmckalteng",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Wamenko Hanif: Pengerahan 175 regu optimalkan penanganan karhutla - ANTARA News Kalteng",
+   "media": "ANTARA News Kalteng",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalteng.antaranews.com/berita/848615/wamenko-hanif-pengerahan-175-regu-optimalkan-penanganan-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wamenko Hanif: Pengerahan 175 regu optimalkan penanganan karhutla\nPalangka Raya (ANTARA) - Wakil Menteri Koordinator (Wamenko) Bidang Pangan Hanif Faisol Nurofiq mengatakan penanganan kebakaran hutan dan lahan (karhutla) di dekat kawasan bandara menjadi salah satu prioritas untuk",
+    "Ia menjelaskan upaya penanganan melibatkan berbagai unsur, mulai dari pemerintah daerah, TNI, Polri, berbagai kelompok pemadam kebakaran serta lainnya."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hanif Faisol Ungkap Penanganan Karhutla Tuntas dalam Dua Pekan - Pakuan Raya",
+   "media": "Pakuan Raya",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pakuanraya.com/hanif-faisol-ungkap-penanganan-karhutla-tuntas-dalam-dua-pekan/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla Palangka Raya Ditargetkan Tuntas Dua Pekan - borneonews.co.id",
+   "media": "borneonews.co.id",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://borneonews.co.id/berita/10000375-karhutla-palangka-raya-ditargetkan-tuntas-dua-pekan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Wamenko Pangan Hanif Faisol Nurofiq tinjau pembasahan karhutla di Kalteng - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla",
+    "hanif faisol pembakar lahan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/foto/5821439/wamenko-pangan-hanif-faisol-nurofiq-tinjau-pembasahan-karhutla-di-kalteng",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "175 Regu Dikerahkan, Pemerintah Targetkan Karhutla di Palangka Raya Padam Permanen dalam Dua Pekan - Berita Seputar Borneo",
+   "media": "Berita Seputar Borneo",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://seputarborneo.com/news/26649-175-regu-dikerahkan-pemerintah-targetkan-karhutla-di-palangka-raya-padam-permanen-dalam-dua-pekan.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Hanif Faisol Nurofiq, S.Hut., M.P., mengatakan pengerahan personel dilakukan melalui koordinasi lintas instansi, termasuk Pemerintah Provinsi Kalteng, Asosiasi Pengusaha Hutan Indonesia (APHI), Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI), Kodam, dan Polda."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah perkuat penanganan karhutla untuk jaga produksi pangan - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/video/5821703/pemerintah-perkuat-penanganan-karhutla-untuk-jaga-produksi-pangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tinjau penanganan karhutla, Wamenko Hanif tegaskan pemerintah mitigasi dampak El Nino terhadap pangan - ANTARA News Kalteng",
+   "media": "ANTARA News Kalteng",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalteng.antaranews.com/berita/848627/tinjau-penanganan-karhutla-wamenko-hanif-tegaskan-pemerintah-mitigasi-dampak-el-nino-terhadap-pangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator (Wamenko) Pangan Hanif Faisol Nurofiq di Palangka Raya, Kalimantan Tengah, Jumat, mengatakan pemerintah telah memperhitungkan potensi tekanan terhadap produksi beras akibat kondisi iklim tersebut termasuk melalui penguatan infrastruktur pengairan di wila"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hanif Faisol Kerahkan 175 Regu Pemadam, Penanganan Karhutla Palangka Raya Ditargetkan Tuntas Dua Pekan - 1tulah News",
+   "media": "1tulah News",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://1tulah.com/2026/10/30/hanif-faisol-kerahkan-175-regu-pemadam-penanganan-karhutla-palangka-raya-ditargetkan-tuntas-dua-pekan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Wamenko Pangan Hanif Faisol Targetkan Karhutla Palangka Raya Tuntas Dua Pekan - Tribunkalteng.com",
+   "media": "Tribunkalteng.com",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalteng.tribunnews.com/palangka-raya/241358/wamenko-pangan-hanif-faisol-targetkan-karhutla-palangka-raya-tuntas-dua-pekan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Libatkan TNI, Polri dan Perusahaan, Pemerintah Kejar Penanganan Karhutla Palangkaraya - Pojok Bogor",
+   "media": "Pojok Bogor",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bogor.pojoksatu.id/nasional/libatkan-tni-polri-dan-perusahaan-pemerintah-kejar-penanganan-karhutla-palangkaraya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator Bidang Pangan, Hanif Faisol Nurofiq, mengatakan pengerahan personel melibatkan berbagai unsur, mulai dari pemerintah daerah, TNI, Polri, hingga perusahaan yang tergabung dalam Asosiasi Pengusaha Hutan Indonesia (APHI) dan Gabungan Pengusaha Kelapa Sawit "
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Wamenko Pangan Kerahkan 209 Regu Padamkan Karhutla di Kalteng - Prokalteng",
+   "media": "Prokalteng",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://prokalteng.jawapos.com/pemerintahan/pemprov-kalteng/30/10/2026/wamenko-pangan-kerahkan-209-regu-padamkan-karhutla-di-kalteng/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator (Wamenko) Bidang Pangan, Hanif Faisol Nurofiq, menegaskan pengerahan seluruh sumber daya menjadi kunci percepatan.",
+    "Hanif menyebut seluruh pompa air milik Pemerintah Provinsi Kalimantan Tengah, Balai Wilayah Sungai, dan Kementerian PU akan dioptimalkan.",
+    "Wakil Menteri Koordinator (Wamenko) Bidang Pangan, Hanif Faisol Nurofiq, menegaskan pengerahan seluruh sumber daya menjadi kunci percepatan.",
+    "Hanif menyebut seluruh pompa air milik Pemerintah Provinsi Kalimantan Tengah, Balai Wilayah Sungai, dan Kementerian PU akan dioptimalkan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Palangkaraya Ditargetkan Padam Dua Pekan, 175 Regu Pemadam Dikerahkan - Radar Bogor",
+   "media": "Radar Bogor",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radarbogor.jawapos.com/nasional/2610300094/karhutla-palangkaraya-ditargetkan-padam-dua-pekan-175-regu-pemadam-dikerahkan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla dan El Nino Tekan Produksi Beras, Perkuat Pompanisasi dan Irigasi di Sentra Padi - Tribunkalteng.com",
+   "media": "Tribunkalteng.com",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalteng.tribunnews.com/palangka-raya/241362/karhutla-dan-el-nino-tekan-produksi-beras-perkuat-pompanisasi-dan-irigasi-di-sentra-padi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Wamenko Pangan: Kolaborasi APHI dan Gapki Perkuat Operasi Pemadaman Karhutla di Kalimantan Tengah - KaltengPos",
+   "media": "KaltengPos",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltengpos.jawapos.com/palangka-raya/2610300029/wamenko-pangan-kolaborasi-aphi-dan-gapki-perkuat-operasi-pemadaman-karhutla-di-kalimantan-tengah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator Bidang Pangan (Wamenko Pangan), Dr Hanif Faisol Nurofiq, menyatakan bahwa penanganan dilakukan secara masif dengan melibatkan 175 regu di wilayah Palangka Raya."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hanif Kerahkan 175 Regu Tangani Karhutla Palangka Raya - Lensa Hukum",
+   "media": "Lensa Hukum",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lensahukum.co.id/hanif-kerahkan-regu-karhutla-palangka-raya",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Wamenko Pangan Targetkan Karhutla di Palangkaraya Tuntas dalam Dua Pekan Kedepan - Metropolitan - Metropolitan",
+   "media": "Metropolitan",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metropolitan.id/berita-hari-ini/amp/95317835192/wamenko-pangan-targetkan-karhutla-di-palangkaraya-tuntas-dalam-dua-pekan-kedepan?page=2",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tanggapi Lambatnya Pemerintah Tangani Karhutla, Bara Puan Gagas Diskusi Publik - LINIKAMPUS",
+   "media": "LINIKAMPUS",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://linikampus.com/2026/10/30/tanggapi-lambatnya-pemerintah-tangani-karhutla-bara-puan-gagas-diskusi-publik/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Kegiatan ini dihadiri oleh perwakilan Wahana Lingkungan Hidup Indonesia (WALHI) Jawa Tengah, perwakilan Bara Puan dan masyarakat yang berasal dari Kalimantan itu sendiri.",
+    "Perwakilan WALHI, Fani menyoroti agar karhutla segera ditetapkan sebagai bencana nasional."
+   ]
+  },
+  {
+   "judul": "Drama Berulang Bernama Karhutla - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/hazamalbani6713/6ae3f8adc925c45459691897/drama-berulang-bernama-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Monster Godzilla El Nino Tuntut Keadilan Iklim - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/monster-godzilla-el-nino-tuntut-keadilan-iklim",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KARHUTLA: Ketika Udara Bersih Menjadi Hak yang Terancam - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/adindaamirah6577/6ae4d15dc925c43c3d295e06/karhutla-ketika-udara-bersih-menjadi-hak-yang-terancam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pembakar Hutan Bakal Disebut Teroris Ekologi, Efektifkah? - semaraknews.co.id - Semaraknews",
+   "media": "Semaraknews",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.semaraknews.co.id/read/36492/pembakar-hutan-bakal-disebut-teroris-ekologi-efektifkah/15",
+   "galat": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Atasi Karhutla Kalteng, Pemerintah Siapkan Strategi Permanen - BeritaSatu.com",
+   "media": "BeritaSatu.com",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "walhi hanif faisol karhutla",
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Hanif Faisol Targetkan Karhutla Palangkaraya Tuntas Dua Pekan, 175 Regu Pemadam Dikerahkan - Ceklissatu.com",
+   "media": "Ceklissatu.com",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ceklissatu.com/news/hanif-faisol-targetkan-karhutla-palangkaraya-tuntas-dua-pekan-175-regu-pemadam-dikerahkan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Koordinator Bidang Pangan, Hanif Faisol Nurofiq, mengatakan, penanganan karhutla difokuskan pada dua wilayah utama di sekitar Palangkaraya, yakni Tumbang Langkai dan Bulum Rindu.",
+    "Hanif menjelaskan, dukungan personel dan peralatan dari Kodam serta Polda Kalimantan Tengah turut memperkuat operasi di lapangan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Kerahkan 175 Regu Padamkan Karhutla Palangka Raya - Lensa Hukum",
+   "media": "Lensa Hukum",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "hanif faisol karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lensahukum.co.id/pemerintah-kerahkan-regu-karhutla-palangka-raya",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Demo di Indonesia dimotori Gen Z, mengapa demikian? - BBC",
+   "media": "BBC",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/c620r2evrpd1o",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Polri Tetapkan 20 Korporasi Jadi Tersangka Karhutla, Termasuk 4 Perusahaan Asing - prokepri.com",
+   "media": "prokepri.com",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://prokepri.com/polri-tetapkan-20-korporasi-jadi-tersangka-karhutla-termasuk-4-perusahaan-asing/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Harus Transparan dan Berkeadilan\nTerpisah, Ketua DPR RI Puan Maharani menyatakan dukungannya atas penegakan hukum yang dilakukan Polri."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Gelombang Baru Gerakan Rakyat dan Evaluasi Dua Tahun Pemerintahan Halaman 1 - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "karhutla bencana struktural"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/parlinphn/6ae5c93e34777c49220b1332/gelombang-baru-gerakan-rakyat-dan-evaluasi-dua-tahun-pemerintahan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

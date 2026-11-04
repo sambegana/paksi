@@ -1,0 +1,518 @@
+{
+ "id": "R04",
+ "tanggal": "2026-08-17",
+ "rentang": [
+  "2026-08-16",
+  "2026-09-01"
+ ],
+ "kueri": [
+  "walhi \"polusi udara\" jabodetabek",
+  "\"polusi udara\" jabodetabek KLH",
+  "\"polusi udara\" jakarta pemprov",
+  "\"gugatan polusi\" jakarta",
+  "\"Koalisi Ibukota\" polusi"
+ ],
+ "jejaring": [
+  "Koalisi Ibukota",
+  "ICEL",
+  "LBH Jakarta"
+ ],
+ "jumlah_berita": 29,
+ "berita": [
+  {
+   "judul": "Minggu, kualitas udara Jakarta terburuk kedua di dunia - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "16 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jabodetabek KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5696692/minggu-kualitas-udara-jakarta-terburuk-kedua-di-dunia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kualitas udara Jakarta terburuk kedua di dunia Minggu Pagi - ANTARA News Sumsel",
+   "media": "ANTARA News Sumsel",
+   "tanggal": "16 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.antaranews.com/berita/822947/kualitas-udara-jakarta-terburuk-kedua-di-dunia-minggu-pagi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kualitas Udara Jakarta tidak Sehat di Hari Kemerdekaan, Warga Diimbau Pakai Masker - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "17 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/megapolitan/922501/kualitas-udara-jakarta-tidak-sehat-di-hari-kemerdekaan-warga-diimbau-pakai-masker",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kualitas Udara Jakarta Tidak Sehat pada HUT Ke-8 RI 17 Agustus 2026 - BeritaSatu.com",
+   "media": "BeritaSatu.com",
+   "tanggal": "17 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Jabodetabek Belum Merdeka dari Polusi Udara - Betahita",
+   "media": "Betahita",
+   "tanggal": "19 Aug 2026",
+   "kueri": [
+    "walhi \"polusi udara\" jabodetabek",
+    "\"polusi udara\" jabodetabek KLH"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12276/jabodetabek-belum-merdeka-dari-polusi-udara",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Simulasi Walhi menunjukkan, tanpa BPJS Kesehatan para pekerja harus mengeluarkan Rp 150.000 - Rp 450.000 untuk perawatan ISPA secara mandiri.",
+    "Pengampanye Urban Berkeadilan Wahana Lingkungan Hidup Indonesia (Walhi), Wahyu Eka Styawan, menyatakan lebih dari 5,4 juta pekerja di Jakarta ditambah sekitar 1,2 juta komuter harian dari kota satelit ibukota beraktivitas di bawah paparan P"
+   ]
+  },
+  {
+   "judul": "KPBB: Pemprov DKI harus tinjau regulasi pengendalian pencemaran udara - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "19 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5701869/kpbb-pemprov-dki-harus-tinjau-regulasi-pengendalian-pencemaran-udara",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara itu, Sekretaris Daerah (Sekda) DKI Jakarta, Uus Kuswanto menyampaikan Pemprov DKI dan KPBB telah bertemu dan pengawasan agar lingkungan di Jakarta tetap terjaga, tetap baik, sehingga perlu regulasi yang memang harus bisa menjawab atau bisa menyelesaikan permasalahan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tekan Polusi, Damkar DKI Semprot Air Saat OMC Belum Bisa Dilakukan - detikNews",
+   "media": "detikNews",
+   "tanggal": "19 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.detik.com/berita/d-8625228/tekan-polusi-damkar-dki-semprot-air-saat-omc-belum-bisa-dilakukan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Gubernur DKI Jakarta Pramono Anung mengatakan upaya tersebut dilakukan saat operasi modifikasi cuaca (OMC) belum dapat dilakukan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Langit Jakarta Butek, KPBB Nilai Pemprov Tak Serius Atasi Polusi Udara - IDN Times",
+   "media": "IDN Times",
+   "tanggal": "19 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.idntimes.com/news/indonesia/langit-jakarta-butek-kpbb-nilai-pemprov-tak-serius-atasi-polusi-udara-00-481xk-yz98yh",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ahmad menyebut Dinas Lingkungan Hidup (DLH) DKI Jakarta sebelumnya telah menyetujui usulan revisi dan mengajukannya kepada DPRD melalui Badan Pembentukan Peraturan Daerah (Bapemperda)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pramono Tegaskan Kendala Polusi Jakarta - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "20 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/K5nCR6xD-pramono-tegaskan-kendala-polusi-jakarta",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ia mengatakan Pemprov DKI menargetkan pengoperasian lebih dari 10.000 bus listrik pada 2030 serta berencana menggalakkan penggunaan kendaraan berbahan bakar hidrogen serta hibrida."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pramono Ungkap Sumber Polusi Jakarta: Tak Hanya dari Kendaraan - kumparan.com - Kumparan.com",
+   "media": "Kumparan.com",
+   "tanggal": "20 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kumparan.com/kumparannews/pramono-ungkap-sumber-polusi-jakarta-tak-hanya-dari-kendaraan-281QzrsmrTM",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kualitas Udara Jakarta Peringkat Tiga Terburuk Dunia - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "20 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/megapolitan/923861/kualitas-udara-jakarta-peringkat-tiga-terburuk-dunia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kamis pagi, udara Jakarta menduduki urutan ketiga terburuk di dunia - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "20 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5702705/kamis-pagi-udara-jakarta-menduduki-urutan-ketiga-terburuk-di-dunia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pramono Beberkan Penyebab Polusi di DKI - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "20 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/ba4CPpad-pramono-beberkan-penyebab-polusi-di-dki",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Gubernur DKI Jakarta Pramono Anung Wibowo di kawasan Kebayoran Baru, Jakarta Selatan, dilansir dari Antara, Kamis, 20 Agustus 2026."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Studi ITB: Sektor Transportasi Biang Kerok Polusi Udara Jakarta - KalderaNews",
+   "media": "KalderaNews",
+   "tanggal": "21 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kalderanews.com/2026/08/studi-itb-sektor-transportasi-biang-kerok-polusi-udara-jakarta/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Respons Pemprov DKI: Keterbatasan Langkah Internal Tanpa Koordinasi Aglomerasi\nGubernur DKI Jakarta Pramono Anung merespons temuan tersebut dengan menyoroti keberadaan industri dan Pembangkit Listrik Tenaga Uap (PLTU) berbasis batu bara yang masih beroperasi masif di daerah penya",
+    "Pramono menegaskan bahwa insiatif lokal Pemprov DKI, seperti percepatan penggunaan bus dan mobil listrik, perbaikan layanan transportasi umum, hingga mendorong peralihan warga dari kendaraan pribadi hanya memberikan dampak parsial selama pemicu utama di wilayah aglomerasi belum d"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Polusi Udara Jakarta Parah, Masalah Menahun Tanpa Penyelesaian - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "22 Aug 2026",
+   "kueri": [
+    "walhi \"polusi udara\" jabodetabek",
+    "\"polusi udara\" jabodetabek KLH"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/08/22/polusi-udara-jakarta-parah-masalah-menahun-tanpa-penyelesaian/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Lingkungan Hidup (KLH) belum menjawab pertanyaan konfirmasi Mongabay.",
+    "Pada 19 Agustus, Nur Adi Wardoyo, Staf Ahli Menteri Lingkungan Hidup bidang Kelestarian Sumber Daya Keanekaragaman Hayati dan Sosial Budaya mengatakan sedang menyiapkan jawaban."
+   ],
+   "kalimat_walhi": [
+    "- Wahana Lingkungan Hidup Indonesia (Walhi) menilai buruknya kualitas udara di Jakarta dan kota-kota besar lainnya bukan sekadar fenomena musiman.",
+    "Wahyu Eka Styawan, Pengkampanye Urban Berkeadilan dan Kebijakan Tata Ruang Walhi Eksekutif Nasional, mengatakan, kondisi ini akibat dari kegagalan struktural dalam pengelolaan lingkungan hidup—konsekuensi dari model pembangunan yang masih b"
+   ]
+  },
+  {
+   "judul": "Kualitas Udara Jakarta Tak Sehat pada Senin Pagi 24 Agustus - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/NP6CLOlW-kualitas-udara-jakarta-tak-sehat-pada-senin-pagi-24-agustus",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ketua Bapemperda DPRD DKI Jakarta Abdul Aziz mengatakan Bapemperda memprioritaskan regulasi yang dapat memberikan perlindungan kepada masyarakat.",
+    "Ia menegaskan penguatan regulasi lingkungan juga diperlukan untuk mendukung upaya Pemprov DKI Jakarta dalam menekan dampak kesehatan akibat polusi udara."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pramono: Polusi Jakarta Tak Bisa Diatasi Pemprov Sendiri - BeritaSatu.com",
+   "media": "BeritaSatu.com",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Angin Tak Punya KTP - Rmol.id",
+   "media": "Rmol.id",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "\"Koalisi Ibukota\" polusi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rmol.id/publika/read/2026/08/24/719321/angin-tak-punya-ktp",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Selamat Kepada Jakarta Kota Metropolutan. - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/azastigornainggolan3093/6a8d6a66c925c43297076182/selamat-kepada-jakarta-kota-metropolutan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menyikapi buruknya kualitas udara Jakarta ini, Gubernur Jakarta Pramono Anung menegaskan pemerintah provinsi (pemprov) Jakarta sudah menyiapkan berbagai cara untuk menekan tingkat polusi udara yang kembali menjadi sorotan.",
+    "Gubernur Jakarta Pramono Anung mengatakan berbagai langkah yang dilakukan pihaknya tidak akan sepenuhnya menyelesaikan masalah kualitas udara buruk selama industri dan Pembangkit Listrik Tenaga Uap (PLTU) berbasis batubara di wilayah penyangga masih beroperasi.",
+    "Pada tanggal 8 Maret 2026 lalu gubernur Jakarta Pramono mengatakan bahwa dia tidak mungkin menghilangkan masalah banjir Jakarta."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemprov DKI Lakukan OMC Tekan Polusi Udara hingga 23 Persen - Beritajakarta.id",
+   "media": "Beritajakarta.id",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://m.beritajakarta.id/read/155046/pemprov-dki-lakukan-omc-tekan-polusi-udara-hingga-23-persen",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tekan Polusi Udara, Pemprov DKI Gencarkan OMC - Beritajakarta.id",
+   "media": "Beritajakarta.id",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://m.beritajakarta.id/video/play/37882/tekan-polusi-udara-pemprov-dki-gencarkan-omc",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tekan Polusi Udara, Pemprov DKI Lakukan OMC - Beritajakarta.id",
+   "media": "Beritajakarta.id",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Polusi Udara Jakarta Bukan Sekadar Masalah Musiman - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "walhi \"polusi udara\" jabodetabek"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tekan Polusi Udara Jakarta, Pemkot Jaksel Uji Emisi Kendaraan - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jabodetabek KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/kpLCQPQe-tekan-polusi-udara-jakarta-pemkot-jaksel-uji-emisi-kendaraan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Antisipasi Kekeringan dan Polusi Udara, BPBD DKI-BMKG Jalankan Operasi Modifikasi Cuaca - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jabodetabek KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/megapolitan/927153/antisipasi-kekeringan-dan-polusi-udara-bpbd-dki-bmkg-jalankan-operasi-modifikasi-cuaca",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Udara Jakarta masuk sepuluh besar terburuk di dunia - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jabodetabek KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Mitigasi Dampak Kemarau dan Polusi Udara, Pemprov DKI Gelar Operasi Modifikasi Cuaca Berbasis Sains - Jakarta Review",
+   "media": "Jakarta Review",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jakrev.com/megapolitan/mitigasi-dampak-kemarau-dan-polusi-udara-pemprov-dki-gelar-operasi-modifikasi-cuaca-berbasis-sains/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemprov DKI Modifikasi Cuaca dengan Water Mist - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/b2lC6xPD-pemprov-dki-modifikasi-cuaca-dengan-water-mist",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Sebulan tak Hujan Bikin Kualitas Udara di Jakarta tak Sehat, Pemprov DKI Terus Upayakan OMC - Republika Online",
+   "media": "Republika Online",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "\"polusi udara\" jakarta pemprov"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.republika.co.id/berita/tkkq73282/sebulan-tak-hujan-bikin-kualitas-udara-di-jakarta-tak-sehat-pemprov-dki-terus-upayakan-omc-part",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

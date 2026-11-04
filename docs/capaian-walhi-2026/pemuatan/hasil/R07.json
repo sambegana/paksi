@@ -1,0 +1,1000 @@
+{
+ "id": "R07",
+ "tanggal": "2026-08-31",
+ "rentang": [
+  "2026-08-30",
+  "2026-09-15"
+ ],
+ "kueri": [
+  "walhi hotspot HGU PBPH",
+  "walhi \"titik panas\" konsesi",
+  "\"titik panas\" konsesi HGU PBPH gambut",
+  "\"Pantau Gambut\" karhutla konsesi",
+  "Greenpeace karhutla konsesi"
+ ],
+ "jejaring": [
+  "Greenpeace",
+  "Pantau Gambut"
+ ],
+ "jumlah_berita": 46,
+ "berita": [
+  {
+   "judul": "Kepung Kalimantan, WALHI Deteksi 6.902 Hotspot Karhutla: Separuhnya Menempel di Lahan Korporasi! - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "walhi hotspot HGU PBPH",
+    "walhi \"titik panas\" konsesi",
+    "\"titik panas\" konsesi HGU PBPH gambut"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.inilah.com/kepung-kalimantan-walhi-deteksi-6902-hotspot-karhutla-separuhnya-menempel-di-lahan-korporasi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Kaltim Ungkap 13 Ribu Hotspot Berada di Wilayah Konsesi Tambang dan Perkebunan - Kaltim Post",
+   "media": "Kaltim Post",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "walhi hotspot HGU PBPH",
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://kaltimpost.jawapos.com/utama/2609010090/walhi-kaltim-ungkap-13-ribu-hotspot-berada-di-wilayah-konsesi-tambang-dan-perkebunan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI Kaltim Ungkap 13 Ribu Hotspot Berada di Wilayah Konsesi Tambang dan Perkebunan\nKALTIMPOST.ID, SAMARINDA – Karhutla di Kalimantan Timur tak sekadar soal kemarau panjang.",
+    "Kondisi itu membuat Wahana Lingkungan Hidup Indonesia (WALHI) Kaltim mempertanyakan keseriusan pemerintah dan korporasi dalam mencegah kebakaran hutan dan lahan."
+   ]
+  },
+  {
+   "judul": "Kemarau Masih Panjang, Antisipasi Meluasnya Kebakaran Hutan seperti 2015 - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "\"titik panas\" konsesi HGU PBPH gambut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/kemarau-masih-panjang-antisipasi-meluasnya-kebakaran-hutan-seperti-2015",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [
+    "Dana Prima Tarigan",
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Lingkungan Hidup juga didorong menggunakan instrumen penegakan hukum, termasuk paksaan pemerintah, pembekuan atau pencabutan persetujuan lingkungan, penghentian kegiatan usaha, serta memastikan pemulihan lingkungan dan pembayaran kerugian ekologis oleh korporasi."
+   ],
+   "kalimat_walhi": [
+    "Sepanjang 25-31 Agustus 2026, Wahana Lingkungan Hidup Indonesia (Walhi) mencatat 6.902 titik panas, dengan 5.201 di antaranya berada di Kalimantan.",
+    "Analisis citra satelit Walhi menunjukkan hampir separuh titik panas terindikasi berada di areal kerja korporasi kehutanan dan perkebunan kelapa sawit."
+   ]
+  },
+  {
+   "judul": "Indonesia: Negara Api di Sabuk Api - Betahita",
+   "media": "Betahita",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi hotspot HGU PBPH",
+    "\"titik panas\" konsesi HGU PBPH gambut"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12312/indonesia-negara-api-di-sabuk-api",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Dana Prima Tarigan",
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Analisis citra satelit Wahana Lingkungan Hidup Indonesia (Walhi) juga menunjukkan bahwa hampir 50 persen titik panas terindikasi berada di areal kerja korporasi sektor kehutanan dan perkebunan kelapa sawit.",
+    "Umi Ma’rufah, Pengampanye Hutan dan Kebun Eksekutif Nasional Walhi menyebutkan bahwa selama 25 sampai 31 Agustus 2026 titik panas tersebar di sejumlah areal kerja perusahaan di Kalimantan Tengah dan Kalimantan Barat."
+   ]
+  },
+  {
+   "judul": "Walhi Soroti 5.266 Hotspot di Konsesi Kaltim, Izin Perusahaan Diminta Dievaluasi - RADAR BONTANG",
+   "media": "RADAR BONTANG",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi hotspot HGU PBPH",
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://radarbontang.com/walhi-soroti-5-266-hotspot-di-konsesi-kaltim-izin-perusahaan-diminta-dievaluasi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Temuan itu membuat Wahana Lingkungan Hidup Indonesia (Walhi) Kaltim mendesak pemerintah mengaudit hingga mencabut izin perusahaan yang wilayah konsesinya berulang kali terbakar.",
+    "Data tersebut merupakan hasil analisis Walhi Kaltim terhadap pemantauan hotspot yang kemudian ditumpangtindihkan dengan tiga lapisan konsesi, yakni Perizinan Berusaha Pemanfaatan Hutan (PBPH), hak guna usaha (HGU) perkebunan sawit, dan pert"
+   ]
+  },
+  {
+   "judul": "WALHI SOROTI KARHUTLA KALTENG-Puluhan Ribu Hotspot Terdeteksi di Sejumlah Konsesi - Tabengan Online",
+   "media": "Tabengan Online",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.tabengan.co.id/bacaberita/144367/walhi-soroti-karhutla-kalteng-puluhan-ribu-hotspot-terdeteksi-di-sejumlah-konsesi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 13,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "PALANGKA RAYA/TABENGAN.CO.ID – Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Tengah (Kalteng) menyoroti semakin meluasnya kebakaran hutan dan lahan (karhutla) di sejumlah wilayah Kalteng.",
+    "Direktur Eksekutif WALHI Kalteng Janang Firman Palanungkai mengatakan, berdasarkan identifikasi dan catatan WALHI, sepanjang Juni hingga Agustus 2026 terdapat sekitar 32.796 titik panas (hotspot) yang terdokumentasi di wilayah Kalteng."
+   ]
+  },
+  {
+   "judul": "WALHI Kalbar Desak Evaluasi Izin Konsesi yang Areanya Terbakar Berulang Kali - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://pontianakpost.jawapos.com/metropolis/2609020140/walhi-kalbar-desak-evaluasi-izin-konsesi-yang-areanya-terbakar-berulang-kali",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI Kalbar Desak Evaluasi Izin Konsesi yang Areanya Terbakar Berulang Kali\nPONTIANAK POST – Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Barat mendesak Gubernur Ria Norsan membuktikan ketegasannya terhadap perusahaan yang areal ko",
+    "Berdasarkan analisis WALHI, sedikitnya 14 konsesi Perizinan Berusaha Pemanfaatan Hutan (PBPH) terindikasi mengalami kebakaran sepanjang Januari–Agustus 2026."
+   ]
+  },
+  {
+   "judul": "WALHI Desak Pemerintah Cabut Izin Korporasi yang Terbukti Sebabkan Karhutla - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/928973/walhi-desak-pemerintah-cabut-izin-korporasi-yang-terbukti-sebabkan-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (WALHI) Kalimantan Barat mendesak pemerintah menindak tegas korporasi yang areal konsesinya terbakar serta mengevaluasi izin perusahaan guna mencegah kebakaran hutan dan lahan (karhutla) berulang.",
+    "kata Divisi Advokasi dan Kampanye WALHI Kalbar Indra Syahnanda di Pontianak, Rabu (2/9)."
+   ]
+  },
+  {
+   "judul": "Titik Panas di Gambut Sepanjang Agustus 2026 Melonjak 1.006 Persen - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "\"titik panas\" konsesi HGU PBPH gambut",
+    "\"Pantau Gambut\" karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/analisis-pantau-gambut-titik-panas-sepanjang-agustus-2026-melonjak-1006-persen",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [
+    "Saat memimpin Rapat Koordinasi Pengendalian Karhutla secara daring dari Jakarta, Selasa (1/9/2026), Menteri Kehutanan Raja Juli Antoni menegaskan pentingnya kolaborasi dan rasa tanggung jawab bersama dalam menjaga kawasan hutan.",
+    "Menghadapi potensi eskalasi cuaca kering, Kemenhut menggalang sinergi ketat bersama para pemegang PBPH di seluruh Indonesia demi memastikan areal kerja masing-masing terlindungi secara optimal."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Belgis Habiba Greenpeace Soroti Penegakan Hukum Karhutla: Tidak Tajam ke Korporasi - SINDOnews Nasional",
+   "media": "SINDOnews Nasional",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.sindonews.com/read/1745515/12/belgis-habiba-greenpeace-soroti-penegakan-hukum-karhutla-tidak-tajam-ke-korporasi-1788314989",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Terus Berulang, Walhi Soroti Gagalnya Negara Jalankan Mandat TAP MPR 2001 - NU Online",
+   "media": "NU Online",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "walhi hotspot HGU PBPH"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://nu.or.id/nasional/karhutla-terus-berulang-walhi-soroti-gagalnya-negara-jalankan-mandat-tap-mpr-2001-M29S9",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Dana Prima Tarigan"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Karhutla Terus Berulang, Walhi Soroti Gagalnya Negara Jalankan Mandat TAP MPR 2001\nNU Online · Kamis, 3 September 2026 | 16:00 WIB\nRikhul Jannah\nKontributor\nJakarta, NU Online\nWahana Lingkungan Hidup Indonesia (Walhi) menyoroti persoalan ke",
+    "Kepala Departemen Komunikasi Strategis Eksekutif Nasional Walhi Dana Prima Tarigan menjelaskan, situasi karhutla saat ini menunjukkan kegagalan negara menjalankan mandat sebagaimana ditegaskan dalam TAP MPR Nomor IX/MPR/2001."
+   ]
+  },
+  {
+   "judul": "Walhi Catat 11.978 Hotspot di Sumsel, Hampir Setengahnya Terdeteksi di Wilayah Konsesi Perusahaan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://regional.kompas.com/read/2026/09/03/100000178/walhi-catat-11.978-hotspot-di-sumsel-hampir-setengahnya-terdeteksi-di?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Editor\nPALEMBANG, KOMPAS.com - Wahana Lingkungan Hidup Indonesia (Walhi) Sumsel mencatat sedikitnya 11.978 titik panas atau hotspot terdeteksi di 14 kabupaten/kota selama periode 21–31 Agustus 2026.",
+    "Kepala Divisi Advokasi dan Kampanye Walhi Sumsel, Galang Suganda, menjelaskan bahwa konsentrasi hotspot tertinggi berada di Kabupaten Ogan Komering Ilir (OKI) dengan 5.391 titik panas."
+   ]
+  },
+  {
+   "judul": "Titik Panas Bulan Agustus 2026 Meningkat 1.006 Persen - Pantau Gambut",
+   "media": "Pantau Gambut",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"titik panas\" konsesi HGU PBPH gambut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pantaugambut.id/publikasi/titik-panas-bulan-agustus-2026-meningkat-1006-persen",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla: Presiden Prabowo dan sejumlah pihak digugat warga Kalimantan Barat yang terdampak karhutla - BBC",
+   "media": "BBC",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/cp80v0de515o",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [
+    "kata Wali Kota Palembang, Ratu Dewa, Selasa (08/09).",
+    "ujar Bambang, personel pemadam dari Dinas Kehutanan kepada jurnalis BBC Indonesia, Quin Pasaribu.",
+    "Meski Dinas Kesehatan setempat mengatakan kematian korban \"tidak meninggal sepenuhnya karena ISPA\", keluarga menyebut kondisi kesehatannya memburuk selama periode kabut asap.",
+    "Mengutip laporan Antara, Kepala Dinas Kesehatan Murung Raya Suwirman Hutagalung mengatakan korban juga memiliki riwayat kelainan ginjal yang telah lama diderita.",
+    "Pelaksana Tugas (Plt) Kepala Pusat Data, Informasi, dan Komunikasi Kebencanaan BNPB, Berton SP Panjaitan, menyatakan pihaknya memberikan penghormatan khusus kepada relawan yang gugur di garis depan tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ada 5.539 Hotspot Karhutla di Konsesi Perusahaan, WALHI Desak Pemerintah Audit Perizinan - JPNN.com",
+   "media": "JPNN.com",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.jpnn.com/news/ada-5539-hotspot-karhutla-di-konsesi-perusahaan-walhi-desak-pemerintah-audit-perizinan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Ada 5.539 Hotspot Karhutla di Konsesi Perusahaan, WALHI Desak Pemerintah Audit Perizinan\njpnn.com - Wahana Lingkungan Hidup Indonesia (WALHI) Sumatera Selatan mendesak pemerintah melakukan audit terhadap perusahaan yang wilayah konsesinya t",
+    "Desakan itu disampaikan setelah analisis WALHI Sumsel menemukan 5.539 hotspot berada di wilayah konsesi perusahaan sepanjang 21-31 Agustus 2026."
+   ]
+  },
+  {
+   "judul": "Finnantara Intiga dan Jejak Karhutla: Seberapa Jauh Tanggung Jawab APP Sinar Mas? - Inside Pontianak",
+   "media": "Inside Pontianak",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://insidepontianak.com/pontianak/43954/finnantara-intiga-dan-jejak-karhutla-seberapa-jauh-tanggung-jawab-app-sinar-mas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara itu, hingga 30 Agustus 2026, Polda Kalbar menyatakan tengah mendalami keterkaitan delapan korporasi dengan kebakaran di wilayah mereka."
+   ],
+   "kalimat_walhi": [
+    "Pada 2026, analisis WALHI Kalbar kembali memasukkan Finnantara dalam daftar konsesi PBPH yang terindikasi mengalami kebakaran.",
+    "Dalam pemantauan Januari hingga Agustus 2026, WALHI mencatat sedikitnya 14 konsesi PBPH di Kalimantan Barat terindikasi terbakar."
+   ]
+  },
+  {
+   "judul": "Polisi Tetapkan 12 Tersangka, Kementerian LH Segel 21 Perusahaan - Kaltim Kece",
+   "media": "Kaltim Kece",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://kaltimkece.id/warta/lingkungan/polisi-tetapkan-12-tersangka-kementerian-lh-segel-21-perusahaan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Mengutip kantor berita Antara, Menteri Lingkungan Hidup, Jumhur Hidayat, menjelaskan bahwa penyegelan berbeda dengan pemberian sanksi."
+   ],
+   "kalimat_walhi": [
+    "Keterangan kementerian itu selaras dengan laporan analisis Wahana Lingkungan Hidup (Walhi) Kaltim mengenai seberan titik panas karhutla dalam rentang 1 hingga 25 Agustus 2026.",
+    "Walhi Kaltim mencatat puluhan korporasi bertanggung jawab atas kebakaran hutan dan lahan di Kaltim."
+   ]
+  },
+  {
+   "judul": "Lima Korporasi Hutan di Kalbar Dibekukan Termasuk Mayawana - Betahita",
+   "media": "Betahita",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "\"Pantau Gambut\" karhutla konsesi",
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12326/lima-korporasi-hutan-di-kalbar-dibekukan-termasuk-mayawana",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [
+    "ujar Menteri Kehutanan\nLima korporasi itu adalah:\n1."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kabut Asap Memanas, Greenpeace Malaysia Desak Indonesia Bongkar Perusahaan Terkait Karhutla - Aktualita.co",
+   "media": "Aktualita.co",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://aktualita.co/internasional/kabut-asap-memanas-greenpeace-malaysia-desak-indonesia-bongkar-perusahaan-terkait-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Singgung Karhutla Berulang, Greenpeace Beber Risetnya soal Sanksi ke Korporasi Besar - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Greenpeace Bahas Karhutla: Ratusan Orang yang Ditangkap Bisa Jadi Pintu Masuk Ungkap Aktor - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.tv/nasional/689223/greenpeace-bahas-karhutla-ratusan-orang-yang-ditangkap-bisa-jadi-pintu-masuk-ungkap-aktor?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Walhi Beberkan Karhutla di Konsesi dan PSN - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi",
+    "\"titik panas\" konsesi HGU PBPH gambut"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mongabay.co.id/2026/09/07/walhi-beberkan-karhutla-di-konsesi-dan-psn/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 18,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Tak bisa ungkap nama perusahaan\nRistianto Pribadi, Kepala Biro Hubungan Masyarakat dan Kerjasama Luar Negeri, Kementerian Kehutanan, mengatakan, untuk sementara, belum dapat mengungkapkan informasi nama lengkap perusahaan.",
+    "Saat Prabowo berkunjung dan rapat koordinasi bahas karhutla, Kapolda Sumsel Sandi Nugroho, mengatakan telah ingatkan PTPN VII tidak lakukan praktik membakar."
+   ],
+   "kalimat_walhi": [
+    "- Walhi menegaskan biang kerok karhutla adalah korporasi skala besar.",
+    "Walhi Sumatera Selatan (Sumsel), melaporkan karhutla pada Agustus paling besar."
+   ]
+  },
+  {
+   "judul": "Tindak Tegas Korporasi Penyebab Karhutla di Area Konsesi - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "\"titik panas\" konsesi HGU PBPH gambut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/tindak-tegas-korporasi-penyebab-karhutla-di-area-konsesi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Boy juga meminta Presiden memastikan Menteri ATR/BPN mengevaluasi secara menyeluruh terhadap HGU yang berada di wilayah rawan kebakaran, terutama pada ekosistem gambut.",
+    "Menteri Koordinator Bidang Politik dan Keamanan Djamari Chaniago menyatakan, pemerintah berusaha menegakkan aturan terkait penanganan karhutla sesuai peraturan perundangan yang berlaku."
+   ],
+   "kalimat_walhi": [
+    "Menyikapi kondisi ini, Wahana Lingkungan Hidup Indonesia (Walhi) mendesak pemerintah segera mengevaluasi hak guna usaha (HGU) yang bermasalah.",
+    "Direktur Eksekutif Walhi Nasional Boy Jerry Even Sembiring menyampaikan, pemerintah memiliki kewenangan untuk memastikan hak atas tanah yang diberikan kepada badan usaha tidak digunakan dengan mengabaikan kewajiban pemegang hak."
+   ]
+  },
+  {
+   "judul": "Update Karhutla 2026: 72.009 Hektare Lahan Gambut di 6 Provinsi Telah Hangus Terbakar - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "\"Pantau Gambut\" karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/930786/update-karhutla-2026-72009-hektare-lahan-gambut-di-6-provinsi-telah-hangus-terbakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [
+    "ujar Suharyanto dalam rapat terbatas penanganan bencana yang dipimpin Presiden Prabowo Subianto secara virtual, Senin (7/9).",
+    "Hingga saat ini, BNPB mengklaim telah berhasil memadamkan api di area seluas 71.069,65 hektare."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "BNPB Catat 98% Kebakaran Lahan Gambut di 6 Provinsi Prioritas Sudah Dipadamkan - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "\"Pantau Gambut\" karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kontan.co.id/news/bnpb-catat-98-kebakaran-lahan-gambut-di-6-provinsi-prioritas-sudah-dipadamkan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Badan Nasional Penanggulangan Bencana (BNPB) menyebut sekitar 98% kebakaran lahan gambut di enam provinsi prioritas di Sumatra dan Kalimantan telah dipadamkan.",
+    "Dalam paparannya pada Rapat Terbatas Perkembangan Penanganan Bencana Alam, Senin (7/9/2026), Kepala BNPB Suharyanto mengatakan bahwa operasi darat dan udara yang melibatkan unsur gabungan hingga Senin (7/9/2026) telah berhasil memadamkan 71.069,65 hektare (ha) lahan gambut yang t",
+    "Baca Juga: Prabowo Minta Polri Usut Korporasi Terlibat Karhutla, Perintahkan Cabut Izinnya\nIa menjelaskan bahwa luas lahan yang terbakar terdiri atas dua kategori, yakni lahan konsesi dan lahan masyarakat atau kawasan hutan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kejahatan Pembakaran Lahan Rugikan Masyarakat dan Negara, Walhi: 'Korporasi yang Terlibat Kita Laporkan dan mereka Harus Bertanggung Jawab' - RiauPagi.com",
+   "media": "RiauPagi.com",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "walhi hotspot HGU PBPH"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://riaupagi.com/news/karhutla-sebagai-kejahatan-yang-rugikan-masyarakat-dan-negara-walhi-terduga-korporasi-sebagai-pelaku-tetap-dilaporkan-dan-harus-bertanggung-jawab-202609094525/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 22,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Karhutla yang terus menerus terjadi membuktikan bahwa lemahnya penegakan hukum bagi korporasi yang terlibat dalam karhutla, sehingga penting bagi kami untuk mendesak KAPOLDA Riau melakukan penyelidikan dan penegakan hukum secara serius bagi korporasi serta mendesak Pemerintah Pro",
+    "Uli Arta Siagian, Manager Kampanye Hutan dan Kebun Walhi Nasional mengatakan “karhutla merupakan bentuk kejahatan luar biasa, tindakan presiden Republik Indonesia beserta menteri-menterinya harusnya tidak seperti pemadam kebakaran, yang akan bekerja saat api ada."
+   ],
+   "kalimat_walhi": [
+    "PEKANBARU - Wahana Lingkungan Hidup Indonesia (WALHI) dalam siaran persnya 25 Agustus 2026 menyebutkan kebakaran hutan dan lahan (karhutla) yang terjadi di Sumatra dan Kalimantan pada Agustus 2026 tidak dapat semata-mata dipandang sebagai a",
+    "Analisis WALHI menunjukkan bahwa karhutla merupakan kausalitas dari salah urusnya negara atas ekosistem esensial seperti gambut dan hutan, tunduknya negara pada kepentingan korporasi dan lemahnya penegakan hukum."
+   ]
+  },
+  {
+   "judul": "Banyak Titik Panas di HGU, Walhi: Pemiliknya Harus Dihukum - Betahita",
+   "media": "Betahita",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.betahita.id/berita/12329/banyak-titik-panas-di-hgu-walhi-pemiliknya-harus-dihukum",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Walhi menjelaskan, Peraturan Menteri ATR/BPN Nomor 15 Tahun 2016 tentang Tata Cara Pelepasan atau Pembatalan HGU atau Hak Pakai (HP) pada Lahan yang Terbakar, khususnya Pasal 4 dan Pasal 5, telah secara tegas mengamanatkan kepada Menteri ATR/BPN untuk mengevaluasi dan mencabut HG",
+    "Menurut Boy Jerry Even Sembiring, Direktur Eksekutif Walhi Nasional, Kementerian ATR/BPN memiliki kewenangan untuk memastikan bahwa hak atas tanah yang diberikan kepada badan usaha tidak digunakan dengan mengabaikan kewajiban pemegang hak.",
+    "Boy juga mengatakan bahwa Presiden harus memastikan Menteri ATR/BPN melakukan evaluasi menyeluruh terhadap HGU yang berada di wilayah rawan kebakaran, khususnya pada ekosistem gambut, dan mencabut HGU yang terbukti mengabaikan kewajiban perlindungan lingkungan."
+   ],
+   "kalimat_walhi": [
+    "Berita\nBanyak Titik Panas di HGU, Walhi: Pemiliknya Harus Dihukum\nDari total 23.307 titik api yang diidentifikasi dari Januari-Agustus 2026, 5.540 titik di antaranya berada di dalam areal HGU.",
+    "Wahana Lingkungan Hidup Indonesia (Walhi) menilai Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) gagal menjalankan kewenangannya apabila HGU yang bermasalah, melanggar ketentuan, dan berulang kali menjadi lokasi karh"
+   ]
+  },
+  {
+   "judul": "Ratusan Orang Tersangka Karhutla, Bagaimana Penegakan Hukum Korporasi? - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"titik panas\" konsesi HGU PBPH gambut",
+    "\"Pantau Gambut\" karhutla konsesi",
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/09/10/ratusan-orang-tersangka-karhutla-bagaimana-penegakan-hukum-korporasi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace",
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [
+    "- Dwi Januanto Nugroho Direktur Jenderal Penegakan Hukum (Gakkum) Kementerian Kehutanan mengatakan, lakukan pengawasan terhadap 32 perizinan berusaha pemanfaatan hutan.",
+    "Pipit Subiyanto, Kasubdit III Dittipidter Bareskrim Polri mengatakan, dalam penegakan hukum mengacu pada UU Kehutanan, UU Perlindungan dan Pengelolaan Lingkungan Hidup (PPLH), UU Perkebunan, UU Konservasi Sumber Daya Alam (KSDA), hingga KUHP.",
+    "Brigjen Pol Mohammad Irhamni, Direktur Tipidter Bareskrim Polri mengatakan, dugaan para tersangka sengaja membakar lahan untuk menghemat biaya operasional pembukaan lahan.",
+    "KLH menyatakan, sudah menyegel 21 badan usaha di tujuh provinsi di Sumatera dan Kalimantan yang berkaitan dengan kejahatan lingkungan ini.",
+    "Jumhur Hidayat, Menteri LH mengatakan, penyegelan merupakan proses sebelum pemberian sanksi.",
+    "Hingga kini, kata Jumhur, dari hasil verifikasi lapangan, KLH menemukan 335 perusahaan terindikasi sengaja melakukan pembakaran."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Greenpeace: Inpres Karhutla Belum Tentu Bikin Korporasi Jera - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kontan.co.id/news/greenpeace-inpres-karhutla-belum-tentu-bikin-korporasi-jera",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Walhi Serahkan Data 262 Perusahaan Terkait Karhutla, Tindakan Presiden Dinanti - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "12 Sep 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kompas.id/artikel/walhi-serahkan-data-262-perusahaan-terkait-karhutla-ditunggu-tindakan-presiden",
+   "teks_terbaca": true,
+   "walhi_di_isi": 13,
+   "penutur_walhi": [
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Presiden ketika ditanya mengenai perusahaan yang sengaja membakar hutan.",
+    "Presiden meminta aparat menyelidiki korporasi yang diduga menyuruh masyarakat membakar lahan dan menyatakan izin perusahaan dapat dicabut jika ditemukan indikasi keterlibatan.",
+    "ujar Kapolri.",
+    "”Kami membawa data ini kepada Presiden sebagai bentuk dukungan masyarakat sipil terhadap pernyataan Presiden untuk menindak tegas pelaku karhutla,”"
+   ],
+   "kalimat_walhi": [
+    "Walhi kini membawa data 262 entitas perusahaan untuk diverifikasi dan ditindaklanjuti.",
+    "Pada Jumat (11/9/2026), Wahana Lingkungan Hidup Indonesia (Walhi) mendatangi Kementerian Sekretariat Negara untuk menyerahkan laporan kepada Presiden Prabowo Subianto."
+   ]
+  },
+  {
+   "judul": "27 Ribu Hektare Konsesi Terbakar, KLH Segel 50 Badan Usaha terkait Karhutla - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "\"Pantau Gambut\" karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/932875/27-ribu-hektare-konsesi-terbakar-klh-segel-50-badan-usaha-terkait-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Lingkungan Hidup, Jumhur Hidayat, mengatakan penyegelan dilakukan sebagai bagian dari penegakan hukum terhadap kebakaran hutan dan lahan (karhutla)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bagaimana Mayawana Terbakar - Betahita",
+   "media": "Betahita",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "\"Pantau Gambut\" karhutla konsesi",
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/sorot/12358/bagaimana-mayawana-terbakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace",
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Ungkap 13.475 Hotspot Karhutla Kaltim Terdeteksi di Area Konsesi Korporasi - Tribunkaltim.co",
+   "media": "Tribunkaltim.co",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "walhi hotspot HGU PBPH",
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://kaltim.tribunnews.com/tribun-etam/1163675/walhi-ungkap-13475-hotspot-karhutla-kaltim-terdeteksi-di-area-konsesi-korporasi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Membayar Karhutla dengan Pajak dan Paru-Paru - Pantau Gambut",
+   "media": "Pantau Gambut",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "\"Pantau Gambut\" karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pantaugambut.id/kabar/membayar-karhutla-dengan-pajak-dan-paruparu",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [
+    "Pada 21 Agustus, Menteri LH mengatakan tidak ada laporan karhutla di konsesi.",
+    "Sehari kemudian, sang menteri menyebut 335 perusahaan terindikasi memiliki titik api dan kebakaran di konsesinya, mencakup hampir 85 ribu hektare.",
+    "Kepala BNPB menyebut anggaran pencegahan dan mitigasi selama lima tahun terakhir hanya Rp17–19 miliar per tahun.",
+    "Menteri Keuangan memang pernah mengatakan BNPB dapat meminta tambahan dari pos darurat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Berulang, Koalisi Usulkan Revisi Total UU Kehutanan - Betahita",
+   "media": "Betahita",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "\"Pantau Gambut\" karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12303/karhutla-berulang-koalisi-usulkan-revisi-total-uu-kehutanan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Republika Online - republika.co.id",
+   "media": "republika.co.id",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "Greenpeace karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://esgnow.republika.co.id/berita/tkjyls393/583-hektare-gambut-terbakar-di-konsesi-korporasi-riau",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [
+    "Wakil Koordinator Jikalahari Arpiyan Sargita mengatakan pihaknya melaporkan temuan tersebut ke Bareskrim Polri.",
+    "Langkah ini diambil agar Bareskrim dapat memproses kasus baru ini secara tegas, sekaligus memberi ruang bagi Polda Riau untuk fokus menyelesaikan laporan karhutla tahun 2025,”"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Lebih 80 Persen Hotspot Terdeteksi di Areal Konsesi, WALHI Kaltim Desak Evaluasi Izin Perusahaan - Tribunkaltim.co",
+   "media": "Tribunkaltim.co",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi hotspot HGU PBPH",
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://kaltim.tribunnews.com/tribun-etam/1163883/lebih-80-persen-hotspot-terdeteksi-di-areal-konsesi-walhi-kaltim-desak-evaluasi-izin-perusahaan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Wilayah Konsesi Dipenuhi Titik Panas - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/wilayah-konsesi-dipenuhi-titik-panas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Dalam siaran persnya, Selasa (25/8/2026), Kepala Biro Hubungan Masyarakat dan Kerja Sama Luar Negeri Kementerian Kehutanan Ristianto Wahyu Nurhidayat mengatakan, keberadaan titik panas tak berarti ada karhutla di lokasi tersebut.",
+    "Deputi Bidang Penegakan Hukum Lingkungan Hidup Kementerian Lingkungan Hidup Rizal Irawan menyatakan, pihak penyebab kebakaran dengan luas di bawah 100 ha terancam denda dan sanksi administratif berupa pemulihan lahan sesuai ketentuan."
+   ],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (Walhi) Kalimantan Timur meminta pemerintah mengecek dan mengevaluasi izin perusahaan terkait jika terdapat karhutla di titik panas tersebut.",
+    "tutur Direktur Eksekutif Daerah Walhi Kaltim Fathur Roziqin, Sabtu (29/8/2026)."
+   ]
+  },
+  {
+   "judul": "WALHI Papua Ungkap Lonjakan Karhutla di Tanah Papua, Wilayah Konsesi PSN Merauke Jadi Episentrum Titik Api - sasagupapua.com",
+   "media": "sasagupapua.com",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://sasagupapua.com/walhi-papua-ungkap-lonjakan-karhutla-di-tanah-papua-wilayah-konsesi-psn-merauke-jadi-episentrum-titik-api/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI Papua Ungkap Lonjakan Karhutla di Tanah Papua, Wilayah Konsesi PSN Merauke Jadi Episentrum Titik Api\nSASAGUPAPUA.COM, Papua – Wahana Lingkungan Hidup Indonesia (WALHI) Papua merilis laporan identifikasi terkini mengenai peningkatan si",
+    "ungkap Walhi."
+   ]
+  },
+  {
+   "judul": "Deretan Tambang Batu Bara Rawan Karhutla: Milik KPC hingga Adaro - Bloomberg Technoz",
+   "media": "Bloomberg Technoz",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.bloombergtechnoz.com/detail-news/119978/deretan-tambang-batu-bara-rawan-karhutla-milik-kpc-hingga-adaro",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Deretan Tambang Batu Bara Rawan Karhutla: Milik KPC hingga Adaro\nAzura Yumna Ramadani Purnama\n31 August 2026 12:40\nBloomberg Technoz, Jakarta – PT Wahana Lingkungan Indonesia (Walhi) mencatat terdapat sejumlah titik panas kebakaran hutan da",
+    "Dalam risetnya, Walhi memetakan 25.524 titik panas atau sekitar 74% di Kalimantan berada dalam kawasan konsesi perusahaan pada periode 1 Januari hingga 27 Juli 2026."
+   ]
+  },
+  {
+   "judul": "WALHI: Ribuan Hotspot di Gambut dan Konsesi Bukti Negara Gagal Tindak Korporasi Karhutla - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi",
+    "\"titik panas\" konsesi HGU PBPH gambut"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/berita/592074/walhi-ribuan-hotspot-di-gambut-dan-konsesi-bukti-negara-gagal-tindak-korporasi-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Dana Prima Tarigan",
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "WALHI secara tegas mendesak lintas kementerian untuk mengambil tindakan nyata terhadap perusahaan yang melanggar:\n- Kementerian Kehutanan: Dievaluasi menggunakan Pasal 72 UU No."
+   ],
+   "kalimat_walhi": [
+    "JAKARTA — Wahana Lingkungan Hidup Indonesia (WALHI) menilai pemerintah gagal menindak tegas korporasi yang bertindak lalai hingga memicu kebakaran hutan dan lahan (karhutla).",
+    "Berdasarkan data terbaru WALHI periode 25–31 Agustus 2026, terdeteksi sebanyak 6.902 titik panas (hotspot) di berbagai wilayah Indonesia, dengan konsentrasi tertinggi berada di Pulau Kalimantan sebanyak 5.201 titik."
+   ]
+  },
+  {
+   "judul": "Walhi: 386 Titik Panas di Lampung Terdeteksi di Perkebunan, Pemerintah Harus Selidiki Perusahaan Pemilik Lahan - Kupas Tuntas",
+   "media": "Kupas Tuntas",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://kupastuntas.co/2026/08/31/walhi-386-titik-panas-di-lampung-terdeteksi-di-perkebunan-pemerintah-harus-selidiki-perusahaan-pemilik-lahan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ia menegaskan, temuan tersebut harus menjadi alarm keras bagi Pemerintah\nProvinsi Lampung, Kementerian Kehutanan, Kementerian Lingkungan Hidup,\npemerintah kabupaten, aparat penegak hukum, serta korporasi pemegang izin.",
+    "“Kementerian Kehutanan memang menyatakan gajah sumatera di habitat alami\nmaupun Pusat Konservasi Gajah tidak terdampak langsung kebakaran 21–22 Agustus.",
+    "Kabid Humas Polda Lampung, Kombes Pol Yuni Isawandari\nYuyun, mengatakan data hotspot tetap harus diverifikasi di lapangan karena\ntidak seluruh titik yang terdeteksi satelit menunjukkan adanya kebakaran."
+   ],
+   "kalimat_walhi": [
+    "Walhi: 386 Titik Panas di Lampung Terdeteksi di Perkebunan, Pemerintah Harus Selidiki Perusahaan Pemilik Lahan\nKupastuntas.co, Bandar Lampung - Wahana Lingkungan Hidup (Walhi) Lampung\nmenyebut terdapat 386 titik panas berada di dalam konses",
+    "Pada periode yang sama, Walhi Lampung juga mengidentifikasi 297 titik panas\natau hotspot di kawasan hutan, sementara 96 titik panas teridentifikasi berada\ndi kawasan konservasi Taman Nasional Way Kambas (TNWK)."
+   ]
+  },
+  {
+   "judul": "Kebakaran di Wilayah Konsesi, Pemerintah Janjikan Penegakan Hukum Tanpa Pandang Bulu - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/kebakaran-di-wilayah-konsesi-pemerintah-janjikan-penegakan-hukum-tanpa-pandang-bulu",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Raja Juli mengatakan, instruksi Presiden Prabowo Subianto sangat jelas mengenai prioritas utama penegakan hukum dalam penanganan karhutla."
+   ],
+   "kalimat_walhi": [
+    "Menurut data Walhi, banyak karhutla terjadi di wilayah konsesi.",
+    "Kepala Divisi Advokasi dan Kampanye Wahana Lingkungan Hidup Indonesia (Walhi) Sumsel Galang Suganda mengatakan, pihaknya menemukan mayoritas titik panas terkonsentrasi di wilayah korporasi."
+   ]
+  },
+  {
+   "judul": "WALHI Catat 13.475 Hotspot di Kawasan Konsesi Kaltim, Desak Pemerintah Evaluasi Izin Korporasi - Korankaltim.com",
+   "media": "Korankaltim.com",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"titik panas\" konsesi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://korankaltim.com/read/samarinda/93338/walhi-catat-13475-hotspot-di-kawasan-konsesi-kaltim-desak-pemerintah-evaluasi-izin-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) Kaltim mencatat ribuan hotspot justru terkonsentrasi di wilayah yang berada dalam penguasaan perusahaan.",
+    "Berdasarkan pemetaan geografis WALHI Kaltim sepanjang 1 hingga 25 Agustus 2026, sedikitnya terdapat 13.475 titik panas yang teridentifikasi di sejumlah kawasan konsesi industri ekstraktif."
+   ]
+  },
+  {
+   "judul": "6.050 Titik Panas Karhutla Kalbar, Ini Reaksi Keras Muhammadiyah - pontianak times",
+   "media": "pontianak times",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "\"titik panas\" konsesi HGU PBPH gambut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianak-times.co.id/6-050-titik-panas-karhutla-kalbar-ini-reaksi-keras-muhammadiyah/",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kebakaran Gambut Kalbar Tak Kunjung Padam - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "\"Pantau Gambut\" karhutla konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/08/31/kebakaran-gambut-kalbar-tak-kunjung-padam/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pantau Gambut"
+   ],
+   "kalimat_pemerintah": [
+    "“Pengelolaan gambut melibatkan KLH (Kementerian Lingkungan Hidup), Kementerian Kehutanan, pemerintah daerah, BNPB dan BPBD, pemegang izin, serta masyarakat,”kata Ola."
+   ],
+   "kalimat_walhi": [
+    "- Walhi Kalimantan Barat mencatat, sejak 1 Januari-27 Juli 2026, terdapat 118.420 hotspot di seluruh Indonesia dengan luas indikatif karhutla mencapai 107.649 hektar.",
+    "Walhi juga mencatat 25.524 hotspot atau sekitar 74% hotspot Kalimantan berada di dalam konsesi perusahaan."
+   ]
+  }
+ ]
+}

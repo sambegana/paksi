@@ -1,0 +1,197 @@
+{
+ "id": "P03",
+ "tanggal": "2026-08-26",
+ "rentang": [
+  "2026-08-25",
+  "2026-09-10"
+ ],
+ "kueri": [
+  "walhi kawasi harita",
+  "kawasi harita tongkang",
+  "kawasi laut harita nelayan",
+  "walhi malut harita",
+  "JATAM kawasi harita"
+ ],
+ "jejaring": [
+  "JATAM"
+ ],
+ "jumlah_berita": 11,
+ "berita": [
+  {
+   "judul": "Wagub Malut Apresiasi Dukungan Harita Nickel Untuk Perkuat Ekonomi Nelayan Obi - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "kawasi laut harita nelayan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/bisnis/2026/09/03/193027/wagub-malut-apresiasi-dukungan-harita-nickel-untuk-perkuat-ekonomi-nelayan-obi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "SPBU Halmahera Selatan Disanksi Pertamina, Distribusi BBM Subsidi Dihentikan Sementara - Kalesang",
+   "media": "Kalesang",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "kawasi harita tongkang"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalesang.id/2026/09/09/spbu-halmahera-selatan-disanksi-pertamina-distribusi-bbm-subsidi-dihentikan-sementara/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Buku Ikan Karang Pesisir Barat Laut Obi Diluncurkan, Ini Pesan Bupati Halmahera Selatan - tandaseru.com",
+   "media": "tandaseru.com",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "kawasi laut harita nelayan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Puluhan Tongkang Melintas Setiap Hari, Warga Kawasi: Laut Bukan Tol Harita - cermat",
+   "media": "cermat",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "kawasi harita tongkang",
+    "kawasi laut harita nelayan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cermat.co.id/puluhan-tongkang-melintas-setiap-hari-warga-kawasi-laut-bukan-tol-harita/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Warga Kawasi Tolak Tongkang Harita Nikel, Laut Bukan Jalur Industri - HalmaheraPost.com",
+   "media": "HalmaheraPost.com",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "kawasi harita tongkang",
+    "kawasi laut harita nelayan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://halmaherapost.com/2026/08/26/warga-kawasi-tolak-tongkang-harita-nikel-laut-bukan-jalur-industri/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Blokade Aktivitas Tongkang, Cara Warga Kawasi Jaga Laut dari Industri Tambang - halmaheranesia.com",
+   "media": "halmaheranesia.com",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "kawasi harita tongkang",
+    "kawasi laut harita nelayan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "JKPI 2026 Digelar, DLH Ternate Siagakan Petugas dan Armada Pengangkut Sampah - Kalesang",
+   "media": "Kalesang",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "kawasi harita tongkang"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalesang.id/2026/08/26/jkpi-2026-digelar-dlh-ternate-siagakan-petugas-dan-armada-pengangkut-sampah/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pelaksana Tugas (Plt) Kepala DLH Kota Ternate, Musli Muhammad, mengatakan pihaknya juga berkoordinasi dengan Kecamatan Ternate Tengah untuk menambah dukungan armada di lokasi kegiatan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Rakernas JKPI 2026 Diharapkan Lahirkan Model Kerja Sama Baru Antarkota Pusaka - Kalesang",
+   "media": "Kalesang",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "kawasi harita tongkang"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalesang.id/2026/08/27/rakernas-jkpi-2026-diharapkan-lahirkan-model-kerja-sama-baru-antarkota-pusaka/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Harita Nickel Dukung Nelayan Soligi dengan Kapal 10 GT, Wagub Malut Beri Apresiasi - Tribunternate.com",
+   "media": "Tribunternate.com",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "kawasi laut harita nelayan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ternate.tribunnews.com/maluku-utara/104310/harita-nickel-dukung-nelayan-soligi-dengan-kapal-10-gt-wagub-malut-beri-apresiasi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Warga Kawasi Protes Perusakan Perairan Obi oleh Harita - Betahita",
+   "media": "Betahita",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "walhi kawasi harita",
+    "kawasi harita tongkang",
+    "kawasi laut harita nelayan"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12297/warga-kawasi-protes-perusakan-perairan-obi-oleh-harita",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Warga Kawasi Protes Perairan Obi Rusak, Desak Harita Nickel Hentikan Lalu Lalang Tongkang - Beritambang",
+   "media": "Beritambang",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "kawasi harita tongkang",
+    "kawasi laut harita nelayan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://beritambang.com/warga-kawasi-protes-perairan-obi-rusak-desak-harita-nickel-hentikan-lalu-lalang-tongkang/",
+   "teks_terbaca": false
+  }
+ ]
+}

@@ -1,0 +1,1167 @@
+{
+ "id": "P08",
+ "tanggal": "2026-09-12",
+ "rentang": [
+  "2026-09-11",
+  "2026-09-27"
+ ],
+ "kueri": [
+  "walhi ISPU karhutla",
+  "ISPU karhutla \"tidak sehat\"",
+  "ISPU asap karhutla KLH",
+  "walhi kualitas udara asap karhutla"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 72,
+ "berita": [
+  {
+   "judul": "Kualitas Udara Kampar Tidak Sehat, ISPU Capai 153 - Tengok Berita",
+   "media": "Tengok Berita",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tengokberita.com/berita/baca/kualitas-udara-kampar-tidak-sehat-ispu-capai-153",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pagi Ini, Kualitas Udara Muara Bulian Tidak Sehat ISPU 166 , Sebelumnya 203 - Tribunjambi.com",
+   "media": "Tribunjambi.com",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambi.tribunnews.com/jambi/1205127/pagi-ini-kualitas-udara-muara-bulian-tidak-sehat-ispu-166-sebelumnya-203",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kualitas Udara 7 Daerah di Sumsel 11 September 2026 Masuk Kategori Tidak Sehat, Termasuk Palembang - Tribunsumsel.com",
+   "media": "Tribunsumsel.com",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.tribunnews.com/palembang/1029017/kualitas-udara-7-daerah-di-sumsel-11-september-2026-masuk-kategori-tidak-sehat-termasuk-palembang",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "ISPU Masih Sangat Tidak Sehat, PJJ Sekolah di Banjarmasin Kembali Diperpanjang - Mu4.co.id",
+   "media": "Mu4.co.id",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mu4.co.id/ispu-masih-sangat-tidak-sehat-pjj-sekolah-di-banjarmasin-kembali-diperpanjang/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Lebih lanjut menurut Arif, Dinas Pendidikan Kota Banjarmasin yang tergabung dalam Satgas Dampak Karhutla mengambil langkah tegas ini karena mengacu pada Surat Edaran Mendikdasmen Nomor 20 Tahun 2026 tentang penyelenggaraan pendidikan di daerah terdampak karhutla, sistem pembelaja"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Rimbo Panjang Padam, Asap Masih Muncul dan ISPU Kampar Capai 103 - Riau Pos",
+   "media": "Riau Pos",
+   "tanggal": "12 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://riaupos.jawapos.com/kampar/2609120022/karhutla-rimbo-panjang-padam-asap-masih-muncul-dan-ispu-kampar-capai-103",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hotspot Harian Menurun Drastis, Ivan Wirata : Jangan Lengah, ISPU Muaro Jambi & Tebo Tidak Sehat - jamberita.com",
+   "media": "jamberita.com",
+   "tanggal": "12 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jamberita.com/read/2026/09/12/5989272/hotspot-harian-menurun-drastis-ivan-wirata--jangan-lengah-ispu-muaro-jambi--tebo-tidak-sehat/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ivan mengatakan DPRD Provinsi Jambi akan terus mengawal kebijakan dan dukungan anggaran untuk memperkuat sistem pencegahan karhutla, terutama di daerah yang secara historis berulang kali menjadi kawasan rawan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Sempat Masuk Kategori Tidak Sehat, Kualitas Udara Kaltim Membaik, Kini di Level Sedang - Tribunkaltim.co",
+   "media": "Tribunkaltim.co",
+   "tanggal": "12 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltim.tribunnews.com/tribun-etam/1165567/sempat-masuk-kategori-tidak-sehat-kualitas-udara-kaltim-membaikkini-di-level-sedang",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pencemaran Udara Masuk Kategori Bahaya, Ribuan Warga Mulai Tercekik Asap Karhutla - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "walhi ISPU karhutla",
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/pencemaran-udara-masuk-kategori-bahaya-ribuan-warga-mulai-tercekik-asap-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Soroti Karhutla Gambut dan Respons Pemerintah - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "walhi ISPU karhutla",
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://rri.co.id/pontianak/regional/2725319/walhi-soroti-karhutla-gambut-dan-respons-pemerintah",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Imbas Kabut Asap Karhutla di Kalimantan, Pasien Pneumonia dan ISPA Meningkat - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/imbas-kabut-asap-karhutla-di-kalimantan-pasien-pneumonia-dan-ispa-meningkat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Rumah Sakit Bhayangkara Polda Kalbar Komisaris Besar Josep Ginting mengatakan, pihaknya menerima peningkatan pasien dengan gangguan pernapasan dalam beberapa minggu terakhir.",
+    "Sebelumnya, Juru Bicara Kementerian Kesehatan Widyawati mengatakan, total masyarakat terdampak karhutla berjumlah 12,5 juta jiwa.",
+    "Kepala BNPB Letjen TNI Suharyanto mengatakan, karhutla di lahan gambut menjadi tantangan untuk dipadamkan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap di Pekanbaru Tampak Berkurang, Data ISPU Ungkap Kualitas Udara Riau Masih Sangat Tidak Sehat - Tribunpekanbaru.com",
+   "media": "Tribunpekanbaru.com",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pekanbaru.tribunnews.com/riau-region/1114921/asap-di-pekanbaru-tampak-berkurang-data-ispu-ungkap-kualitas-udara-riau-masih-sangat-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tuntut Pemerintah Lindungi Warga Terdampak Asap Karhutla - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/09/13/tuntut-pemerintah-lindungi-warga-terdampak-asap-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "- Asep Komarudin, Juru Kampanye Hutan Greenpeace Indonesia, mengatakan, presiden harus dapat informasi utuh mengenai karhutla.",
+    "Dinas Lingkungan Hidup menyebut peningkatan pencemaran terjadi sejak sore hingga malam hari.",
+    "Ferdinand Asmin, Kepala Dinas Kehutanan, Sumatera Barat mengatakan, PBPH yang LBH sebutkan itu sudah dicabut izinnya.",
+    "Kapolri Listyo Sigit Prabowo, mengatakan, perlu tambahan titik pembuatan sumur bor permanen di tempat potensial berulang kebakaran.",
+    "“Mestinya presiden mengunjungi area konsesi korporasi yang terbakar, sebagai wujud penindakan tegas pemerintah, dan memberi warning (peringatan) bagi semua pemegang izin.”",
+    "Asep Komarudin, Juru Kampanye Hutan Greenpeace Indonesia, mengatakan, presiden harus dapat informasi utuh mengenai karhutla.Bukan sekadar laporan jumlah hotspot, berapa personil dan luas api yang berhasil padam, presiden perlu dapat informasi tentang dampak asap."
+   ],
+   "kalimat_walhi": [
+    "- Walhi Sumatera Barat, Perhimpunan Bantuan Hukum & Hak Asasi Manusia (PBHI), dan Lembaga Penelitian dan Pengabdian kepada Masyarakat (LP2M) Sumbar meminta, pemerintah menerapkan perspektif kesetaraan gender, disabilitas, dan inklusi sosial",
+    "Kelompok rentan hadapi risiko lebih besar\nWalhi Sumbar, Perhimpunan Bantuan Hukum & Hak Asasi Manusia (PBHI), dan Lembaga Penelitian dan Pengabdian kepada Masyarakat (LP2M) Sumbar meminta, pemerintah menerapkan perspektif kesetaraan gender,"
+   ]
+  },
+  {
+   "judul": "Alarm Bahaya, Udara Palembang Tidak Sehat dari Pantauan ISPU Sumsel - Bisnis.com",
+   "media": "Bisnis.com",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumatra.bisnis.com/read/20260914/533/2003871/alarm-bahaya-udara-palembang-tidak-sehat-dari-pantauan-ispu-sumsel",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Asap Kiriman Kepung Bangkinang, ISPU Capai 193 Kategori Tidak Sehat - Riau Pos",
+   "media": "Riau Pos",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://riaupos.jawapos.com/kampar/2609140043/asap-kiriman-kepung-bangkinang-ispu-capai-193-kategori-tidak-sehat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kabut Asap Karhutla Makin Tebal, Muaro Jambi Masuk Kategori Sangat Tidak Sehat, ISPU Capai 231 - Halo Indonesia News",
+   "media": "Halo Indonesia News",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://haloindonesianews.com/2026/09/14/kabut-asap-karhutla-makin-tebal-muaro-jambi-masuk-kategori-sangat-tidak-sehat-ispu-capai-231/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Daftar 6 Daerah di Sumsel Masuk Kategori Udara Tidak Sehat Imbas Karhutla, Palembang Paling Parah - Sripoku.com",
+   "media": "Sripoku.com",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://palembang.tribunnews.com/metro/1328604/daftar-6-daerah-di-sumsel-masuk-kategori-udara-tidak-sehat-imbas-karhutla-palembang-paling-parah",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kabut Asap Masih Menyelimuti Kapuas Hulu, ISPU Capai 122 - Tribunpontianak.co.id",
+   "media": "Tribunpontianak.co.id",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianak.tribunnews.com/kalbar/1186112/kabut-asap-masih-menyelimuti-kapuas-hulu-ispu-capai-122",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kualitas Udara Kalteng Memburuk, ISPU Gunung Mas Tembus 2.103 - Cyrustimes.com",
+   "media": "Cyrustimes.com",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://cyrustimes.com/ispu-gunung-mas-2103-kalteng-kualitas-udara-berbahaya/",
+   "galat": "HTTP Error 520: Origin Server Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Kalbar Desak Pengobatan Gratis, Distribusi Air Bersih, dan Percepatan Hujan Buatan - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "walhi ISPU karhutla",
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://pontianakpost.jawapos.com/metropolis/2609150147/walhi-kalbar-desak-pengobatan-gratis-distribusi-air-bersih-dan-percepatan-hujan-buatan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI Kalbar Desak Pengobatan Gratis, Distribusi Air Bersih, dan Percepatan Hujan Buatan\nPONTIANAK POST — Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Barat mendesak pemerintah segera memprioritaskan keselamatan masyarakat di tengah",
+    "WALHI meminta pemerintah memperkuat pelayanan kesehatan, menyediakan air bersih secara gratis, dan mempercepat operasi modifikasi cuaca."
+   ]
+  },
+  {
+   "judul": "Wamen Diaz Hendropriyono Bakal Segel 4 Perusahaan di Kaltim yang Terlibat Karhutla - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "walhi ISPU karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01118690/wamen-diaz-hendropriyono-bakal-segel-4-perusahaan-di-kaltim-yang-terlibat-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Terjadi di Dekat Kantor Bupati Kampar, ISPU Tercatat Tidak Sehat - Riau Pos",
+   "media": "Riau Pos",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Indikator ISPU Bengkalis Nyaris Sangat Tidak Sehat, Sekolah Pulangkan Siswa - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/bengkalis/regional/2731681/indikator-ispu-bengkalis-nyaris-sangat-tidak-sehat-sekolah-pulangkan-siswa",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "ISPU Inhil Tembus 215, Kualitas Udara Masuk Kategori Tidak Sehat - BUALBUAL.com",
+   "media": "BUALBUAL.com",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bualbual.com/2026/09/15/ispu-inhil-tembus-215-kualitas-udara-masuk-kategori-tidak-sehat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kualitas Udara Sangat Tak Sehat, Siswa Dipulangkan dari Sekolah, Disdikbud Pelalawan Perpanjang PJJ - Riau Pos",
+   "media": "Riau Pos",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://riaupos.jawapos.com/pelalawan/2609150066/kualitas-udara-sangat-tak-sehat-siswa-dipulangkan-dari-sekolah-disdikbud-pelalawan-perpanjang-pjj",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Daftar 6 Wilayah di Sumsel Kualitas Udara Masuk Kategori Tidak Sehat, 3 Wilayah Aman - Tribunsumsel.com",
+   "media": "Tribunsumsel.com",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.tribunnews.com/palembang/1029353/daftar-6-wilayah-di-sumsel-kualitas-udara-masuk-kategori-tidak-sehat-3-wilayah-aman",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kualitas Udara Muara Bulian Sangat Tidak Sehat, ISPU Tembus 276 - Tribunjambi.com",
+   "media": "Tribunjambi.com",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kabut Asap Kiriman Masih Kepung Kapuas Hulu, ISPU 106 Meski Karhutla Nihil - Tribunpontianak.co.id",
+   "media": "Tribunpontianak.co.id",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\"",
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianak.tribunnews.com/kalbar/1186236/kabut-asap-kiriman-masih-kepung-kapuas-hulu-ispu-106-meski-karhutla-nihil",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Desak Pemerintah Ambil Langkah Luar Biasa, Krisis Asap Picu Lonjakan ISPA di Kalbar - Jurnal Borneo",
+   "media": "Jurnal Borneo",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://jurnalborneo.com/walhi-desak-pemerintah-ambil-langkah-luar-biasa-krisis-asap-picu-lonjakan-ispa-di-kalbar/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 11,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "PONTIANAK – Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Barat menilai masyarakat Kalbar masih berada dalam kondisi krisis akibat kebakaran hutan dan lahan (karhutla).",
+    "WALHI Kalbar menyebut masyarakat telah menghadapi paparan asap selama sekitar dua bulan."
+   ]
+  },
+  {
+   "judul": "Tertinggi Selama Kemarau, ISPU Kapuas Tembus 722 akibat Karhutla - detikcom",
+   "media": "detikcom",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi ISPU karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/kalimantan/berita/d-8665291/tertinggi-selama-kemarau-ispu-kapuas-tembus-722-akibat-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kota Singkawang kembali terapkan pembelajaran tatap muka - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi ISPU karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://kalbar.antaranews.com/berita/712679/kota-singkawang-kembali-terapkan-pembelajaran-tatap-muka",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Pendidikan dan Kebudayaan Kota Singkawang Asmadi mengatakan, keputusan tersebut diambil setelah pihaknya berkoordinasi dengan Dinas Lingkungan Hidup (DLH), Dinas Kesehatan dan KB, Kantor Kementerian Agama, PGRI, IGI, Dewan Pendidikan serta pengawas sekolah.",
+    "Sementara itu, Kepala DLH Kota Singkawang Emy Hastuti mengatakan pihaknya akan terus melakukan pemantauan kualitas udara setiap hari untuk menjadi dasar evaluasi kebijakan pembelajaran."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap Karhutla di Kabupaten Merangin Masih Ada, ISPU 169 Kategori “Tidak Sehat” - JambiCenter.id",
+   "media": "JambiCenter.id",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambicenter.id/asap-karhutla-di-kabupaten-merangin-masih-ada-ispu-169-kategori-tidak-sehat/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI soroti lonjakan ISPA dampak Karhutla Kalbar - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://kalbar.antaranews.com/berita/712645/walhi-soroti-lonjakan-ispa-dampak-karhutla-kalbar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Pontianak (ANTARA) - WALHI Kalimantan Barat menyoroti dampak kesehatan akibat kabut asap karhutla setelah data menunjukkan puluhan ribu kasus ISPA tercatat di provinsi itu sepanjang Januari hingga Agustus 2026.",
+    "WALHI Kalbar juga mencatat 643 kasus ISPA berdasarkan gender per 3 September 2026, terdiri atas 343 kasus laki-laki dan 300 perempuan yang tersebar di sejumlah kabupaten/kota."
+   ]
+  },
+  {
+   "judul": "Dua Bulan Kalbar Tertutup Asap: AQI Tembus 2.000, ISPA Capai 165 Ribu Kasus - detikcom",
+   "media": "detikcom",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/kalimantan/berita/d-8665206/dua-bulan-kalbar-tertutup-asap-aqi-tembus-2-000-ispa-capai-165-ribu-kasus",
+   "teks_terbaca": true,
+   "walhi_di_isi": 12,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) Kalbar menilai pemerintah perlu mengubah fokus penanganan karhutla.",
+    "Menurut WALHI, penanganan tidak cukup hanya berorientasi pada pemadaman api, tetapi juga harus memastikan keselamatan masyarakat yang terdampak asap."
+   ]
+  },
+  {
+   "judul": "ISPA di Kalimantan Tembus 165 Ribu Kasus, WALHI Soroti Pembagian Masker Pemerintah yang Tak Sesuai Standar - Akurat.co",
+   "media": "Akurat.co",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://akurat.co/daerah/891009/ispa-di-kalimantan-tembus-165-ribu-kasus-walhi-soroti-pembagian-masker-pemerintah-yang-tak-sesuai-standar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "ISPA di Kalimantan Tembus 165 Ribu Kasus, WALHI Soroti Pembagian Masker Pemerintah yang Tak Sesuai Standar\nAKURAT.CO Kebakaran hutan dan lahan (karhutla) yang melanda sejumlah wilayah di Kalimantan turut memicu peningkatan kasus Infeksi Sal",
+    "Di tengah kondisi tersebut, Wahana Lingkungan Hidup Indonesia (WALHI) menilai penanganan dampak kesehatan bagi masyarakat masih belum optimal."
+   ]
+  },
+  {
+   "judul": "Prabowo Minta Kapolri Usut Unsur Pidana dalam Kasus Karhutla - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "walhi ISPU karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01118963/prabowo-minta-kapolri-usut-unsur-pidana-dalam-kasus-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Prabowo sebagaimana dikutip dari siaran resmi Sekretariat Presiden di Jakarta, Kamis.",
+    "Baca Juga: Terkait Karhutla, Izin 26 Perusahaan Dibekukan Kemenhut\nTak Ada Toleransi bagi Pelaku\nPrabowo kembali menegaskan bahwa pemerintah tidak akan memberikan toleransi terhadap perusahaan yang dinilai bertanggung jawab atas terjadinya kebakaran.",
+    "ujar Presiden."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Udara tidak sehat, Dinas Pendidikan Bulungan kembali terapkan BDR - ANTARA News Kaltara",
+   "media": "ANTARA News Kaltara",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltara.antaranews.com/berita/523899/udara-tidak-sehat-dinas-pendidikan-bulungan-kembali-terapkan-bdr",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Pendidikan Kabupaten Bulungan Suparmin mengatakan, berdasarkan Indeks Standar Pencemaran Udara (ISPU), kualitas udara di Kabupaten Bulungan dikategorikan tidak sehat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kualitas Udara Kampar Masuk Kategori Tidak Sehat, Kebakaran Lahan Tembus Permukiman dan Perkebunan - BukaMata.Co",
+   "media": "BukaMata.Co",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bukamata.co/berita/501315671/kualitas-udara-kampar-masuk-kategori-tidak-sehat-kebakaran-lahan-tembus-permukiman-dan-perkebunan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kualitas Udara Sangat Tidak Sehat di Bulungan, Disdik Terapkan PJJ - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/bzGCe8Ay-kualitas-udara-sangat-tidak-sehat-di-bulungan-disdik-terapkan-pjj",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kawasan IKN Diselimuti Asap Karhutla, Indeks Nyatakan Tidak Sehat - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/934376/kawasan-ikn-diselimuti-asap-karhutla-indeks-nyatakan-tidak-sehat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPA di Kampar Tembus 1.740 Kasus, Diskes Pantau Dampak Karhutla - Riau Pos",
+   "media": "Riau Pos",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://riaupos.jawapos.com/kampar/2609170056/ispa-di-kampar-tembus-1740-kasus-diskes-pantau-dampak-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Kesehatan Kabupaten Kampar, Zulhendra Dasat melalui Kabid Pencegahan dan Pengendalian Penyakit (P2P) Elfian menjelaskan, berdasarkan laporan harian puskesmas, pada 16 September 2026 terdapat 143 kasus ISPA, terdiri dari 69 laki-laki dan 74 perempuan.",
+    "Elfian mengatakan, Dinas Kesehatan terus meminta seluruh puskesmas untuk melakukan pencatatan dan pelaporan kondisi kesehatan masyarakat secara rutin, baik ketika terdapat kejadian karhutla maupun tidak."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPU Palembang Hari Ini Capai 234, Kualitas Udara Masuk Kategori Sangat Tidak Sehat - Tribunsumsel.com",
+   "media": "Tribunsumsel.com",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.tribunnews.com/palembang/1029588/ispu-palembang-hari-ini-capai-234-kualitas-udara-masuk-kategori-sangat-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Udara Pangkalan Bun Sangat Tidak Sehat, Siswa Bisa Pulang Lebih Awal - detikcom",
+   "media": "detikcom",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/kalimantan/berita/d-8668077/udara-pangkalan-bun-sangat-tidak-sehat-siswa-bisa-pulang-lebih-awal",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Pendidikan dan Kebudayaan Kobar Muhammad Alamsyah mengatakan penyesuaian kegiatan pembelajaran menjadi kewenangan masing-masing satuan pendidikan dengan mempertimbangkan kondisi udara di wilayah sekolah."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPU di Kabupaten Merangin Naik menjadi 179, Asap masih Ada, Kategori “Tidak Sehat” - JambiCenter.id",
+   "media": "JambiCenter.id",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambicenter.id/ispu-di-kabupaten-merangin-naik-menjadi-179-asap-masih-ada-kategori-tidak-sehat/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPU Palembang dan PALI Masuk Kategori Sangat Tidak Sehat, 5 Daerah Lainnya Tidak Sehat - Tribunsumsel.com",
+   "media": "Tribunsumsel.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.tribunnews.com/palembang/1029693/ispu-palembang-dan-pali-masuk-kategori-sangat-tidak-sehat-5-daerah-lainnya-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kabut Asap Karhutla Selimuti Sampit, Jarak Pandang Turun hingga 100 Meter dan ISPU Capai 763 pada Pagi Hari - TOPIK.ID",
+   "media": "TOPIK.ID",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.topik.id/kabut-asap-karhutla-selimuti-sampit-jarak-pandang-turun-hingga-100-meter-dan-ispu-capai-763-pada-pagi-hari",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla Bikin Udara Makin Tak Sehat, Warga Diminta Kurangi Aktivitas di Luar - Medcom.id",
+   "media": "Medcom.id",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.medcom.id/nasional/peristiwa/eN44wy2N-karhutla-bikin-udara-makin-tak-sehat-warga-diminta-kurangi-aktivitas-di-luar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Perlindungan dan Pengelolaan Mutu Udara KLH Edward Nixon Pakpahan mengatakan kondisi tersebut terjadi di sejumlah provinsi yang terdampak karhutla, mulai dari Jambi, Sumatera Selatan, Lampung, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, hingga Kalimantan Tim",
+    "Edward menjelaskan klasifikasi kualitas udara tersebut mengacu pada Peraturan Menteri Lingkungan Hidup Nomor 14 Tahun 2021."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPU Kota Jambi dan Muaro Jambi Masuk Kategori Sangat Tidak Sehat - Tribunjambi.com",
+   "media": "Tribunjambi.com",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambi.tribunnews.com/makalam/1205899/ispu-kota-jambi-dan-muaro-jambi-masuk-kategori-sangat-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "ISPU Sendawar 239, Kualitas Udara Kutai Barat Sangat Tidak Sehat - Kaltim Post",
+   "media": "Kaltim Post",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltimpost.jawapos.com/kutai-barat/2609200109/ispu-sendawar-239-kualitas-udara-kutai-barat-sangat-tidak-sehat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPU Muaro Jambi Sempat Masuk Level Berbahaya, Kini Masih Sangat Tidak Sehat - Jambi One - Jambi One",
+   "media": "Jambi One",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.jambione.com/daerah/1367526029/ispu-muaro-jambi-sempat-masuk-level-berbahaya-kini-masih-sangat-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Hotspot Karhutla di Sumsel Hari Ini Terdeteksi 685 Titik, ISPU Palembang Turun Jadi 143 - Tribunsumsel.com",
+   "media": "Tribunsumsel.com",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.tribunnews.com/palembang/1029869/hotspot-karhutla-di-sumsel-hari-ini-terdeteksi-685-titik-ispu-palembang-turun-jadi-143",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "ISPU Muaro Jambi 240, Masuk 10 Besar Wilayah dengan Kualitas Udara Terburuk - Tribunjambi.com",
+   "media": "Tribunjambi.com",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambi.tribunnews.com/makalam/1205900/ispu-muaro-jambi-240-masuk-10-besar-wilayah-dengan-kualitas-udara-terburuk",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "7 Wilayah Sumsel Catat Udara Tidak Sehat Pagi Ini Dampak Karhutla - IDN Times Sumsel",
+   "media": "IDN Times Sumsel",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.idntimes.com/news/sumatra-selatan/7-wilayah-sumsel-catat-udara-tidak-sehat-senin-pagi-dampak-karhutla-00-pbgds-zqb4t6",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hotspot Karhutla Sumsel Kembali Naik Jadi 759 Titik, ISPU Palembang Masih Masuk Kategori Tidak Sehat - Sripoku.com",
+   "media": "Sripoku.com",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://palembang.tribunnews.com/metro/1329303/hotspot-karhutla-sumsel-kembali-naik-jadi-759-titik-ispu-palembang-masih-masuk-kategori-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Update Kualitas Udara di Sumsel 21 September 2026, Berikut Daftar 7 Daerah Berstatus Tidak Sehat - Tribunsumsel.com",
+   "media": "Tribunsumsel.com",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.tribunnews.com/palembang/1029927/update-kualitas-udara-di-sumsel-21-september-2026-berikut-daftar-7-daerah-berstatus-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "ISPU Murung Raya Tembus 4.090, Udara Berbahaya Masih Kepung Kalteng - Cyrustimes.com",
+   "media": "Cyrustimes.com",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://cyrustimes.com/ispu-kalteng-hari-ini-murung-raya-4090-udara-berbahaya/",
+   "galat": "HTTP Error 520: Origin Server Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Titik Panas Turun, Udara Tujuh Wilayah Sumsel Masih Tak Sehat - IDN Times Sumsel",
+   "media": "IDN Times Sumsel",
+   "tanggal": "22 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Daftar Kualitas Udara Kaltim 22 September: IKN hingga Sendawar Masuk Kategori Tidak Sehat - Tribunkaltim.co",
+   "media": "Tribunkaltim.co",
+   "tanggal": "22 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltim.tribunnews.com/tribun-etam/1167120/daftar-kualitas-udara-kaltim-22-september-ikn-hingga-sendawar-masuk-kategori-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "11 Wilayah Kalimantan dengan Kualitas Udara Paling Berbahaya akibat Karhutla, Mana Saja? - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "23 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.com/tren/read/2026/09/23/143000665/11-wilayah-kalimantan-dengan-kualitas-udara-paling-berbahaya-akibat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kualitas Udara Kaltim 23 September, Sendawar Tembus ISPU 294 atau Sangat Tidak Sehat - Tribunkaltim.co",
+   "media": "Tribunkaltim.co",
+   "tanggal": "23 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltim.tribunnews.com/tribun-etam/1167289/kualitas-udara-kaltim-23-september-sendawar-tembus-ispu-294-atau-sangat-tidak-sehat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Polusi Dampak Karhutla Masuk Kategori Berbahaya, ISPU Ada yang Tembus 2.445 - detikHealth",
+   "media": "detikHealth",
+   "tanggal": "23 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://health.detik.com/berita-detikhealth/d-8675044/polusi-dampak-karhutla-masuk-kategori-berbahaya-ispu-ada-yang-tembus-2-445",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPU di Wilayah Terdampak Karhutla Tembus 2.445, Kategori Berbahaya - detikcom",
+   "media": "detikcom",
+   "tanggal": "23 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/sumut/berita/d-8675669/ispu-di-wilayah-terdampak-karhutla-tembus-2-445-kategori-berbahaya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Disdikbud Singkawang Batasi PTM Mulai 24 September Imbas Kabut Asap Karhutla - 86News",
+   "media": "86News",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://86news.co/2026/09/24/disdikbud-singkawang-batasi-ptm-mulai-24-september-imbas-kabut-asap-karhutla/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "ISPU Sumsel Mulai Membaik: 1 Daerah Kategori Baik, 3 Sedang, dan 4 Masih Tidak Sehat, Cek Wilayahnya - Tribunsumsel.com",
+   "media": "Tribunsumsel.com",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.tribunnews.com/palembang/1030294/ispu-sumsel-mulai-membaik-1-daerah-kategori-baik-3-sedang-dan-4-masih-tidak-sehat-cek-wilayahnya",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kualitas Udara Kaltim Hari Ini: Kutai Barat Sangat Tidak Sehat, Samarinda Masih Baik, IKN? - Tribunkaltim.co",
+   "media": "Tribunkaltim.co",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltim.tribunnews.com/tribun-etam/1167443/kualitas-udara-kaltim-hari-ini-kutai-barat-sangat-tidak-sehat-samarinda-masih-baik-ikn",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "KLH: 10 Wilayah dengan Kualitas Udara Terburuk, Murung Raya Berbahaya - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/kewCjp7E-klh-10-wilayah-dengan-kualitas-udara-terburuk-murung-raya-berbahaya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap Karhutla Memburuk, Ratna Juwita Desak Pemerintah Bergerak Cepat - Liputan Jatim",
+   "media": "Liputan Jatim",
+   "tanggal": "25 Sep 2026",
+   "kueri": [
+    "ISPU asap karhutla KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://liputanjatim.com/berita/asap-karhutla-memburuk-ratna-juwita-desak-pemerintah-bergerak-cepat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hotspot Sumsel Naik, Palembang Masuk Kategori Sangat Tidak Sehat - IDN Times Sumsel",
+   "media": "IDN Times Sumsel",
+   "tanggal": "26 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumsel.idntimes.com/news/sumatra-selatan/hotspot-sumsel-naik-palembang-masuk-kategori-sangat-tidak-sehat-00-pbgds-qbqsnc",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Kalteng dan Sejumlah LSM Soroti Karhutla di Hari Keadilan Ekologis dan Hari Tani - Balanganews.com",
+   "media": "Balanganews.com",
+   "tanggal": "27 Sep 2026",
+   "kueri": [
+    "walhi ISPU karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://balanganews.com/pemprov/berita-199766/walhi-kalteng-dan-sejumlah-lsm-soroti-karhutla-di-hari-keadilan-ekologis-dan-hari-tani.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "BALANGANEWS, PALANGKA RAYA — Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Tengah (Kalteng) bersama sejumlah LSM yakni Solidaritas Perempuan Mamut Menteng Kalteng dan Yayasan Betang Borneo Indonesia menyoroti kondisi lingkungan dan d",
+    "WALHI tahun ini mengusung tema “Dari Tapak Untuk Keadilan Ekologis”."
+   ]
+  },
+  {
+   "judul": "ISPU Palembang Sangat Tidak Sehat, Pemkot Belum Kembali Terapkan PJJ - rmolsumsel.id",
+   "media": "rmolsumsel.id",
+   "tanggal": "27 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.rmolsumsel.id/ispu-palembang-sangat-tidak-sehat-pemkot-belum-kembali-terapkan-pjj",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kabut Asap Karhutla, Kapan Anak Tetap Sekolah atau Harus PJJ? Perhatikan Patokan ISPU - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "27 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tribunnews.com/kesehatan/7888419/kabut-asap-karhutla-kapan-anak-tetap-sekolah-atau-harus-pjj-perhatikan-patokan-ispu",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Udara Tidak Sehat Meski Ada Hujan dan Karhutla Nihil di Kampar, Dampak 2000 Hotpsot Sumatera - Tribunpekanbaru.com",
+   "media": "Tribunpekanbaru.com",
+   "tanggal": "27 Sep 2026",
+   "kueri": [
+    "ISPU karhutla \"tidak sehat\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pekanbaru.tribunnews.com/riau-region/1116268/udara-tidak-sehat-meski-ada-hujan-dan-karhutla-nihil-di-kampar-dampak-2000-hotpsot-sumatera",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Desak Korporasi Tanggung Jawab Kesehatan Korban Karhutla - Betahita",
+   "media": "Betahita",
+   "tanggal": "27 Sep 2026",
+   "kueri": [
+    "walhi kualitas udara asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.betahita.id/berita/12305/walhi-desak-korporasi-tanggung-jawab-kesehatan-korban-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "\"Hingga kini, di tengah kabut asap yang kembali menyelimuti Sumatra, Kalimantan dan Papua, belum terdengar satu pun seruan dari Presiden untuk memastikan jaminan masyarakat korban kabut asap dapat mengakses fasilitas kesehatan khusus paru dan alat pelindung diri secara gratis,\"",
+    "Ketiadaan Langkah tegas dari Presiden Prabowo Subianto ini, lanjut Musdalifa, seolah menunjukkan bahwa keselamatan rakyat masih ditempatkan sebagai urusan nomor sekian, bukan prioritas negara.",
+    "Meski pada 27 Agustus lalu Menteri Keuangan, Purbaya, menyatakan bahwa pemerintah telah menyiapkan anggaran untuk penanganan karhutla hingga Rp5 triliun."
+   ],
+   "kalimat_walhi": [
+    "Berita\nWalhi Desak Korporasi Tanggung Jawab Kesehatan Korban Karhutla\nNegara semestinya menagih tanggung jawab korporasi yang selama ini diuntungkan dari kerusakan ekosistem penyebab karhutla.",
+    "Minggu, 27 September 2026\nBETAHITA.ID - Wahana Lingkungan Hidup Indonesia (Walhi) mendesak agar korporasi pembakar lahan dan hutan (karhutla) ikut bertanggung jawab dan menjamin kesehatan gratis bagi korban yang terpapar asap."
+   ]
+  }
+ ]
+}

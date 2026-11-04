@@ -1,0 +1,448 @@
+{
+ "id": "R08",
+ "tanggal": "2026-08-07",
+ "rentang": [
+  "2026-08-06",
+  "2026-08-22"
+ ],
+ "kueri": [
+  "walhi PSEL",
+  "walhi PLTSa",
+  "PSEL Zulhas",
+  "PLTSa Tamalanrea",
+  "AZWI PSEL"
+ ],
+ "jejaring": [
+  "AZWI",
+  "Tamalanrea"
+ ],
+ "jumlah_berita": 22,
+ "berita": [
+  {
+   "judul": "WALHI Kritik Zulkifli Hasan dan Jumhur Hidayat, Sebut Dorongan PSEL Dipaksakan dengan Narasi Menyesatkan - SultraKini.com",
+   "media": "SultraKini.com",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "walhi PSEL",
+    "PSEL Zulhas"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://sultrakini.com/walhi-kritik-zulkifli-hasan-dan-jumhur-hidayat-sebut-dorongan-psel-dipaksakan-dengan-narasi-menyesatkan/",
+   "galat": "HTTP Error 522: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Mencari Jalan Keluar dari Krisis Sampah Indonesia - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "walhi PSEL"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://tirto.id/mencari-jalan-keluar-dari-krisis-sampah-indonesia-hAA9",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Lingkungan Hidup mengklaim bahwa hingga akhir 2025, sekitar 30 persen dari total 485 TPA telah menghentikan praktik open dumping.",
+    "tegas Prabowo di hadapan para menteri, kepala badan, dan direksi BUMN, Rabu (8/4/2026)."
+   ],
+   "kalimat_walhi": [
+    "Data Wahana Lingkungan Hidup Indonesia (Walhi) pada 2026 mencatat sekitar 343 dari 550 TPA di Indonesia masih menggunakan sistem open dumping."
+   ]
+  },
+  {
+   "judul": "Warga Tamalanrea Tolak Lokasi Proyek PSEL, Desak Pemkot Makassar Relokasi dari Kawasan Permukiman - Ruminews",
+   "media": "Ruminews",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "walhi PSEL",
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://ruminews.id/warga-tamalanrea-tolak-lokasi-proyek-psel-desak-pemkot-makassar-relokasi-dari-kawasan-permukiman/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Tamalanrea"
+   ],
+   "kalimat_pemerintah": [
+    "Dalam rilis yang diterima media, GERAM PLTSa menyebut salah seorang staf Kementerian Koordinator Bidang Pangan meminta warga menerima keberadaan proyek PSEL di lingkungan mereka."
+   ],
+   "kalimat_walhi": [
+    "Hadir pula Nurul Fadli Gaffar dari WALHI Sulawesi Selatan dan Direktur LBH Makassar Abdul Azis Dumpa."
+   ]
+  },
+  {
+   "judul": "PSEL Makassar Tetap Dilanjutkan, Pemerintah Buka Peluang Pindah Lokasi ke Lahan Pemprov di Gowa - Tribun-timur.com",
+   "media": "Tribun-timur.com",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "walhi PSEL"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://makassar.tribunnews.com/makassarmulia/1846573/psel-makassar-tetap-dilanjutkan-pemerintah-buka-peluang-pindah-lokasi-ke-lahan-pemprov-di-gowa",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "LBH Makassar Sebut Pembangunan PLTSa di Tamalanrea Inkonstitusional, Bakal Dipindahkan? - FAJAR",
+   "media": "FAJAR",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "walhi PLTSa",
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://fajar.co.id/2026/08/06/lbh-makassar-sebut-pembangunan-pltsa-di-tamalanrea-inkonstitusional-bakal-dipindahkan/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Usai Ditegur Zulhas, Appi Ungkap Kendala Proyek PSEL Makassar - pedoman.media",
+   "media": "pedoman.media",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "PSEL Zulhas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pedoman.media/read/31936/usai-ditegur-zulhas-appi-ungkap-kendala-proyek-psel-makassar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Tamalanrea"
+   ],
+   "kalimat_pemerintah": [
+    "MAKASSAR, PEDOMANMEDIA — Wali Kota Makassar Munafri Arifuddin mengatakan, akan membuka ruang dialog dengan masyarakat terkait rencana pembangunan fasilitas Pengolahan Sampah menjadi Energi Listrik (PSEL)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "PLTSa Tamalanrea: Saat Tiga Logika Tak Pernah Bertemu - identitas Unhas",
+   "media": "identitas Unhas",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://identitasunhas.com/pltsa-tamalanrea-saat-tiga-logika-tak-pernah-bertemu/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Tamalanrea"
+   ],
+   "kalimat_pemerintah": [
+    "Pada Maret 2026, Kementerian Lingkungan Hidup menyatakan proyek tersebut bermasalah dan perlu diaudit."
+   ],
+   "kalimat_walhi": [
+    "Selain itu, kajian WALHI Sulawesi Selatan bersama Nexus3 Foundation menemukan bahwa karakteristik sampah Indonesia yang didominasi kadar air tinggi dan bercampur plastik membuat proses pembakaran kurang optimal."
+   ]
+  },
+  {
+   "judul": "Ratusan Warga Tamalanrea Desak Relokasi Proyek PSEL, Tolak Fasilitas Pengolah Sampah Dibangun di Permukiman - Bukamatanews.id",
+   "media": "Bukamatanews.id",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bukamatanews.id/read/2026/08/06/ratusan-warga-tamalanrea-desak-relokasi-proyek-psel-tolak-fasilitas-pengolah-sampah-dibangun-di-permukiman",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Warga desak lokasi proyek PSEL di Tamalanrea dipindah ke lokasi aman - ANTARA News Makassar",
+   "media": "ANTARA News Makassar",
+   "tanggal": "07 Aug 2026",
+   "kueri": [
+    "walhi PSEL",
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://makassar.antaranews.com/berita/635609/warga-desak-lokasi-proyek-psel-di-tamalanrea-dipindah-ke-lokasi-aman",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Tamalanrea"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Perwakilan Walhi Sulsel Nurul Fadli Gaffar mengungkapkan, dari sisi teknis dan hukum, proyek ini sedari awal sudah janggal."
+   ]
+  },
+  {
+   "judul": "Danantara akhirnya ambil alih polemik proyek PSEL di Makassar - ANTARA News Makassar",
+   "media": "ANTARA News Makassar",
+   "tanggal": "07 Aug 2026",
+   "kueri": [
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://makassar.antaranews.com/berita/635625/danantara-akhirnya-ambil-alih-polemik-proyek-psel-di-makassar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Tamalanrea"
+   ],
+   "kalimat_pemerintah": [
+    "kata Kepala Dinas Lingkungan Hidup (DLH) Makassar Helmy Budiman di Makassar, Kamis.",
+    "Ia mengatakan merujuk Peraturan Presiden (Perpres) Nomor 109 Tahun 2025 tentang Penanganan Sampah Perkotaan Melalui Pengelolaan Sampah Menjadi Energi Terbarukan Berbasis Teknologi Ramah Lingkungan, yang diterbitkan dalam mengatasi kedaruratan sampah nasional, harus dilakukan peng",
+    "Untuk tenggang waktu dua pekan penyelesaian masalah PSEL diberikan Menteri Koordinator (Menko) Bidang Pangan Zulkifli Hasan kepada Pemkot Makassar, pihaknya langsung merespons arahan tersebut.",
+    "tuturnya\nSoal opsi pembangunan PSEL di TPA Antang, kata dia, tidak ada dan dari penyampaian hanya dua lokasi yakni Tamalanrea atau di lahan Pemprov Sulsel."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tamalanrea Tolak Jadi Lokasi PLTSa, Ratusan Warga Turun ke Jalan - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "09 Aug 2026",
+   "kueri": [
+    "walhi PSEL",
+    "walhi PLTSa",
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/makassar/regional/2638578/tamalanrea-tolak-jadi-lokasi-pltsa-ratusan-warga-turun-ke-jalan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tolak PLTSa di Tamalanrea, Ratusan Warga Tutup Akses Jalan di Makassar - IDN Times Sulsel",
+   "media": "IDN Times Sulsel",
+   "tanggal": "09 Aug 2026",
+   "kueri": [
+    "walhi PLTSa",
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://sulsel.idntimes.com/news/sulawesi-selatan/tolak-pltsa-di-tamalanrea-ratusan-warga-tutup-akses-jalan-di-makassar-00-7vxkm-tk9g4q",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Tamalanrea"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI dorong pengelolaan sampah berbasis Mamminasata Perwakilan WALHI Sulawesi Selatan, Nurul Fadli Gaffar, mengatakan persoalan sampah di Makassar dan daerah sekitarnya seharusnya dilihat dalam skala kawasan Mamminasata."
+   ]
+  },
+  {
+   "judul": "Zulhas: Pirolisis Didorong Jadi Pelengkap PSEL Olah Sampah Jadi Energi - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "09 Aug 2026",
+   "kueri": [
+    "PSEL Zulhas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/K5nCRogl-zulhas-pirolisis-didorong-jadi-pelengkap-psel-olah-sampah-jadi-energi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Zulhas mengatakan implementasi Peraturan Presiden Nomor 109 Tahun 2025 turut mempercepat pembangunan PSEL di sejumlah daerah."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenko Pangan Dorong Teknologi Pirolisis untuk Olah Sampah Jadi Energi - detikFinance",
+   "media": "detikFinance",
+   "tanggal": "09 Aug 2026",
+   "kueri": [
+    "PSEL Zulhas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8610705/kemenko-pangan-dorong-teknologi-pirolisis-untuk-olah-sampah-jadi-energi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Menteri Koordinator Bidang Pangan, Zulkifli Hasan (Zulhas) dalam keterangannya, Minggu (9/8/2026).",
+    "Zulhas menjelaskan, implementasi Peraturan Presiden Nomor 109 Tahun 2025 telah mempercepat pembangunan PSEL di berbagai daerah."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bukan Cuma PSEL, Pemerintah Punya Cara Baru Tangani Sampah - Liputan6.com",
+   "media": "Liputan6.com",
+   "tanggal": "09 Aug 2026",
+   "kueri": [
+    "PSEL Zulhas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.liputan6.com/bisnis/read/8265591/bukan-cuma-psel-pemerintah-punya-cara-baru-tangani-sampah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Koordinator (Menko) Bidang Pangan, Zulkifli Hasan (Zulhas) menyatakan bahwa pemanfaatan teknologi pirolisis kini didorong untuk melengkapi fasilitas Pengolahan Sampah menjadi Energi Listrik (PSEL)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Narasi Pembangkit Listrik Sampah Makassar Dinilai Menyesatkan - Betahita",
+   "media": "Betahita",
+   "tanggal": "10 Aug 2026",
+   "kueri": [
+    "walhi PSEL"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12242/narasi-pembangkit-listrik-sampah-makassar-dinilai-menyesatkan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ia menegaskan, tidak ada insinerator yang seindah mall, tidak seperti yang disampaikan oleh Menteri Lingkungan Hidup kepada awak media, warga yang harus menghirup emisinya, hidup berdampingan dengan limbah abunya, dan menanggung risiko pencemarannya.",
+    "Sebelumnya, Menteri Lingkungan Hidup Jumhur Hidayat, menyatakan bahwa fasilitas PSEL dirancang secara modern agar tertata rapi dan bersih, sehingga tidak lagi identik dengan kondisi Tempat Pemrosesan Akhir (TPA) konvensional yang kumuh dan berbau.",
+    "ujar Menteri Jumhur, dalam pernyataan resminya, pada Rabu (5/8/2026).",
+    "Menteri Jumhur memberikan instruksi tegas kepada seluruh pemerintah daerah untuk mengantisipasi potensi bencana kebakaran TPA mengingat musim kemarau diperkirakan masih berlangsung hingga November.",
+    "Dalam sebuah rapat koordinasi dengan Menteri Jumhur, Gubernur Sulsesl Andi Sudirman, menyatakan kesiapan pemerintah daerah dalam menyiapkan opsi lokasi terbaik untuk mendukung realisasi proyek PSEL yang mencakup wilayah aglomerasi."
+   ],
+   "kalimat_walhi": [
+    "Walhi menyebut narasi pemerintah tentang proyek ini menutupi fakta bahwa PSEL merupakan teknologi mahal, berisiko tinggi, mencemari lingkungan, serta berulang kali menunjukkan kegagalan operasional dan beban keuangan negara.",
+    "Pengampanye Urban Berkeadilan Eksekutif Nasional Walhi, Wahyu Eka Styawan, mengatakan bahwa pihaknya secara tegas telah berungkali menyampaikan bahwa krisis sampah tidak dapat diselesaikan dengan teknologi hilir."
+   ]
+  },
+  {
+   "judul": "Mewaspadai Risiko Pengangguran akibat Transisi Energi tak Berkeadilan - Transisi energi berkeadilan",
+   "media": "Transisi energi berkeadilan",
+   "tanggal": "10 Aug 2026",
+   "kueri": [
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://transisienergiberkeadilan.id/id/special-reports/detail/mewaspadai-risiko-pengangguran-akibat-transisi-energi-tak-berkeadilan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Tamalanrea"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Walhi Nilai PSEL Dipaksakan dengan Narasi Menyesatkan, Risiko Pencemaran Ditutupi - NU Online",
+   "media": "NU Online",
+   "tanggal": "11 Aug 2026",
+   "kueri": [
+    "walhi PSEL"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.nu.or.id/nasional/walhi-nilai-psel-dipaksakan-dengan-narasi-menyesatkan-risiko-pencemaran-ditutupi-LtVWA",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pada saat yang sama, Menteri Lingkungan Hidup Moh Jumhur Hidayat menyebut fasilitas pembakaran sampah akan “seindah mall”."
+   ],
+   "kalimat_walhi": [
+    "Walhi Nilai PSEL Dipaksakan dengan Narasi Menyesatkan, Risiko Pencemaran Ditutupi\nNU Online · Selasa, 11 Agustus 2026 | 12:00 WIB\nPengkampanye Urban Berkeadilan dan Kebijakan Tata Ruang Walhi Eksekutif Nasional, Wahyu Eka Styawan (NU Online",
+    "Bagi Walhi, pernyataan tersebut menunjukkan kecenderungan pemerintah mempromosikan insinerator sebagai solusi tunggal pengelolaan sampah nasional."
+   ]
+  },
+  {
+   "judul": "Zulhas: Pemerintah Dorong Teknologi Pirolisis Ubah Sampah Jadi Energi - Kementerian Koordinator Bidang Pangan",
+   "media": "Kementerian Koordinator Bidang Pangan",
+   "tanggal": "11 Aug 2026",
+   "kueri": [
+    "PSEL Zulhas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kemenkopangan.go.id/detail-berita/zulhas-pemerintah-dorong-teknologi-pirolisis-ubah-sampah-jadi-energi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Warga Tamalanrea Makassar Tolak PLTSa, Ini 7 Tuntutan kepada FKS Land - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "12 Aug 2026",
+   "kueri": [
+    "PLTSa Tamalanrea"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://makassar.kompas.com/read/2026/08/12/130910378/warga-tamalanrea-makassar-tolak-pltsa-ini-7-tuntutan-kepada-fks-land?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Tamalanrea"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Penolakan itu mendapat dukungan dari Wahana Lingkungan Hidup Indonesia (WALHI) Sulawesi Selatan.",
+    "Kepala Divisi Transisi Energi WALHI Sulsel, Nurul Fadli Gaffar, mendorong pengelolaan sampah dilakukan dengan pendekatan kawasan Mamminasata."
+   ]
+  },
+  {
+   "judul": "Zulhas: 1 PLTSa Bakal Diresmikan di Sulsel Tahun Ini - Bloomberg Technoz",
+   "media": "Bloomberg Technoz",
+   "tanggal": "14 Aug 2026",
+   "kueri": [
+    "PSEL Zulhas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bloombergtechnoz.com/detail-news/118435/zulhas-1-pltsa-bakal-diresmikan-di-sulsel-tahun-ini",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Zulhas: 1 PLTSa Bakal Diresmikan di Sulsel Tahun Ini\nSabrina Mulia Rhamadanty\n14 August 2026 18:30\nBloomberg Technoz, Jakarta - Menteri Koordinator Bidang Pangan Zulkifli Hasan mengatakan bahwa pemerintah akan meresmikan pembangkit listrik tenaga sampah (PLTSa) atau program Pengo"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Targetkan 70% Masalah Sampah Beres 2029, Zulhas Kejar PSEL di 40 Kota - detikNews",
+   "media": "detikNews",
+   "tanggal": "19 Aug 2026",
+   "kueri": [
+    "PSEL Zulhas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.detik.com/berita/d-8626057/targetkan-70-masalah-sampah-beres-2029-zulhas-kejar-psel-di-40-kota",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

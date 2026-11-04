@@ -1,0 +1,981 @@
+{
+ "id": "R30",
+ "tanggal": "2026-10-01",
+ "rentang": [
+  "2026-09-30",
+  "2026-10-16"
+ ],
+ "kueri": [
+  "walhi \"data center\"",
+  "\"data center\" moratorium air",
+  "\"data center\" AI air Komdigi",
+  "\"data center\" moratorium"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 54,
+ "berita": [
+  {
+   "judul": "WALHI Jawa Barat Soroti Penggunaan Air Pusat Data AI Jatiluhur, Desak Kajian Lingkungan Dibuka ke Publik - Harapan Rakyat",
+   "media": "Harapan Rakyat",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.harapanrakyat.com/2026/10/walhi-jawa-barat-soroti-penggunaan-air-pusat-data-ai-jatiluhur-desak-kajian-lingkungan-dibuka-ke-publik/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pemprov Jabar beserta Pemkab Purwakarta harus memastikan, bahwa pemenuhan alokasi air industri tidak sampai mengorbankan daya dukung lingkungan kawasan Jatiluhur."
+   ],
+   "kalimat_walhi": [
+    "Di balik operasional fasilitas tersebut, ada kebutuhan air dalam jumlah besar yang kini disorot Wahana Lingkungan Hidup Indonesia (WALHI) Jawa Barat.",
+    "Baca Juga: TPA Nangkaleah Terbakar Lagi, WALHI Jabar Tuntut Pemkab Tasikmalaya Tanggung Jawab\nDirektur Eksekutif Daerah WALHI Jabar, Wahyudin, mendesak pemerintah agar membuka seluruh kajian ilmiah."
+   ]
+  },
+  {
+   "judul": "WALHI Minta Indonesia Perketat Aturan Data Center, Berkaca pada Malaysia - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://katadata.co.id/digital/teknologi/6abe245be3347/walhi-minta-indonesia-perketat-aturan-data-center-berkaca-pada-malaysia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pada Februari 2026, Perdana Menteri Malaysia Anwar Ibrahim menyatakan pemerintah membatasi persetujuan bagi data center baru yang tidak berkaitan dengan kecerdasan buatan."
+   ],
+   "kalimat_walhi": [
+    "WALHI Minta Indonesia Perketat Aturan Data Center, Berkaca pada Malaysia\nWahana Lingkungan Hidup Indonesia (WALHI) meminta pemerintah menyusun regulasi khusus untuk pembangunan pusat data atau data center di Indonesia.",
+    "Pengampanye Urban Berkeadilan WALHI Nasional, Wahyu Eka Styawan, mengatakan, Indonesia hingga kini belum memiliki regulasi spesifik yang mengatur pembangunan data center dan infrastruktur kecerdasan buatan (AI)."
+   ]
+  },
+  {
+   "judul": "Walhi Jabar Klaim Belum Pernah Terima Dokumen AMDAL BDX Data Center AI Jatiluhur - Pikiran-Rakyat.com - Pikiran-Rakyat.com",
+   "media": "Pikiran-Rakyat.com",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.pikiran-rakyat.com/news/pr-0110480393/walhi-jabar-klaim-belum-pernah-terima-dokumen-amdal-bdx-data-center-ai-jatiluhur",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Jabar Soroti Dampak BDX Data Center AI di Jatiluhur, Konsumsi Air Jadi Perhatian - Pikiran-Rakyat.com - Pikiran-Rakyat.com",
+   "media": "Pikiran-Rakyat.com",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.pikiran-rakyat.com/news/pr-0110480324/walhi-jabar-soroti-dampak-bdx-data-center-ai-di-jatiluhur-konsumsi-air-jadi-perhatian",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemerintah Diminta Susun Regulasi Safeguard AI dan Standar Data Center Hijau - Bisnis Tekno",
+   "media": "Bisnis Tekno",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://teknologi.bisnis.com/read/20261001/101/2008893/pemerintah-diminta-susun-regulasi-safeguard-ai-dan-standar-data-center-hijau",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Proyek Data Center AI Jatiluhur Disorot, Tere Liye Peringatkan KDM: Konsumsi Listrik dan Dampak Lingkungannya Sangat Masif - FAJAR",
+   "media": "FAJAR",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://fajar.co.id/2026/10/01/proyek-data-center-ai-jatiluhur-disorot-tere-liye-peringatkan-kdm-konsumsi-listrik-dan-dampak-lingkungannya-sangat-masif/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Data Pribadi Menkomdigi Diduga Bocor, Komdigi Gandeng BSSN-Polri - Harian Haluan - Harian Haluan",
+   "media": "Harian Haluan",
+   "tanggal": "03 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.harianhaluan.com/bisnis/1017711438/data-pribadi-menkomdigi-diduga-bocor-komdigi-gandeng-bssn-polri",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "OpenAI Dkk Bentuk Aliansi Lawan Penolakan Data Center AS - Telset.id",
+   "media": "Telset.id",
+   "tanggal": "03 Oct 2026",
+   "kueri": [
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://telset.id/news/ai/openai-dkk-bentuk-aliansi-lawan-penolakan-data-center-as",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Data Center Jatiluhur Ditunda, WALHI Minta Kebutuhan Air Dikaji - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "04 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://industri.kontan.co.id/news/data-center-jatiluhur-ditunda-walhi-minta-kebutuhan-air-dikaji",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Pengampanye Urban Berkeadilan dan Kebijakan Tata Ruang WALHI Nasional, Wahyu Eka Styawan mengatakan, kebutuhan air menjadi salah satu aspek yang perlu diperhatikan dalam pembangunan data center di Jatiluhur.",
+    "Berdasarkan kajian WALHI, kebutuhan air data center AI di kawasan Jatiluhur diperkirakan mencapai sekitar 384 liter per detik atau sekitar 12 juta meter kubik per tahun."
+   ]
+  },
+  {
+   "judul": "Proyek Data Center Batam Ancam Sumber Air? - Trend Asia",
+   "media": "Trend Asia",
+   "tanggal": "04 Oct 2026",
+   "kueri": [
+    "\"data center\" moratorium air"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://trendasia.org/proyek-data-center-batam-ancam-sumber-air/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Viral video mengeringnya Waduk Nongsa memicu dugaan konsumsi air data center, meski BP Batam membantahnya dan menyebut penyusutan waduk akibat musim kemarau."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Amazon berhenti memakai NDA untuk data center dan menyiapkan 1 miliar dolar - Pasquale Pillitteri",
+   "media": "Pasquale Pillitteri",
+   "tanggal": "04 Oct 2026",
+   "kueri": [
+    "\"data center\" moratorium air",
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pasqualepillitteri.it/id/news/20589/amazon-berhenti-nda-data-center-satu-miliar-dolar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ngeri! 1 Prompt ChatGPT ‘Sedot’ 50 ml Air, Data Center Ancam Waduk - KalderaNews",
+   "media": "KalderaNews",
+   "tanggal": "05 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kalderanews.com/2026/10/ngeri-1-prompt-chatgpt-sedot-50-ml-air-data-center-ancam-waduk/",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Amazon Tolak NDA Data Center, Janji USD1 Miliar untuk Warga - Telset.id",
+   "media": "Telset.id",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "\"data center\" moratorium air",
+    "\"data center\" moratorium air",
+    "\"data center\" moratorium",
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://telset.id/laptop-pc/amazon-tolak-nda-data-center-janji-usd1-miliar-untuk-warga-2",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Polemik Data Center Jatiluhur, IESR Desak Pemerintah Buat Regulasi AI - CNN Indonesia",
+   "media": "CNN Indonesia",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cnnindonesia.com/teknologi/20261006113619-192-1412174/polemik-data-center-jatiluhur-iesr-desak-pemerintah-buat-regulasi-ai",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Desak Moratorium Data Center AI, Soroti Ancaman Krisis Air - Batamtoday.com",
+   "media": "Batamtoday.com",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi \"data center\"",
+    "\"data center\" moratorium air",
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://batamtoday.com/news/walhi-desak-moratorium-data-center-ai-soroti-ancaman-krisis-air",
+   "teks_terbaca": true,
+   "walhi_di_isi": 16,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI Desak Moratorium Data Center AI, Soroti Ancaman Krisis Air\nPenulis: Aldy Daeng\nKamis, 8 Oktober 2026 10:28 WIB\nBATAMTODAY.COM, Jakarta - Wahana Lingkungan Hidup Indonesia (WALHI) mendesak pemerintah menghentikan sementara pembangunan ",
+    "WALHI menilai ekspansi infrastruktur AI berpotensi meningkatkan tekanan terhadap sumber air di berbagai daerah apabila pembangunan dan investasi digital tidak diimbangi dengan pengaturan mengenai kebutuhan air, energi, daya dukung lingkunga"
+   ]
+  },
+  {
+   "judul": "WALHI Desak Moratorium Data Center AI yang Ancam Pasokan Air Warga - kumparan.com - Kumparan.com",
+   "media": "Kumparan.com",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi \"data center\"",
+    "\"data center\" moratorium air",
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://kumparan.com/kumparantekno/walhi-desak-moratorium-data-center-ai-yang-ancam-pasokan-air-warga-28K5IO3cG4F",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Menkomdigi: Data Center AI Tak Boleh Ganggu Kebutuhan Energi dan Air - CNN Indonesia",
+   "media": "CNN Indonesia",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cnnindonesia.com/teknologi/20261007195812-192-1412859/menkomdigi-data-center-ai-tak-boleh-ganggu-kebutuhan-energi-dan-air",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Meutya di Kantor Komdigi, Jakarta, Rabu (7/10)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menkomdigi Tanggapi soal Proyek Data Center AI BDx di Jatiluhur yang Disetop Dedi Mulyadi - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/10/07/20572471/menkomdigi-tanggapi-soal-proyek-data-center-ai-bdx-di-jatiluhur-yang-disetop",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "JAKARTA, KOMPAS.com - Menteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid menanggapi soal proyek pembangunan data center berbasis kecerdasan buatan atau AI milik BDx di kawasan Jatiluhur yang disetop Gubernur Jawa Barat Dedi Mulyadi.",
+    "kata Meutya, di Kantor Komdigi, Jakarta Pusat, Rabu (7/10/2026).",
+    "Gubernur Jawa Barat Dedi Mulyadi menegaskan, penghentian sementara proyek tersebut bukan berarti Pemerintah Provinsi Jawa Barat menolak investasi yang masuk ke wilayahnya."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menkomdigi soal Data Center AI: Harus Balance, Jangan Ganggu Kebutuhan Air - kumparan.com - kumparan",
+   "media": "kumparan",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kumparan.com/kumparannews/menkomdigi-soal-data-center-ai-harus-balance-jangan-ganggu-kebutuhan-air-28KZmAMln65",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Meutya Hafid Bela Dedi Mulyadi Soal Penghentian Data Center AI Milik BDx - Warta Ekonomi",
+   "media": "Warta Ekonomi",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://wartaekonomi.co.id/read639433/meutya-hafid-bela-dedi-mulyadi-soal-penghentian-data-center-ai-milik-bdx",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Meutya usai ditemui di Kantor Komdigi, Rabu (7/10/2026).",
+    "Sebelumnya, Gubernur Jawa Barat, Dedi Mulyadi (KDM), menegaskan bahwa penghentian sementara proyek pembangunan pusat data (data center) berbasis kecerdasan buatan (artificial intelligence/AI) senilai Rp3,5 triliun di Jatiluhur, Purwakarta, Jawa Barat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Komdigi Ungkap Peran di UU Satu Data Indonesia: Kami Jadi Penghubung - CNN Indonesia",
+   "media": "CNN Indonesia",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cnnindonesia.com/teknologi/20261007214805-185-1412886/komdigi-ungkap-peran-di-uu-satu-data-indonesia-kami-jadi-penghubung",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Menkomdigi Meutya Hafid di Kantor Komdigi, Jakarta, Rabu (7/10).",
+    "Pada Selasa (6/10), Wamenkomdigi Nezar Patria menyebut penyelenggaraan Satu Data Indonesia melibatkan banyak kementerian dan lembaga.",
+    "ujarnya usai menghadiri Rapat Paripurna di Gedung Nusantara II, Kompleks Parlemen, Jakarta Pusat, Selasa (06/10)\nNezar mengatakan penyelenggaraan Satu Data Indonesia nantinya akan berada langsung di bawah Presiden."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ekspansi Data Center AI Berpotensi Semakin Memperparah Krisis Air - NU Online",
+   "media": "NU Online",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.nu.or.id/nasional/ekspansi-data-center-ai-berpotensi-semakin-memperparah-krisis-air-F2BYt",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Ekspansi Data Center AI Berpotensi Semakin Memperparah Krisis Air\nNU Online · Kamis, 8 Oktober 2026 | 21:00 WIB\nRikhul Jannah\nKontributor\nJakarta, NU Online\nWahana Lingkungan Hidup Indonesia (Walhi) menilai ekspansi pembangunan pusat data u",
+    "ujar Pengampanye Urban Berkeadilan Walhi Nasional Wahyu Eka Styawan dalam Diskusi Publik Energi, Ruang, dan Warga di Jakarta, Rabu (7/10/2026)."
+   ]
+  },
+  {
+   "judul": "Ekspansi Data Center AI Mengancam Sumber Air Masyarakat, WALHI: Pemerintah Harus Berlakukan Moratorium Pembangunan - edisi.co, batam",
+   "media": "edisi.co, batam",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi \"data center\"",
+    "\"data center\" moratorium air",
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://edisi.co/ekspansi-data-center-ai-mengancam-sumber-air-masyarakat-walhi-pemerintah-harus-berlakukan-moratorium-pembangunan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "EDISI.CO, NASIONAL– Wahana Lingkungan Hidup Indonesia (WALHI) menegaskan ekspansi pembangunan data center untuk AI akan berpotensi memicu krisis air di berbagai daerah.",
+    "Pengampanye Urban Berkeadilan WALHI Nasional, Wahyu Eka Styawan, dalam keterangan yang diterima, mengatakan pemerintah tidak boleh mengulangi kesalahan tata kelola yang selama ini terjadi pada berbagai sektor ekstraktif, dengan membiarkan i"
+   ]
+  },
+  {
+   "judul": "Proyek Data Center BDx Disetop, Menkomdigi Ingatkan Air dan Energi - CNBC Indonesia",
+   "media": "CNBC Indonesia",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cnbcindonesia.com/tech/20261008062435-37-774252/proyek-data-center-bdx-disetop-menkomdigi-ingatkan-air-dan-energi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Meutya, ditemui di kantor Komdigi, Rabu (7/10/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Meutya Hafid Soroti Data Center Batam: Air Nongsa Mati Berbulan-bulan, Ini Kata Menkomdigi - Batamnews",
+   "media": "Batamnews",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.batamnews.co.id/berita-130759-meutya-hafid-soroti-data-center-batam-air-nongsa-mati-berbulan-bulan-ini-kata-menkomdigi.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Meutya Hafid Soroti Data Center Batam: Air Nongsa Mati Berbulan-bulan, Ini Kata Menkomdigi\nJakarta, Batamnews – Menteri Komunikasi dan Digital (Komdigi) Meutya Hafid angkat bicara soal keberadaan data center yang diduga menjadi penyebab matinya air di permukiman kawasan Nongsa, B",
+    "kata Meutya saat ditemui di kantor Komdigi, Rabu, 7 Oktober 2026."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Komdigi soal Data Center Jatiluhur dan Batam yang Lagi Disorot - detikInet",
+   "media": "detikInet",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://inet.detik.com/law-and-policy/d-8697278/komdigi-soal-data-center-jatiluhur-dan-batam-yang-lagi-disorot",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jakarta -\nMenteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid menyebut pembangunan data center harus mempertimbangkan keseimbangan.",
+    "Ditemui rekan media, Rabu (7/10/2026), di Gedung Komdigi, Jakarta Pusat, Meutya menjelaskan bahwa wajar jika suatu negara membutuhkan kemampuan komputasi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menkomdigi: Data Center AI Harus Seimbang dengan Kebutuhan Energi dan Air - Arrahmah.id",
+   "media": "Arrahmah.id",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.arrahmah.id/menkomdigi-data-center-ai-harus-seimbang-dengan-kebutuhan-energi-dan-air",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "JAKARTA (Arrahmah.id) - Menteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid menanggapi polemik pembangunan pusat data berbasis kecerdasan buatan (AI) di Jatiluhur, Kabupaten Purwakarta, Jawa Barat.",
+    "Komdigi, kata Meutya, akan memetakan kebutuhan komputasi di Indonesia, termasuk jumlah pengguna internet dan lokasi yang memiliki konektivitas memadai untuk pembangunan pusat data.",
+    "Gubernur Jawa Barat Dedi Mulyadi sebelumnya menyatakan pembangunan proyek tersebut dihentikan sementara."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menkomdigi Tekankan Data Center AI Harus Perhatikan Pasokan Air Masyarakat - Bisnis Tekno",
+   "media": "Bisnis Tekno",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://teknologi.bisnis.com/read/20261008/101/2010766/menkomdigi-tekankan-data-center-ai-harus-perhatikan-pasokan-air-masyarakat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Komdigi Perketat Lokasi Pembangunan Data Center 8 Oktober - Demokratis.co.id",
+   "media": "Demokratis.co.id",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://demokratis.co.id/komdigi-perketat-lokasi-data-center-8-oktober",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemerintah Dongkrak Potensi Ekonomi Digital Melalui Data Center - Bloomberg Technoz",
+   "media": "Bloomberg Technoz",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bloombergtechnoz.com/detail-news/124032/pemerintah-dongkrak-potensi-ekonomi-digital-melalui-data-center",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Meutya Hafid Atur Pembangunan Data Center Jaga Energi Indonesia - Demokratis.co.id",
+   "media": "Demokratis.co.id",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://demokratis.co.id/meutya-hafid-atur-data-center",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Komdigi soal Data Center di Jatiluhur Disetop: Lokasi Perlu Dikaji Lintas-sektor - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/digital/teknologi/6ac6e41083a6c/komdigi-soal-data-center-di-jatiluhur-disetop-lokasi-perlu-dikaji-lintas-sektor",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menanggapi hal ini, Menteri Komunikasi dan Digital (Komdigi) Meutya Hafid mengatakan instansinya perlu ikut menentukan titik pembangunan data center.",
+    "Komdigi, kata dia, perlu ikut menentukan titik pembangunan berdasarkan kebutuhan komputasi, jumlah pengguna internet, kualitas konektivitas, serta kelayakan lokasi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menkomdigi Komentari Data Center BDx Jatiluhur Disetop, Pengamat Tagih Regulasi Supaya Masalah Teratasi - Selular.ID",
+   "media": "Selular.ID",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://selular.id/2026/10/menkomdigi-komentari-data-center-bdx-jatiluhur-disetop-pengamat-tagih-regulasi-supaya-masalah-teratasi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Soroti Risiko Ekosistem dan Krisis Air Efek Ekspansi Data Center Batam - GoWest.ID",
+   "media": "GoWest.ID",
+   "tanggal": "09 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://gowest.id/walhi-soroti-risiko-ekosistem-dan-krisis-air-efek-ekspansi-data-center-batam/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "EKSPANSI pembangunan data center di Batam mendapat sorotan Wahana Lingkungan Hidup Indonesia (WALHI).",
+    "WALHI menilai persoalan tersebut perlu menjadi perhatian karena kebutuhan air data center terus meningkat di tengah ancaman sedimentasi waduk, perubahan iklim hingga risiko kekeringan."
+   ]
+  },
+  {
+   "judul": "WALHI Bongkar Ancaman Data Center di Batam: 10 Proyek AI Bisa Habiskan 32 Juta Liter Air Sehari - LenteraKepri.com",
+   "media": "LenteraKepri.com",
+   "tanggal": "09 Oct 2026",
+   "kueri": [
+    "walhi \"data center\"",
+    "\"data center\" moratorium air"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://lenterakepri.com/walhi-bongkar-ancaman-data-center-di-batam-10-proyek-ai-bisa-habiskan-32-juta-liter-air-sehari/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 11,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "LenteraKepri.com, Batam – Ekspansi pembangunan data center di Batam, Kepulauan Riau, mulai mendapat sorotan dari Wahana Lingkungan Hidup Indonesia (WALHI).",
+    "Pengampanye Urban Berkeadilan WALHI Nasional, Wahyu Eka Styawan, mengatakan saat ini terdapat sekitar 16 hingga 18 proyek data center di Batam, baik yang telah beroperasi maupun masih dalam tahap pembangunan."
+   ]
+  },
+  {
+   "judul": "Mengkhawatirkan! Walhi Sorot Potensi Krisis Air Akibat Pengembangan Teknologi AI - MEGATRUST.co.id",
+   "media": "MEGATRUST.co.id",
+   "tanggal": "09 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.megatrust.co.id/mengkhawatirkan-walhi-sorot-potensi-krisis-air-akibat-pengembangan-teknologi-ai/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "MEGATRUST – Wahana Lingkungan Hidup Indonesia (Walhi) menyoroti penggunaan teknologi Artificial Intelegence (AI) atau kecerdasan buatan.",
+    "Namun, Walhi menilai pembangunan infrastruktur AI tidak boleh mengorbankan hak masyarakat atas air dan lingkungan hidup yang sehat."
+   ]
+  },
+  {
+   "judul": "Batam Krisis Air, Warga Demo Data Center - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "10 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/10/10/batam-krisis-air-warga-demo-data-center/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "- BP Batam menyatakan kebutuhan air pendingin data center di NDP dipasok dari Kabil Industrial Estate yang memiliki pengolahan air sendiri."
+   ],
+   "kalimat_walhi": [
+    "- Wahana Lingkungan Hidup (Walhi) menilai pertumbuhan industri data center dan infrastruktur kecerdasan buatan (AI) belum diimbangi aturan khusus mengenai pemenuhan kebutuhan air dan energi.",
+    "Wahyu Eka Setyawan, Pengampanye Urban Berkeadilan Wahana Lingkungan Hidup (Walhi) Eksekutif Nasional, mengatakan, pemerintah tidak boleh mengulangi kesalahan tata kelola yang selama ini terjadi pada industri ekstraktif."
+   ]
+  },
+  {
+   "judul": "Ekspansi Data Center AI di Batang, Walhi Jateng Ingatkan Potensi Perparah Kekeringan - Tribunjateng.com",
+   "media": "Tribunjateng.com",
+   "tanggal": "10 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://jateng.tribunnews.com/jawa-tengah/1269091/ekspansi-data-center-ai-di-batang-walhi-jateng-ingatkan-potensi-perparah-kekeringan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Komdigi Soroti Data Center di Batam dan Jatiluhur, Air dan Energi Jadi Perhatian - Ulasan.co",
+   "media": "Ulasan.co",
+   "tanggal": "10 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ulasan.co/komdigi-soroti-data-center-di-batam-dan-jatiluhur-air-dan-energi-jadi-perhatian/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "JAKARTA – Menteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid menegaskan pembangunan pusat data atau *data center* di Indonesia harus mempertimbangkan keseimbangan kebutuhan digital, energi, dan air.",
+    "Baca Juga: BP Batam: Data Center yang Sudah Beroperasi Olah Air Sendiri\nKondisi tersebut kembali menegaskan pentingnya menyeimbangkan kebutuhan infrastruktur digital dengan ketersediaan sumber daya."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Data Center Jadi Isu Kunci Pilkada AS, Kursi Kongres Terancam - Telset.id",
+   "media": "Telset.id",
+   "tanggal": "11 Oct 2026",
+   "kueri": [
+    "\"data center\" moratorium air",
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://telset.id/news/ai/data-center-jadi-isu-kunci-pilkada-as-kursi-kongres-terancam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Baca Juga:\nGubernur dan Ballot Measure Ikut Terdampak\nSetidaknya 20 kandidat di 36 pemilihan gubernur berjanji akan memberlakukan semacam moratorium data center jika terpilih, menurut riset dari Multistate."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Siapkan Infrastruktur Air untuk Dukung Pusat Data AI - Bisnis.com - Ekonomi",
+   "media": "Bisnis.com - Ekonomi",
+   "tanggal": "12 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ekonomi.bisnis.com/read/20261012/45/2011906/pemerintah-siapkan-infrastruktur-air-untuk-dukung-pusat-data-ai",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Toto Sugiri Dorong Kedaulatan Data AI Indonesia - Limapagi",
+   "media": "Limapagi",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.limapagi.id/toto-sugiri-dorong-kedaulatan-data",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Listrik Padam, Sinyal Hilang, Air Terganggu, Meutya Hafid Buka Suara Soal Blackout Batam - Warta Ekonomi",
+   "media": "Warta Ekonomi",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://wartaekonomi.co.id/read640581/listrik-padam-sinyal-hilang-air-terganggu-meutya-hafid-buka-suara-soal-blackout-batam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Listrik Padam, Sinyal Hilang, Air Terganggu, Meutya Hafid Buka Suara Soal Blackout Batam\nMenteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid menyatakan pemerintah masih mendalami pemadaman listrik massal atau blackout yang melanda Batam, Kepulauan Riau, pada Senin (12/10/202",
+    "Meutya mengatakan pemerintah belum dapat menyampaikan kesimpulan terkait kejadian tersebut karena koordinasi lintas kementerian dan lembaga masih berlangsung.",
+    "ujar Meutya saat ditemui awak media di Kantor Komdigi, Selasa (13/10/2026).",
+    "Ia menegaskan, kesimpulan lebih lanjut baru dapat disampaikan setelah tim Komdigi berkoordinasi dengan kementerian dan lembaga terkait."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Data Center AI Jatiluhur Ditolak, Warga Khawatir Krisis Air - Pikiran Rakyat Koran",
+   "media": "Pikiran Rakyat Koran",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://koran.pikiran-rakyat.com/news/pr-30310501837/data-center-ai-jatiluhur-ditolak-warga-khawatir-krisis-air",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pembangunan Data Center AI di Jatiluhur Dikhawatirkan Mengorbankan Hak Warga - BandungBergerak.id",
+   "media": "BandungBergerak.id",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://bandungbergerak.id/article/detail/1546038513/pembangunan-data-center-ai-di-jatiluhur-dikhawatirkan-mengorbankan-hak-warga",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Pembangunan Data Center AI di Jatiluhur Dikhawatirkan Mengorbankan Hak Warga\nWALHI Jawa Barat, LBH Bandung, dan Trend Asia mempertanyakan dampak ekologis proyek, penggunaan air, serta keterlibatan masyarakat dalam proses pembangunan.",
+    "Baca Juga: Warga Kekurangan Air, Data Center AI Dibangun di Jatiluhur\nPeluang dan Tantangan Kecerdasan Buatan (AI) sebagai Teknologi Masa Depan\nPenghentian Sementara Tidak Cukup\nDirektur Eksekutif Wahana Lingkungan Hidup Indonesia (WALHI Ja"
+   ]
+  },
+  {
+   "judul": "Walhi Jabar Beberkan Sejumlah Masalah Pembangunan Data Center AI di Jatiluhur - republika.co.id",
+   "media": "republika.co.id",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://rejabar.republika.co.id/berita/tmvmxi487/walhi-jabar-beberkan-sejumlah-masalah-pembangunan-data-center-ai-di-jatiluhur",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "REPUBLIKA.CO.ID, BANDUNG - Wahana Lingkungan Hidup Indonesia (Walhi) Jawa Barat membeberkan sejumlah permasalahan dalam pembangunan data center kecerdasan buatan di kawasan Jatiluhur, Kabupaten Purwakarta.",
+    "Direktur Utama Walhi Jabar Wahyudin Iwang mengatakan keberadaan Waduk Jatiluhur sangat penting dalam memenuhi kebutuhan air untuk masyarakat."
+   ]
+  },
+  {
+   "judul": "Walhi Jabar Nilai Negara Selalu Beri Perlakuan Khusus pada Industri dan Pengusaha - Pikiran-Rakyat.com",
+   "media": "Pikiran-Rakyat.com",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.pikiran-rakyat.com/lestari/pr-0110504654/walhi-jabar-nilai-negara-selalu-beri-perlakuan-khusus-pada-industri-dan-pengusaha?page=all",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "BlackRock Peringatkan Berhenti Operasi Data Center Berarti Resesi - BeInCrypto",
+   "media": "BeInCrypto",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://id.beincrypto.com/blackrock-fink-data-center-halt-resesi/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "BlackRock catat laba US$2,6 miliar, investasi data center melonjak - IDNFinancials",
+   "media": "IDNFinancials",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "\"data center\" moratorium"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.idnfinancials.com/id/news/70316/blackrock-catat-laba-us2-6-miliar-investasi-data-center-melonjak",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Data Center AI BDx di Jatiluhur Butuh Banyak Air, WALHI Soroti Dampaknya - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://bandung.kompas.com/read/2026/09/30/201729478/data-center-ai-bdx-di-jatiluhur-butuh-banyak-air-walhi-soroti-dampaknya?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 12,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Editor\nBANDUNG, KOMPAS.com - Wahana Lingkungan Hidup Indonesia (WALHI) Jawa Barat menyoroti sejumlah aspek lingkungan dalam rencana pembangunan pusat data berbasis kecerdasan buatan atau artificial intelligence (AI) milik BDx di Jatiluhur, ",
+    "Direktur Eksekutif Daerah WALHI Jawa Barat Wahyudin mengatakan, salah satu hal yang perlu dikaji secara mendalam adalah kebutuhan air untuk operasional data center tersebut."
+   ]
+  },
+  {
+   "judul": "Walhi Jabar Ungkap Tiga Dampak Lingkungan Data Center AI di Jatiluhur - IDN Times Jabar",
+   "media": "IDN Times Jabar",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://jabar.idntimes.com/news/jawa-barat/walhi-jabar-ungkap-tiga-dampak-lingkungan-data-center-ai-di-jatiluhur-00-nqtvm-mv0gnz",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Jabar Ungkap Tiga Dampak Lingkungan Data Center AI di Jatiluhur\n- WALHI Jabar meminta pemerintah mengkaji kebutuhan air proyek data center AI BDx di Jatiluhur, yang berpotensi mencapai jutaan liter per hari dan mengganggu akses warga.",
+    "- WALHI menyoroti pengelolaan limbah B3, baterai, oli, server, serta infrastruktur pendukung; penghentian konstruksi dinilai tepat hingga AMDAL dan RKL-RPL terbit."
+   ]
+  },
+  {
+   "judul": "WALHI Soroti Dampak Lingkungan Data Center AI BDx di Jatiluhur, dari Air hingga Limbah - Tribunjabar.id",
+   "media": "Tribunjabar.id",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "walhi \"data center\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://jabar.tribunnews.com/jabar-region/1185802/walhi-soroti-dampak-lingkungan-data-center-ai-bdx-di-jatiluhur-dari-air-hingga-limbah",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Badan Energi Dunia Sebut Pusat Data AI Haus Listrik, Air, dan Lahan - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/samarinda/iptek/2774085/badan-energi-dunia-sebut-pusat-data-ai-haus-listrik-air-dan-lahan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemprov Jabar Hentikan Sementara Proyek Data Center BDX Jatiluhur - CentralBatam",
+   "media": "CentralBatam",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "\"data center\" AI air Komdigi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://centralbatam.co.id/pemprov-jabar-hentikan-proyek-data-center-bdx",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  }
+ ]
+}

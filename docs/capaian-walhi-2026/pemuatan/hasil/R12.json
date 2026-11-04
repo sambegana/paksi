@@ -1,0 +1,479 @@
+{
+ "id": "R12",
+ "tanggal": "2026-09-18",
+ "rentang": [
+  "2026-09-17",
+  "2026-10-03"
+ ],
+ "kueri": [
+  "walhi inpres karhutla",
+  "walhi inpres \"masyarakat adat\"",
+  "\"Inpres 11 Tahun 2026\" karhutla",
+  "inpres karhutla \"masyarakat adat\" kriminalisasi",
+  "AMAN inpres karhutla",
+  "perda kearifan lokal bakar lahan dicabut"
+ ],
+ "jejaring": [
+  "Aliansi Masyarakat Adat",
+  "AMAN "
+ ],
+ "jumlah_berita": 22,
+ "berita": [
+  {
+   "judul": "2 Peladang Dayak Ditangkap gegara Bakar Lahan, Walhi Singgung Kearifan Lokal - detikcom",
+   "media": "detikcom",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi inpres \"masyarakat adat\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.detik.com/kalimantan/hukum-dan-kriminal/d-8687973/2-peladang-dayak-ditangkap-gegara-bakar-lahan-walhi-singgung-kearifan-lokal",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Barito Timur -\nPenangkapan dua warga adat Dayak Maanyan di Desa Hayaping, Kecamatan Awang, Kabupaten Barito Timur, mendapat sorotan dari Wahana Lingkungan Hidup Indonesia (Walhi) Kalimantan Tengah.",
+    "Direktur Eksekutif Walhi Kalimantan Tengah Janang Firman Palanungkai menilai aktivitas yang dilakukan warga merupakan bagian dari tradisi masyarakat adat yang telah berlangsung secara turun-temurun."
+   ]
+  },
+  {
+   "judul": "Cegah Karhutla, Kemendagri Perketat Evaluasi Perda Pembakaran Lahan - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "perda kearifan lokal bakar lahan dicabut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/K5nC12oj-cegah-karhutla-kemendagri-perketat-evaluasi-perda-pembakaran-lahan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "Kasubdit Taops dan Kebakaran Kemendagri Danang Putra menjelaskan evaluasi regulasi berfokus pada penyelarasan aturan daerah dengan standar nasional.",
+    "Kemendagri menegaskan penguatan regulasi harus diimbangi dengan penegakan hukum di lapangan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemendagri Dalami Celah Aturan Buka Lahan Dibakar - Liputan6.com",
+   "media": "Liputan6.com",
+   "tanggal": "02 Oct 2026",
+   "kueri": [
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://berita.liputan6.com/peristiwa/read/8304296/kemendagri-dalami-celah-aturan-buka-lahan-dibakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "Liputan6.com, Jakarta - Kepala Subdirektorat Tata Operasional dan Kebakaran Kementerian Dalam Negeri (Kemendagri) Danang Putra mengatakan, pihaknya tengah meninjau sejumlah peraturan daerah terkait penanganan kebakaran hutan dan lahan (karhutla) sebagai tindak lanjut Instruksi Pr",
+    "kata Danang dalam Konferensi Pers di Gedung Kemenko Polkam, Kamis (1/10/2026).",
+    "Advertisement\nMenurut dia, proses peninjauan tidak hanya melihat substansi peraturan, tetapi juga memastikan regulasi tersebut sesuai dengan Instruksi Presiden.",
+    "Kita sudah melakukan evaluasi dan tindak lanjut dari Pemprov untuk menerbitkan instruksi gubernur kepada bupati/wali kota yang fokusnya menegaskan soal larangan pembukaan lahan dengan cara dibakar,\""
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemendagri Perkuat Regulasi Daerah Cegah Pembukaan Lahan dengan Dibakar - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "02 Oct 2026",
+   "kueri": [
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/nasional/2782403/kemendagri-perkuat-regulasi-daerah-cegah-pembukaan-lahan-dengan-dibakar",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Mendagri Dorong Pemda Terdampak Karhutla Segera Gunakan Bantuan Anggaran Penanganan - mmckalteng",
+   "media": "mmckalteng",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Prabowo Perintahkan Cabut Izin 95 Perusahaan Pelaku Karhutla - Bloomberg Technoz",
+   "media": "Bloomberg Technoz",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "perda kearifan lokal bakar lahan dicabut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bloombergtechnoz.com/detail-news/121925/prabowo-perintahkan-cabut-izin-95-perusahaan-pelaku-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo akan perberat sanksi perusahaan penyebab karhutla - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "perda kearifan lokal bakar lahan dicabut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bengkulu.antaranews.com/berita/479791/prabowo-akan-perberat-sanksi-perusahaan-penyebab-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Presiden Prabowo sebagaimana dikutip dari siaran resmi Sekretariat Presiden di Jakarta, Kamis.",
+    "ujar Presiden.",
+    "kata Presiden Prabowo."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Minta Orang yang Bakar Hutan Dikenai Sanksi Lebih Berat: Teroris Ekologi - Informasi.com",
+   "media": "Informasi.com",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "perda kearifan lokal bakar lahan dicabut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://informasi.com/hijau/infrms-28023/prabowo-minta-orang-yang-bakar-hutan-dikenai-sanksi-lebih-berat-teroris-ekologi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Inpres Karhutla Dikritik, WALHI Soroti Potensi Kriminalisasi Masyarakat Adat - Kaltim.Akurasi",
+   "media": "Kaltim.Akurasi",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "walhi inpres karhutla",
+    "walhi inpres \"masyarakat adat\"",
+    "inpres karhutla \"masyarakat adat\" kriminalisasi",
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://kaltim.akurasi.id/news/nasional/inpres-karhutla-dikritik-walhi-soroti-potensi-kriminalisasi-masyarakat-adat/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "Aliansi Masyarakat Adat",
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "WALHI menyebut, telah melaporkan 372 perusahaan kepada presiden."
+   ],
+   "kalimat_walhi": [
+    "WALHI Desak Pemerintah Proses Hukum Perusahaan\nKoordinator Pengkampanye WALHI Nasional, Uli Arta Siagian, menilai ketegasan tersebut harus diwujudkan melalui proses hukum yang cepat, transparan, dan menyasar pihak yang terbukti bertanggung ",
+    "WALHI menyebut, telah melaporkan 372 perusahaan kepada presiden."
+   ]
+  },
+  {
+   "judul": "Inpres Karhutla Dinilai Berisiko Mempersempit Ruang Masyarakat Adat - NU Online",
+   "media": "NU Online",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "walhi inpres karhutla",
+    "walhi inpres \"masyarakat adat\"",
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.nu.or.id/nasional/inpres-karhutla-dinilai-berisiko-mempersempit-ruang-masyarakat-adat-atw3O",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "Aliansi Masyarakat Adat",
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "Koordinator Pengkampanye Walhi Nasional Uli Arta Siagian mengatakan ketegasan Presiden harus segera dibuktikan melalui penegakan hukum yang cepat, transparan, dan tepat sasaran, terutama terhadap korporasi pemegang konsesi.",
+    "“Ketegasan Presiden harus diterjemahkan dengan menindak pihak yang terbukti bertanggung jawab, membuka proses penanganannya secara transparan, serta memastikan pemegang konsesi menjalankan kewajiban pencegahan, pengendalian, dan pemulihan atas karhutla,”",
+    "“Harusnya Instruksi Presiden ini memerintahkan kementerian/lembaga terkait untuk melakukan evaluasi menyeluruh perizinan, mulai dari izin-izin yang bertumpang tindih dengan ekosistem gambut dan hutan, memberikan penegakan hukum dalam bentuk pencabutan ataupun penciutan izin, mena"
+   ],
+   "kalimat_walhi": [
+    "Koordinator Pengkampanye Walhi Nasional Uli Arta Siagian mengatakan ketegasan Presiden harus segera dibuktikan melalui penegakan hukum yang cepat, transparan, dan tepat sasaran, terutama terhadap korporasi pemegang konsesi."
+   ]
+  },
+  {
+   "judul": "Walhi: Penanganan Karhutla Tak Bisa Hanya Andalkan Pemadaman - Liputan6.com",
+   "media": "Liputan6.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "walhi inpres karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.liputan6.com/regional/read/8315649/walhi-penanganan-karhutla-tak-bisa-hanya-andalkan-pemadaman",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Umi Ma'rufah"
+   ],
+   "jejaring_di_isi": [
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "Advertisement\n\"Presiden perlu memastikan kementerian dan lembaga bekerja secara terpadu, menindaklanjuti laporan secara serius, serta menetapkan target pencegahan yang terukur,\"",
+    "Kementerian Kesehatan bertanggung jawab memastikan pelayanan kesehatan bagi masyarakat terdampak asap, sedangkan Kementerian Sosial menangani pelayanan kesejahteraan sosial dan pemenuhan kebutuhan dasar warga terdampak."
+   ],
+   "kalimat_walhi": [
+    "Liputan6.com, Jakarta - Wahana Lingkungan Hidup Indonesia (WALHI) menyoroti pentingnya tanggung jawab lintas sektor dalam penanganan kebakaran hutan dan lahan (karhutla).",
+    "Pengkampanye Hutan dan Kebun WALHI, Umi Ma'rufah, mengatakan pemerintah pusat, pemerintah daerah, aparat penegak hukum, serta perusahaan pemegang konsesi perlu menjalankan kewajiban masing-masing untuk mencegah kebakaran dan menindak pelang"
+   ]
+  },
+  {
+   "judul": "Kasus Diare RSUD Soedarso Capai 36 Kasus dalam Sepekan - Ruai TV",
+   "media": "Ruai TV",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "walhi inpres \"masyarakat adat\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://ruai.tv/kasus-diare-rsud-soedarso-capai-36-kasus-dalam-sepekan/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemprov Kalbar Jelaskan Pencabutan 7 Regulasi Daerah Terkait Pembukaan Lahan dan Pengendalian Karhutla - pontianakinfo.disway.id - Disway",
+   "media": "Disway",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "perda kearifan lokal bakar lahan dicabut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakinfo.disway.id/pontianak/read/29627/pemprov-kalbar-jelaskan-pencabutan-7-regulasi-daerah-terkait-pembukaan-lahan-dan-pengendalian-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Biro Hukum Sekretariat Daerah Provinsi Kalimantan Barat, Deasy Arisanti, S.H., M.H., menjelaskan evaluasi tersebut dilakukan bersama Direktorat Produk Hukum Daerah Kementerian Dalam Negeri melalui rapat koordinasi secara daring pada Rabu, 16 September 2026."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemkot Pontianak Kaji Sistem Air Baku Permanen untuk Hadapi Krisis Air - Ruai TV",
+   "media": "Ruai TV",
+   "tanggal": "19 Sep 2026",
+   "kueri": [
+    "walhi inpres karhutla",
+    "walhi inpres \"masyarakat adat\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://ruai.tv/pemkot-pontianak-kaji-sistem-air-baku-permanen-untuk-hadapi-krisis-air/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Masyarakat Adat, Dua Kali Menjadi Korban Kebakaran - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "19 Sep 2026",
+   "kueri": [
+    "walhi inpres \"masyarakat adat\"",
+    "inpres karhutla \"masyarakat adat\" kriminalisasi",
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/masyarakat-adat-dua-kali-menjadi-korban-kebakaran",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "Aliansi Masyarakat Adat",
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "Kekhawatiran itu muncul setelah Presiden Prabowo Subianto menyerukan penegakan hukum lebih tegas terhadap pelaku yang memicu kebakaran hutan dan lahan (karhutla), termasuk pencabutan izin dan proses pidana terhadap korporasi yang terbukti melanggar."
+   ],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup (Walhi), Aliansi Masyarakat Adat Nusantara (AMAN), Yayasan Pusaka dan Indonesian Center for Environmental Law (ICEL) menyoroti Instruksi Presiden Nomor 11 Tahun 2026 tentang Penguatan Penegakan Larangan Pembukaan Lah",
+    "Alih-alih menyasar masyarakat adat, Uli Arta Siagian, Koordinator Pengampanye Walhi Nasional, menyarankan Presiden mestinya fokus menyasar korporasi yang di lahan konsesinya terbukti dipenuhi titik api."
+   ]
+  },
+  {
+   "judul": "AMAN Nilai Pemerintah Persempit Ruang Masyarakat Adat - Validnews",
+   "media": "Validnews",
+   "tanggal": "19 Sep 2026",
+   "kueri": [
+    "\"Inpres 11 Tahun 2026\" karhutla",
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://validnews.id/nasional/2026/09/19/aman-nilai-pemerintah-persempit-ruang-masyarakat-adat-084300476",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Penegakan Hukum Karhutla Diminta Tidak Kriminalisasi Masyarakat - Betahita",
+   "media": "Betahita",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "walhi inpres karhutla",
+    "walhi inpres \"masyarakat adat\"",
+    "inpres karhutla \"masyarakat adat\" kriminalisasi",
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12390/penegakan-hukum-karhutla-diminta-tidak-kriminalisasi-masyarakat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "Aliansi Masyarakat Adat",
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "Koordinator Pengkampanye Walhi Nasional, Uli Arta Siagian, mengatakan bahwa ketegasan Presiden Prabowo terhadap karhutla harus segera dibuktikan melalui penegakan hukum yang cepat, transparan, dan tepat sasaran, terutama terhadap korporasi pemegang konsesi.",
+    "Ketegasan Presiden harus diterjemahkan dengan menindak pihak yang terbukti bertanggung jawab, membuka proses penanganannya secara transparan, serta memastikan pemegang konsesi menjalankan kewajiban pencegahan, pengendalian, dan pemulihan atas karhutla."
+   ],
+   "kalimat_walhi": [
+    "Koordinator Pengkampanye Walhi Nasional, Uli Arta Siagian, mengatakan bahwa ketegasan Presiden Prabowo terhadap karhutla harus segera dibuktikan melalui penegakan hukum yang cepat, transparan, dan tepat sasaran, terutama terhadap korporasi ",
+    "Terkait hal itu, Walhi telah melaporkan 372 perusahaan yang areal konsesinya terindikasi terbakar berdasarkan analisis titik panas sepanjang Januari–September 2026, kepada presiden dan sejumlah kementerian/lembaga negara."
+   ]
+  },
+  {
+   "judul": "Inpres Karhutla dan Ujian Kemauan Politik Pemerintah - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "AMAN inpres karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tribunnews.com/tribunners/7885123/inpres-karhutla-dan-ujian-kemauan-politik-pemerintah",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Soroti Narasi 'Terorisme Ekologi' dalam Penanganan Karhutla - NU Online",
+   "media": "NU Online",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "walhi inpres karhutla",
+    "walhi inpres \"masyarakat adat\"",
+    "inpres karhutla \"masyarakat adat\" kriminalisasi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://nu.or.id/nasional/walhi-soroti-narasi-terorisme-ekologi-dalam-penanganan-karhutla-0953D",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Soroti Narasi 'Terorisme Ekologi' dalam Penanganan Karhutla\nNU Online · Senin, 21 September 2026 | 19:00 WIB\nRikhul Jannah\nKontributor\nJakarta, NU Online\nWahana Lingkungan Hidup Indonesia (Walhi) meminta pemerintah tidak menyederhanak",
+    "Pengkampanye Hutan dan Kebun WALHI Umi Ma’rufah menilai penggunaan istilah “terorisme ekologi”"
+   ]
+  },
+  {
+   "judul": "Komisi I DPRD Kalbar Tegaskan Perda Pembukaan Lahan Tak Dicabut, Pergub 103/2020 yang Dihapus - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "25 Sep 2026",
+   "kueri": [
+    "perda kearifan lokal bakar lahan dicabut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Prabowo: 8 Perda Izinkan Warga Bakar 2 Hektar, Which Is Complete Nonsense! - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "25 Sep 2026",
+   "kueri": [
+    "perda kearifan lokal bakar lahan dicabut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/09/25/17043861/prabowo-8-perda-izinkan-warga-bakar-2-hektar-which-is-complete-nonsense",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "kata Prabowo saat bertemu pakar di Istana Merdeka, Jakarta, Kamis (24/9/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Minta Evaluasi Izin Korporasi di Gambut untuk Cegah Karhutla - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "27 Sep 2026",
+   "kueri": [
+    "walhi inpres karhutla",
+    "walhi inpres \"masyarakat adat\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://nasional.kontan.co.id/news/walhi-minta-evaluasi-izin-korporasi-di-gambut-untuk-cegah-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "Aliansi Masyarakat Adat",
+    "AMAN "
+   ],
+   "kalimat_pemerintah": [
+    "Pernyataan tersebut merespons dukungan Asosiasi Pengusaha Hutan Indonesia (APHI) terhadap langkah Presiden Prabowo Subianto yang meminta koreksi regulasi yang masih membuka celah pembakaran lahan guna memperkuat pencegahan karhutla.",
+    "Dalam rilis tersebut, WALHI menyebut telah melaporkan 372 perusahaan kepada Presiden berdasarkan analisis titik panas sepanjang Januari hingga September 2026."
+   ],
+   "kalimat_walhi": [
+    "Koordinator Pengkampanye WALHI Nasional Uli Arta Siagian mengatakan, pemerintah perlu mengoreksi kebijakan sektoral yang membuka ruang pemberian izin usaha dalam skala besar tanpa mempertimbangkan fungsi ekologis suatu kawasan.",
+    "Baca Juga: Prabowo Bentuk BPGMN, Walhi Desak Evaluasi Seluruh Izin di Kawasan Gambut \n\"Misalnya gambut, yang seharusnya tidak boleh dibebani izin justru diberikan kepada korporasi dalam bentuk izin untuk sawit, PBPH ataupun tambang."
+   ]
+  }
+ ]
+}

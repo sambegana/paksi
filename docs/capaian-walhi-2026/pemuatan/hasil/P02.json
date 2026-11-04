@@ -1,0 +1,95 @@
+{
+ "id": "P02",
+ "tanggal": "2026-08-21",
+ "rentang": [
+  "2026-08-20",
+  "2026-09-05"
+ ],
+ "kueri": [
+  "walhi \"giant sea wall\"",
+  "walhi \"tanggul laut\"",
+  "walhi BOPPJ",
+  "\"giant sea wall\" kritik nelayan",
+  "KIARA \"giant sea wall\"",
+  "\"tanggul laut\" BOPPJ kaji"
+ ],
+ "jejaring": [
+  "KIARA",
+  "Maleh Dadi Segoro"
+ ],
+ "jumlah_berita": 4,
+ "berita": [
+  {
+   "judul": "Alasan WALHI Desak Pemerintah Kaji Ulang Rencana Pembangunan Giant Sea Wall di Pantura Jawa - Limit News - Limit News",
+   "media": "Limit News",
+   "tanggal": "23 Aug 2026",
+   "kueri": [
+    "walhi \"giant sea wall\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.limitnews.net/nasional/772968784/alasan-walhi-desak-pemerintah-kaji-ulang-rencana-pembangunan-giant-sea-wall-di-pantura-jawa",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Giant Sea Wall Pantura Jawa: Solusi Banjir Rob atau Masalah Baru? - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "walhi \"giant sea wall\"",
+    "walhi \"tanggul laut\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/08/24/133931/giant-sea-wall-pantura-jawa-solusi-banjir-rob-atau-masalah-baru",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) meminta pemerintah mengkaji ulang rencana tersebut secara menyeluruh.",
+    "Berdasarkan pemantauan WALHI di Jawa Barat, Jawa Tengah, dan Jawa Timur, masyarakat pesisir belum memperoleh informasi memadai mengenai rencana pembangunan GSW."
+   ]
+  },
+  {
+   "judul": "Gelap Informasi Proyek Tanggul Raksasa Pantura - Betahita",
+   "media": "Betahita",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "walhi \"giant sea wall\"",
+    "walhi \"tanggul laut\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12289/gelap-informasi-proyek-tanggul-raksasa-pantura",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi mendesak pemerintah untuk mengkaji ulang proyek itu.",
+    "Perkembangan proyek strategis nasional pembangunan tanggul laut raksasa (giant sea wall/ GSW) pantura Jawa ini terungkap saat pertemuan Wahana Lingkungan Hidup Indonesia (Walhi) dengan Badan Otorita Pengelolaan Pantai Utara Jawa (BOP PJ) Ka"
+   ]
+  },
+  {
+   "judul": "Lomba Tangkap Ikan di Kesesi Meriahkan HUT RI, Pedagang Ikut Raup Rezeki - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "walhi \"giant sea wall\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/semarang/regional/2679773/lomba-tangkap-ikan-di-kesesi-meriahkan-hut-ri-pedagang-ikut-raup-rezeki",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  }
+ ]
+}

@@ -1,0 +1,1479 @@
+{
+ "id": "R35",
+ "tanggal": "2026-10-14",
+ "rentang": [
+  "2026-10-13",
+  "2026-10-29"
+ ],
+ "kueri": [
+  "walhi \"siapa di balik api\"",
+  "walhi pemilik manfaat karhutla",
+  "pemilik manfaat korporasi karhutla",
+  "beneficial ownership karhutla"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 78,
+ "berita": [
+  {
+   "judul": "Kemenhut Masih Lakukan Verifikasi Luas Karhutla Tanjung Puting - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/943648/kemenhut-masih-lakukan-verifikasi-luas-karhutla-tanjung-puting",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Ungkap Sekitar 50 Persen Titik Panas Berada di Konsesi Korporasi, Soroti Keterlibatan Modal Asing dan Elite Politik - Jempolindo.id",
+   "media": "Jempolindo.id",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://jempolindo.id/walhi-ungkap-sekitar-50-persen-titik-panas-berada-di-konsesi-korporasi-soroti-keterlibatan-modal-asing-dan-elite-politik/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JAKARTA — Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (WALHI) merilis laporan terbaru bertajuk “Siapa di Balik Api?",
+    "Dalam paparan tersebut, WALHI mencatat terdapat sekitar 30.927 titik panas di seluruh Indonesia, dengan sebaran tertinggi berada di Kalimantan Barat sebanyak 9.529 titik dan Kalimantan Tengah sebanyak 7.141 titik."
+   ]
+  },
+  {
+   "judul": "Walhi Ungkap Jejak Grup Sawit Malaysia-Singapura di Konsesi Rawan Karhutla - republika.co.id",
+   "media": "republika.co.id",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://news.republika.co.id/berita/tmwgir393/walhi-ungkap-jejak-grup-sawit-malaysiasingapura-di-konsesi-rawan-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "REPUBLIKA.CO.ID, JAKARTA — Jejak kelompok usaha asal Malaysia dan Singapura menjadi sorotan dalam kajian terbaru Wahana Lingkungan Hidup Indonesia (Walhi) mengenai kebakaran hutan dan lahan (karhutla).",
+    "yang diluncurkan di Jakarta, Rabu (14/10/2026), Walhi menyoroti perlunya menelusuri tanggung jawab hingga tingkat kelompok usaha dan pemilik manfaat akhir (beneficial owner), bukan hanya perusahaan pemegang izin yang berada langsung di loka"
+   ]
+  },
+  {
+   "judul": "WALHI Buka-Bukaan: Korporasi Asing Diduga Kuasai Lahan Karhutla di Indonesia - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.inilah.com/walhi-buka-bukaan-korporasi-asing-diduga-kuasai-lahan-karhutla-di-indonesia",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi sebut Korporasi Asing terkait Karhutla di Sumatra dan Kalimantan - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/944380/walhi-sebut-korporasi-asing-terkait-karhutla-di-sumatra-dan-kalimantan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI menyebut terdapat perusahaan kepemilikan terhadap korporasi asing dengan sebaran titik panas kebakaran hutan dan lahan (karhutla) tertinggi dan menunjukkan pola yang konsisten.",
+    "Walhi juga menelusuri negara asal atau negara penerima manfaat (beneficial owner) dari 372 perusahaan yang telah dilaporkan kepada Presiden, dengan fokus pada perusahaan yang terafiliasi dengan grup yang berbasis di Malaysia dan Singapura."
+   ]
+  },
+  {
+   "judul": "223 Orang dan 9 Korporasi Tersangka Karhutla - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/politik-dan-hukum/944284/223-orang-dan-9-korporasi-tersangka-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Kasubdit 3 Dittipidter Bareskrim Polri Kombes Pol Pipit Subiyanto dalam konferensi pers bersama Kementerian Koordinator Bidang Politik dan Keamanan dikutip pada Rabu (14/10).",
+    "Kepala Biro Humas dan Data Informasi Kemenko Polkam Brigjen TNI Honi Havana mengatakan, penegakan hukum oleh Polri dan kementerian terkait terus berkembang.",
+    "(Mir/P-3)\nKementerian Kehutanan menetapkan dua korporasi sebagai tersangka dalam perkara dugaan tindak pidana kebakaran hutan dan lahan (karhutla) salah satunya perusahaan modal asing asal Singapura\nKLH mengambil langkah tegas dengan melakukan verifikasi menyeluruh terhadap 356 p"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Siapa Aktor Dibalik Api? WALHI Bongkar Jejak Modal Asing dan Lingkar Kekuasaan - Suara Papua",
+   "media": "Suara Papua",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://suarapapua.com/2026/10/15/siapa-aktor-dibalik-api-walhi-bongkar-jejak-modal-asing-dan-lingkar-kekuasaan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Pertanyaan itu diangkat Wahana Lingkungan Hidup Indonesia (WALHI) melalui kajian “Peta Aktor: Siapa di Balik Api?”",
+    "Dalam kajiannya, WALHI menemukan sembilan korporasi dengan konsentrasi titik panas tertinggi memiliki induk usaha atau pemegang saham di luar negeri."
+   ]
+  },
+  {
+   "judul": "Karhutla dan Jejak Kekuasaan: Pertanggungjawaban Korporasi Tak Boleh Tebang Pilih - NU Online",
+   "media": "NU Online",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.nu.or.id/amp/nasional/karhutla-dan-jejak-kekuasaan-pertanggungjawaban-korporasi-tak-boleh-tebang-pilih-pzUip",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "“Presiden harus menjalankan komitmennya yang menyatakan bahwa akan menindaktegas apa pun perusahaan yang terlibat dalam karhutla."
+   ],
+   "kalimat_walhi": [
+    "Hal tersebut mengemuka dalam kajian Wahana Lingkungan Hidup Indonesia (Walhi) bertajuk “Siapa di Balik Api?”.",
+    "Koordinator Pengkampanye Walhi Uli Arta Siagian mendesak pemerintah membuka informasi mengenai kepemilikan perusahaan dan pemilik manfaat akhir (beneficial owner), termasuk perusahaan yang memiliki struktur kepemilikan lintas negara."
+   ]
+  },
+  {
+   "judul": "WALHI Temukan 807 Titik Panas di Kawasan PSN Merauke - Suara Papua",
+   "media": "Suara Papua",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://suarapapua.com/2026/10/15/walhi-temukan-807-titik-panas-di-kawasan-psn-merauke/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "“Presiden harus menjalankan komitmennya yang menyatakan bahwa akan menindaktegas apapun perusahaan yang terlibat dalam karhutla."
+   ],
+   "kalimat_walhi": [
+    "JAYAPURA, SUARAPAPUA.com — Wahana Lingkungan Hidup Indonesia (WALHI) menemukan 807 titik panas (hotspot) di kawasan Proyek Strategis Nasional (PSN) Pangan dan Energi di Merauke, Papua Selatan, sepanjang 1 Januari hingga 31 Agustus 2026.",
+    "WALHI menggunakan analisis spasial berbasis data satelit serta penelusuran struktur kepemilikan, pengurus, pemegang saham, dan pemilik manfaat akhir (beneficial owner) perusahaan."
+   ]
+  },
+  {
+   "judul": "Di Balik Modal Asing dan Api Hutan Sumatera-Kalimantan - Portal Berita OPINI Medan - Sumatera Utara - Mudanews.com",
+   "media": "Mudanews.com",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mudanews.com/opini/2026/10/15/di-balik-modal-asing-dan-api-hutan-sumatera-kalimantan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pada 14 Oktober 2026, Bareskrim Polri menyatakan telah menetapkan sembilan korporasi sebagai tersangka dalam perkara karhutla di Kalimantan."
+   ],
+   "kalimat_walhi": [
+    "Pertanyaan tersebut menjadi fokus kajian Wahana Lingkungan Hidup Indonesia (WALHI) yang diluncurkan pada 15 Oktober 2026.",
+    "WALHI menganalisis 30 perusahaan dengan konsentrasi titik panas (hotspot) tertinggi sepanjang Januari–Agustus 2026, terdiri atas 15 perusahaan perkebunan kelapa sawit dan 15 pemegang Perizinan Berusaha Pemanfaatan Hutan (PBPH)."
+   ]
+  },
+  {
+   "judul": "Walhi Sorot Emisi Karhutla Capai 31 Juta Ton CO2 - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/944867/walhi-sorot-emisi-karhutla-capai-31-juta-ton-co2",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "WALHI meminta Polri menelusuri pemilik manfaat (beneficial owner) dan keterlibatan pihak asing dalam kasus karhutla guna memastikan pertanggungjawaban hukum."
+   ],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) menyoroti risiko ekspansi lahan untuk mendukung program energi dan pangan yang dinilai perlu mempertimbangkan dampak terhadap hutan serta target penurunan emisi.",
+    "Koordinator Pengkampanye WALHI Eksekutif Nasional Uli Arta Siagian mengatakan pengembangan bioenergi dan proyek pangan berskala besar berpotensi menimbulkan tekanan terhadap tutupan hutan dan wilayah kelola masyarakat apabila tidak disertai"
+   ]
+  },
+  {
+   "judul": "Puting Beliung Membara Tak Patahkan Semangat Manggala Agni Kemenhut - Pedomanrakyat.com",
+   "media": "Pedomanrakyat.com",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pedomanrakyat.com/puting-beliung-membara-tak-patahkan-semangat-manggala-agni-kemenhut/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ungkap Haris menegaskan kejadian seperti itu tidak pernah mematahkan semangat pengabdian Manggala Agni Kemenhut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Kaltim dan Jejaring Korporasi, WALHI Bongkar Jejak 5 Sosok Dekat Prabowo - EKSPOSKALTIM",
+   "media": "EKSPOSKALTIM",
+   "tanggal": "16 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://eksposkaltim.com/berita-18966-karhutla-kaltim-dan-jejaring-korporasi-walhi-bongkar-jejak-5-sosok-dekat-prabowo-.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 23,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "“Presiden harus menjalankan komitmennya yang menyatakan bahwa akan menindaktegas apapun perusahaan yang terlibat dalam karhutla."
+   ],
+   "kalimat_walhi": [
+    "WALHI menelusuri 30 perusahaan perkebunan dan kehutanan dengan konsentrasi titik panas tertinggi sepanjang Januari–Agustus 2026.",
+    "Hal tersebut menjadi sorotan Wahana Lingkungan Hidup Indonesia (WALHI) melalui kajian berjudul Siapa di Balik Api?."
+   ]
+  },
+  {
+   "judul": "93 Perusahaan Terafiliasi Malaysia dan Singapura yang Jadi Biang Karhutla - makassarinsight.com",
+   "media": "makassarinsight.com",
+   "tanggal": "16 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://makassarinsight.com/read/93-perusahaan-terafiliasi-malaysia-dan-singapura-yang-jadi-biang-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 15,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Hukum dan Kriminal\n93 Perusahaan Terafiliasi Malaysia dan Singapura yang Jadi Biang Karhutla\nMAKASSARINSIGHT.com – Wahana Lingkungan Hidup Indonesia (WALHI) menyoroti keterkaitan kelompok usaha besar dan jaringan kepemilikan lintas negara d",
+    "Menelusuri Afiliasi Modal, Kekuasaan, dan Kelompok Usaha di Balik Perusahaan Terindikasi Karhutla Tertinggi”, WALHI menelusuri hubungan perusahaan pemegang izin dengan induk usaha, pemegang saham, hingga pemilik manfaat akhir atau beneficia"
+   ]
+  },
+  {
+   "judul": "Hotspot Karhutla Naik, Kemenhut Perkuat Operasi di Kalimantan Tengah - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "16 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/945134/hotspot-karhutla-naik-kemenhut-perkuat-operasi-di-kalimantan-tengah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Biro Hubungan Masyarakat dan Kerja Sama Luar Negeri Kemenhut Ristianto Pribadi menyatakan, Menteri Kehutanan Raja Juli Antoni bersama Pangdam XXII/Tambun Bungai Mayjen TNI Zainul Arifin meninjau langsung penanganan karhutla di sekitar Taman Nasional Tanjung Puting, Kabupat"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "EIGER Nature Dapat Apresiasi atas Komitmen Pelestarian Lingkungan - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "16 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Bongkar Jaringan di Balik Karhutla: Modal Asing, Orang Dekat Prabowo, hingga Proyek Strategis Nasional - Sumbarsatu",
+   "media": "Sumbarsatu",
+   "tanggal": "17 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://sumbarsatu.com/berita/35778-walhi-bongkar-jaringan-di-balik-karhutla-modal-asing-orang-dekat-prabowo-hingga-proyek-strategis-nasional",
+   "teks_terbaca": true,
+   "walhi_di_isi": 30,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Uli menegaskan bahwa penegakan hukum harus berlaku bagi semua perusahaan, termasuk perusahaan yang terafiliasi dengan orang-orang dekat presiden maupun kelompok usaha besar di sektor perkebunan kelapa sawit dan kehutanan.",
+    "“Presiden harus menjalankan komitmennya yang menyatakan bahwa akan menindak tegas apa pun perusahaan yang terlibat dalam karhutla."
+   ],
+   "kalimat_walhi": [
+    "Foto REUTERS/Ajeng Dinar Ulfiana\nDesakan tersebut disampaikan setelah WALHI meluncurkan \"Kajian Peta Aktor SIAPA DI BALIK API?",
+    "yang diterbitkan Eksekutif Nasional WALHI pada Rabu, 14 Oktober 2026 di Jakarta."
+   ]
+  },
+  {
+   "judul": "Melacak Cukong Asing di Balik Karhutla Indonesia - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "18 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/melacak-cukong-asing-di-balik-karhutla-indonesia",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Desak Penegakan Hukum Karhutla Sasar Korporasi dan Pejabat Lalai - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "18 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/nusantara/945880/walhi-desak-penegakan-hukum-karhutla-sasar-korporasi-dan-pejabat-lalai",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Umi Ma'rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Dalam Negeri juga memastikan tersedianya alokasi anggaran yang memadai dalam APBD untuk penanganan karhutla.",
+    "Kementerian yang menangani sektor pendidikan bertanggung jawab memastikan kegiatan belajar mengajar tetap berlangsung meskipun berada di wilayah terdampak karhutla.",
+    "Menteri Sosial bertanggung jawab memastikan terselenggaranya pelayanan kesejahteraan sosial bagi masyarakat terdampak.",
+    "Menteri Pertanian juga mewajibkan pengusaha pertanian memiliki peralatan pemadam serta menindak tegas pelaku pembakaran lahan.",
+    "WALHI meminta Polri menelusuri pemilik manfaat (beneficial owner) dan keterlibatan pihak asing dalam kasus karhutla guna memastikan pertanggungjawaban hukum."
+   ],
+   "kalimat_walhi": [
+    "Walhi Desak Penegakan Hukum Karhutla Sasar Korporasi dan Pejabat Lalai\nRahmatul Fajri\n18/10/2026 19:48\nWAHANA Lingkungan Hidup Indonesia (Walhi) menegaskan penegakan hukum kasus kebakaran hutan dan lahan (karhutla) tidak boleh berfokus hany",
+    "Aktivis Walhi, Umi Ma'rufah, menilai penanganan karhutla membutuhkan langkah pengusutan holistik dan objektif guna memberikan efek jera yang nyata."
+   ]
+  },
+  {
+   "judul": "PT Sumatera Alam Anugerah Milik Siapa, Punya Owner Siapa? Ini Profil Perusahaan yang Diduga terkait Kabut Asap Lintas Batas - Suara Merdeka Jogja - Suara Merdeka Jogja",
+   "media": "Suara Merdeka Jogja",
+   "tanggal": "18 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jogja.suaramerdeka.com/nasional/1817778103/pt-sumatera-alam-anugerah-milik-siapa-punya-owner-siapa-ini-profil-perusahaan-yang-diduga-terkait-kabut-asap-lintas-batas?page=2",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tak Cukup Padamkan Api, WALHI Dorong Penelusuran Aktor di Balik Karhutla - Lingkari News",
+   "media": "Lingkari News",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://lingkarinews.id/berita/read/tak-cukup-padamkan-api-walhi-dorong-penelusuran-aktor-di-balik-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 14,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "yang diluncurkan pada Rabu (14/10/2026), Wahana Lingkungan Hidup Indonesia (WALHI) menelusuri perusahaan dengan konsentrasi titik panas tinggi di konsesi perkebunan dan kehutanan sepanjang Januari–Agustus 2026.",
+    "WALHI menganalisis 30 perusahaan, terdiri atas 15 perusahaan perkebunan kelapa sawit dan 15 pemegang Perizinan Berusaha Pemanfaatan Hutan (PBPH)."
+   ]
+  },
+  {
+   "judul": "Ini 15 Perusahaan Sawit dengan Titik Panas Terbanyak Hasil Pemetaan Walhi - BertuahPos",
+   "media": "BertuahPos",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://bertuahpos.com/lingkungan/ini-15-perusahaan-sawit-dengan-titik-panas-terbanyak-hasil-pemetaan-walhi.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "BERTUAHPOS.COM — Sebanyak 15 perusahaan perkebunan sawit pemegang konsesi tercatat memiliki jumlah titik panas (hotspot) terbanyak di Indonesia selama periode 1 Januari hingga 31 Agustus 2026, berdasarkan kajian Wahana Lingkungan Hidup Indo",
+    "Dalam laporan berjudul “Kajian Peta Aktor: Siapa di Balik Api?”, Eksekutif Nasional Walhi menelusuri konsesi perusahaan dengan menggunakan data penginderaan jauh."
+   ]
+  },
+  {
+   "judul": "Denda Karhutla Kalbar Dihitung, Beneficial Owner Perusahaan Ditelusuri - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/metropolis/2610190090/denda-karhutla-kalbar-dihitung-beneficial-owner-perusahaan-ditelusuri",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Lingkungan Hidup dan Kehutanan (DLHK) Kalbar Adi Yani mengatakan, penghitungan kerusakan masih berlangsung.",
+    "Kementerian Kehutanan juga menyatakan penanganan perkara dapat dikembangkan untuk menelusuri pihak yang bertanggung jawab, termasuk kemungkinan keterlibatan pemilik manfaat (beneficial owner)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "98 Korporasi Terlibat Karhutla, Kapolri Sebut Ada Indikasi Pihak Asing - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "ASPERHUPIKI Desak Pengusutan Karhutla hingga Pengambil Keputusan Korporasi - TIMES Indonesia",
+   "media": "TIMES Indonesia",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://timesindonesia.co.id/peristiwa-nasional/613511/asperhupiki-desak-pengusutan-karhutla-hingga-pengambil-keputusan-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut dan Komisi IV Perkuat Penyuluh Kehutanan dan Generasi Pelestari Hutan - Pedomanrakyat.com",
+   "media": "Pedomanrakyat.com",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pedomanrakyat.com/kemenhut-dan-komisi-iv-perkuat-penyuluh-kehutanan-dan-generasi-pelestari-hutan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Melalui Temu Teknis ini, Kementerian Kehutanan menegaskan pentingnya sinergi antara pemerintah, penyuluh kehutanan, masyarakat, dan generasi muda dalam membangun pengelolaan hutan berkelanjutan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Siapa SIh Pemilik PT Hutan Lestari Raya? Disorot Singapura Akibat Isu Karhutla Lintasan Batas - Jawa Pos",
+   "media": "Jawa Pos",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solobalapan.jawapos.com/berita-utama/2610190055/siapa-sih-pemilik-pt-hutan-lestari-raya-disorot-singapura-akibat-isu-karhutla-lintasan-batas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Masih Selimuti Kalimantan, WALHI Desak Tanggung Jawab Korporasi - Yoursay.id",
+   "media": "Yoursay.id",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://yoursay.suara.com/news/2026/10/20/084000/karhutla-masih-selimuti-kalimantan-walhi-desak-tanggung-jawab-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "News\nKarhutla Masih Selimuti Kalimantan, WALHI Desak Tanggung Jawab Korporasi\nBadan Meteorologi, Klimatologi, dan Geofisika (BMKG) masih mendeteksi sebaran asap kebakaran hutan dan lahan (karhutla) di sebagian besar Kalimantan.",
+    "Di tengah kondisi itu, Wahana Lingkungan Hidup Indonesia (WALHI) meluncurkan kajian “Siapa di Balik Api?”"
+   ]
+  },
+  {
+   "judul": "Walhi Desak Penegak Hukum Telusuri Pemilik Manfaat Perusahaan Karhutla - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/946616/walhi-desak-penegak-hukum-telusuri-pemilik-manfaat-perusahaan-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Desakan tersebut merespons pernyataan Kapolri Jenderal Suyudi Ario Seto yang mengungkap adanya dugaan keterlibatan pihak asing dalam perusahaan terkait karhutla yang saat ini masih dalam proses penyidikan."
+   ],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (Walhi) mendesak aparat penegak hukum untuk menelusuri secara serius dugaan keterlibatan pihak asing dalam korporasi yang terindikasi menjadi penyebab kebakaran hutan dan lahan (karhutla) di Indonesia.",
+    "Walhi menekankan bahwa penegakan hukum tidak boleh hanya menyasar pihak di lapangan, tetapi harus menjangkau pengendali utama korporasi."
+   ]
+  },
+  {
+   "judul": "Indonesia kenakan sanksi 32 perusahaan terkait kebakaran hutan - IDNFinancials",
+   "media": "IDNFinancials",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.idnfinancials.com/id/news/70538/indonesia-kenakan-sanksi-32-perusahaan-terkait-kebakaran-hutan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Jenderal Penegakan Hukum Kehutanan, Dwi Januanto Nugroho mengatakan, sebanyak 19 perusahaan mengalami pembekuan izin dan wajib memulihkan ekosistem hutan di lahan terbakar seluas 9.546,42 hektare."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jumlah Hotspot Karhutla Menurun, Kualitas Udara Masih dalam Kategori tidak Sehat- Sangat tidak Sehat - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/946554/jumlah-hotspot-karhutla-menurun-kualitas-udara-masih-dalam-kategori-tidak-sehat--sangat-tidak-sehat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Kepala Biro Hubungan Masyarakat dan Kerja Sama Luar Negeri Kementerian Kehutanan, Ristianto Pribadi, dalam siaran pers pada Selasa (20/10).",
+    "Masyarakat di wilayah dengan kualitas udara buruk diimbau untuk:\nGuna memastikan situasi benar-benar terkendali, Kementerian Kehutanan terus memperkuat operasi pemadaman baik melalui jalur darat maupun udara."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Daftar 32 Perusahaan yang Disanksi Kemenhut Imbas Karhutla - BeritaSatu.com",
+   "media": "BeritaSatu.com",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.beritasatu.com/nusantara/3035152/daftar-32-perusahaan-yang-disanksi-kemenhut-imbas-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Direktur Jenderal Penegakan Hukum Kehutanan Dwi Januanto dikutip dari Antara, Selasa (20/10/2026).",
+    "Kemenhut Telusuri Pihak yang Bertanggung Jawab atas Karhutla\nKemenhut menyatakan penanganan kebakaran hutan tidak berhenti pada kegiatan pemadaman."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tak Cuma Pemadaman, Kemenhut Incar Beneficial Owner dan Tuntut Ganti Rugi Kerusakan Karhutla - Sawit Indonesia",
+   "media": "Sawit Indonesia",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sawitindonesia.com/tak-cuma-pemadaman-kemenhut-incar-beneficial-owner-dan-tuntut-ganti-rugi-kerusakan-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "JAKARTA, SAWIT INDONESIA - Kementerian Kehutanan (Kemenhut) menegaskan bahwa upaya penanggulangan kebakaran hutan dan lahan (Karhutla) di Indonesia dilakukan secara komprehensif.",
+    "Direktur Jenderal Penegakan Hukum Kehutanan Kemenhut, Dwi Januanto Nugroho, menyatakan bahwa penanganan Karhutla tidak boleh berhenti pada tindakan darurat saja, melainkan harus menyentuh akar masalah dan pihak yang paling bertanggung jawab atas kerusakan ekosistem.",
+    "Melalui penerapan hukum multi-instrumen ini, Kementerian Kehutanan berkomitmen untuk memperketat kepatuhan para pemegang izin, memastikan pemulihan lingkungan, serta memberikan efek jera agar Bencana Karhutla tidak terus berulang di masa mendatang."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penegakan Hukum Karhutla Secara Multi Instrumen - Validnews",
+   "media": "Validnews",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://validnews.id/nasional/2026/10/20/penegakan-hukum-karhutla-secara-multi-instrumen-103400333",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenhut Sebut Penegakkan Hukum Tetap Berjalan Bersamaan Penanganan Karhutla - Suara Surabaya",
+   "media": "Suara Surabaya",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suarasurabaya.net/kelanakota/2026/kemenhut-sebut-penegakkan-hukum-tetap-berjalan-bersamaan-penanganan-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Dwi Januanto Nugroho Direktur Jenderal Penegakan Hukum Kehutanan Kemenhut dalam keterangannya di Jakarta, Selasa (20/10/2026), dilansir Antara."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut Perketat Sanksi Karhutla: 32 Perusahaan Disanksi Administrasi, 79 Kasus Masuk Penyidikan - Sawit Indonesia",
+   "media": "Sawit Indonesia",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sawitindonesia.com/kemenhut-perketat-sanksi-karhutla-32-perusahaan-disanksi-administrasi-79-kasus-masuk-penyidikan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "JAKARTA, SAWIT INDONESIA - Kementerian Kehutanan (Kemenhut) melalui Direktorat Jenderal Penegakan Hukum Kehutanan (Ditjen Gakkum) memperketat tindakan tegas terhadap kasus kebakaran hutan dan lahan (Karhutla) di area konsesi.",
+    "Direktur Jenderal Penegakan Hukum Kehutanan, Dwi Januanto Nugroho, menegaskan bahwa penanganan hukum terus dikembangkan untuk mengejar sampai ke tingkat pemilik manfaat (beneficial owner).",
+    "- Langkah tegas Kemenhut bersinergi dengan kebijakan otoritas tetangga seperti Singapore Transboundary Haze Pollution Act 2014 yang menerapkan prinsip Extraterritorial Jurisdiction, guna memutus mata rantai polusi asap lintas negara secara bersama-sama.",
+    "Melalui penerapan sanksi multi-door ini, Kementerian Kehutanan berkomitmen memastikan pemulihan ekosistem hutan yang rusak, mendorong kepatuhan para pemegang konsesi, serta memberikan efek jera agar bencana Karhutla tak kembali berulang."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut Sanksi 32 Perusahaan Terkait Karhutla, Sembilan di Antaranya Beroperasi di Kalbar - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/metropolis/2610200040/kemenhut-sanksi-32-perusahaan-terkait-karhutla-sembilan-di-antaranya-beroperasi-di-kalbar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Direktur Jenderal Penegakan Hukum Kehutanan Dwi Januanto Nugroho melalui siaran persnya, Senin."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran Gunung Lawu Meluas hingga 100 Hektare, Water Bombing Terkendala Cuaca - bataviapos.id",
+   "media": "bataviapos.id",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bataviapos.id/susi-susanti/kebakaran-gunung-lawu-meluas-hingga-100-hektare-water-bombing-terkendala-cuaca/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Bupati Karanganyar Rober Christanto mengatakan, dua helikopter milik Penerbangan Angkatan Darat (Penerbad) dan TNI Angkatan Udara telah dikerahkan untuk membantu pemadaman dari udara.",
+    "Kapolda Jawa Tengah Irjen Pol Roy Hardi Siahaan mengatakan pihaknya berkoordinasi dengan Mabes Polri dan Asisten Operasi Panglima TNI untuk mengupayakan dukungan helikopter Penerbad yang bersiaga di Semarang."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menguji Singapura Dan Taipan Penikmat Keuntungan Karhutla Indonesia Halaman all - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/balda0076752/6ad78ae5ed641517a846213c/menguji-singapura-dan-taipan-penikmat-keuntungan-karhutla-indonesia?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Langkah tegas Bareskrim Polri yang meningkatkan status penyidikan terhadap 98 laporan polisi terkait korporasi karhutla menjadi titik balik penting.",
+    "Ketika Bareskrim Polri di bawah arahan tegas Presiden Prabowo Subianto telah mengantongi bukti material dan menetapkan status hukum korporasi pembakar lahan, Singapura diuji untuk membuktikan komitmen penegakan hukum internasionalnya secara transparan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Korporasi Asing dan Karhutla Indonesia: WALHI Telusuri Jejak Kepemilikan di Balik Konsesi Hutan dan Perkebunan - Hallo Indonesia - Hallo Indonesia",
+   "media": "Hallo Indonesia",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "walhi pemilik manfaat karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://indonesia.hallo.id/nasional/115617792241/korporasi-asing-dan-karhutla-indonesia-walhi-telusuri-jejak-kepemilikan-di-balik-konsesi-hutan-dan-perkebunan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tak Pandang Bulu! Kemenhut Bekukan Enam Perusahaan yang Terlibat Karhutla Kalimantan - Pedomanrakyat.com",
+   "media": "Pedomanrakyat.com",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pedomanrakyat.com/tak-pandang-bulu-kemenhut-bekukan-enam-perusahaan-yang-terlibat-karhutla-kalimantan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Kehutanan Raja Juli Antoni mengatakan, sanksi administratif tersebut disertai kewajiban pemulihan ekosistem hutan.",
+    "kata Raja Juli di Istana Kepresidenan, Jakarta, Rabu (21/10/2026).",
+    "Raja Juli menyebut, saat ini terdapat 120 kasus yang tengah diproses di kementeriannya."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Indonesia: 32 Korporasi Kena Sanksi, Kementerian Kehutanan Proses 125 Subjek Hukum - Hallobisnis.com - Hallo Bisnis",
+   "media": "Hallo Bisnis",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bisnis.hallo.id/nasional/7317792242/karhutla-indonesia-32-korporasi-kena-sanksi-kementerian-kehutanan-proses-125-subjek-hukum",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Prabowo Perintahkan Usut Karhutla dan Cabut Izin Korporasi - Cirebon Times",
+   "media": "Cirebon Times",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cirebontimes.com/prabowo-usut-karhutla-cabut-izin-korporasi",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemerintah Bekukan Izin 6 Perusahaan di Kalimantan Tengah dan Ancam Pidanakan Beneficial Owner - AFU.id",
+   "media": "AFU.id",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://afu.id/nasional/pemerintah-bekukan-izin-6-perusahaan-di-kalimantan-tengah-dan-ancam-pidanakan-beneficial-owner",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "tegas Menhut Raja Juli Antoni di Istana Kepresidenan, Jakarta.",
+    "Direktur Jenderal Penegakan Hukum Kehutanan, Dwi Januanto Nugroho, menegaskan bahwa penegakan hukum tidak hanya akan berhenti pada petugas lapangan atau direksi teknis, melainkan terus dikembangkan untuk menjerat penerima manfaat utama (beneficial owner) di balik kejahatan korpor"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tiga Korporasi PMA Tersangka Karhutla, ISESS: Pengendali Perusahaan Perlu Ditelusuri - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kontan.co.id/news/tiga-korporasi-pma-tersangka-karhutla-isess-pengendali-perusahaan-perlu-ditelusuri",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Diberitakan sebelumnya, Kapolri Jenderal Suyudi Ario Seto menyatakan bahwa Polri tengah menyidik 98 laporan polisi terkait karhutla korporasi.",
+    "ujar Suyudi di Istana Kepresidenan, Jakarta, Senin (19/10/2026).",
+    "ujar Suyudi di Istana Kepresidenan, Jakarta, Rabu (21/10/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla: Kemenhut Kejar Beneficial Owner dan Buka Opsi Tuntutan Ganti Rugi Kerusakan Hutan - Harian Terbit - Harian Terbit",
+   "media": "Harian Terbit",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.harianterbit.com/nasional/27417800931/karhutla-kemenhut-kejar-beneficial-owner-dan-buka-opsi-tuntutan-ganti-rugi-kerusakan-hutan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Bongkar Misteri Saham Mayawana Persada yang Lari ke BVI dan Samoa - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.inilah.com/pemilik-akhir-mayawana-persada-belum-terungkap-walhi-soroti-jejak-kepemilikan-di-luar-negeri",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Polri Tetapkan Tiga Korporasi Asing sebagai Tersangka Karhutla - Cirebon Times",
+   "media": "Cirebon Times",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.cirebontimes.com/polri-korporasi-asing-tersangka-karhutla",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Menkum beri data pemilik manfaat korporasi terlibat karhutla ke APH - Elshinta",
+   "media": "Elshinta",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://elshinta.com/kategori/1/hukum/menkum-beri-data-pemilik-manfaat-korporasi-terlibat-karhutla-ke-aph-182315",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kasus Karhutla, Pemerintah Didesak Ungkap Pemilik Lahan hingga Pengendali Korporasi - SINDOnews Nasional",
+   "media": "SINDOnews Nasional",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.sindonews.com/read/1763711/13/kasus-karhutla-pemerintah-didesak-ungkap-pemilik-lahan-hingga-pengendali-korporasi-1792707033/8",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Supratman Serahkan Data Pemilik Korporasi Tersangka Karhutla - Demokratis.co.id",
+   "media": "Demokratis.co.id",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://demokratis.co.id/supratman-data-korporasi-tersangka-karhutla",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pasti Ada Solusi, Menkum Supratman Nyatakan Siap Dampingi Proses Hukum Karhutla - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/semarang/hukum/hukum/2836041/pasti-ada-solusi-menkum-supratman-nyatakan-siap-dampingi-proses-hukum-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Bank of Singapore Masuk Struktur Saham PT Cemindo Gemilang Tbk, Martua Sitorus Masih Pemilik Manfaat Akhir - Hallo Indonesia - Hallo Indonesia",
+   "media": "Hallo Indonesia",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://indonesia.hallo.id/ekonomi/115617804883/bank-of-singapore-masuk-struktur-saham-pt-cemindo-gemilang-tbk-martua-sitorus-masih-pemilik-manfaat-akhir",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Menkum Serahkan Data Pemilik Manfaat Korporasi Terlibat Karhutla ke APH - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01123023/menkum-serahkan-data-pemilik-manfaat-korporasi-terlibat-karhutla-ke-aph",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penegakan Hukum Karhutla: 32 Perusahaan Disanksi hingga Pemilik Manfaat Ditelusuri - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tribunnews.com/nasional/7901249/penegakan-hukum-karhutla-32-perusahaan-disanksi-hingga-pemilik-manfaat-ditelusuri",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenkum Kalteng ikuti dialog layanan hukum dan penanganan karhutla - ANTARA News Kalteng",
+   "media": "ANTARA News Kalteng",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalteng.antaranews.com/berita/847223/kemenkum-kalteng-ikuti-dialog-layanan-hukum-dan-penanganan-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Kanwil Kemenkum Kalteng, Hajrianor di Palangka Raya, Jumat, mengatakan forum tersebut menjadi ruang bagi masyarakat untuk menyampaikan aspirasi terkait layanan hukum dan persoalan yang berdampak langsung terhadap kehidupan warga.",
+    "Baca juga: Kanwil Kemenkum Kalteng perkuat komitmen pengawalan legislasi daerah\nMenanggapi aspirasi itu, Menteri Hukum mengatakan presiden telah memerintahkan aparat penegak hukum serta kementerian dan lembaga terkait untuk mengambil tindakan tegas terhadap persoalan karhutla.",
+    "“Bapak presiden sudah memerintahkan kepada aparat penegak hukum, kepada kementerian dan lembaga terkait untuk mengambil tindakan yang tegas,”"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Temukan 601 Titik Panas Karhutla di Konsesi Grup Sinar Mas! - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://www.inilah.com/walhi-ungkap-601-titik-panas-di-konsesi-bumi-mekar-hijau-siapa-yang-harus-bertanggung-jawab",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Legalitas PT hingga Karhutla, Aspirasi Masyarakat saat PASTI ADA SOLUSI Episode 22 - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "23 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/palangkaraya/hukum/hukum/2837262/legalitas-pt-hingga-karhutla-aspirasi-masyarakat-saat-pasti-ada-solusi-episode-22",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Berburu Aktor Korporasi di Balik Titik Api Karhutla - law-justice.co",
+   "media": "law-justice.co",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\"",
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.law-justice.co/artikel/212446/berburu-aktor-korporasi-di-balik-titik-api-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 17,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Keberlanjutan dan Lingkungan Hidup Singapura Grace Fu mengatakan, hasil investigasi otoritas negaranya menunjukkan sebagian kabut asap yang menyelimuti Singapura berasal dari kebakaran di lahan tujuh perusahaan di Indonesia.",
+    "Di Kalimantan Selatan, Polda setempat juga memastikan laporan Walhi terkait dugaan keterlibatan korporasi dalam karhutla telah naik ke tahap penyidikan.",
+    "Kapolda Kalimantan Selatan Irjen Pol Rosyanto Yudha Hermawan mengatakan laporan yang disampaikan Walhi Kalimantan Selatan telah memasuki tahap penyidikan.",
+    "Kepala Kepolisian Negara Republik Indonesia (Kapolri) Jenderal Polisi Suyudi Ario Seto menyebut Kepolisian RI (Polri) telah menetapkan tersangka 11 korporasi dan tiga di antaranya merupakan perusahaan dengan penanaman modal asing (PMA).",
+    "kata Kapolri Suyudi kepada wartawan usai Sidang Kabinet Paripurna di Kompleks Istana Kepresidenan, Jakarta, Rabu (21/10/2026).",
+    "Kapolri menyebut pihak yang berpotensi dimintai pertanggungjawaban tidak hanya terbatas pada perusahaan sebagai badan usaha, tetapi juga dapat mencakup pemilik perusahaan maupun pemegang saham yang bertanggung jawab terhadap korporasi terkait."
+   ],
+   "kalimat_walhi": [
+    "Di Indonesia, Walhi menilai penegakan hukum karhutla harus menjangkau pihak yang memiliki tanggung jawab atas pengelolaan konsesi, termasuk kemungkinan kelalaian perusahaan dalam mencegah dan mengendalikan kebakaran.",
+    "Wahana Lingkungan Hidup Indonesia (Walhi) mendesak penegakan hukum menelusuri tanggung jawab perusahaan, jaringan kelompok usaha, hingga pemilik manfaat akhir, bukan hanya pelaku pembakaran di lapangan."
+   ]
+  },
+  {
+   "judul": "Data Pemilik Manfaat Sudah Diserahkan, Siapa Sosok Bos 11 Korporasi Tersangka Karhutla? - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/data-pemilik-manfaat-sudah-diserahkan-siapa-bos-11-korporasi-tersangka-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "13 Korporasi Terseret Kasus Karhutla, DPR Siapkan Panja dan Bongkar Data Pemilik Perusahaan - Aktual.com",
+   "media": "Aktual.com",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://aktual.com/13-korporasi-terseret-kasus-karhutla-dpr-siapkan-panja-dan-bongkar-data-pemilik-perusahaan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Dalam paparannya kepada Presiden Prabowo Subianto, Kapolri menyebut terdapat 22 korporasi yang terafiliasi dengan penanaman modal asing (PMA).",
+    "Ia juga menyebut Presiden terus memberikan perhatian terhadap penanganan karhutla.",
+    "DPR Siapkan Panja, Minta Data Dibuka\nDi parlemen, anggota Komisi IV DPR RI dari Fraksi NasDem, Rajiv, memastikan perkembangan penyelidikan korporasi akan dibawa ke pembahasan Panja Karhutla Komisi IV DPR RI."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kapolri Ungkap Hampir 30 Ribu Hektare Lahan Terbakar dalam Kasus Karhutla Korporasi - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01123063/kapolri-ungkap-hampir-30-ribu-hektare-lahan-terbakar-dalam-kasus-karhutla-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ucap Kapolri."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Skandal Karhutla: 13 Perusahaan Jadi Tersangka, DPR Bakal Gelar Panja, Bawa Data Beneficial Ownership dan Keterlibatan Asing - AFU.id",
+   "media": "AFU.id",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://afu.id/nasional/skandal-karhutla-13-perusahaan-jadi-tersangka-dpr-bakal-gelar-panja-bawa-data-beneficial-ownership-dan-keterlibatan-asing",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "tegas Kapolri di hadapan Presiden Prabowo Subianto.",
+    "Anggota Komisi IV DPR RI dari Fraksi Nasdem, Rajiv, menegaskan bahwa DPR bakal mengawal ketat penanganan pidana korporasi ini melalui pembahasan Panitia Kerja (Panja) Karhutla.",
+    "Pernyataan ini merespons langkah Kementerian Kehutanan yang sebelumnya menjatuhkan sanksi administratif berupa pembekuan dan pencabutan izin usaha terhadap 32 korporasi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Firman Soebagyo Desak Izin 13 Korporasi Tersangka Karhutla Dicabut dan Aset Disita - Batamtoday.com",
+   "media": "Batamtoday.com",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://batamtoday.com/news/firman-soebagyo-desak-izin-13-korporasi-tersangka-karhutla-dicabut-dan-aset-disita",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ia juga menyatakan Komisi IV DPR RI perlu meminta penjelasan dari instansi terkait mengenai perkembangan penanganan kasus tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "13 Korporasi Tersangka Karhutla, Penyidik Didesak Bongkar Siapa Bos Besar di Baliknya! - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/korporasi-tersangka-karhutla-penyidik-diminta-bongkar-siapa-bos-di-baliknya",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Induk Perusahaan Asing Bisa Dijerat Pidana Kasus Karhutla? Ini Syaratnya - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/induk-perusahaan-asing-bisa-dijerat-kasus-karhutla-ini-syaratnya",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemasok APP Sinarmas di Tengah Korporasi Api Biang Asap Singapura - Betahita",
+   "media": "Betahita",
+   "tanggal": "25 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "DPR RI Apresiasi Ketegasan Polri Usut Karhutla - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "25 Oct 2026",
+   "kueri": [
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/semarang/regional/2840052/dpr-ri-apresiasi-ketegasan-polri-usut-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Rilis Riset Siapa di Balik Api?: Petakan Konsentrasi Titik Panas di Konsesi Perkebunan-Kehutanan Korporasi Raksasa - PotretNews.com",
+   "media": "PotretNews.com",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi \"siapa di balik api\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://m.potretnews.com/berita/baca/2026/10/26/bwalhi-rilis-riset-isiapa-di-balik-apii-petakan-konsentrasi-titik-panas-di-konsesi/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Desak Penegakan Hukum Karhutla Sasar Pemilik Manfaat Korporasi - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://nasional.kontan.co.id/news/walhi-desak-penegakan-hukum-karhutla-sasar-pemilik-manfaat-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Umi Ma'rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Desakan ini muncul setelah Kementerian Hukum (Kemenhum) menyatakan telah menyerahkan seluruh data BO korporasi yang dicurigai terlibat dalam karhutla kepada aparat penegak hukum.",
+    "Ia menyebut langkah tersebut dilakukan di tengah perhatian Presiden terhadap penanganan bencana karhutla.",
+    "ujar Supratman dalam dialog publik yang disiarkan melalui akun YouTube Kemenkum, Jumat (23/10/2026)."
+   ],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (Walhi) mendesak aparat penegak hukum mengusut hingga ke pemilik manfaat atau beneficial ownership (BO) korporasi yang diduga terlibat dalam kebakaran hutan dan lahan (karhutla).",
+    "Baca Juga: CORE Minta Pemerintah Evaluasi Insentif Fiskal Rp 576,4 Triliun\nPengkampanye Hutan dan Kebun Walhi Umi Ma'rufah mengatakan, penyerahan data tersebut perlu dikawal agar penindakan hukum dapat menyasar pihak yang memperoleh manfaat"
+   ]
+  },
+  {
+   "judul": "Walhi Perkirakan Emisi Karhutla Capai 31–239 Juta Ton CO2 Ekuivalen - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi pemilik manfaat karhutla",
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/948848/walhi-perkirakan-emisi-karhutla-capai-31239-juta-ton-co2-ekuivalen",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "WALHI meminta Polri menelusuri pemilik manfaat (beneficial owner) dan keterlibatan pihak asing dalam kasus karhutla guna memastikan pertanggungjawaban hukum."
+   ],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (Walhi) memperkirakan emisi akibat kebakaran hutan dan lahan (karhutla) pada 2026 mencapai 31 juta hingga 239 juta ton CO2 ekuivalen.",
+    "Pengampanye sekaligus tim kajian Eksekutif Nasional Walhi Wahyu Eka Setiawan mengatakan, estimasi tersebut disusun berdasarkan perhitungan yang mempertimbangkan luas perizinan Perizinan Berusaha Pemanfaatan Hutan (PBPH) dan luasan hutan yan"
+   ]
+  },
+  {
+   "judul": "Kemlu Dorong Optimalisasi Kerja Sama ASEAN untuk Tangani Dampak Karhutla - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kontan.co.id/news/kemlu-dorong-optimalisasi-kerja-sama-asean-untuk-tangani-dampak-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Juru Bicara Kemlu RI Yvonne Mewengkang mengatakan, Indonesia terus meningkatkan koordinasi dan dialog konstruktif dengan negara-negara tetangga untuk menangani dampak karhutla."
+   ],
+   "kalimat_walhi": [
+    "Baca Juga: Walhi Desak Penegakan Hukum Karhutla Sasar Pemilik Manfaat Korporasi\nSementara itu, pemerintah Indonesia masih berfokus pada penanganan karhutla di lapangan dengan mengoptimalkan kapasitas dan sumber daya nasional yang tersedia."
+   ]
+  },
+  {
+   "judul": "AHY Minta Pelaku Kebakaran Hutan dan Lahan Ditindak Tegas - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01123219/ahy-minta-pelaku-kebakaran-hutan-dan-lahan-ditindak-tegas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ntvnews.id, Jakarta - Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan, Agus Harimurti Yudhoyono (AHY), menegaskan pentingnya penegakan hukum secara tanpa kompromi terhadap pihak-pihak yang bertanggung jawab atas kebakaran hutan dan lahan (karhutla)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "DPO: Greenpeace sebut Pemerintah Abaikan Godzilla El Nino, Nol Mitigasi untuk Risiko Karhutla - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01123223/dpo-greenpeace-sebut-pemerintah-abaikan-godzilla-el-nino-nol-mitigasi-untuk-risiko-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ntvnews.id, Jakarta - Kepala Kampanye Global Hutan Indonesia Greenpeace Kiki Taufik mengatakan pemerintah atau 4 kementerian telah mengabaikan potensi kebakaran yang terjadi di Indonesia.",
+    "DPO: Greenpeace sebut Denda Perusak Hutan Rp18,9 Triliun, Hanya Rp78 Miliar yang Dibayar\nMenurut Kiki seharusnya dengan informasi dari ahli meteorologi dan BMKG, Kementerian Kehutanan, Kementerian Lingkungan Hidup, Kementerian Pertanian, dan Kementerian ATR/BPN sigap mengambil la"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "13 Korporasi Tersangka Karhutla, Komisi IV DPR Desak Pencabutan Izin dan Penyitaan Aset - Aktual.com",
+   "media": "Aktual.com",
+   "tanggal": "27 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://aktual.com/13-korporasi-tersangka-karhutla-komisi-iv-dpr-desak-pencabutan-izin-dan-penyitaan-aset/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Firman menyebut Komisi IV DPR RI perlu meminta penjelasan instansi terkait mengenai perkembangan penyidikan dan langkah pemerintah dalam menangani perkara tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Firman Soebagyo Apresiasi Polri Tetapkan 13 Korporasi Jadi Tersangka Karhutla, Segera Usut Tuntas - Suara Pemerintah",
+   "media": "Suara Pemerintah",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://suarapemerintah.id/2026/10/firman-soebagyo-apresiasi-polri-tetapkan-13-korporasi-jadi-tersangka-karhutla-segera-usut-tuntas/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenhut Telusuri Pertanggungjawaban Karhutla hingga Pemilik Manfaat Korporasi - Kementerian Kehutanan",
+   "media": "Kementerian Kehutanan",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla",
+    "beneficial ownership karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kehutanan.go.id/news/kemenhut-telusuri-pertanggungjawaban-karhutla-hingga-pemilik-manfaat-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Kehutanan menegaskan penanganan kebakaran hutan dan lahan (karhutla) tidak berhenti pada pemadaman dan sanksi administratif, tetapi terus menelusuri pihak yang bertanggung jawab hingga penerima manfaat atau beneficial owner.",
+    "ujar Direktur Jenderal Penegakan Hukum Kehutanan Kemenhut, Dwi Januanto Nugroho.",
+    "Kemenhut menegaskan setiap perkara ditangani berdasarkan fakta, alat bukti, serta perkembangan proses hukum masing-masing."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Polri Tetapkan 20 Korporasi Tersangka Karhutla di Indonesia - Cirebon Times",
+   "media": "Cirebon Times",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "pemilik manfaat korporasi karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cirebontimes.com/polri-tetapkan-20-korporasi-tersangka-karhutla",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  }
+ ]
+}

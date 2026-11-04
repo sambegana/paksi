@@ -1,0 +1,376 @@
+{
+ "id": "R16",
+ "tanggal": "2026-09-24",
+ "rentang": [
+  "2026-09-23",
+  "2026-10-09"
+ ],
+ "kueri": [
+  "walhi \"tambak pantura\"",
+  "walhi \"revitalisasi tambak\"",
+  "\"revitalisasi tambak\" pantura",
+  "walhi petambak",
+  "KOMPI tambak",
+  "KIARA \"revitalisasi tambak\"",
+  "nelayan KKP tolak PSN tambak"
+ ],
+ "jejaring": [
+  "KOMPI",
+  "Jatayu",
+  "KIARA",
+  "Maleh Dadi Segoro"
+ ],
+ "jumlah_berita": 16,
+ "berita": [
+  {
+   "judul": "Koalisi Minta PSN Revitalisasi Tambak Pantura Dihentikan - Betahita",
+   "media": "Betahita",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura",
+    "walhi petambak",
+    "KOMPI tambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12446/koalisi-minta-psn-revitalisasi-tambak-pantura-dihentikan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Teo Reffelsen",
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [
+    "KOMPI"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Kamis, 01 Oktober 2026\nBETAHITA.ID - Walhi mendesak pemerintah hentikan PSN Revitalisasi Tambak Pantura.",
+    "Koalisi Masyarakat Pesisir Indramayu (Kompi) dan Wahana Lingkungan Hidup Indonesia (Walhi) menilai persoalan utama PSN Revitalisasi Tambak Pantura adalah perubahan penguasaan ruang dan kendali atas sistem pangan pesisir."
+   ]
+  },
+  {
+   "judul": "Ratusan Nelayan Datangi Kementerian Kelautan Tolak PSN Tambak - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "03 Oct 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura",
+    "walhi petambak",
+    "KOMPI tambak",
+    "nelayan KKP tolak PSN tambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/10/03/ratusan-nelayan-datangi-kementerian-kelautan-tolak-psn-tambak/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 14,
+   "penutur_walhi": [
+    "Teo Reffelsen",
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [
+    "KOMPI",
+    "Jatayu"
+   ],
+   "kalimat_pemerintah": [
+    "- KKP menyebut revitalisasi bertujuan meningkatkan produktivitas dan kesejahteraan pembudidaya, tetapi warga menuntut proyek dibatalkan.",
+    "Mida Saragih, Manajer Kampanye Pesisir dan Laut Walhi Eksekutif Nasional, mengatakan, sebagai kementerian yang bertanggung jawab terhadap kelautan dan perikanan, seharusnya KKP melindungi masyarakat pesisir, sebagaimana amanat Undang-undang.",
+    "“KKP seharusnya bisa memastikan hak masyarakat pesisir bisa terlindungi serta melibatkan mereka secara bermakna dalam setiap pengambilan keputusan yang menyangkut wilayah kelolanya,”",
+    "Fariz Abiyyu Putra W, Staff Pengelolaan Sumber Daya Walhi Jabar mengatakan, klaim KKP yang menyebut bahwa lokasi proyek merupakan kosong tidak menggambarkan kondisi lapangan.",
+    "Selain itu, KKP perlu memastikan keterbukaan informasi, perlindungan tambak rakyat dan ekosistem mangrove, serta pengawasan terhadap potensi pencemaran, abrasi, dan perubahan lingkungan."
+   ],
+   "kalimat_walhi": [
+    "- Warga dan Walhi mempersoalkan dampak ekologis serta transparansi proyek.",
+    "Meski perwakilan warga dan Walhi menyampaikan penolakan dalam sidang AMDAL pada April 2026, SKKLH proyek tetap terbit pada 18 Juni 2026."
+   ]
+  },
+  {
+   "judul": "Revitalisasi Tambak Pantura Dinilai Ancam Ruang Hidup Masyarakat Pesisir - Validnews",
+   "media": "Validnews",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura",
+    "KOMPI tambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://validnews.id/nasional/2026/09/24/revitalisasi-tambak-pantura-dinilai-ancam-ruang-hidup-masyarakat-pesisir-195600802",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Desak KKP Batalkan PSN Revitalisasi Tambak Pantura Jawa Barat - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura",
+    "KOMPI tambak",
+    "nelayan KKP tolak PSN tambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/937210/walhi-desak-kkp-batalkan-psn-revitalisasi-tambak-pantura-jawa-barat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 17,
+   "penutur_walhi": [
+    "Teo Reffelsen",
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [
+    "KOMPI",
+    "Jatayu"
+   ],
+   "kalimat_pemerintah": [
+    "Direktur WALHI Jawa Barat Wahyudin mengatakan KKP harus bertanggung jawab terhadap persoalan sosial dan ekologis yang muncul dari proyek tersebut.",
+    "Manajer Kampanye Pesisir dan Laut WALHI Eksekutif Nasional Mida Saragih mengatakan KKP semestinya memastikan perlindungan terhadap masyarakat pesisir dan hak mereka dalam mengelola wilayah penghidupan.",
+    "WALHI menyebut, KKP membentuk Tim Lahan Revitalisasi Tambak Pantura Jawa melalui Keputusan Menteri Kelautan dan Perikanan Nomor 3 Tahun 2025 pada 24 Februari 2025.",
+    "WALHI juga menyebut Menteri Kehutanan memiliki kewenangan mencabut penetapan KHKP apabila kewajiban tersebut tidak dipenuhi."
+   ],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (WALHI) bersama Koalisi Masyarakat Pesisir Indramayu (KOMPI) dan Jaringan Tanpa Asap Batu Bara Indramayu (JATAYU) mendesak Kementerian Kelautan dan Perikanan (KKP) membatalkan Program Strategis Nasional (PS",
+    "Desakan itu disampaikan saat WALHI, KOMPI, dan JATAYU mendatangi KKP, Kamis (24/9)."
+   ]
+  },
+  {
+   "judul": "Revitalisasi Tambak Pantura Jadi Upaya Dorong Ekonomi Masyarakat Pesisir - JPNN.com",
+   "media": "JPNN.com",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.jpnn.com/news/revitalisasi-tambak-pantura-jadi-upaya-dorong-ekonomi-masyarakat-pesisir",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Setiawan, mengkritik sikap Wahana Lingkungan Hidup Indonesia (WALHI) yang menolak program revitalisasi tambak Pantai Utara Jawa (Pantura), khususnya di Kabupaten Indramayu."
+   ]
+  },
+  {
+   "judul": "Revitalisasi Tambak Pantura, Aktivis: Penguatan Ekonomi Masyarakat Pesisir - SINDOnews Daerah",
+   "media": "SINDOnews Daerah",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura",
+    "nelayan KKP tolak PSN tambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://daerah.sindonews.com/read/1753235/174/revitalisasi-tambak-pantura-aktivis-penguatan-ekonomi-masyarakat-pesisir-1790240944",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "A\n            A\n            A\n        \n            JAKARTA - Sikap Wahana Lingkungan Hidup Indonesia (Walhi) yang menolak program revitalisasi tambak Pantai Utara Jawa atau Pantura, khususnya di Kabupaten Indramayu, Jawa Barat mendapat resp"
+   ]
+  },
+  {
+   "judul": "WALHI Diimbau Tak Provokasi Rakyat soal Revitalisasi Tambak Pantura - jurnas.com",
+   "media": "jurnas.com",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura",
+    "walhi petambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.jurnas.com/news/1666026/walhi-diimbau-tak-provokasi-rakyat-soal-revitalisasi-tambak-pantura/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Setiawan, mengkritik sikap Wahana Lingkungan Hidup Indonesia (WALHI) yang menolak program revitalisasi tambak Pantai Utara Jawa (Pantura), khususnya di Kabupaten Indramayu.",
+    "“WALHI jangan memprovokasi rakyat dengan bertameng lingkungan."
+   ]
+  },
+  {
+   "judul": "Revitalisasi Tambak Pantura Perkuat Ketahanan Pangan dan Ekonomi Pesisir - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/937201/revitalisasi-tambak-pantura-perkuat-ketahanan-pangan-dan-ekonomi-pesisir",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Aktivis lingkungan Yogyakarta yang juga alumni Mapala Universitas Muhammadiyah Yogyakarta (UMY) Iwan 'Terpal' Setiawan, mengkritik sikap Wahana Lingkungan Hidup Indonesia (Walhi) yang menolak sejumlah proyek pembangunan di kawasan Pantura.",
+    "Walhi sendiri dalam pernyataan publiknya pada 11 September 2026 mendesak penghentian rencana Giant Sea Wall Segmen 3.3 di Teluk Jakarta dan Bekasi."
+   ]
+  },
+  {
+   "judul": "Masyarakat Pesisir Indramayu Tolak Revitalisasi Tambak - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura",
+    "walhi petambak",
+    "KOMPI tambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/masyarakat-pesisir-indramayu-tolak-revitalisasi-tambak",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Warga Pesisir Tolak PSN Tambak karena Ancam Lahan Produktif - Tempo.co",
+   "media": "Tempo.co",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"revitalisasi tambak\"",
+    "KOMPI tambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.tempo.co/foto/arsip/warga-pesisir-tolak-psn-tambak-karena-ancam-lahan-produktif-2290388",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Aktivis Lingkungan: Revitalisasi Tambak Pantura Perlu Dilihat Secara Objektif - RM.ID",
+   "media": "RM.ID",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rm.id/baca-berita/nasional/327527/aktivis-lingkungan-revitalisasi-tambak-pantura-perlu-dilihat-secara-objektif",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Aktivis Minta Penolakan Revitalisasi Tambak Pantura Dilihat Secara Objektif - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tribunnews.com/regional/7887478/aktivis-minta-penolakan-revitalisasi-tambak-pantura-dilihat-secara-objektif",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Aktivis Ingatkan WALHI Jangan Provokasi Rakyat dengan Tameng Isu Lingkungan - Rmol.id",
+   "media": "Rmol.id",
+   "tanggal": "25 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://rmol.id/nusantara/read/2026/09/25/722961/aktivis-ingatkan-walhi-jangan-provokasi-rakyat-dengan-tameng-isu-lingkungan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "PSN Revitalisasi Tambak di Pesisir Jabar Diminta Disetop - Betahita",
+   "media": "Betahita",
+   "tanggal": "26 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura",
+    "walhi petambak",
+    "nelayan KKP tolak PSN tambak"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12421/psn-revitalisasi-tambak-di-pesisir-jabar-diminta-disetop",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Teo Reffelsen"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Penolakan tersebut disuarakan oleh Walhi Jawa Barat, Walhi Nasional, serta Koalisi Masyarakat Pesisir Indramayu dan Jaringan Tanpa Asap Batu Bara Indramayu.",
+    "kata Direktur Eksekutif Walhi Jawa Barat Wahyudin di Jakarta, 24 September 2026."
+   ]
+  },
+  {
+   "judul": "Ada Potensi Ekonomi Rp20 Triliun di Balik Revitalisasi Tambak Berkelanjutan oleh Pemerintah - PELAKITA.ID",
+   "media": "PELAKITA.ID",
+   "tanggal": "27 Sep 2026",
+   "kueri": [
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pelakita.id/2026/09/27/ada-potensi-ekonomi-rp20-triliun-di-balik-revitalisasi-tambak-berkelanjutan-oleh-pemerintah/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menjawab tantangan tersebut, Kementerian Kelautan dan Perikanan (KKP) meluncurkan program prioritas Revitalisasi Tambak Pantura Jawa untuk periode 2025–2028."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Walhi Didemo Koalisi Pendukung Revitalisasi Tambak Pantura Jawa - Iconomics",
+   "media": "Iconomics",
+   "tanggal": "28 Sep 2026",
+   "kueri": [
+    "walhi \"tambak pantura\"",
+    "walhi \"revitalisasi tambak\"",
+    "\"revitalisasi tambak\" pantura"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.theiconomics.com/change-management/walhi-didemo-koalisi-pendukung-revitalisasi-tambak-pantura-jawa/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 13,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Didemo Koalisi Pendukung Revitalisasi Tambak Pantura Jawa\nPuluhan massa yang tergabung dalam Koalisi Pemuda Anti Antek Asing (KOPAAAS) mendesak Wahana Lingkungan Hidup Indonesia (WALHI) dibubarkan.",
+    "Koordinator aksi KOPAAAS, Afrudin mengatakan pihaknya mempertanyakan sikap WALHI yang dinilai menolak sejumlah program pemerintah, termasuk program revitalisasi tambak di wilayah Pantai Utara (Pantura) Jawa."
+   ]
+  }
+ ]
+}

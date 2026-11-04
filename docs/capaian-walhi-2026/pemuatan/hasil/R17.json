@@ -1,0 +1,579 @@
+{
+ "id": "R17",
+ "tanggal": "2026-09-06",
+ "rentang": [
+  "2026-09-05",
+  "2026-09-21"
+ ],
+ "kueri": [
+  "walhi karhutla HGU ATR",
+  "walhi \"reforma agraria\" karhutla",
+  "ATR/BPN HGU terbakar karhutla",
+  "cabut HGU karhutla Nusron",
+  "KPA karhutla HGU"
+ ],
+ "jejaring": [
+  "KPA",
+  "Konsorsium Pembaruan Agraria"
+ ],
+ "jumlah_berita": 27,
+ "berita": [
+  {
+   "judul": "Tindak Tegas Korporasi Penyebab Karhutla di Area Konsesi - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi karhutla HGU ATR",
+    "walhi \"reforma agraria\" karhutla",
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/tindak-tegas-korporasi-penyebab-karhutla-di-area-konsesi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Boy juga meminta Presiden memastikan Menteri ATR/BPN mengevaluasi secara menyeluruh terhadap HGU yang berada di wilayah rawan kebakaran, terutama pada ekosistem gambut.",
+    "Menteri Koordinator Bidang Politik dan Keamanan Djamari Chaniago menyatakan, pemerintah berusaha menegakkan aturan terkait penanganan karhutla sesuai peraturan perundangan yang berlaku."
+   ],
+   "kalimat_walhi": [
+    "Menyikapi kondisi ini, Wahana Lingkungan Hidup Indonesia (Walhi) mendesak pemerintah segera mengevaluasi hak guna usaha (HGU) yang bermasalah.",
+    "Direktur Eksekutif Walhi Nasional Boy Jerry Even Sembiring menyampaikan, pemerintah memiliki kewenangan untuk memastikan hak atas tanah yang diberikan kepada badan usaha tidak digunakan dengan mengabaikan kewajiban pemegang hak."
+   ]
+  },
+  {
+   "judul": "Firm Action Against Corporations Causing Forest and Land Fires in Concession Areas - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi karhutla HGU ATR"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/take-firm-action-against-corporations-that-cause-forest-and-land-fires-in-concession-areas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "In response to this situation, the Indonesian Forum for the Environment (Walhi) urges the government to promptly evaluate problematic Business Use Rights (HGU).",
+    "The Executive Director of Walhi Nasional, Boy Jerry Even Sembiring, stated that the government has the authority to ensure that land rights granted to business entities are not used in disregard of the obligations of the rights holders."
+   ]
+  },
+  {
+   "judul": "4.671 Titik Panas Kepung Areal HGU, WALHI Soroti Lemahnya Pengawasan Negara terhadap Korporasi - CatatanRiau.com",
+   "media": "CatatanRiau.com",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi karhutla HGU ATR",
+    "walhi \"reforma agraria\" karhutla",
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://catatanriau.com/news/detail/32840/4671-titik-panas-kepung-areal-hgu-walhi-soroti-lemahnya-pengawasan-negara-terhadap-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 12,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "“Kementerian ATR/BPN memiliki kewenangan untuk memastikan bahwa hak atas tanah yang diberikan kepada badan usaha tidak digunakan dengan mengabaikan kewajiban pemegang hak,”",
+    "Ia menilai sampai saat ini belum terlihat langkah tegas Menteri ATR/BPN dalam mengevaluasi HGU perusahaan yang berkaitan dengan persoalan karhutla.",
+    "WALHI bahkan mendorong Presiden memastikan Menteri ATR/BPN melakukan evaluasi terhadap HGU yang berada di wilayah rawan karhutla, khususnya yang berada pada kawasan ekosistem gambut."
+   ],
+   "kalimat_walhi": [
+    "JAKARTA,CATATAN RIAU.COM,:— Wahana Lingkungan Hidup Indonesia (WALHI) menyoroti temuan ribuan titik panas yang berada di dalam areal Hak Guna Usaha (HGU) perusahaan sepanjang Agustus 2026.",
+    "WALHI menilai kondisi tersebut menjadi cermin serius lemahnya pengawasan negara terhadap korporasi pemegang HGU, terutama perusahaan yang berulang kali berada di wilayah kebakaran hutan dan lahan (karhutla)."
+   ]
+  },
+  {
+   "judul": "Mencegah Celah Pasal yang Merugikan dalam RUU Reforma Agraria - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi \"reforma agraria\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/mencegah-celah-pasal-yang-merugikan-dalam-ruu-reforma-agraria",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "KPA",
+    "Konsorsium Pembaruan Agraria"
+   ],
+   "kalimat_pemerintah": [
+    "DPR justru berjanji menyusun RUU Reforma Agraria.",
+    "Ketua Baleg DPR dari Fraksi Partai Gerindra Bob Hasan mengatakan, reforma agraria berlandaskan Pasal 33 Undang-Undang Dasar 1945, yang mengatur bahwa bumi dan air dikuasai oleh negara demi kemakmuran rakyat."
+   ],
+   "kalimat_walhi": [
+    "Mereka adalah Ketua Badan Legislasi DPR Bob Hasan; anggota Komisi II DPR, Muhammad Khozin; Kepala Departemen Keorganisasian Walhi Tubagus Soleh Ahmadi; dan Engkos Kosasih dari Serikat Tani Karawang (Sepetak).",
+    "Kepala Departemen Keorganisasian Wahana Lingkungan Hidup Indonesia (Walhi) Tubagus Soleh Ahmadi menilai, Reforma Agraria pada dasarnya tidak mengancam ekologi, termasuk hutan."
+   ]
+  },
+  {
+   "judul": "Ribuan Titik Panas Mengepung Area Korporasi, Walhi Tuntut Pencabutan Izin HGU Pembakar Lahan - GoRiau.com",
+   "media": "GoRiau.com",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi \"reforma agraria\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.goriau.com/berita/baca/ribuan-titik-panas-mengepung-area-korporasi-walhi-tuntut-pencabutan-izin-hgu-pembakar-lahan.html",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Menteri Nusron Peringatkan Pengusaha: Kebakaran Lahan Dapat Batalkan HGU - ATR/BPN",
+   "media": "ATR/BPN",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.atrbpn.go.id/berita/menteri-nusron-peringatkan-pengusaha-kebakaran-lahan-dapat-batalkan-hgu",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jakarta - Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional (ATR/BPN), Nusron Wahid, menegaskan bahwa tindakan pembukaan lahan dengan cara pembakaran bisa menyebabkan pengusaha kehilangan Hak Guna Usaha (HGU)-nya.",
+    "ujar Menteri Nusron di hadapan ratusan pengusaha pemegang HGU yang hadir dalam Rakor.",
+    "Menteri Nusron menjelaskan, berdasarkan ketentuan tersebut, HGU akan dihentikan sebelum jangka waktunya berakhir apabila pengelolaan usaha secara tidak bertanggung jawab membuka atau mengolah lahan dengan cara membakar."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menteri ATR/BPN: HGU Perusahaan Bisa Dibatalkan Jika Lahan Dibakar - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/nasional/2609070117/menteri-atrbpn-hgu-perusahaan-bisa-dibatalkan-jika-lahan-dibakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "PONTIANAK POST – Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional (ATR/BPN) Nusron Wahid menegaskan, pembukaan atau pengolahan lahan dengan cara membakar dapat berujung pada pembatalan Hak Guna Usaha (HGU)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menko Polkam Ingatkan HGU-PBPH Bertanggung Jawab Cegah Karhutla - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/nasional/2712911/menko-polkam-ingatkan-hgu-pbph-bertanggung-jawab-cegah-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tujuh HGU Kaltara Terindikasi Karhutla - Radar Tarakan",
+   "media": "Radar Tarakan",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radartarakan.jawapos.com/kaltara/2609070017/tujuh-hgu-kaltara-terindikasi-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri ATR/Kepala BPN Nusron Wahid mengatakan, temuan itu diperoleh melalui overlay atau tumpang susun data hotspot SiPongi+ dengan data pendaftaran tanah.",
+    "Kementerian ATR/BPN juga memastikan kewajiban pencegahan kebakaran oleh pemegang HGU dipantau.",
+    "Nusron menyebut langkah tersebut harus mengacu pada Peraturan Menteri ATR/Kepala BPN Nomor 15 Tahun 2016 tentang tata cara pelepasan atau pembatalan HGU pada lahan terbakar,”"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo minta korporasi terlibat karhutla diproses hukum - Antara News jatim",
+   "media": "Antara News jatim",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "cabut HGU karhutla Nusron"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jatim.antaranews.com/berita/1096597/prabowo-minta-korporasi-terlibat-karhutla-diproses-hukum",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Minta Daftar Korporasi Dalang Karhutla: Kalau Perlu Kita Cabut Semua Izinnya - InvestorTrust",
+   "media": "InvestorTrust",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "cabut HGU karhutla Nusron"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://investortrust.id/national/115468/prabowo-minta-daftar-korporasi-dalang-karhutla-kalau-perlu-kita-cabut-semua-izinnya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Bahkan, Kapolri menyatakan terdapat 42 perusahaan yang saat ini telah mendapatkan sanksi administratif berupa pembekuan atau pencabutan izin.",
+    "Merespons laporan itu, Presiden Prabowo meminta Kapolri terus menyelidiki dugaan kesengajaan dalam pembakaran lahan, termasuk kemungkinan keterlibatan masyarakat maupun korporasi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Dapat Laporan Lahan Karhutla Jadi Kebun Sawit, Prabowo: Cabut Izin Usahanya! - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "cabut HGU karhutla Nusron"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/dapat-laporan-lahan-karhutla-jadi-kebun-sawit-prabowo-cabut-izin-usahanya",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Prabowo Ingin Tahu Pemilik Korporasi yang Terlibat Karhutla - InvestorTrust",
+   "media": "InvestorTrust",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "cabut HGU karhutla Nusron"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Menteri ATR/BPN: HGU Bisa Dibatalkan Jika Pengusaha Buka Lahan dengan Membakar - nomorsatukaltim.disway.id - Nomor Satu Kaltim",
+   "media": "Nomor Satu Kaltim",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "walhi karhutla HGU ATR",
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://nomorsatukaltim.disway.id/politik/read/79513/menteri-atrbpn-hgu-bisa-dibatalkan-jika-pengusaha-buka-lahan-dengan-membakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri ATR/BPN: HGU Bisa Dibatalkan Jika Pengusaha Buka Lahan dengan Membakar\nMenteri ATR/BPN, Nusron Wahid menegaskan HGU perusahaan bisa dibatalkan jika terbukti membuka lahan dengan cara membakar.-(Foto/ Dok.",
+    "Disway.id)-\nJAKARTA, NOMORSATUKALTIM - Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional (ATR/BPN), Nusron Wahid menegaskan pemerintah dapat membatalkan Hak Guna Usaha (HGU) perusahaan apabila terbukti membuka atau mengolah lahan dengan cara membakar."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Records 6,902 Karhutla Hotspots, Almost 50 Percent in Corporate Areas - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "walhi karhutla HGU ATR"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/en/news/593223",
+   "teks_terbaca": true,
+   "walhi_di_isi": 17,
+   "penutur_walhi": [
+    "Dana Prima Tarigan",
+    "Umi Ma'rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "The Indonesian Environmental Agency (WALHI) recorded 6,902 hotspots or hotspots from August 25-31, 2026.",
+    "This condition, according to WALHI, also caused the Air Pollutant Standard Index (ISPU) in West Kalimantan and Central Kalimantan to be in the unhealthy to dangerous category for the past week."
+   ]
+  },
+  {
+   "judul": "Menteri ATR Ancam Cabut HGU Pengusaha yang Bakar Hutan Demi Buka Lahan - Bisnis.com - Ekonomi",
+   "media": "Bisnis.com - Ekonomi",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "ATR/BPN HGU terbakar karhutla",
+    "cabut HGU karhutla Nusron"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ekonomi.bisnis.com/read/20260908/47/2002311/menteri-atr-ancam-cabut-hgu-pengusaha-yang-bakar-hutan-demi-buka-lahan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla Meluas, Menteri Nusron Ancam Cabut HGU Perusahaan Pembakar Lahan - Aktual.com",
+   "media": "Aktual.com",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "ATR/BPN HGU terbakar karhutla",
+    "cabut HGU karhutla Nusron"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://aktual.com/karhutla-meluas-menteri-nusron-ancam-cabut-hgu-perusahaan-pembakar-lahan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jakarta, Aktual.com – Di tengah meluasnya kebakaran hutan dan lahan (karhutla) di berbagai daerah, Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional (ATR/BPN) Nusron Wahid menegaskan perusahaan yang membuka atau mengolah lahan dengan cara membakar dapat kehilangan H",
+    "Nusron mengatakan ketentuan mengenai pembatalan HGU pada lahan terbakar diatur dalam Peraturan Menteri ATR/Kepala BPN Nomor 15 Tahun 2016."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menteri ATRBPN Ingatkan Pengusaha: Lahan Terbakar, HGU Bisa Dicabut » - dialeksis.com",
+   "media": "dialeksis.com",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://dialeksis.com/pemerintahan/menteri-atrbpn-ingatkan-pengusaha-lahan-terbakar-hgu-bisa-dicabut/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "DIALEKSIS.COM | Jakarta - Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional (ATR/BPN) Nusron Wahid menegaskan, pengusaha pemegang Hak Guna Usaha (HGU) dapat kehilangan haknya jika lahan yang dikelola terbakar akibat pengelolaan yang tidak bertanggung jawab."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Buru Korporasi Karhutla: Ancam Cabut Izin hingga HGU, Telusuri Pemilik Perusahaan - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "cabut HGU karhutla Nusron"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/metropolis/2609080009/prabowo-buru-korporasi-karhutla-ancam-cabut-izin-hingga-hgu-telusuri-pemilik-perusahaan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Prabowo dalam rapat terbatas penanganan bencana melalui konferensi video dari Istana Merdeka, Senin (7/9)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Banyak Titik Panas di HGU, Walhi: Pemiliknya Harus Dihukum - Betahita",
+   "media": "Betahita",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "walhi karhutla HGU ATR",
+    "walhi \"reforma agraria\" karhutla",
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.betahita.id/berita/12329/banyak-titik-panas-di-hgu-walhi-pemiliknya-harus-dihukum",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Walhi menjelaskan, Peraturan Menteri ATR/BPN Nomor 15 Tahun 2016 tentang Tata Cara Pelepasan atau Pembatalan HGU atau Hak Pakai (HP) pada Lahan yang Terbakar, khususnya Pasal 4 dan Pasal 5, telah secara tegas mengamanatkan kepada Menteri ATR/BPN untuk mengevaluasi dan mencabut HG",
+    "Menurut Boy Jerry Even Sembiring, Direktur Eksekutif Walhi Nasional, Kementerian ATR/BPN memiliki kewenangan untuk memastikan bahwa hak atas tanah yang diberikan kepada badan usaha tidak digunakan dengan mengabaikan kewajiban pemegang hak.",
+    "Boy juga mengatakan bahwa Presiden harus memastikan Menteri ATR/BPN melakukan evaluasi menyeluruh terhadap HGU yang berada di wilayah rawan kebakaran, khususnya pada ekosistem gambut, dan mencabut HGU yang terbukti mengabaikan kewajiban perlindungan lingkungan."
+   ],
+   "kalimat_walhi": [
+    "Berita\nBanyak Titik Panas di HGU, Walhi: Pemiliknya Harus Dihukum\nDari total 23.307 titik api yang diidentifikasi dari Januari-Agustus 2026, 5.540 titik di antaranya berada di dalam areal HGU.",
+    "Wahana Lingkungan Hidup Indonesia (Walhi) menilai Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) gagal menjalankan kewenangannya apabila HGU yang bermasalah, melanggar ketentuan, dan berulang kali menjadi lokasi karh"
+   ]
+  },
+  {
+   "judul": "Nusron Wahid: Perusahaan Bisa Kehilangan HGU Jika Lahannya Terbakar - Satumedia.id",
+   "media": "Satumedia.id",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "ATR/BPN HGU terbakar karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.satumedia.id/news/31932/nusron-wahid-perusahaan-bisa-kehilangan-hgu-jika-lahannya-terbakar/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional (ATR/BPN) Nusron Wahid menegaskan, HGU perusahaan dapat dibatalkan sebelum masa berlakunya berakhir.",
+    "Ia menjelaskan, ketentuan tersebut telah diatur dalam Peraturan Menteri ATR/Kepala BPN Nomor 15 Tahun 2016."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "372 Perusahaan Terduga Karhutla Dilaporkan ke 3 Kementerian - Betahita",
+   "media": "Betahita",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi karhutla HGU ATR"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12369/372-perusahaan-terduga-karhutla-dilaporkan-ke-3-kementerian",
+   "teks_terbaca": true,
+   "walhi_di_isi": 22,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring",
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Dalam laporannya kepada sejumlah kementerian/lembaga pemerintah itu, Walhi menjelaskan, karhutla yang kembali terjadi di berbagai wilayah Indonesia tidak dapat semata-mata dipandang sebagai persoalan cuaca, musim kemarau, ataupun fenomena alam.",
+    "\"Laporan ini kami sampaikan sekaligus sebagai tindak lanjut atas pesan dan komitmen Bapak Presiden untuk menindak tegas para pelaku karhutla, termasuk korporasi yang terbukti bertanggung jawab,\"",
+    "Walhi memandang bahwa komitmen Presiden Prabowo tersebut perlu diwujudkan dalam langkah konkret dengan memastikan perusahaan yang wilayah konsesinya mengalami kebakaran diperiksa dan dimintai pertanggungjawaban apabila ditemukan unsur kelalaian maupun pelanggaran.",
+    "Walhi menjelaskan, sumber data yang digunakan dalam analisis data perusahaan terindikasi karhutla tersebut mengacu pada Peta Batas Administrasi (Batnas) 2024, titik hotspot Sipongi Kementerian Kehutanan 2026, peta HGU/perizinan sektor perkebunan Global Forest Watch, dan peta PBPH",
+    "Yang kedua, Walhi meminta Presiden Prabowo mendorong penegakan hukum secara tegas dan transparan terhadap korporasi yang terbukti melakukan pelanggaran atau lalai dalam mencegah dan menangani karhutla.",
+    "Gakkum Kemenhut tangani 31 kasus karhutla\nTerpisah, Kepala Biro Humas dan Kerja Sama Luar Negeri, Kementerian Kehutanan (Kemenhut), Ristianto Pribadi, mengatakan Kemenhut menghargai perhatian dan kontribusi Walhi dalam pengendalian karhutla."
+   ],
+   "kalimat_walhi": [
+    "Rabu, 16 September 2026\nBETAHITA.ID - Sebanyak 372 entitas perusahaan diduga terlibat dalam kasus kebakaran hutan dan lahan (karhutla) yang terjadi di 8 provinsi di Indonesia, menurut hasil analisis Wahana Lingkungan Hidup Indonesia (Walhi)",
+    "Walhi mendesak pemerintah agar segera melakukan tindakan tegas terhadap perusahaan-perusahaan itu."
+   ]
+  },
+  {
+   "judul": "ISPA di Kalimantan Tembus 165 Ribu Kasus, WALHI Soroti Pembagian Masker Pemerintah yang Tak Sesuai Standar - Akurat.co",
+   "media": "Akurat.co",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi \"reforma agraria\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://akurat.co/daerah/891009/ispa-di-kalimantan-tembus-165-ribu-kasus-walhi-soroti-pembagian-masker-pemerintah-yang-tak-sesuai-standar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "ISPA di Kalimantan Tembus 165 Ribu Kasus, WALHI Soroti Pembagian Masker Pemerintah yang Tak Sesuai Standar\nAKURAT.CO Kebakaran hutan dan lahan (karhutla) yang melanda sejumlah wilayah di Kalimantan turut memicu peningkatan kasus Infeksi Sal",
+    "Di tengah kondisi tersebut, Wahana Lingkungan Hidup Indonesia (WALHI) menilai penanganan dampak kesehatan bagi masyarakat masih belum optimal."
+   ]
+  },
+  {
+   "judul": "OTT di Kementerian ATR/BPN, KPA: Bongkar Praktik Mafia Tanah - Betahita",
+   "media": "Betahita",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "KPA karhutla HGU"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12371/ott-di-kementerian-atr-bpn-kpa-bongkar-praktik-mafia-tanah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "KPA",
+    "Konsorsium Pembaruan Agraria"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Arara Abadi �Dan RAPP Juara Karhutla Di Riau, Walhi Layangkan �Laporan Lengkap Ke Presiden Prabowo - BeritaRiau.com",
+   "media": "BeritaRiau.com",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "walhi karhutla HGU ATR"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.beritariau.com/berita-53235-arara-abadi-dan-rapp-juara-karhutla-di-riau-walhi-layangkan-laporan-lengkap-ke-presiden-prabowo.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 24,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara Kementerian Lingkungan Hidup/BPLH diminta menggunakan instrumen penegakan hukum lingkungan, termasuk sanksi administratif, penghentian kegiatan, pembekuan atau pencabutan persetujuan lingkungan, serta memastikan pemulihan lingkungan dan pembayaran kerugian ekologis apab",
+    "\"Kami menyatakan siap memberikan data dan informasi tambahan yang diperlukan kementerian/lembaga untuk mendukung proses verifikasi dan penanganan laporan tersebut,\""
+   ],
+   "kalimat_walhi": [
+    "Lingkungan\nArara Abadi ’┐ĮDan RAPP Juara Karhutla Di Riau, Walhi Layangkan ’┐ĮLaporan Lengkap Ke Presiden Prabowo\nPekanbaru — Wahana Lingkungan Hidup Indonesia (WALHI) melaporkan 372 perusahaan dimana 47 berada di Provinsi Riau yang wilayah",
+    "Atas data tersebut, Walhi meminta pemerintah melakukan verifikasi, investigasi, dan penegakan hukum terhadap perusahaan yang terbukti lalai atau melanggar ketentuan terkait pencegahan dan penanganan karhutla."
+   ]
+  },
+  {
+   "judul": "Walhi dan Masyarakat Akar Rumput Tagih Mandat Reforma Agraria ke DPR - Hukumonline",
+   "media": "Hukumonline",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "walhi \"reforma agraria\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.hukumonline.com/berita/a/walhi-dan-masyarakat-akar-rumput-tagih-mandat-reforma-agraria-ke-dpr-lt6ab15e25ad0a0/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring",
+    "Dana Prima Tarigan"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) bersama masyarakat akar rumput dari berbagai daerah berbondong-bondong melakukan aksi long march dari Gedung TVRI di Senayan hingga ke depan Gedung DPR RI pada Senin (21/9).",
+    "Kepala Departemen Komunikasi Strategis dan Jaringan WALHI Nasional, Dana Prima Tarigan, menyampaikan bahwa Hari Keadilan Ekologis diperingati WALHI setiap tanggal 20 September."
+   ]
+  },
+  {
+   "judul": "Eksklusif, Direktur Eksekutif WALHI Boy Jerry Even Sembiring: Antisipasi Atasi Kebakaran Hutan Lemah - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "walhi \"reforma agraria\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/interviu/594967/eksklusif-direktur-eksekutif-walhi-boy-jerry-even-sembiring-antisipasi-atasi-kebakaran-hutan-lemah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Mestinya, kata Direktur Eksekutif Wahana Lingkungan Hidup Indonesia (WALHI) Boy Jerry Even Sembiring keadaan ini diupayakan langkah pencegahannya.",
+    "***\nBahkan dalam sebuah pernyataannya WALHI menilai untuk tahun 2026 ini pemerintah telah gagal mengatasi kebakaran hutan alias karhutla yang tersebar di sejumlah wilayah seantero Indonesia."
+   ]
+  }
+ ]
+}

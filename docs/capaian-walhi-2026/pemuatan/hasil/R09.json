@@ -1,0 +1,1493 @@
+{
+ "id": "R09",
+ "tanggal": "2026-08-30",
+ "rentang": [
+  "2026-08-29",
+  "2026-09-14"
+ ],
+ "kueri": [
+  "walhi karhutla \"kesehatan gratis\"",
+  "walhi ISPA korban asap",
+  "korban asap \"kesehatan gratis\" karhutla",
+  "ISPA asap Kalimantan evakuasi",
+  "Musdalifah Jamal asap"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 88,
+ "berita": [
+  {
+   "judul": "Karhutla Meluas di Kalimantan Tengah, Pemerintah Tetapkan Status Darurat - SuaraGarut.ID",
+   "media": "SuaraGarut.ID",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "walhi karhutla \"kesehatan gratis\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://suaragarut.id/karhutla-kalteng-status-darurat",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Orang utan lemas karena asap karhutla di Kalimantan - BBC",
+   "media": "BBC",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/cn74g4zklmyo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Komisi IX DPR Minta KLB Kabut Asap Ditetapkan di Wilayah Terdampak Karhutla - detikNews",
+   "media": "detikNews",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.detik.com/berita/d-8642771/komisi-ix-dpr-minta-klb-kabut-asap-ditetapkan-di-wilayah-terdampak-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Antisipasi Lonjakan ISPA, DPR Desak Pemerintah Tetapkan KLB di Wilayah Terdampak Kabut Asap - Aktual.com",
+   "media": "Aktual.com",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://aktual.com/antisipasi-lonjakan-ispa-dpr-desak-pemerintah-tetapkan-klb-di-wilayah-terdampak-kabut-asap/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Ketua Komisi IX DPR RI Yahya Zaini mengatakan peningkatan kasus ISPA di sejumlah daerah harus dipandang sebagai kondisi kedaruratan kesehatan akibat paparan, bukan sekadar meningkatnya jumlah pasien yang mendatangi fasilitas kesehatan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Wakil Ketua Komisi IX DPR RI Dorong Penetapan KLB di Daerah Terdampak Karhutla, Antisipasi Lonjakan ISPA - Fraksi Partai Golkar",
+   "media": "Fraksi Partai Golkar",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://fraksigolkar.com/read/2537/wakil-ketua-komisi-ix-dpr-ri-dorong-penetapan-klb-di-daerah-terdampak-karhutla-antisipasi-lonjakan-ispa",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Ketua Komisi IX DPR RI Yahya Zaini mengatakan, lonjakan kasus ISPA di sejumlah wilayah tidak seharusnya hanya dipandang sebagai meningkatnya jumlah pasien yang datang ke fasilitas kesehatan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Soroti Kasus ISPA, Komisi IX Dorong Penetapan KLB di Wilayah Paling Terdampak - kumparan.com - kumparan",
+   "media": "kumparan",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kumparan.com/kumparannews/soroti-kasus-ispa-komisi-ix-dorong-penetapan-klb-di-wilayah-paling-terdampak-2866SVs7zJh",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Dinkes Kalsel Catat 3.990 Kasus ISPA, Banjarmasin Tertinggi - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Dinkes Balikpapan imbau gunakan masker saat beraktivitas di luar ruangan - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+   "media": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltim.antaranews.com/berita/266091/dinkes-balikpapan-imbau-gunakan-masker-saat-beraktivitas-di-luar-ruangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Kepala Dinas Kesehatan Kota Balikpapan Alwiati di Balikpapan, Selasa."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Dinkes Kalsel catat penderita ISPA mencapai 3.990 orang - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://m.antaranews.com/berita/5719933/dinkes-kalsel-catat-penderita-ispa-mencapai-3990-orang",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Kesehatan Provinsi Kalimantan Selatan, Diauddin, mengatakan dari jumlah tersebut, sebanyak 3.506 kasus berasal dari Puskesmas dan 484 kasus dilaporkan oleh Rumah Sakit."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Udara Tana Tidung Dipenuhi Asap, Bupati Imbau Warga Waspada ISPA - Headlinews.id",
+   "media": "Headlinews.id",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://headlinews.id/udara-tana-tidung-dipenuhi-asap-bupati-imbau-warga-waspada-ispa-2/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Dampak Karhutla di 7 Provinsi, Kemenkes Ungkap 3 Juta Warga Terpapar Asap, Kasus ISPA Meroket - Kaltim Post",
+   "media": "Kaltim Post",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltimpost.jawapos.com/nasional/2609010093/dampak-karhutla-di-7-provinsi-kemenkes-ungkap-3-juta-warga-terpapar-asap-kasus-ispa-meroket",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPA Meningkat, DPR Desak Pemerintah Tetapkan KLB Kabut Asap di Daerah Terdampak - Monitor Indonesia",
+   "media": "Monitor Indonesia",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://monitorindonesia.com/nasional/read/2026/09/633718/ispa-meningkat-dpr-desak-pemerintah-tetapkan-klb-kabut-asap-di-daerah-terdampak",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenkes Kirim Ratusan Ribu Masker ke Wilayah Karhutla Kalimantan - BeritaSatu.com",
+   "media": "BeritaSatu.com",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.beritasatu.com/multimedia/3023491/kemenkes-kirim-ratusan-ribu-masker-ke-wilayah-karhutla-kalimantan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Kesehatan Budi Gunadi Sadikin mengatakan, distribusi masker dan oksigen menjadi bagian dari kesiapsiagaan pemerintah dalam melindungi masyarakat di daerah terdampak kabut asap karhutla.",
+    "Langkah Kemenkes ini dilakukan seiring meningkatnya penanganan karhutla di Kalimantan, dengan fokus pada pencegahan dampak kesehatan dan memastikan kebutuhan medis masyarakat tetap tersedia selama kondisi kabut asap."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kementerian Kesehatan Catat 50.891 Kasus ISPA Akibat Karhutla di Kalimantan - pdiperjuanganbali.id",
+   "media": "pdiperjuanganbali.id",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.pdiperjuanganbali.id/kementerian-kesehatan-catatan-ispa-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI : Operasi Modifikasi Cuaca Tak Efektif Padamkan Kahutla 2026, Justru Korporasi Bisa Lepas Tangan - Desk Jabar",
+   "media": "Desk Jabar",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi karhutla \"kesehatan gratis\"",
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://deskjabar.pikiran-rakyat.com/nasional/pr-11310427040/walhi-operasi-modifikasi-cuaca-tak-efektif-padamkan-kahutla-2026-justru-korporasi-bisa-lepas-tangan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kasus ISPA di Kukar Tembus 9.075 Orang, Kabut Asap Jadi Pemicu - PusaranMedia.com",
+   "media": "PusaranMedia.com",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pusaranmedia.com/read/51788/kasus-ispa-di-kukar-tembus-9-075-orang-kabut-asap-jadi-pemicu",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ismi mengatakan hasil pengukuran Dinas Lingkungan Hidup dan Kehutanan (DLHK) di sejumlah titik padat aktivitas menunjukkan adanya peningkatan angka polutan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenkes: Karhutla Beri Dampak Serius Bagi Kesehatan - Validnews",
+   "media": "Validnews",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://validnews.id/nasional/2026/09/02/kemenkes-karhutla-beri-dampak-serius-bagi-kesehatan-092200352",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "5 Kebakaran Hutan Terbesar di Indonesia, Jutaan Hektare Lahan Hangus - Medcom.id",
+   "media": "Medcom.id",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.medcom.id/nasional/peristiwa/nbw5WnBK-5-kebakaran-hutan-terbesar-di-indonesia-jutaan-hektare-lahan-hangus",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Cegah Dampak Kabut Asap Karhutla, BUMN Pertamina Sanggau Bagikan 2.000 Masker Gratis - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Hadapi Ancaman Kabut Asap, Bandara SMB II Siapkan Skenario hingga Refund Tiket - rmolsumsel.id",
+   "media": "rmolsumsel.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.rmolsumsel.id/hadapi-ancaman-kabut-asap-bandara-smb-ii-siapkan-skenario-hingga-refund-tiket",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Terpapar Kabut Asap, Warga Banjarbaru Kalsel Mulai Datangi Posko Kesehatan, Keluhkan Gangguan Pernapasan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/064017178/terpapar-kabut-asap-warga-banjarbaru-kalsel-mulai-datangi-posko-kesehatan?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "22 Ribu Masker untuk Masyarakat, Ikhtiar BPM Kalbar Lindungi Warga dari Kabut Asap - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/metropolis/2609030115/22-ribu-masker-untuk-masyarakat-ikhtiar-bpm-kalbar-lindungi-warga-dari-kabut-asap",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Atasi Dampak Udara Kabut Asap, Polsek Ngabang Bagikan Masker Gratis kepada Pengguna Jalan - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/landak/2609030087/atasi-dampak-udara-kabut-asap-polsek-ngabang-bagikan-masker-gratis-kepada-pengguna-jalan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Mewakili Kapolres Landak AKBP Devi Ariantari, Wakapolsek Ngabang Iptu Rinto menjelaskan bahwa aksi sosial tersebut merupakan bagian dari pelayanan dan wujud kepedulian Polri terhadap kondisi kesehatan publik."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Nestapa Warga Kalimantan Hirup Racun Asap Kebakaran Hutan dan Gambut - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/09/03/nestapa-warga-kalimantan-hirup-racun-asap-kebakaran-hutan-dan-gambut/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Hendry Hanafi, Asisten Bidang Intelejen (Asintel) Kejaksaan Kalimantan Tengah yang hadir pada pemakaman itu mengatakan, karhutla berdampak terhadap masyarakat bukan hanya sisi kesehatan, juga keselamatan jiwa.",
+    "Menurut informasi kejaksaan dari kronologi dari media, sebelumnya Ahmad terlibat langsung dalam pemadaman api di Rambang walau dia belum dapat memastikan penyebab kematiannya.",
+    "Agus Jamaludin, Kepala Pusat Krisis Kesehatan Kemenkes, mengatakan, telah mengerahkan 314 tenaga medis/tenaga kesehatan dan mendistribusikan ratusan ribu bantuan logistik kesehatan ke wilayah terdampak.",
+    "Datuk Seri Anwar Ibrahim, Perdana Menteri Malaysia, mengatakan, masalah itu termasuk di antara hal-hal yang mereka bahas dengan Sultan Brunei Sultan Hassanal Bolkiah.",
+    "Suharyanto, Kepala Badan Nasional Penanggulangan Bencana (BNPB) mengatakan, peningkatan aktivitas terpengaruh minimnya curah hujan alami yang terjadi.",
+    "Presiden Prabowo Subianto, dalam kunjungan di Kabupaten Kubu Raya, Kalimantan Barat, 22 Agustus lalu, mengatakan, pemerintah memprioritaskan langkah mitigasi untuk menghentikan perluasan kebakaran sekaligus mencegah munculnya titik-titik api baru."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Berau perkuat kesiapsiagaan sektor kesehatan dampak asap karhutla - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+   "media": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltim.antaranews.com/berita/266261/berau-perkuat-kesiapsiagaan-sektor-kesehatan-dampak-asap-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Wakil Bupati Berau, Gamalis, saat meninjau Puskesmas Kampung Bugis dan Puskesmas Tanjung Redeb, Kamis."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah harus perkuat perlindungan layanan dasar - ANTARA News Kalsel",
+   "media": "ANTARA News Kalsel",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalsel.antaranews.com/berita/533460/pemerintah-harus-perkuat-perlindungan-layanan-dasar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Firman Yusi, anggota Komisi II DPRD Kalsel dalam keterangan persnya, Kamis."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Wakil Bupati Kotim Irawati meninjau Pemeriksaan Kesehatan Gratis dan Distribusi Air Bersih - Berita Seputar Borneo",
+   "media": "Berita Seputar Borneo",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.seputarborneo.com/news/25630-wakil-bupati-kotim-irawati-meninjau-pemeriksaan-kesehatan-gratis-dan-distribusi-air-bersih.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kabut Asap Kalimantan Ganggu Layanan GraPARI, Telkomsel Bagikan Masker dan Siapkan Pemurni Udara - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/metropolis/2609040111/kabut-asap-kalimantan-ganggu-layanan-grapari-telkomsel-bagikan-masker-dan-siapkan-pemurni-udara",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Orangutan Sempurna Mati akibat Asap Kebakaran Hutan di Kalimantan - AFU.id",
+   "media": "AFU.id",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://afu.id/humaniora/orangutan-sempurna-mati-akibat-asap-kebakaran-hutan-di-kalimantan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tragedi Kematian Orangutan Sempurna: Tak Hanya Manusia, Satwa Pun Jadi Korban Karhutla - AFU.id",
+   "media": "AFU.id",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://afu.id/nasional/tragedi-kematian-orangutan-sempurna-tak-hanya-manusia-satwa-pun-jadi-korban-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Anggota DPR RI daerah pemilihan Kalimantan Timur, Hetifah Sjaifudian, menegaskan bahwa pola penanganan bencana karhutla di Indonesia harus diubah secara mendasar."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Orang Utan Sempurna Mati Akibat Asap Karhutla, DPR Desak Kemenhut Bertindak Tegas - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://voi.id/berita/592635/orang-utan-sempurna-mati-akibat-asap-karhutla-dpr-desak-kemenhut-bertindak-tegas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ia mendesak Kementerian Kehutanan (Kemenhut) segera mengambil tindakan tegas atas peristiwa karhutla yang semakin meluas."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Komunitas di Palangka Raya Buka Posko Kesehatan Gratis dan Edukasi Cegah Karhutla - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/palangkaraya/berita-lain/2707929/komunitas-di-palangka-raya-buka-posko-kesehatan-gratis-dan-edukasi-cegah-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kabut asap karhutla, kasus ISPA di Samarinda naik 22,8 persen - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+   "media": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kaltim.antaranews.com/berita/266408/kabut-asap-karhutla-kasus-ispa-di-samarinda-naik-228-persen",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ismid menegaskan penanganan situasi saat ini berada pada tahap kewaspadaan dini dan terus dikonsultasikan dengan Satgas Karhutla di bawah koordinasi Sekretaris Daerah Kota Samarinda."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap Kebakaran Hutan Kalimantan Buat 21 Orangutan Jatuh Sakit - Liputan6.com",
+   "media": "Liputan6.com",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.liputan6.com/news/read/8285384/asap-kebakaran-hutan-kalimantan-buat-21-orangutan-jatuh-sakit",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPA: Karhutla Makin tak Terkendali, Bantuan Internasional Sangat Mendesak untuk Didatangkan - AFU.id",
+   "media": "AFU.id",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "walhi ISPA korban asap"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://afu.id/nasional/ispa-karhutla-makin-tak-terkendali-bantuan-internasional-sangat-mendesak-untuk-didatangkan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Krisis ekologis dan kemanusiaan ini ditegaskan oleh koalisi Inisiatif Solidaritas Publik Anti Asap Karhutla (ISPA), yang terdiri dari Trend Asia, Greenpeace, Auriga, YLBHI, WALHI Kalteng, WALHI Kalbar, WALHI Kalsel, LBH Samarinda, serta Wal"
+   ]
+  },
+  {
+   "judul": "Karhutla 2026 Meluas, Koalisi Sipil Soroti Dampak ke Ekonomi dan Industri - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "walhi ISPA korban asap"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kontan.co.id/news/karhutla-2026-meluas-koalisi-sipil-soroti-dampak-ke-ekonomi-dan-industri",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "ISPA merupakan koalisi yang terdiri dari Trend Asia, Greenpeace, Auriga, YLBHI, Walhi Kalteng, Walhi Kalbar, Walhi Kalsel, LBH Samarinda, serta Pembina Hukum Lingkungan Indonesia."
+   ]
+  },
+  {
+   "judul": "Bencana Karhutla Kalbar Hanguskan 38 Ribu Hektare dan Tewaskan Satwa - www.suaralandak.co.id",
+   "media": "www.suaralandak.co.id",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suaralandak.co.id/bencana-karhutla-kalbar-hanguskan-puluhan-ribu-hektare",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menu\nKategori\nNews\nEntertainment\nTekno & Sains\nBisnis\nOtomotif\nFood & Travel\nBola & Sports\nPendidikan\nGaya Hidup\nTips Trik & Tutorial\nHalaman\nHubungi Kami\nRSS\nSuaralandak.co.id\nPortal Berita Online\nHubungi Kami\nRSS\nNews\nEntertainment\nTekno & Sains\nBisnis\nOtomotif\nFood & Travel\nBo"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Habitat Terbakar, Induk dan Anak Orangutan di Ketapang Dievakuasi - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/pontianak/regional/2710342/habitat-terbakar-induk-dan-anak-orangutan-di-ketapang-dievakuasi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kualitas Udara Kalimantan Tengah dan Barat Capai Level Berbahaya - pdiperjuanganbali.id",
+   "media": "pdiperjuanganbali.id",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.pdiperjuanganbali.id/kualitas-udara-kalimantan-level-berbahaya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Plt Kepala Pusat Data, Informasi, dan Komunikasi Kebencanaan BNPB, Berton SP Panjaitan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "ISPA Serukan Permintaan Bantuan Darurat Internasional untuk Korban Asap dan Pemadaman Karhutla - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi ISPA korban asap"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://prohealth.id/ispa-serukan-permintaan-bantuan-darurat-internasional-untuk-korban-asap-dan-pemadaman-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "ISPA terdiri dari Trend Asia, Greenpeace, Auriga, YLBHI, Walhi Kalteng, Walhi Kalbar, Walhi Kalsel, LBH Samarinda, dan Pembina Hukum Lingkungan Indonesia."
+   ]
+  },
+  {
+   "judul": "Seruan Bantuan Darurat Internasional untuk Korban Asap dan Pemadaman Kebakaran Hutan dan Lahan Gambut di Indonesia - YLBHI",
+   "media": "YLBHI",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi ISPA korban asap"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://ylbhi.or.id/informasi/siaran-pers/seruan-bantuan-darurat-internasional-untuk-korban-asap-dan-pemadaman-kebakaran-hutan-dan-lahan-gambut-di-indonesia/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Hormat kami,\nINISIATIF SOLIDARITAS PUBLIK ANTI ASAP KARHUTLA (ISPA)\n[TREND ASIA, GREENPEACE, AURIGA, YLBHI, WALHI KALTENG, WALHI KALBAR, WALHI KALSEL, LBH SAMARINDA, PEMBINA HUKUM LINGKUNGAN INDONESIA]\nURGENT ACTION\nINTERNATIONAL EMERGENCY "
+   ]
+  },
+  {
+   "judul": "Dampak Kabut Asap Karhutla, NasDem Sumsel Buka Klinik ISPA Gratis - beritapagi.co.id",
+   "media": "beritapagi.co.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://beritapagi.co.id/2026/09/07/dampak-kabut-asap-karhutla-nasdem-sumsel-buka-klinik-ispa-gratis/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Di Tengah Kabut Asap Akibat Karhutla, Brimob Polda Jambi Bawa Semangat dan Perhatian ke Sekolah Rakyat - https://jambiindependent.disway.id/ - Jambi Independent",
+   "media": "Jambi Independent",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambiindependent.disway.id/metronews/read/717003/di-tengah-kabut-asap-akibat-karhutla-brimob-polda-jambi-bawa-semangat-dan-perhatian-ke-sekolah-rakyat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Dampak Karhutla, Kasus ISPA di Penajam Paser Utara Melonjak 35,93 Persen - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Napas Orangutan di Tengah Kepungan Asap Hutan Kalimantan - Liputan6.com",
+   "media": "Liputan6.com",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.liputan6.com/news/read/8285982/napas-orangutan-di-tengah-kepungan-asap-hutan-kalimantan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Napas Orangutan Terjepit Asap Karhutla Kalimantan: Ancaman Senyap di Hutan - Klik Aktual - Klik Aktual",
+   "media": "Klik Aktual",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.klikaktual.com/news/6617603553/napas-orangutan-terjepit-asap-karhutla-kalimantan-ancaman-senyap-di-hutan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Di Tengah Kabut Asap Karhutla, Brimob Polda Jambi Beri Motivasi serta Perhatian Kesehatan Pelajar Sekolah Rakyat - Tribratanews Polda Metro Jaya",
+   "media": "Tribratanews Polda Metro Jaya",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tribratanews.metro.polri.go.id/di-tengah-kabut-asap-karhutla-brimob-polda-jambi-beri-motivasi-serta-perhatian-kesehatan-pelajar-sekolah-rakyat/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Erlan Munaji mengatakan, kegiatan tersebut merupakan bentuk kepedulian Polri terhadap pendidikan sekaligus kesehatan generasi muda.",
+    "Melalui kegiatan tersebut, Polda Jambi menegaskan komitmennya untuk terus hadir memberikan pelayanan dan kepedulian kepada masyarakat, khususnya generasi muda.",
+    "Di tengah tantangan karhutla dan kabut asap, Polri mengajak seluruh pihak untuk bersama-sama menjaga kesehatan, lingkungan, kedisiplinan serta memastikan proses pendidikan anak-anak tetap berjalan dengan baik."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "NasDem Dirikan Posko Kesehatan Gratis Khusus ISPA di Palembang - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/play/koGCaxMM-nasdem-dirikan-posko-kesehatan-gratis-khusus-ispa-di-palembang",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "297 Titik Karhutla Terpantau di Palembang, 253 Hektare Lahan Terbakar - rmolsumsel.id",
+   "media": "rmolsumsel.id",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.rmolsumsel.id/297-titik-karhutla-terpantau-di-palembang-253-hektare-lahan-terbakar",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Rutan Rantau periksa kesehatan 301 petugas dan WBP - ANTARA News Kalsel",
+   "media": "ANTARA News Kalsel",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalsel.antaranews.com/berita/534152/rutan-rantau-periksa-kesehatan-301-petugas-dan-wbp",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla dan Erupsi Gunung Api Pemicu Risiko ISPA, Gamal Albinsaid Desak Respons Kesehatan Lebih Cepat - Fraksi PKS",
+   "media": "Fraksi PKS",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://fraksi.pks.id/2026/09/08/karhutla-dan-erupsi-gunung-api-pemicu-risiko-ispa-gamal-albinsaid-desak-respons-kesehatan-lebih-cepat/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Anak-anak Tersiksa Asap Karhutla Kalimantan Selatan - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/09/08/anak-anak-tersiksa-asap-karhutla-kalimantan-selatan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Janji Jumhur\nSaat meninjau penanganan karhutla di Banjarbaru, 24 Agustus, Jumhur Hidayat, Menteri Lingkungan Hidup (LH) mengatakan, pemerintah tengah upaya penegakan hukum terhadap pihak yang berkontribusi terhadap karhutla."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kabut Asap di Kalbar: Bukan Sekadar Masalah Musiman, Tapi Ancaman Kesehatan Berulang - Inside Pontianak",
+   "media": "Inside Pontianak",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://insidepontianak.com/pontianak/43996/kabut-asap-di-kalbar-bukan-sekadar-masalah-musiman-tapi-ancaman-kesehatan-berulang",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kemenkes pada 26 Agustus 2026 menyatakan bahwa Rumah Oksigen telah disiagakan di berbagai titik."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Meluas, Korporasi dan Negara Didesak Bertanggung Jawab - JARING.id",
+   "media": "JARING.id",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "walhi ISPA korban asap"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://jaring.id/karhutla-meluas-korporasi-dan-negara-didesak-bertanggung-jawab/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pemerintah mengklaim telah mengerahkan lebih dari 10 ribu personel gabungan yang terdiri atas Tentara Nasional Indonesia, Polri, ASN, Masyarakat Peduli Api, universitas, dan relawan dari berbagai komunitas.",
+    "kata Juru Bicara Auriga Nusantara di hari yang sama."
+   ],
+   "kalimat_walhi": [
+    "Direktur Wahana Lingkungan Hidup Indonesia (Walhi) Kalimantan Tengah, Janang Firman sempat menghela napas saat menceritakan ketebalan kabut asap yang menebal di Bumi Tambun Bungai dalam keterangan pers bertajuk Malapetaka Karhutla dan Ketia",
+    "Walhi mencatat sebanyak 72.431 kasus infeksi saluran pernapasan akut (ISPA) pada minggu ketiga sejak kebakaran hutan dan lahan (karhutla) terjadi pada Agustus 2026."
+   ]
+  },
+  {
+   "judul": "Solidaritas Antiasap Serukan Bantuan Internasional - Betahita",
+   "media": "Betahita",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "walhi ISPA korban asap"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12330/solidaritas-antiasap-serukan-bantuan-internasional",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Selain YLBHI, aliansi ini juga terdiri dari Trend Asia, Greenpeace Indonesia, Walhi Kalteng, Walhi Kalbar, Walhi Kalsel, LBH Samarinda, Pembina Hukum Lingkungan Indonesia, dan Auriga Nusantara."
+   ]
+  },
+  {
+   "judul": "Cegah Dampak Kabut Asap Karhutla, Petugas dan Relawan Bagikan Masker di Tayan Hulu - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/sanggau/2609090112/cegah-dampak-kabut-asap-karhutla-petugas-dan-relawan-bagikan-masker-di-tayan-hulu",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Kalbar, 19 Organisasi Bersatu Salurkan Masker dan Bantuan Medis bagi Warga serta Relawan - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/metropolis/2609090071/karhutla-kalbar-19-organisasi-bersatu-salurkan-masker-dan-bantuan-medis-bagi-warga-serta-relawan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Kecamatan Panyabungan Timur Bagikan Masker Massal Lindungi Warga dari Asap Kiriman Karhutla - Madina Pos",
+   "media": "Madina Pos",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://madinapos.com/pemerintah-kecamatan-panyabungan-timur-bagikan-masker-massal-lindungi-warga-dari-asap-kiriman-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Malapetaka Asap Karhutla dan Ketiadaan Kepemimpinan Prabowo - Greenpeace",
+   "media": "Greenpeace",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.greenpeace.org/indonesia/siaran-pers/67786/malapetaka-asap-karhutla-dan-ketiadaan-kepemimpinan-prabowo/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "ujar Janang Firman Palanungkai dari WALHI Kalimantan Tengah.",
+    "Narahubung:\nYLBHI, Auriga Nusantara, Greenpeace Indonesia, Trend Asia, WALHI Kalimantan Tengah, PHLI, CISDI"
+   ]
+  },
+  {
+   "judul": "Ketika IKN Tak Luput dari Kepungan Karhutla - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/09/09/ketika-ikn-tak-luput-dari-kepungan-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Meluas: Negara Abai, Korporasi Berlindung di Balik Kelalaian - Herald.ID",
+   "media": "Herald.ID",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "walhi karhutla \"kesehatan gratis\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://herald.id/2026/09/11/karhutla-meluas-negara-abai-korporasi-berlindung-di-balik-kelalaian/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Invertigasi lapangan berulang kali membuktikan bahwa mayoritas titik api bermula pada aktivitas pembukaan lahan secara ilegal dan wilayah-wilayah tersebut adalah milik para korporasi (Walhi.or.id, 25/8/2026).",
+    "Walhi Kalimantan Selatan menemukan 907 titik panas berada di wilayah konsesi pertambangan dan perkebunan sawit sepanjang 1 Mei hingga 22 Juli 2026."
+   ]
+  },
+  {
+   "judul": "WALHI Berharap Kunjungan Pejabat Pusat di Tengah Karhutla dan Kabut Asap Kalteng Tidak Serimonial - Tabengan Online",
+   "media": "Tabengan Online",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "walhi ISPA korban asap"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.tabengan.co.id/bacaberita/144838/walhi-berharap-kunjungan-pejabat-pusat-di-tengah-karhutla-dan-kabut-asap-kalteng-tidak-serimonial/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara itu, Manager Advokasi, Kampanye, dan Kajian WALHI Kalimantan Tengah, Agung Sesa, menegaskan agar kunjungan Wakil Presiden kali ini tidak kembali berakhir sebagai kegiatan seremonial.",
+    "Pemerintah dan APH lintas kementerian dan lembaga harus segera menyinkronkan data dan kewenangan, serta mengambil langkah penegakan hukum yang tegas, transparan, dan tanpa pandang bulu."
+   ],
+   "kalimat_walhi": [
+    "PALANGKA RAYA/TABENGAN.CO.ID — Kunjungan Wakil Presiden Republik Indonesia Gibran Rakabuming Raka ke Kalimantan Tengah pada Kamis, 10 September 2026, mendapat sorotan dari Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Tengah.",
+    "WALHI menilai kunjungan Wakil Presiden tersebut berlangsung di tengah kondisi Kalimantan Tengah yang masih dilanda kebakaran hutan dan lahan (karhutla) serta kabut asap yang berdampak di hampir seluruh wilayah provinsi."
+   ]
+  },
+  {
+   "judul": "Kabut Asap Tak Terbendung, Tembus Angka Pencemaran Udara Tertinggi, Warga Pertanyakan Kemampuan dan Antisipasi Pemerintah - rmolsumsel.id",
+   "media": "rmolsumsel.id",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.rmolsumsel.id/kabut-asap-tak-terbendung-tembus-angka-pencemaran-udara-tertinggi-warga-pertanyakan-kemampuan-dan-antisipasi-pemerintah",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Senam sehat di tengah serangan kabut asap - ANTARA News Kalsel",
+   "media": "ANTARA News Kalsel",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalsel.antaranews.com/berita/534744/senam-sehat-di-tengah-serangan-kabut-asap",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pencemaran Udara Masuk Kategori Bahaya, Ribuan Warga Mulai Tercekik Asap Karhutla - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "Musdalifah Jamal asap"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/pencemaran-udara-masuk-kategori-bahaya-ribuan-warga-mulai-tercekik-asap-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Asap Karhutla Balikpapan Picu Ancaman ISPA, Dinkes Imbau Kurangi Aktivitas Luar - IniBalikpapan.Com",
+   "media": "IniBalikpapan.Com",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inibalikpapan.com/asap-karhutla-balikpapan-picu-ancaman-ispa-dinkes-imbau-kurangi-aktivitas-luar/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kenapa Kabut Asap Bisa Bertahan Meski Hujan Sudah Turun? Ini Penjelasan BMKG - linggaupos.disway.id - Linggaupos",
+   "media": "Linggaupos",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://linggaupos.disway.id/ilmu-pengetahuan/read/692629/kenapa-kabut-asap-bisa-bertahan-meski-hujan-sudah-turun-ini-penjelasan-bmkg/15",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pakar Paru UNAIR Ungkap Bahaya Asap Karhutla, Dari Gejala Hingga Pertolongan Pertama - Universitas Airlangga",
+   "media": "Universitas Airlangga",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://unair.ac.id/pakar-paru-unair-ungkap-bahaya-asap-karhutla-dari-gejala-hingga-pertolongan-pertama/",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kasus ISPA Capai 113 Ribu, Empat Orang Meninggal Akibat Dampak Karhutla - Ruai TV",
+   "media": "Ruai TV",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ruai.tv/kasus-ispa-capai-113-ribu-empat-orang-meninggal-akibat-dampak-karhutla/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenkes kuatkan logistik respons 5,4 juta terdampak asap karhutla - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pedoman Keselamatan & Kesehatan Anak dalam Situasi Karhutla - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tirto.id/pedoman-keselamatan-kesehatan-anak-dalam-situasi-karhutla-hBWk",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Kesehatan Lingkungan Kemenkes, Then Suyanti, menegaskan bahwa anak-anak adalah kelompok yang paling berisiko."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "13 Ribu Warga Kena ISPA Akibat Karhutla, Kemenkes Terjunkan 848 Nakes - investor.id",
+   "media": "investor.id",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://investor.id/national/452096/13-ribu-warga-kena-ispa-akibat-karhutla-kemenkes-terjunkan-848-nakes",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Kesehatan (Wamenkes) Dante Saksono Harbuwono, menegaskan bahwa ancaman Karhutla bukan sekadar isu ekologi, melainkan krisis kesehatan masyarakat nyata yang harus segera diredam.",
+    "tegas Dante dalam media briefing di Kantor Kemenkes, Jakarta, Sabtu (29/8/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Udaranya Sudah di Tingkat Berbahaya, Korban ISPA di Kalimantan Tembus Ratusan Ribu Jiwa - Yoursay.id",
+   "media": "Yoursay.id",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://yoursay.suara.com/news/2026/08/29/114348/udaranya-sudah-di-tingkat-berbahaya-korban-ispa-di-kalimantan-tembus-ratusan-ribu-jiwa",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Desak Tanggung Jawab Korporasi dan Jaminan Kesehatan Gratis 3,4 Juta Warga Korban Karhutla - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"kesehatan gratis\"",
+    "walhi ISPA korban asap",
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.inilah.com/walhi-desak-tanggung-jawab-korporasi-dan-jaminan-kesehatan-gratis-34-juta-warga-korban-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Peduli Warga Terdampak Kabut Asap, RAPI, IDI, PMI dan PJKB Bagikan Masker di Pasar Sekadau - Prokhatulistiwa - Prokhatulistiwa",
+   "media": "Prokhatulistiwa",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.prokhatulistiwa.com/daerah/2037504274/peduli-warga-terdampak-kabut-asap-rapi-idi-pmi-dan-pjkb-bagikan-masker-di-pasar-sekadau",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kabut Asap Selimuti Kapuas Hulu, Pelajar Diliburkan hingga ISPA Meningkat - Tribunpontianak.co.id",
+   "media": "Tribunpontianak.co.id",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianak.tribunnews.com/kalbar/1184327/kabut-asap-selimuti-kapuas-hulu-pelajar-diliburkan-hingga-ispa-meningkat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Desak Pemerintah Sediakan Layanan Kesehatan Gratis Bagi Korban Kabut Asap Karhutla - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"kesehatan gratis\"",
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.tribunnews.com/nasional/7875841/walhi-desak-pemerintah-sediakan-layanan-kesehatan-gratis-bagi-korban-kabut-asap-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tiap Hari Hirup Kabut Asap, Warga Banjarbaru Mengeluh Sulit Napas dan Datangi Posko Kesehatan Gratis - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/08/31/164330978/tiap-hari-hirup-kabut-asap-warga-banjarbaru-mengeluh-sulit-napas-dan?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penerbangan di Bandara Supadio Kalbar terganggu imbas asap karhutla - ANTARA News Bali",
+   "media": "ANTARA News Bali",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bali.antaranews.com/berita/412571/penerbangan-di-bandara-supadio-kalbar-terganggu-imbas-asap-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kualitas Udara Kota Jambi Masuk Kategori Tidak Sehat, Konsentrasi PM2.5 Capai 11,7 Kali Lipat dari Standar WHO - Jambian",
+   "media": "Jambian",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "korban asap \"kesehatan gratis\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambi.pikiran-rakyat.com/jambi-raya/pr-34610422921/kualitas-udara-kota-jambi-masuk-kategori-tidak-sehat-konsentrasi-pm25-capai-117-kali-lipat-dari-standar-who",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "ISPA Melonjak, Kapuas Buka Portal Pantau Kabut Asap - InfoPublik",
+   "media": "InfoPublik",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://infopublik.id/kategori/prioritas-nasional-2026/986601/ispa-melonjak-kapuas-buka-portal-pantau-kabut-asap",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kabut Asap Memapar 14,5 Juta Warga - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/kabut-asap-memapar-145-juta-warga",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Kesehatan Sumatera Selatan Trisnawarman mengatakan, kasus ISPA pada Juni 2026 mencapai 36.294 dan Juli 2026, kasusnya meningkat menjadi 38.345 kasus."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap Karhutla Kalsel Mulai Masuk Balikpapan, Yuk Gunakan Masker - EKSPOSKALTIM",
+   "media": "EKSPOSKALTIM",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://eksposkaltim.com/berita-18362-asap-karhutla-kalsel-mulai-masuk-balikpapan-yuk-gunakan-masker-.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Banjarmasin tingkatkan kewaspadaan kasus ISPA mencapai 38 ribu - ANTARA News Kalsel",
+   "media": "ANTARA News Kalsel",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalsel.antaranews.com/berita/532931/banjarmasin-tingkatkan-kewaspadaan-kasus-ispa-mencapai-38-ribu",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Orang Utan Pingsan di Ladang Sawit, Terkena ISPA Akibat Kebakaran Hutan - MerahPutih",
+   "media": "MerahPutih",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.merahputih.com/post/read/orang-utan-pingsan-ladang-sawit-ketapang-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Terpapar Kabut Asap Karhutla, Orangutan Pingsan di Kebun Sawit Ketapang - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/play/bmRCYalD-terpapar-kabut-asap-karhutla-orangutan-pingsan-di-kebun-sawit-ketapang",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Sedih, Orangutan Pingsan Kehabisan Oksigen Akibat Terpapar Asap Karhutla - detikHealth",
+   "media": "detikHealth",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://health.detik.com/berita-detikhealth/d-8641579/sedih-orangutan-pingsan-kehabisan-oksigen-akibat-terpapar-asap-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemarau dan Kabut Asap di Sanggau: ISPA Tembus 9.731 Kasus, Penderita Diare Bertambah 132 Pasien - Tribunpontianak.co.id",
+   "media": "Tribunpontianak.co.id",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "ISPA asap Kalimantan evakuasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianak.tribunnews.com/kalbar/1184448/kemarau-dan-kabut-asap-di-sanggau-ispa-tembus-9731-kasus-penderita-diare-bertambah-132-pasien",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  }
+ ]
+}

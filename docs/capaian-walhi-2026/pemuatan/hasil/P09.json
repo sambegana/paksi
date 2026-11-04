@@ -1,0 +1,462 @@
+{
+ "id": "P09",
+ "tanggal": "2026-09-25",
+ "rentang": [
+  "2026-09-24",
+  "2026-10-10"
+ ],
+ "kueri": [
+  "walhi 144 PBPH",
+  "walhi PBPH dicabut menhut",
+  "walhi PBPH karhutla",
+  "menhut cabut PBPH karhutla",
+  "pencabutan PBPH karhutla",
+  "kemenhut bekukan izin PBPH karhutla"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 23,
+ "berita": [
+  {
+   "judul": "Menhut: Konsesi gambut perlu dikawal secara teknis - Antara News jatim",
+   "media": "Antara News jatim",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "menhut cabut PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jatim.antaranews.com/berita/1103405/menhut-konsesi-gambut-perlu-dikawal-secara-teknis",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jakarta (ANTARA) - Menteri Kehutanan (Menhut) Raja Juli Antoni mengatakan pengelolaan areal konsesi pada ekosistem gambut perlu dikawal secara teknis dengan memperhatikan tinggi muka air tanah, kelembapan tanah, serta keterhubungannya dalam satu Kesatuan Hidrologis Gambut (KHG).",
+    "kata Raja Juli seusai Workshop Pembentukan Badan Pengelola Gambut dan Mangrove Nasional (BPGMN) di Jakarta, Kamis.",
+    "Raja Juli mengatakan workshop telah menghadirkan kembali 22 pakar yang sebelumnya diundang ke Istana, ditambah sejumlah pakar lainnya serta ahli mangrove.",
+    "Kementerian Kehutanan menyatakan PAPH 2026 juga menjadi acuan pemberian PBPH serta memberikan kepastian informasi bagi calon investor mengenai lokasi yang dapat dimohonkan untuk kegiatan usaha kehutanan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menhut: Pemegang PBPH akan diwajibkan pasang alat pantau gambut - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "02 Oct 2026",
+   "kueri": [
+    "menhut cabut PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5768060/menhut-pemegang-pbph-akan-diwajibkan-pasang-alat-pantau-gambut",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jadi justru kita akan wajibkan PBPH kita untuk pasang alat ini\nJakarta (ANTARA) - Menteri Kehutanan Raja Juli Antoni mengatakan pemegang Perizinan Berusaha Pemanfaatan Hutan (PBPH) akan diwajibkan memasang alat pemantau kondisi gambut untuk memperkuat pencegahan kebakaran hutan d",
+    "kata Raja Juli seusai Workshop Pembentukan Badan Pengelolaan Gambut dan Mangrove Nasional (BPGMN) di Jakarta, Jumat.",
+    "Ia mengatakan PBPH berada dalam kewenangan Kementerian Kehutanan, tetapi kebutuhan terhadap data kondisi gambut tidak semestinya terhambat oleh pembagian kewenangan antarlembaga.",
+    "Menteri Pendidikan Tinggi, Sains, dan Teknologi Brian Yuliarto mengatakan hasil penelitian dan pengembangan pengetahuan dari perguruan tinggi maupun masyarakat diharapkan menjadi referensi dalam pembentukan badan tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Cegah Karhutla, Pemegang PBPH Bakal Wajib Pasang Alat Pantau Gambut - Pontianak Post",
+   "media": "Pontianak Post",
+   "tanggal": "02 Oct 2026",
+   "kueri": [
+    "pencabutan PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pontianakpost.jawapos.com/nasional/2610020094/cegah-karhutla-pemegang-pbph-bakal-wajib-pasang-alat-pantau-gambut",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "PONTIANAK POST - Menteri Kehutanan Raja Juli Antoni mengatakan pemegang Perizinan Berusaha Pemanfaatan Hutan (PBPH) akan diwajibkan memasang alat pemantau kondisi gambut.",
+    "kata Raja Juli seusai Workshop Pembentukan Badan Pengelolaan Gambut dan Mangrove Nasional (BPGMN) di Jakarta, Jumat (2/10).",
+    "Data Gambut Perlu Terintegrasi\nRaja Juli mengatakan penguatan pemantauan membutuhkan integrasi data dan koordinasi antara kementerian, badan pengelola, pemerintah daerah, dan pemegang PBPH."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menhut Cabut Izin 5 Perusahaan Terkait Karhutla, Total Konsesi Capai 92.464 Hektare - Radar Malang",
+   "media": "Radar Malang",
+   "tanggal": "04 Oct 2026",
+   "kueri": [
+    "menhut cabut PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radarmalang.jawapos.com/nasional/2610040035/menhut-cabut-izin-5-perusahaan-terkait-karhutla-total-konsesi-capai-92464-hektare",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "22.690 Hotspot Karhutla di Sumsel Didominasi Konsesi Perusahaan, Walhi Desak Sanksi Tegas - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "05 Oct 2026",
+   "kueri": [
+    "walhi PBPH karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://regional.kompas.com/read/2026/10/05/184000578/22.690-hotspot-karhutla-di-sumsel-didominasi-konsesi-perusahaan-walhi-desak?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Baca juga: Didemo karena Kabut Asap Makin Parah, Gubernur Sumsel Minta Maaf\nKepala Divisi Advokasi Walhi Sumsel, Galang Suganda, menjelaskan bahwa kondisi ini tidak dapat dilepaskan dari tekanan terhadap ruang hidup akibat aktivitas kehutanan, perkebunan, dan pertambangan yang ma"
+   ],
+   "kalimat_walhi": [
+    "Editor\nPALEMBANG, KOMPAS.com - Wahana Lingkungan Hidup Indonesia (Walhi) Sumatera Selatan (Sumsel) mengungkap temuan serius terkait sebaran kebakaran hutan dan lahan (karhutla) di wilayah Bumi Sriwijaya.",
+    "Walhi Sumsel menegaskan bahwa karhutla telah menjadi ancaman berulang yang berdampak luas terhadap lingkungan, kesehatan, dan kehidupan masyarakat."
+   ]
+  },
+  {
+   "judul": "22.690 Hotspot Karhutla Sumsel, Jejak Panas Mengumpul di Konsesi Perusahaan - OWRITE",
+   "media": "OWRITE",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi PBPH karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.owrite.id/daerah/2026/10/07/22-690-hotspot-karhutla-sumsel-jejak-panas-mengumpul-di-konsesi-perusahaan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) Sumatra Selatan mendeteksi ada 22.690 titik panas (hotspot) kebakaran hutan dan lahan (karhutla) di sana.",
+    "Dikutip dari siaran pers WALHI Sumsel, 7 Oktober 2026, berikut perusahaan yang memiliki jumlah titik panas tertinggi dalam karhutla Sumatra Selatan."
+   ]
+  },
+  {
+   "judul": "Walhi Catat 124 Korporasi di Kalsel Terindikasi Terlibat Karhutla - Duta TV",
+   "media": "Duta TV",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi PBPH karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://dutatv.com/walhi-catat-124-korporasi-di-kalsel-terindikasi-terlibat-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Catat 124 Korporasi di Kalsel Terindikasi Terlibat Karhutla\nBanjarbaru, DUTA TV – Penegakan hukum terhadap korporasi yang terlibat kebakaran hutan dan lahan (Karhutla) dinilai masih lemah.",
+    "Wahana Lingkungan Hidup Indonesia (Walhi) mencatat sebanyak 124 korporasi terindikasi terlibat karhutla di Kalimantan Selatan."
+   ]
+  },
+  {
+   "judul": "Daftar Perusahaan Penyumbang Hotspot di Sumsel Versi WALHI, PT BMH & PT Roempoen Enam Terbanyak - Sripoku.com",
+   "media": "Sripoku.com",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi PBPH karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://palembang.tribunnews.com/metro/1330975/daftar-perusahaan-penyumbang-hotspot-di-sumsel-versi-walhi-pt-roempoen-enam-pt-bmh-terbanyak",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Ungkap 22.690 Hotspot di Konsesi 81 Perusahaan Sumsel, Ini Daftarnya - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi PBPH karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.tribunnews.com/regional/7894199/walhi-ungkap-22690-hotspot-di-konsesi-81-perusahaan-sumsel-ini-daftarnya",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla Sumsel Tembus 22.690 Hotspot, WALHI Soroti 18 Perusahaan - Sumsel Independen",
+   "media": "Sumsel Independen",
+   "tanggal": "10 Oct 2026",
+   "kueri": [
+    "walhi PBPH karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.sumselindependen.com/karhutla-sumsel-tembus-22-690-hotspot-walhi-soroti-18-perusahaan/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Dari 262 Kini 372 Dilaporkan Walhi Terkait Karhutla - Berita Seputar Borneo",
+   "media": "Berita Seputar Borneo",
+   "tanggal": "25 Sep 2026",
+   "kueri": [
+    "walhi PBPH karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.seputarborneo.com/news/26022-dari-262-kini-372-dilaporkan-walhi-terkait-karhutla.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 15,
+   "penutur_walhi": [
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pengkampanye Hutan dan Kebun WALHI, Umi Ma’rufah, mengatakan laporan tersebut merupakan bentuk dukungan masyarakat sipil terhadap pernyataan Presiden Prabowo Subianto yang meminta penindakan tegas terhadap pelaku karhutla, termasuk korporasi."
+   ],
+   "kalimat_walhi": [
+    "NASIONAL\nDari 262 Kini 372 Dilaporkan Walhi Terkait Karhutla\nSB, JAKARTA – Laporan Wahana Lingkungan Hidup Indonesia (WALHI) terkait perusahaan yang terindikasi berkaitan dengan kebakaran hutan dan lahan (karhutla) kembali bertambah.",
+    "Dalam rilis Walhi, penambahan tersebut disampaikan WALHI pada 15 September 2026 melalui Kementerian Sekretariat Negara."
+   ]
+  },
+  {
+   "judul": "WALHI Minta Evaluasi Izin Korporasi di Gambut untuk Cegah Karhutla - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "27 Sep 2026",
+   "kueri": [
+    "walhi PBPH karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://nasional.kontan.co.id/news/walhi-minta-evaluasi-izin-korporasi-di-gambut-untuk-cegah-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pernyataan tersebut merespons dukungan Asosiasi Pengusaha Hutan Indonesia (APHI) terhadap langkah Presiden Prabowo Subianto yang meminta koreksi regulasi yang masih membuka celah pembakaran lahan guna memperkuat pencegahan karhutla.",
+    "Dalam rilis tersebut, WALHI menyebut telah melaporkan 372 perusahaan kepada Presiden berdasarkan analisis titik panas sepanjang Januari hingga September 2026."
+   ],
+   "kalimat_walhi": [
+    "Koordinator Pengkampanye WALHI Nasional Uli Arta Siagian mengatakan, pemerintah perlu mengoreksi kebijakan sektoral yang membuka ruang pemberian izin usaha dalam skala besar tanpa mempertimbangkan fungsi ekologis suatu kawasan.",
+    "Baca Juga: Prabowo Bentuk BPGMN, Walhi Desak Evaluasi Seluruh Izin di Kawasan Gambut \n\"Misalnya gambut, yang seharusnya tidak boleh dibebani izin justru diberikan kepada korporasi dalam bentuk izin untuk sawit, PBPH ataupun tambang."
+   ]
+  },
+  {
+   "judul": "Karhutla, Kemenhut bekukan 13 izin dan cabut lima PBPH - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "menhut cabut PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5763413/karhutla-kemenhut-bekukan-13-izin-dan-cabut-lima-pbph",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Pengawasan dan Pengenaan Sanksi Administratif Kementerian Kehutanan Adi Rizman di Jakarta, Selasa, mengatakan areal terbakar yang terkait dengan 26 subjek hukum tersebut diperkirakan mencapai 10.958,77 hektare di tujuh provinsi.",
+    "kata Adi dalam konferensi pers perkembangan penanganan karhutla di Kementerian Koordinator Bidang Politik dan Keamanan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut bekukan 13 izin dan cabut lima PBPH - ANTARA News Kalteng",
+   "media": "ANTARA News Kalteng",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "pencabutan PBPH karhutla",
+    "kemenhut bekukan izin PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kalteng.antaranews.com/berita/844008/kemenhut-bekukan-13-izin-dan-cabut-lima-pbph",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Pengawasan dan Pengenaan Sanksi Administratif Kementerian Kehutanan Adi Rizman di Jakarta, Selasa, mengatakan areal terbakar yang terkait dengan 26 subjek hukum tersebut diperkirakan mencapai 10.958,77 hektare di tujuh provinsi.",
+    "kata Adi dalam konferensi pers perkembangan penanganan karhutla di Kementerian Koordinator Bidang Politik dan Keamanan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut Sanksi 26 Subjek Hukum Terkait Karhutla, 13 Izin Dibekukan dan 5 Dicabut - Journalist Independent",
+   "media": "Journalist Independent",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "pencabutan PBPH karhutla",
+    "kemenhut bekukan izin PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://journalistindependent.com/2026/09/29/kemenhut-sanksi-26-subjek-hukum-terkait-karhutla-13-izin-dibekukan-dan-5-dicabut/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Pengawasan dan Pengenaan Sanksi Administratif Kemenhut Adi Rizman mengatakan sanksi tersebut merupakan bagian dari penegakan hukum administratif terhadap pemegang izin yang memiliki kewajiban mencegah dan mengendalikan karhutla di wilayah kerjanya.",
+    "kata Adi dalam konferensi pers perkembangan penanganan karhutla di Kementerian Koordinator Bidang Politik dan Keamanan, Selasa (29/9/2026).",
+    "Kemenhut menyatakan pencabutan tersebut merupakan bagian dari penegakan hukum terhadap pemegang konsesi yang dinilai tidak memenuhi kewajibannya dalam menjaga kawasan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Konsesi 42.530 Hektare Dicabut, PT SSL Gugat Menhut Rp3,2 Triliun - Sawitku Id - Sawitku",
+   "media": "Sawitku",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "pencabutan PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.sawitku.id/nasional/81417692064/konsesi-42530-hektare-dicabut-pt-ssl-gugat-menhut-rp32-triliun",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kemenhut Usut Pidana 27 Subjek Hukum Terkait Karhutla: 5 Korporasi dan 22 Perorangan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "kemenhut bekukan izin PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/09/29/19001171/kemenhut-usut-pidana-27-subjek-hukum-terkait-karhutla-5-korporasi-dan-22",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Pengawasan, Pengenaan Sanksi Administratif, dan Keperdataan Kehutanan Kemenhut, Adi Risman mengatakan, 27 subyek hukum tersebut telah ditingkatkan statusnya dari penyelidikan ke penyidikan.",
+    "kata Adi, di Kemenko Polkam, Jakarta, Selasa (29/9/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut proses hukum 46 subjek karhutla di 10 provinsi - ANTARA News Jambi",
+   "media": "ANTARA News Jambi",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "kemenhut bekukan izin PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambi.antaranews.com/berita/668505/kemenhut-proses-hukum-46-subjek-karhutla-di-10-provinsi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Pengawasan dan Pengenaan Sanksi Administratif Kementerian Kehutanan Adi Rizman dalam konferensi pers perkembangan penanganan karhutla di Jakarta, Selasa, mengatakan dari 46 subjek hukum tersebut, sebanyak 17 masih dalam tahap penyelidikan, 27 dalam penyidikan, satu perka",
+    "Kemenhut juga menegaskan bahwa pemegang izin memiliki tanggung jawab untuk mencegah dan mengendalikan kebakaran di areal kerjanya serta memulihkan ekosistem hutan apabila terjadi kerusakan akibat kebakaran."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penindakan karhutla tak berhenti pada pelaku lapangan - ANTARA News Jambi",
+   "media": "ANTARA News Jambi",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "kemenhut bekukan izin PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambi.antaranews.com/berita/668491/penindakan-karhutla-tak-berhenti-pada-pelaku-lapangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Biro Humas dan Data Informasi Kementerian Koordinator Bidang Politik dan Keamanan Brigjen TNI Honi Havana dalam konferensi pers perkembangan penanganan karhutla di Jakarta, Selasa, mengatakan penegakan hukum dilakukan secara berlapis dan terkoordinasi.",
+    "Honi mengatakan langkah tersebut merupakan tindak lanjut arahan Presiden dan Menteri Koordinator Bidang Politik dan Keamanan agar penegakan hukum terhadap pelanggaran terkait karhutla dilakukan secara tegas dan cepat.",
+    "Honi mengatakan Kementerian Lingkungan Hidup telah menyegel 57 badan usaha, sedangkan Kementerian Kehutanan menjatuhkan sanksi administratif bidang kehutanan terhadap 26 badan usaha."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menhut umumkan bayi gajah lahir di TN Tesso Nilo diberi nama \"Ganesha\" - ANTARA News Gorontalo",
+   "media": "ANTARA News Gorontalo",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "menhut cabut PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://gorontalo.antaranews.com/berita/426875/menhut-umumkan-bayi-gajah-lahir-di-tn-tesso-nilo-diberi-nama-ganesha",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Raja Juli saat mengunjungi rehabilitasi gambut di Kabupaten Bengkalis, Riau, Rabu, mengatakan nama tersebut diberikan Ketua Komisi IV DPR RI Siti Hediati Hariyadi atau Titiek Soeharto."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "26 Pemegang Izin Kehutanan Kena Sanksi Kemenhut Buntut Karhutla - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "pencabutan PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6abca245a329f/26-pemegang-izin-kehutanan-kena-sanksi-kemenhut-buntut-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kalbar Catat Sembilan Pemegang Izin Kena Sanksi Karhutla, Luas Terbakar 3.892 Hektare - faktakalbar",
+   "media": "faktakalbar",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "pencabutan PBPH karhutla",
+    "kemenhut bekukan izin PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://faktakalbar.id/berita/kalbar-catat-sembilan-pemegang-izin-kena-sanksi-karhutla-luas-terbakar-3-892-hektare",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Pengawasan dan Pengenaan Sanksi Administratif Kementerian Kehutanan Adi Rizman mengatakan 25 dari 26 subjek hukum tersebut merupakan pemegang PBPH.",
+    "kata Adi dalam konferensi pers perkembangan penanganan karhutla di Kementerian Koordinator Bidang Politik dan Keamanan.",
+    "Kemenhut menyatakan pemegang izin memiliki tanggung jawab untuk mencegah dan mengendalikan kebakaran di areal kerjanya."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jerat Usaha Perusak Hutan: 57 Korporasi Disegel, 17 Pemain Lama Karhutla! - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "kemenhut bekukan izin PBPH karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/jerat-usaha-perusak-hutan-57-korporasi-disegel-17-pemain-lama-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  }
+ ]
+}

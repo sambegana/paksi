@@ -1,0 +1,790 @@
+{
+ "id": "R18",
+ "tanggal": "2026-09-19",
+ "rentang": [
+  "2026-09-18",
+  "2026-10-04"
+ ],
+ "kueri": [
+  "walhi \"terorisme ekologi\"",
+  "\"terorisme ekologis\"",
+  "\"terorisme ekologi\" karhutla",
+  "AMAN \"terorisme ekologi\"",
+  "\"teroris ekologi\" Prabowo"
+ ],
+ "jejaring": [
+  "AMAN",
+  "Aliansi Masyarakat Adat"
+ ],
+ "jumlah_berita": 40,
+ "berita": [
+  {
+   "judul": "Resmi! Arrmanatha Nasir Gantikan Sugiono sebagai Menteri Luar Negeri - iNews.ID",
+   "media": "iNews.ID",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "\"terorisme ekologis\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inews.id/inews-tv/buletin/resmi-arrmanatha-nasir-gantikan-sugiono-sebagai-menteri-luar-negeri",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Saat Prabowo Ingin Pelaku Karhutla Masuk Delik Terorisme Ekologi - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "walhi \"terorisme ekologi\"",
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://tirto.id/saat-prabowo-ingin-pelaku-karhutla-masuk-delik-terorisme-ekologi-hC2w",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [
+    "Umi Ma'rufah"
+   ],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Presiden meminta dugaan tersebut diverifikasi dan perusahaan yang terbukti melanggar, terutama yang mengulangi pelanggaran, ditindak tegas.",
+    "Ia juga meminta Menteri Dalam Negeri memastikan pencabutan peraturan daerah yang masih memberi celah bagi pembakaran lahan, dan menegaskan pembukaan lahan dengan cara membakar tidak boleh lagi ditoleransi, termasuk dengan alasan kearifan lokal.",
+    "Dalam konferensi pers Desk Koordinasi Penanggulangan Karhutla di Kantor Kemenko Polkam, Kamis (17/9/2026), Pelaksana Tugas Kepala Pusat Data, Informasi dan Komunikasi Kebencanaan BNPB Berton SP Panjaitan mengatakan Sumatra Selatan mencatat luas kebakaran aktif terbesar per 16 Sep",
+    "kata Satria\nInstrumen tersebut telah memberikan mandat penuh kepada kepolisian dan kejaksaan untuk menggelar investigasi, penyidikan mendalam, hingga penuntutan terhadap subjek hukum korporasi.",
+    "Oleh sebab itu, kata Satria, Presiden harus memastikan penegakan hukum berjalan lurus dan tidak pandang bulu terhadap perusahaan yang memiliki kedekatan dengan lingkar kekuasaan."
+   ],
+   "kalimat_walhi": [
+    "Pengkampanye Hutan dan Kebun Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (WALHI), Umi Ma'rufah, mengingatkan bahwa pelabelan terorisme ekologi berisiko menjadi bumerang yang memperkeruh penegakan hukum."
+   ]
+  },
+  {
+   "judul": "Inpres Karhutla Dikritik, WALHI Soroti Potensi Kriminalisasi Masyarakat Adat - Kaltim.Akurasi",
+   "media": "Kaltim.Akurasi",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "walhi \"terorisme ekologi\"",
+    "AMAN \"terorisme ekologi\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://kaltim.akurasi.id/news/nasional/inpres-karhutla-dikritik-walhi-soroti-potensi-kriminalisasi-masyarakat-adat/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "AMAN",
+    "Aliansi Masyarakat Adat"
+   ],
+   "kalimat_pemerintah": [
+    "WALHI menyebut, telah melaporkan 372 perusahaan kepada presiden."
+   ],
+   "kalimat_walhi": [
+    "WALHI Desak Pemerintah Proses Hukum Perusahaan\nKoordinator Pengkampanye WALHI Nasional, Uli Arta Siagian, menilai ketegasan tersebut harus diwujudkan melalui proses hukum yang cepat, transparan, dan menyasar pihak yang terbukti bertanggung ",
+    "WALHI menyebut, telah melaporkan 372 perusahaan kepada presiden."
+   ]
+  },
+  {
+   "judul": "Prabowo Sebut Korporasi Pelaku Karhutla Terorisme Ekologi: Cabut Izinnya - Tribunjambi.com",
+   "media": "Tribunjambi.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "walhi \"terorisme ekologi\"",
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://jambi.tribunnews.com/news/1205729/prabowo-sebut-korporasi-pelaku-karhutla-terorisme-ekologi-cabut-izinnya",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Prabowo Soroti Karhutla, Wacana ‘Terorisme Ekologis’ Jadi Sorotan Media Asing - TribunWow.com",
+   "media": "TribunWow.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologis\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://wow.tribunnews.com/news/402799/prabowo-soroti-karhutla-wacana-terorisme-ekologis-jadi-sorotan-media-asing",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Sikap Prabowo soal Karhutla Jadi Sorotan Media Asing, Wacana 'Terorisme Ekologis' - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologis\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Sahroni Dukung Karhutla Dikategorikan sebagai Terorisme Ekologi - Aktual.com",
+   "media": "Aktual.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://aktual.com/sahroni-dukung-karhutla-dikategorikan-sebagai-terorisme-ekologi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jakarta, aktual.com – Wakil Ketua Komisi III DPR Ahmad Sahroni menyatakan dukungannya terhadap wacana Presiden Prabowo Subianto untuk mengategorikan kebakaran hutan dan lahan (karhutla) sebagai bentuk terorisme ekologi.",
+    "“Saya sangat setuju langkah tegas Presiden Prabowo menggolongkan pelaku karhutla sebagai terorisme ekologi.",
+    "ujar Presiden."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Minta Pelaku Karhutla Digolongkan Terorisme Ekologi - https://www.politikindonesia.id/",
+   "media": "https://www.politikindonesia.id/",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.politikindonesia.id/prabowo-minta-pelaku-karhutla-digolongkan-terorisme-ekologi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Prabowo Subianto saat memimpin rapat terbatas terkait penanganan sejumlah bencana di Tanah Air dari Istana Merdeka, Jakarta, Rabu, 16 September 2026.",
+    "Presiden Prabowo juga menegaskan bahwa pembukaan lahan dengan cara membakar tidak boleh lagi dilakukan dengan alasan apa pun."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Membaca Dampak Prabowo Sebut Pelaku Karhutla “Teroris Ekologi\" - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla",
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/09/18/10011551/membaca-dampak-prabowo-sebut-pelaku-karhutla-teroris-ekologi?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "kata Prabowo, dalam rapat penanganan karhutla secara hybrid dari Istana, Jakarta, Rabu (16/9/2026).",
+    "Wakil Ketua Komisi III DPR Ahmad Sahroni menyatakan, mendukung permintaan Prabowo agar pelaku karhutla dipandang sebagai pelaku kejahatan serius.",
+    "Meski demikian, Sahroni mengatakan, DPR terbuka jika ditemukan celah hukum yang membuat pelaku atau pihak yang berada di belakang pembakaran sulit dijerat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Golongkan Pembakar Hutan dan Lahan sebagai “Terorisme Ekologi” - Niaga.Asia",
+   "media": "Niaga.Asia",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.niaga.asia/prabowo-golongkan-pembakar-hutan-dan-lahan-sebagai-terorisme-ekologi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Presiden.",
+    "Presiden menegaskan bahwa pemerintah telah bekerja maksimal dalam melakukan mitigasi dan tidak ingin dampak kebakaran hutan Indonesia merepotkan negara lain.",
+    "tegas Presiden.",
+    "Presiden juga menegaskan bahwa pembukaan lahan dengan cara membakar tidak boleh lagi dilakukan dengan alasan apa pun.",
+    "ujar Presiden.",
+    "Melalui penguatan regulasi, penegakan hukum, serta bantuan kepada masyarakat, Presiden Prabowo menegaskan komitmen pemerintah untuk memutus praktik pembakaran hutan dan lahan hingga ke akarnya."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Sahroni Setuju Karhutla Jadi Terorisme Ekologi: Ini Extraordinary Crime - detikNews",
+   "media": "detikNews",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.detik.com/berita/d-8667938/sahroni-setuju-karhutla-jadi-terorisme-ekologi-ini-extraordinary-crime",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "\"Saya sangat setuju langkah tegas Presiden Prabowo menggolongkan pelaku karhutla sebagai terorisme ekologi.",
+    "ujar Presiden."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Dorong Karhutla Masuk Kategori Terorisme Ekologi - Harakatuna.com",
+   "media": "Harakatuna.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.harakatuna.com/prabowo-dorong-karhutla-masuk-kategori-terorisme-ekologi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Dorong Pelaku Karhutla Digolongkan Terorisme Ekologi, DPR Minta Segera Usul RUU - Herald.ID",
+   "media": "Herald.ID",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://herald.id/2026/09/18/prabowo-dorong-pelaku-karhutla-digolongkan-terorisme-ekologi-dpr-minta-segera-usul-ruu/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo: Giant Sea Wall Sangat Vital, Banyak Industri di Pantura Jawa - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/09/18/10310101/prabowo-giant-sea-wall-sangat-vital-banyak-industri-di-pantura-jawa",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Gabung Kompas.com+\n            \nKompas.com, 18 September 2026, 10:31 WIB\nJAKARTA, KOMPAS.com - Presiden Prabowo Subianto menegaskan pembangunan giant sea wall atau tanggul laut di sepanjang Pantai Utara (Pantura) Jawa merupakan proyek strategis yang penting.",
+    "kata Prabowo, dalam program Presiden Prabowo Menjawab, dikutip Jumat (16/9/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Singgung Ada Pihak Asing Ingin Indonesia Terpecah dan Lemah - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/09/18/10075251/prabowo-singgung-ada-pihak-asing-ingin-indonesia-terpecah-dan-lemah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Prabowo, dalam Program Presiden Prabowo Menjawab, dikutip Jumat (18/9/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Soroti Risiko Hukuman Mati: Tak Bisa Dibatalkan jika Ternyata Salah - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "'Terorisme Ekologi', Ujian Kesungguhan Negara - SINDOnews Nasional",
+   "media": "SINDOnews Nasional",
+   "tanggal": "19 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.sindonews.com/read/1751501/18/terorisme-ekologi-ujian-kesungguhan-negara-1789798168",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "A\n            A\n            A\n        \n            Perdana Wahyu Santosa\nGuru Besar Ekonomi Universitas YARSI dan Direktur Riset GREAT Institute\nPRESIDEN Prabowo Subianto menyebut pembakaran hutan sebagai “terorisme ekologi”"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penegakan Hukum Karhutla Diminta Tidak Kriminalisasi Masyarakat - Betahita",
+   "media": "Betahita",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "walhi \"terorisme ekologi\"",
+    "AMAN \"terorisme ekologi\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12390/penegakan-hukum-karhutla-diminta-tidak-kriminalisasi-masyarakat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "AMAN",
+    "Aliansi Masyarakat Adat"
+   ],
+   "kalimat_pemerintah": [
+    "Koordinator Pengkampanye Walhi Nasional, Uli Arta Siagian, mengatakan bahwa ketegasan Presiden Prabowo terhadap karhutla harus segera dibuktikan melalui penegakan hukum yang cepat, transparan, dan tepat sasaran, terutama terhadap korporasi pemegang konsesi.",
+    "Ketegasan Presiden harus diterjemahkan dengan menindak pihak yang terbukti bertanggung jawab, membuka proses penanganannya secara transparan, serta memastikan pemegang konsesi menjalankan kewajiban pencegahan, pengendalian, dan pemulihan atas karhutla."
+   ],
+   "kalimat_walhi": [
+    "Koordinator Pengkampanye Walhi Nasional, Uli Arta Siagian, mengatakan bahwa ketegasan Presiden Prabowo terhadap karhutla harus segera dibuktikan melalui penegakan hukum yang cepat, transparan, dan tepat sasaran, terutama terhadap korporasi ",
+    "Terkait hal itu, Walhi telah melaporkan 372 perusahaan yang areal konsesinya terindikasi terbakar berdasarkan analisis titik panas sepanjang Januari–September 2026, kepada presiden dan sejumlah kementerian/lembaga negara."
+   ]
+  },
+  {
+   "judul": "Prabowo Minta Sanksi Pembakar Hutan Masuk Kategori Terorisme Ekologi - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "walhi \"terorisme ekologi\"",
+    "\"terorisme ekologis\"",
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/video/2026/09/20/210152/prabowo-minta-sanksi-pembakar-hutan-masuk-kategori-terorisme-ekologi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Layak Dipandang sebagai Terorisme Ekologi - PT Suara Dewata Media",
+   "media": "PT Suara Dewata Media",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suaradewata.com/berita/202405217685/karhutla-layak-dipandang-sebagai-terorisme-ekologi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Diwacanakan Presiden: Pelaku Karhutla=Teroris Ekologi - RM.ID",
+   "media": "RM.ID",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla",
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Menyebut Karhutla sebagai Terorisme Ekologi Adalah Langkah Tegas Melindungi Rakyat - Minews ID",
+   "media": "Minews ID",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla",
+    "AMAN \"terorisme ekologi\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://minews.id/cuitan-mi/menyebut-karhutla-sebagai-terorisme-ekologi-adalah-langkah-tegas-melindungi-rakyat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Presiden menegaskan bahwa pembukaan lahan tidak seharusnya lagi dilakukan dengan cara membakar yang berisiko tinggi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Kaji Sanksi Karhutla agar Masuk Kategori Terorisme Ekologi - liputan4.com",
+   "media": "liputan4.com",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://liputan4.com/pemerintah-kaji-sanksi-karhutla-agar-masuk-kategori-terorisme-ekologi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Presiden juga menegaskan tidak boleh ada lagi pembukaan lahan dengan cara membakar."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Memburu Terorisme Ekologi - Radar Banjarmasin",
+   "media": "Radar Banjarmasin",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radarbanjarmasin.jawapos.com/opini/2609210063/memburu-terorisme-ekologi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Terorisme Ekologi dan Kalkulator Api Halaman 1 - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/dikdiksadikin4448/6ab1618634777c7af42ee762/terorisme-ekologi-dan-kalkulator-api",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sehari kemudian, polisi menyebut telah menangani 219 perkara karhutla di 12 Polda dan menetapkan 162 tersangka perorangan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo, Terorisme Ekologi, dan Tobat Ekologi - https://www.trawlmediaindonesia.id/",
+   "media": "https://www.trawlmediaindonesia.id/",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla",
+    "AMAN \"terorisme ekologi\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.trawlmediaindonesia.id/2026/09/prabowo-terorisme-ekologi-dan-tobat.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran Hutan Disebut “Terorisme Ekologi”, Memangnya Bisa? - kumparan.com - Kumparan.com",
+   "media": "Kumparan.com",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kumparan.com/triswer-triswer/kebakaran-hutan-disebut-terorisme-ekologi-memangnya-bisa-28E3fRjDgSj",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Nangis Teringat Penderitaan Warga Gaza, Prabowo Pekikkan Free Palestina - RM.ID",
+   "media": "RM.ID",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rm.id/baca-berita/nasional/326940/nangis-teringat-penderitaan-warga-gaza-prabowo-pekikkan-free-palestina",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pendidikan Gratis SD hingga Kuliah, Pendidikan Gratis Sangat Mungkin Diwujudkan - RM.ID",
+   "media": "RM.ID",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rm.id/baca-berita/blakblakan/326953/pendidikan-gratis-dari-sd-sampai-perguruan-tinggi-mungkinkah-lalu-hadrian-irfani-pendidikan-gratis-sangat-mungkin-diwujudkan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Lalu Hadrian Irfani: Pendidikan Gratis Sangat Mungkin Diwujudkan\nRM.id Rakyat Merdeka - Presiden Prabowo Subianto menegaskan biaya pendidikan negeri mulai dari sekolah dasar (SD) hingga universitas negeri harus gratis.",
+    "Menanggapi hal tersebut, Wakil Ketua Komisi X DPR Lalu Hadrian Irfani menyambut baik wacana Prabowo memperluas akses pendidikan gratis hingga perguruan tinggi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Zulhas & Bahlil Takkan Nyapres - RM.ID",
+   "media": "RM.ID",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rm.id/baca-berita/parpol/326948/janji-sebelum-pilpres-zulhas-bahlil-takkan-nyapres",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Terorisme Ekologi Ala Prabowo, Mampukah Setop Karhutla di Indonesia? - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "22 Sep 2026",
+   "kueri": [
+    "walhi \"terorisme ekologi\"",
+    "\"terorisme ekologis\"",
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/09/22/182617/terorisme-ekologi-ala-prabowo-mampukah-setop-karhutla-di-indonesia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Umi Ma'rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Suara.com - Presiden Prabowo Subianto menyampaikan peringatan tegas kepada korporasi maupun perorangan yang terlibat dalam pembakaran hutan dan lahan (karhutla)."
+   ],
+   "kalimat_walhi": [
+    "- WALHI mengingatkan penanganan karhutla harus fokus pada evaluasi perizinan dan tidak mengkriminalisasi petani peladang tradisional.",
+    "Di sisi lain, WALHI mengingatkan penanganan karhutla tidak boleh disederhanakan hanya sebagai persoalan siapa yang membakar."
+   ]
+  },
+  {
+   "judul": "Main Cap Terorisme Ekologis - Tempo.co",
+   "media": "Tempo.co",
+   "tanggal": "22 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologis\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Bisakah Pembakaran Hutan Jadi Terorisme Ekologis - Tempo.co",
+   "media": "Tempo.co",
+   "tanggal": "22 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologis\"",
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tempo.co/hukum/bisakah-pembakaran-hutan-jadi-terorisme-ekologis-2288343",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Ekonomi Terorisme Ekologi - Langgam.id",
+   "media": "Langgam.id",
+   "tanggal": "22 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://langgam.id/ekonomi-terorisme-ekologi/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Terorisme Ekologis Jangan Sekadar Jargon, Penegakan Hukum Harus Sasar Pengendali - Kedai Pena",
+   "media": "Kedai Pena",
+   "tanggal": "23 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologis\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kedaipena.com/terorisme-ekologis-jangan-sekadar-jargon-penegakan-hukum-harus-sasar-pengendali/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Presiden."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TERORISME EKOLOGI: Membakar Hutan dan Lahan, Membakar Kehidupan - Ecobiz Asia",
+   "media": "Ecobiz Asia",
+   "tanggal": "23 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ecobiz.asia/terorisme-ekologi-membakar-hutan-dan-lahan-membakar-kehidupan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menkum soal Terorisme Ekologi: Prinsipnya Menjaga Lingkungan Itu Penting - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla",
+    "\"teroris ekologi\" Prabowo"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/09/29/17264151/menkum-soal-terorisme-ekologi-prinsipnya-menjaga-lingkungan-itu-penting",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "ujar Prabowo, dalam rapat penanganan karhutla yang digelar secara hybrid dari Istana, Jakarta, Rabu (16/9/2026).",
+    "Presiden RI menegaskan pemerintah telah bekerja maksimal dalam melakukan mitigasi dan tidak ingin dampak kebakaran hutan Indonesia merepotkan negara lain."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menkum Kaji Penerapan Sanksi Terorisme Ekologi Pelaku Karhutla | JMP - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologis\"",
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.tv/nasional/693495/menkum-kaji-penerapan-sanksi-terorisme-ekologi-pelaku-karhutla-jmp",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Supratman menjelaskan, perintah ini disampaikan Presiden untuk menjaga kelestarian lingkungan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Kejahatan Ekonomi atau Administrasi? - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/karhutla-kejahatan-ekonomi-atau-administrasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Arahan Presiden soal Terorisme Ekologi Direspons Menkum - RIAU1.COM",
+   "media": "RIAU1.COM",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "\"terorisme ekologi\" karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.riau1.com/berita/hukum/arahan-presiden-soal-terorisme-ekologi-direspons-menkum",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ilustrasi/Net\nRIAU1.COM - Menteri Hukum (Menkum) Supratman Andi Agtas merespons arahan Presiden Prabowo Subianto terkait wacana memperberat sanksi hukum terhadap pelaku pembakaran hutan dan lahan (karhutla), termasuk kemungkinan menggolongkannya sebagai terorisme ekologi.",
+    "kata Supratman di Istana Merdeka, Jakarta, Rabu, 30 September 2026 yang dimuat Rmol.id."
+   ],
+   "kalimat_walhi": []
+  }
+ ]
+}

@@ -1,0 +1,494 @@
+{
+ "id": "P05",
+ "tanggal": "2026-08-27",
+ "rentang": [
+  "2026-08-26",
+  "2026-09-11"
+ ],
+ "kueri": [
+  "walhi \"RUU Daerah Kepulauan\" koreksi pembangunan",
+  "walhi \"RUU Daerah Kepulauan\"",
+  "\"RUU Daerah Kepulauan\"",
+  "KIARA \"RUU Daerah Kepulauan\""
+ ],
+ "jejaring": [
+  "KIARA",
+  "JATAM"
+ ],
+ "jumlah_berita": 27,
+ "berita": [
+  {
+   "judul": "Mercy Barends: RUU Daerah Kepulauan Disusun Untuk Menjawab Kebutuhan Masyarakat - gesuri.id",
+   "media": "gesuri.id",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.gesuri.id/pemerintahan/mercy-barends-ruu-daerah-kepulauan-disusun-untuk-menjawab-kebutuhan-masyarakat-b2pYLZbhCB",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jakarta, Gesuri.id - Ketua Tim Panitia Khusus (Pansus) RUU Daerah Kepulauan DPR RI, Mercy Chriesty Barends, mengatakan rumusan mulai dari judul, pasal, hingga ayat dalam RUU Daerah Kepulauan diarahkan untuk menjawab kebutuhan masyarakat, khususnya yang tinggal di wilayah kepulaua",
+    "Mercy mengatakan, Pansus berupaya menghimpun masukan seluas-luasnya dari kementerian dan lembaga, pemerintah daerah, unsur masyarakat, organisasi kepemudaan, tokoh agama, tokoh perempuan, tokoh pemuda, hingga masyarakat adat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "BNPP Dorong Pengelolaan Pulau-Pulau Kecil Terluar dalam RUU Daerah Kepulauan - SINDOnews Nasional",
+   "media": "SINDOnews Nasional",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.sindonews.com/read/1745671/15/bnpp-dorong-pengelolaan-pulau-pulau-kecil-terluar-dalam-ruu-daerah-kepulauan-1788340198",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "BNPP Tekankan Pentingnya Pengelolaan PPKT dalam RUU Daerah Kepulauan - detikNews",
+   "media": "detikNews",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.detik.com/berita/d-8645346/bnpp-tekankan-pentingnya-pengelolaan-ppkt-dalam-ruu-daerah-kepulauan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Sewitri Dorong RUU Daerah Kepulauan Menjadi Jalan Keadilan Pembangunan - CAKAPLAH.com",
+   "media": "CAKAPLAH.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cakaplah.com/berita/baca/139816/2026/09/03/sewitri-dorong-ruu-daerah-kepulauan-menjadi-jalan-keadilan-pembangunan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "RUU Daerah Kepulauan Harus Pastikan Keseimbangan Ekologi dan Kesejahteraan - Partai NasDem",
+   "media": "Partai NasDem",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "walhi \"RUU Daerah Kepulauan\"",
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://partainasdem.id/2026/09/04/ruu-daerah-kepulauan-harus-pastikan-keseimbangan-ekologi-dan-kesejahteraan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Hal tersebut disampaikan anggota Panitia Khusus (Pansus) RUU Daerah Kepulauan Julie Sutrisno Laiskodat dalam Rapat Dengar Pendapat (RDP) Pansus RUU Daerah Kepulauan dengan Wahana Lingkungan Hidup Indonesia (Walhi), Forest Watch Indonesia (F"
+   ]
+  },
+  {
+   "judul": "Dosen UBB Buka Suara Soal Kasus Timah Babel: Bukan Cuma Kerugian Negara, Korban Jangan Bebani Risiko Baru - Wow Babel - Wow Babel",
+   "media": "Wow Babel",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "walhi \"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pansus DPR RI Optimistis RUU Daerah Kepulauan Rampung Tahun Ini - fraksi gerindra dpr-ri",
+   "media": "fraksi gerindra dpr-ri",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.fraksigerindra.id/pansus-dpr-ri-optimistis-ruu-daerah-kepulauan-rampung-tahun-ini/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Mercy: Pansus RUU Daerah Kepulauan Dorong Dana Khusus untuk Wujudkan Keadilan Fiskal - gesuri.id",
+   "media": "gesuri.id",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.gesuri.id/pemerintahan/mercy-pansus-ruu-daerah-kepulauan-dorong-dana-khusus-untuk-wujudkan-keadilan-fiskal-b2qaYZbhIF",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ketua Pansus RUU Daerah Kepulauan DPR RI dari Fraksi PDI Perjuangan Mercy Chriesty Barends, menilai mekanisme pendanaan yang berlaku saat ini belum sepenuhnya mampu menjawab persoalan yang dihadapi daerah dengan karakter geografis kepulauan.",
+    "Kemenkeu Diminta Hitung Kebutuhan Rasional\nUntuk memastikan kebijakan DKK dapat diterapkan secara realistis, Pansus meminta Kementerian Keuangan melakukan simulasi mengenai kebutuhan pendanaan daerah kepulauan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Segera Sahkan RUU Daerah Kepulauan untuk Atasi Ketimpangan Pembangunan - Partai NasDem",
+   "media": "Partai NasDem",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://partainasdem.id/2026/09/07/segera-sahkan-ruu-daerah-kepulauan-untuk-atasi-ketimpangan-pembangunan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Ali Mazi dalam Rapat Dengar Pendapat Umum (RDPU) Pansus RUU Daerah Kepulauan DPR RI dengan sejumlah pakar di Kompleks Parlemen, Senayan, Jakarta, Senin (7/9/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "RUU Daerah Kepulauan dinilai harus beri kepastian investasi pertambangan - ANTARA News Sultra",
+   "media": "ANTARA News Sultra",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sultra.antaranews.com/berita/540436/ruu-daerah-kepulauan-dinilai-harus-beri-kepastian-investasi-pertambangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara itu, Anggota Panitia Khusus (Pansus) RUU Daerah Kepulauan DPR RI Julie Sutrisno Laiskodat menegaskan RUU ini ditargetkan mampu menjadi instrumen penyeimbang antara perlindungan ekologi dan peningkatan kesejahteraan warga setempat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "DAU Dinilai Tak Adil, Pansus Dorong Dana Khusus Kepulauan - Batamtoday.com",
+   "media": "Batamtoday.com",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://batamtoday.com/news/formula-dau-dinilai-tak-adil-dpr-dorong-dana-khusus-kepulauan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Siti mengatakan pemerintah dan DPR perlu merumuskan indikator yang tepat untuk menentukan besaran afirmasi fiskal bagi daerah kepulauan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pakar Nilai RUU Daerah Kepulauan Harus Beri Kepastian Investasi Pertambangan - Majalah TAMBANG",
+   "media": "Majalah TAMBANG",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "walhi \"RUU Daerah Kepulauan\"",
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://tambang.co.id/pakar-nilai-ruu-daerah-kepulauan-harus-beri-kepastian-investasi-pertambangan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Sementara itu, Anggota Panitia Khusus (Pansus) RUU Daerah Kepulauan, Julie Sutrisno Laiskodat dalam Rapat Dengar Pendapat (RDP) Pansus RUU Daerah Kepulauan dengan Wahana Lingkungan Hidup Indonesia (Walhi), Forest Watch Indonesia (FWI), dan "
+   ]
+  },
+  {
+   "judul": "DPR dorong Dana Khusus Kepulauan fokus tingkatkan kesejahteraan masyarakat - ANTARA News Sultra",
+   "media": "ANTARA News Sultra",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sultra.antaranews.com/berita/540531/dpr-dorong-dana-khusus-kepulauan-fokus-tingkatkan-kesejahteraan-masyarakat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "DPR dorong Dana Khusus Kepulauan fokus tingkatkan kesejahteraan masyarakat\nJakarta (ANTARA) - Anggota Pansus RUU Daerah Kepulauan DPR RI Siti Mukaromah mengatakan bahwa Dana Khusus Kepulauan (DKK) harus berorientasi pada kesejahteraan masyarakat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bahasan RUU Daerah Kepulauan Mengarah Pada Skema Lex Specialis - VIVA.co.id",
+   "media": "VIVA.co.id",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.viva.co.id/berita/nasional/1927700-bahasan-ruu-daerah-kepulauan-mengarah-pada-skema-lex-specialis",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Gubernur Lampung Rahmat Mirzani Djausal mengatakan bahwa mulai Jumat, 11 September 2026 besok siswa di wilayahnya kembali bersekolah normal seperti biasa.",
+    "Gubernur Sumatera Utara (Sumut), Muhammad Bobby Afif Nasution memastikan percepatan pembangunan kawasan pertanian di Kabupaten Langkat mulai direalisasikan pada 2027."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pansus DPR Kaji Lex Specialis untuk Atasi Ketimpangan Daerah Kepulauan - detikNews",
+   "media": "detikNews",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.detik.com/berita/d-8657350/pansus-dpr-kaji-lex-specialis-untuk-atasi-ketimpangan-daerah-kepulauan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jakarta -\nKetua Panitia Khusus (Pansus) RUU Daerah Kepulauan DPR RI, Mercy Chriesty Barends, mengatakan pembahasan RUU Daerah Kepulauan mengarah pada skema lex specialis sebagai kerangka hukum khusus untuk wilayah kepulauan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menjaga Urat Nadi Kepulauan, dari Angkutan Perintis hingga RUU Daerah Kepulauan - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/semarang/sudut-pandang/2719263/menjaga-urat-nadi-kepulauan-dari-angkutan-perintis-hingga-ruu-daerah-kepulauan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "RUU Daerah Kepulauan Dikebut, DPR Targetkan Rampung Tahun Ini - detikcom",
+   "media": "detikcom",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "walhi \"RUU Daerah Kepulauan\"",
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/bali/nusra/d-8659201/ruu-daerah-kepulauan-dikebut-dpr-targetkan-rampung-tahun-ini",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Anggota Komisi IV DPR RI Herry Dermawan mengatakan pihaknya turun ke Nusa Tenggara Barat (NTB) untuk menyerap aspirasi sekaligus memetakan persoalan yang dihadapi daerah kepulauan.",
+    "ujar Herry di Kantor Gubernur NTB, Jumat (11/9/2026).",
+    "Herry mengatakan Pemprov NTB telah menerapkan wawasan kepulauan dalam tata kelola dan kurikulum.",
+    "Terpisah, Anggota DPD RI asal Daerah Pemilihan (Dapil) NTB, TGH Ibnu Halil, menegaskan komitmennya untuk mengawal pengesahan Rancangan Undang-Undang (RUU) Provinsi Kepulauan di DPR.",
+    "Secara terpisah, Gubernur NTB Lalu Muhamad Iqbal menegaskan bahwa dorongan terhadap RUU Provinsi Kepulauan bukan semata-mata untuk meminta tambahan alokasi anggaran dari pusat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Sulawesi Tenggara Dorong Skema Pendanaan Khusus dalam RUU Daerah Kepulauan - Sultratop.com",
+   "media": "Sultratop.com",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "walhi \"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://sultratop.com/sulawesi-tenggara-dorong-skema-pendanaan-khusus-dalam-ruu-daerah-kepulauan/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pimpinan DPR RI Bagi Tugas di Rapur dan Audiensi Pedemo, Puan Kembali Tegaskan DPR Terbuka dengan Aspirasi Rakyat - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "walhi \"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/KvJCJx39-pimpinan-dpr-ri-bagi-tugas-di-rapur-dan-audiensi-pedemo-puan-kembali-tegaskan-dpr-terbuka-dengan-aspirasi-rakyat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ketua DPR RI Puan Maharani kembali menegaskan DPR terbuka dengan aspirasi masyarakat.",
+    "Hal ini menyusul kehadiran Aktivis Aliansi Masyarakat Pati Bersatu, Supriyono alias Botok, dalam Rapat Paripurna DPR, Kamis, 27 Agustus 2026 (Foto:Dok.DPR RI)\nPimpinan DPR RI Bagi Tugas di Rapur dan Audiensi Pedemo, Puan Kembali Tegaskan DPR Terbuka dengan Aspirasi Rakyat\nRosa An",
+    "“Dari awal kami mengatakan bahwa gedung DPR ini terbuka untuk menerima aspirasi dari masyarakat, namun ada aturan dan mekanismenya,”",
+    "kata Puan, usai Rapat Paripurna DPR di Kompleks Parlemen, Senayan, Jakarta, pada Kamis, 27 Agustus 2026.",
+    "Terkait hal ini, Puan menegaskan DPR siap menerima aspirasi masyarakat namun perlu mengikuti prosedur yang ada.",
+    "ucap perempuan pertama yang menjabat sebagai Ketua DPR RI itu."
+   ],
+   "kalimat_walhi": [
+    "Di antaranya Rapat Dengar Pendapat (RDP) Pansus RUU Daerah Kepulauan dengan pihak Kementerian Keuangan, dan RDPU Pansus RUU tentang Daerah Kepulauan dengan Wahana Lingkungan Hidup (WALHI), Forest Watch Indonesia (FWI), dan Sajogyo Institute"
+   ]
+  },
+  {
+   "judul": "Pansus RUU Daerah Kepulauan Kunjungi Bangka Belitung, Bahas Dana Khusus dan Kewenangan- Video - Bangkapos.com",
+   "media": "Bangkapos.com",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bangka.tribunnews.com/video/1694448/pansus-ruu-daerah-kepulauan-kunjungi-bangka-belitung-bahas-dana-khusus-dan-kewenangan-video",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Ketua DPRD Babel Minta RUU Daerah Kepulauan Serius untuk Diselesaikan Menjadi Undang Undang - Bangkapos.com",
+   "media": "Bangkapos.com",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bangka.tribunnews.com/lokal/1694406/ketua-dprd-babel-minta-ruu-daerah-kepulauan-serius-untuk-diselesaikan-menjadi-undang-undang",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "DPD RI Dorong Dana Khusus Kepulauan Masuk RUU Daerah Kepulauan - Batamtoday.com",
+   "media": "Batamtoday.com",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://batamtoday.com/news/dpd-ri-dorong-dana-khusus-kepulauan-masuk-ruu-daerah-kepulauan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hendry Munief Dorong RUU Daerah Kepulauan Berbasis Keadilan Geografis - CAKAPLAH.com",
+   "media": "CAKAPLAH.com",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cakaplah.com/berita/baca/139639/2026/08/30/hendry-munief-dorong-ruu-daerah-kepulauan-berbasis-keadilan-geografis",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Tuntut Koreksi Pembangunan Pesisir lewat RUU Daerah Kepulauan - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"RUU Daerah Kepulauan\" koreksi pembangunan",
+    "walhi \"RUU Daerah Kepulauan\"",
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://rri.co.id/pekanbaru/regional/2697043/walhi-tuntut-koreksi-pembangunan-pesisir-lewat-ruu-daerah-kepulauan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Martin Tumbelaka: RUU Daerah Kepulauan Jadi Payung Hukum Perkuat Pembangunan Wilayah Kepulauan - Gerindra",
+   "media": "Gerindra",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://gerindra.id/2026/08/31/martin-tumbelaka-ruu-daerah-kepulauan-jadi-payung-hukum-perkuat-pembangunan-wilayah-kepulauan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Anggota Panitia Khusus (Pansus) RUU tentang Daerah Kepulauan DPR RI, Martin Daniel Tumbelaka, menegaskan bahwa RUU Daerah Kepulauan sangat dibutuhkan, khususnya bagi masyarakat di wilayah kepulauan seperti Sulawesi Utara."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hendry Munief Dorong RUU Daerah Kepulauan Berbasis Realitas dan Keadilan Geografis - Fraksi PKS",
+   "media": "Fraksi PKS",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://fraksi.pks.id/2026/08/31/hendry-munief-dorong-ruu-daerah-kepulauan-berbasis-realitas-dan-keadilan-geografis/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "RUU Daerah Kepulauan Hitung Beban Geografis - NUSABALI.com",
+   "media": "NUSABALI.com",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "\"RUU Daerah Kepulauan\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.nusabali.com/berita/229695/ruu-daerah-kepulauan-hitung-beban-geografis",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Mercy mengatakan setelah seluruh masukan daerah dan Daftar Inventarisasi Masalah (DIM) dari fraksi-fraksi DPR RI terkumpul, Pansus akan merumuskannya menjadi satu DIM DPR RI dan menunggu DIM dari pemerintah."
+   ],
+   "kalimat_walhi": []
+  }
+ ]
+}

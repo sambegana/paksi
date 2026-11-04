@@ -1,0 +1,396 @@
+{
+ "id": "R32",
+ "tanggal": "2026-09-28",
+ "rentang": [
+  "2026-09-27",
+  "2026-10-13"
+ ],
+ "kueri": [
+  "walhi PSEL triliun",
+  "walhi \"33 PSEL\"",
+  "PSEL Danantara",
+  "PSEL \"89 triliun\"",
+  "AZWI PSEL"
+ ],
+ "jejaring": [
+  "AZWI"
+ ],
+ "jumlah_berita": 21,
+ "berita": [
+  {
+   "judul": "Harapan dan Potensi Risiko di Balik Proyek PSEL di Kabupaten Bandung - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi PSEL triliun"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/harapan-dan-potensi-risiko-di-balik-proyek-psel-di-bandung-barat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 11,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Walhi Jabar dan masyarakat di sekitar kawasan itu juga berharap pemerintah pusat dan Pemprov Jabar merespons hasil kajian ini dan menyiapkan upaya mitigasi atas potensi risiko tersebut.",
+    "Sementara itu, Pemprov Jabar menyatakan pihaknya bersama dengan PT Jabar Environmental Solutions (JES) telah melakukan penandatanganan perubahan dan pernyataan kembali Perjanjian Kerja Sama Proyek Kerja Sama Pemerintah dengan Badan Usaha (KPBU) TPPAS Regional Legok Nangka."
+   ],
+   "kalimat_walhi": [
+    "Kajian dari Walhi Jabar mengungkap potensi risiko proyek pengolahan sampah menjadi energi listrik di TPPAS Legok Nangka, Kabupaten Bandung.",
+    "01 Okt 2026 09:14 WIB · Lingkungan\nWALHI JAWA BARAT\nRencana pengolahan sampah menjadi energi listrik di Tempat Pengolahan dan Pemrosesan Akhir Sampah Legok Nangka, Kabupaten Bandung, Jawa Barat, menghadirkan potensi risiko lingkungan, sosia"
+   ]
+  },
+  {
+   "judul": "Dilantik Presiden, Jenderal Polisi Suyudi Ario Seto Resmi dan Sah sebagai Kapolri - Limit News - Limit News",
+   "media": "Limit News",
+   "tanggal": "01 Oct 2026",
+   "kueri": [
+    "walhi \"33 PSEL\"",
+    "PSEL \"89 triliun\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.limitnews.net/nasional/773074414/dilantik-presiden-jenderal-polisi-suyudi-ario-seto-resmi-dan-sah-sebagai-kapolri",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI dan Eiger Bicara soal Menjaga Alam, dari Kritik hingga Kolaborasi - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "04 Oct 2026",
+   "kueri": [
+    "walhi \"33 PSEL\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.suara.com/lifestyle/2026/10/04/230001/walhi-dan-eiger-bicara-soal-menjaga-alam-dari-kritik-hingga-kolaborasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "- WALHI Jawa Barat menilai pengawasan konsisten dan transparansi publik sangat penting untuk menjaga kelestarian jangka panjang kegiatan ekonomi berbasis alam.",
+    "Prinsip itulah yang melandasi interaksi antara Wahana Lingkungan Hidup Indonesia (WALHI) Jawa Barat dengan Eiger dalam pengelolaan kawasan di Bogor."
+   ]
+  },
+  {
+   "judul": "Lelang PSEL Tahap II, Danantara Targetkan Penunjukan Mitra Sebelum Akhir Tahun 2026 - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://industri.kontan.co.id/news/lelang-psel-tahap-ii-danantara-targetkan-penunjukan-mitra-sebelum-akhir-tahun-2026",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Menteri Koordinator Bidang Pangan, Zulkifli Hasan usai peresmian PSEL di Desa Galuga, Bogor, Kamis (17/9/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Danantara Target 12 Pembangkit Listrik Tenaga Sampah Groundbreaking Sebelum Akhir 2026 - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://money.kompas.com/read/2026/10/06/185307326/danantara-target-12-pembangkit-listrik-tenaga-sampah-groundbreaking-sebelum",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Rosan Kejar Groundbreaking PSEL di 12 Kota hingga Akhir 2026 - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/KdZCPRQO-rosan-kejar-groundbreaking-psel-di-12-kota-hingga-akhir-2026",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Targetkan Groundbreaking PSEL di 12 Kota Sebelum Akhir 2026 - jurnas.com",
+   "media": "jurnas.com",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.jurnas.com/artikel/1666671/pemerintah-targetkan-groundbreaking-psel-di-12-kota-sebelum-akhir-2026/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Danantara Targetkan Groundbreaking 12 Proyek PSEL Sebelum Akhir 2026 - Lensa Hukum",
+   "media": "Lensa Hukum",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lensahukum.co.id/danantara-targetkan-groundbreaking-proyek-psel-2026",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pramono menargetkan pembangunan PSEL Bantargebang dilakukan tahun ini - ANTARA News Mataram",
+   "media": "ANTARA News Mataram",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mataram.antaranews.com/berita/574749/pramono-menargetkan-pembangunan-psel-bantargebang-dilakukan-tahun-ini",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Proyek PSEL Makassar Rp 3,5 T Groundbreaking Akhir Tahun Ini - detikcom",
+   "media": "detikcom",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/sulsel/berita/d-8698552/proyek-psel-makassar-rp-3-5-t-groundbreaking-akhir-tahun-ini",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Utama PT GPI Zizca Candra Karmila mengatakan pihaknya terus berkomunikasi dengan Pemkot Makassar terkait proses penghentian kontrak yang kemudian akan diambil alih Danantara.",
+    "Sementara itu, Wali Kota Makassar Munafri 'Appi' Arifuddin menyebut proyek PSEL tersebut masih dalam proses berjalan.",
+    "Pemkot Makassar kini memastikan proses peralihan aturan dari Perpres Nomor 35 Tahun 2018 ke Perpres Nomor 109 Tahun 2025 berjalan jelas.",
+    "Terkait target pembangunan PSEL, Munafri mengatakan Pemkot Makassar akan segera berkoordinasi dengan pemerintah pusat dan pihak terkait.",
+    "Pemkot Makassar kini memastikan kesinambungan proyek yang sebelumnya berjalan berdasarkan Perpres 35/2018 dengan mekanisme baru berdasarkan Perpres 109/2025."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "PSEL Makassar Tetap Berjalan, Groundbreaking Ditargetkan Tahun Ini - bsinews.id",
+   "media": "bsinews.id",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bsinews.id/psel-makassar-groundbreaking-tahun-ini",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Proyek PSEL Makassar Senilai Rp3,5 Triliun Ditargetkan Mulai Dibangun Akhir 2026 - Top Konstruksi",
+   "media": "Top Konstruksi",
+   "tanggal": "09 Oct 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://topkonstruksi.com/proyek-psel-makassar-senilai-rp35-triliun-ditargetkan-mulai-dibangun-akhir-2026/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara itu, Wali Kota Makassar Munafri Arifuddin, yang akrab disapa Appi, menegaskan bahwa proyek PSEL masih berjalan dalam proses transisi.",
+    "Pemerintah kota saat ini berfokus memastikan peralihan mekanisme dari Peraturan Presiden (Perpres) Nomor 35 Tahun 2018 ke Perpres Nomor 109 Tahun 2025 berlangsung secara jelas dan sesuai ketentuan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "IHSG Terancam Anjlok Gegara MSCI, Danantara Siapkan Rp 17,89 Triliun - Deliknews.com",
+   "media": "Deliknews.com",
+   "tanggal": "11 Oct 2026",
+   "kueri": [
+    "PSEL \"89 triliun\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.deliknews.com/2026/10/11/ihsg-terancam-anjlok-gegara-msci-danantara-siapkan-rp-1789-triliun/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Rano Karno Targetkan APBD DKI 2027 Sebesar Rp 82,89 Triliun - republika.co.id",
+   "media": "republika.co.id",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "PSEL \"89 triliun\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.republika.co.id/berita/tmu6a0484/rano-karno-targetkan-apbd-dki-2027-sebesar-rp-8289-triliun",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Wakil Gubernur (Wagub) DKI Jakarta Rano Karno dalam Rapat Paripurna di Gedung DPRD DKI, Jalan Kebon Sirih, Jakarta Pusat, Selasa (13/10/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Proyek 33 PSEL Dinilai Tak Selesaikan Akar Persoalan Sampah - Validnews",
+   "media": "Validnews",
+   "tanggal": "28 Sep 2026",
+   "kueri": [
+    "walhi PSEL triliun",
+    "walhi \"33 PSEL\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://validnews.id/nasional/2026/09/28/proyek-33-psel-dinilai-tak-selesaikan-akar-persoalan-sampah-210000017",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemerintah Dianggap Abaikan Akar Krisis Sampah - Betahita",
+   "media": "Betahita",
+   "tanggal": "28 Sep 2026",
+   "kueri": [
+    "walhi PSEL triliun"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12427/pemerintah-dianggap-abaikan-akar-krisis-sampah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "\"Pemerintah dari Zulkifli Hasan hingga kementerian yang dikoordinasikannya belum menjelaskan secara terbuka berapa total biaya yang akan ditanggung negara selama masa operasional proyek dan siapa yang pada akhirnya akan menanggung risiko keuangannya selama puluhan tahun ke depan.",
+    "kata Wamen Diaz.",
+    "kata Wamen Diaz."
+   ],
+   "kalimat_walhi": [
+    "Berita\nPemerintah Dianggap Abaikan Akar Krisis Sampah\nPersoalan utama Indonesia bukan kurangnya fasilitas teknologi seperti PSEL dan RDF, tetapi kegagalan membangun sistem pengurangan sampah yang efektif\nSenin, 28 September 2026\nBETAHITA.ID",
+    "Walhi menyatakan bahwa, saat ini pemerintah masih gagal mencapai target pengurangan sampah nasional, namun pemerintah justru menggelontorkan investasi hingga Rp89 triliun untuk memperluas fasilitas pengolahan sampah skala besar."
+   ]
+  },
+  {
+   "judul": "Dianggap Bukan Solusi Akar Masalah, WALHI Soroti Pembangunan 33 PSEL dengan Investasi Rp 89 Triliun - Jawa Pos",
+   "media": "Jawa Pos",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "walhi PSEL triliun",
+    "walhi \"33 PSEL\"",
+    "PSEL \"89 triliun\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.jawapos.com/energi/2609280338/dianggap-bukan-solusi-akar-masalah-walhi-soroti-pembangunan-33-psel-dengan-investasi-rp-89-triliun",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "(ANTARA)\nJawaPos.com - Wahana Lingkungan Hidup Indonesia (WALHI) menyoroti rencana pemerintah membangun 33 Pengolahan Sampah menjadi Energi Listrik (PSEL).",
+    "Menurut WALHI, program itu salah arah karena tidak menyentuh akar masalah krisis sampah."
+   ]
+  },
+  {
+   "judul": "Hentikan Plastik ke Laut Saja Tak Cukup, Sampah Lama Bisa Berubah Jadi Mikroplastik - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "walhi PSEL triliun",
+    "walhi \"33 PSEL\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/lifestyle/2026/09/30/124330/hentikan-plastik-ke-laut-saja-tak-cukup-sampah-lama-bisa-berubah-jadi-mikroplastik",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Walhi Jawa Barat Ungkap Risiko PSEL Legok Nangka, dari Sampah hingga Dampak Lingkungan - Pikiran-Rakyat.com - Pikiran-Rakyat.com",
+   "media": "Pikiran-Rakyat.com",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "walhi PSEL triliun"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.pikiran-rakyat.com/news/pr-0110478783/walhi-jawa-barat-ungkap-risiko-psel-legok-nangka-dari-sampah-hingga-dampak-lingkungan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Penjara Mewah Lapas Cibinong Akhirnya Diratakan dengan Tanah - Limit News - Limit News",
+   "media": "Limit News",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "walhi \"33 PSEL\"",
+    "PSEL \"89 triliun\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.limitnews.net/nasional/773071098/penjara-mewah-lapas-cibinong-akhirnya-diratakan-dengan-tanah",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "SOFA Bidik Proyek WTE Danantara, Simak Transformasi Bisnis dan Aktivitas Sahamnya - Ajaib",
+   "media": "Ajaib",
+   "tanggal": "30 Sep 2026",
+   "kueri": [
+    "PSEL Danantara"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ajaib.co.id/belajar/berita/sofa-bidik-proyek-wte-danantara",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

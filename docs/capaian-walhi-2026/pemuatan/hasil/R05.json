@@ -1,0 +1,724 @@
+{
+ "id": "R05",
+ "tanggal": "2026-08-25",
+ "rentang": [
+  "2026-08-24",
+  "2026-09-09"
+ ],
+ "kueri": [
+  "walhi karhutla \"kejahatan negara\"",
+  "walhi karhutla korporasi agustus",
+  "karhutla \"kejahatan negara\" korporasi",
+  "Greenpeace karhutla korporasi",
+  "Auriga karhutla korporasi"
+ ],
+ "jejaring": [
+  "Greenpeace",
+  "Auriga"
+ ],
+ "jumlah_berita": 34,
+ "berita": [
+  {
+   "judul": "Kabut Asap dan Kejahatan Negara - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi karhutla \"kejahatan negara\"",
+    "karhutla \"kejahatan negara\" korporasi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/kabut-asap-dan-kejahatan-negara",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi mencatat, sebanyak 10.739 titik api berada di konsesi perkebunan sawit, 7.880 titik api di konsesi pertambangan, dan 6.905 lainnya di kawasan izin usaha pemanfaatan hutan."
+   ]
+  },
+  {
+   "judul": "WALHI Desak Pemerintah Cabut Izin Korporasi yang Terbukti Sebabkan Karhutla - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/928973/walhi-desak-pemerintah-cabut-izin-korporasi-yang-terbukti-sebabkan-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (WALHI) Kalimantan Barat mendesak pemerintah menindak tegas korporasi yang areal konsesinya terbakar serta mengevaluasi izin perusahaan guna mencegah kebakaran hutan dan lahan (karhutla) berulang.",
+    "kata Divisi Advokasi dan Kampanye WALHI Kalbar Indra Syahnanda di Pontianak, Rabu (2/9)."
+   ]
+  },
+  {
+   "judul": "Belgis Habiba Greenpeace Soroti Penegakan Hukum Karhutla: Tidak Tajam ke Korporasi - SINDOnews Nasional",
+   "media": "SINDOnews Nasional",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.sindonews.com/read/1745515/12/belgis-habiba-greenpeace-soroti-penegakan-hukum-karhutla-tidak-tajam-ke-korporasi-1788314989",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Desak Pemerintah Evaluasi Izin Korporasi terkait Karhutla - JPNN.com",
+   "media": "JPNN.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.jpnn.com/news/walhi-desak-pemerintah-evaluasi-izin-korporasi-terkait-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI Desak Pemerintah Evaluasi Izin Korporasi terkait Karhutla\njpnn.com - Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Barat mendesak pemerintah menindak tegas korporasi yang konsesinya terbakar.",
+    "kata Divisi Advokasi dan Kampanye WALHI Kalbar Indra Syahnanda di Pontianak, Rabu (2/9/2026)."
+   ]
+  },
+  {
+   "judul": "Karhutla: Presiden Prabowo dan sejumlah pihak digugat warga Kalimantan Barat yang terdampak karhutla - BBC",
+   "media": "BBC",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/cp80v0de515o",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [
+    "kata Wali Kota Palembang, Ratu Dewa, Selasa (08/09).",
+    "ujar Bambang, personel pemadam dari Dinas Kehutanan kepada jurnalis BBC Indonesia, Quin Pasaribu.",
+    "Meski Dinas Kesehatan setempat mengatakan kematian korban \"tidak meninggal sepenuhnya karena ISPA\", keluarga menyebut kondisi kesehatannya memburuk selama periode kabut asap.",
+    "Mengutip laporan Antara, Kepala Dinas Kesehatan Murung Raya Suwirman Hutagalung mengatakan korban juga memiliki riwayat kelainan ginjal yang telah lama diderita.",
+    "Pelaksana Tugas (Plt) Kepala Pusat Data, Informasi, dan Komunikasi Kebencanaan BNPB, Berton SP Panjaitan, menyatakan pihaknya memberikan penghormatan khusus kepada relawan yang gugur di garis depan tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Walhi Minta Negara dan Korporasi Tanggung Jawab soal Karhutla - IDN Times",
+   "media": "IDN Times",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.idntimes.com/news/indonesia/walhi-minta-negara-dan-korporasi-tanggung-jawab-soal-karhutla-00-rgfwk-m60bq8",
+   "teks_terbaca": true,
+   "walhi_di_isi": 25,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Minta Negara dan Korporasi Tanggung Jawab soal Karhutla\n- Walhi menilai karhutla Agustus 2026 bukan semata dampak El Nino, melainkan terkait tata kelola hutan dan gambut, pengawasan lemah, serta penegakan hukum yang belum optimal.",
+    "- Pemantauan Walhi mencatat 202.848 hotspot nasional pada 1-24 Agustus, termasuk 12.165 berstatus high confidence; titik kebakaran juga banyak ditemukan di konsesi perusahaan di Sumatra, Kalimantan, dan Papua."
+   ]
+  },
+  {
+   "judul": "Aktivis Malaysia Demo KBRI KL, Tuntut Indonesia Buka Data Perusahaan Sawit Biang Kebakaran Hutan - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/09/04/135433/aktivis-malaysia-demo-kbri-kl-tuntut-indonesia-buka-data-perusahaan-sawit-biang-kebakaran-hutan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kabut Asap Memanas, Greenpeace Malaysia Desak Indonesia Bongkar Perusahaan Terkait Karhutla - Aktualita.co",
+   "media": "Aktualita.co",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://aktualita.co/internasional/kabut-asap-memanas-greenpeace-malaysia-desak-indonesia-bongkar-perusahaan-terkait-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Lima Korporasi Hutan di Kalbar Dibekukan Termasuk Mayawana - Betahita",
+   "media": "Betahita",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12326/lima-korporasi-hutan-di-kalbar-dibekukan-termasuk-mayawana",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Auriga"
+   ],
+   "kalimat_pemerintah": [
+    "ujar Menteri Kehutanan\nLima korporasi itu adalah:\n1."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Singgung Karhutla Berulang, Greenpeace Beber Risetnya soal Sanksi ke Korporasi Besar - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.tv/nasional/689229/singgung-karhutla-berulang-greenpeace-beber-risetnya-soal-sanksi-ke-korporasi-besar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [
+    "Asep menjelaskan, pihaknya memang menemukan banyak sanksi administratif dari Kementerian Lingkungan Hidup dan Kehutanan pada korporasi diduga terlibat karhutla."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Walhi Beberkan Karhutla di Konsesi dan PSN - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mongabay.co.id/2026/09/07/walhi-beberkan-karhutla-di-konsesi-dan-psn/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 18,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Tak bisa ungkap nama perusahaan\nRistianto Pribadi, Kepala Biro Hubungan Masyarakat dan Kerjasama Luar Negeri, Kementerian Kehutanan, mengatakan, untuk sementara, belum dapat mengungkapkan informasi nama lengkap perusahaan.",
+    "Saat Prabowo berkunjung dan rapat koordinasi bahas karhutla, Kapolda Sumsel Sandi Nugroho, mengatakan telah ingatkan PTPN VII tidak lakukan praktik membakar."
+   ],
+   "kalimat_walhi": [
+    "- Walhi menegaskan biang kerok karhutla adalah korporasi skala besar.",
+    "Walhi Sumatera Selatan (Sumsel), melaporkan karhutla pada Agustus paling besar."
+   ]
+  },
+  {
+   "judul": "Ratusan orang jadi tersangka karhutla – Bisakah diusut tuntas tanpa dalami keterlibatan korporasi? - BBC",
+   "media": "BBC",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/c4g5e5rlgx3o",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [
+    "Kepada Presiden Prabowo Subianto, Senin (07/09), Kapolri Jenderal Listyo Sigit menyebut institusinya sedang mengusut 200 laporan terkait karhutla.",
+    "Selain mengusut orang per orang, Listyo menyebut Polri sedang \"memproses delapan perusahaan\".",
+    "Listyo juga menyebut terdapat 42 perusahaan yang diusut oleh Kementerian Lingkungan Hidup.",
+    "Polres Biak, Senin (07/09), menyatakan tengah menyelidiki satu orang yang mereka tuding membakar lahannya sendiri.",
+    "Ketua YLBHI, Muhammad Isnur, menyebut fakta bahwa Kementerian Lingkungan Hidup mengawasi 21 perusahaan di kawasannya—seluas 11.404 hektare—terbakar serta Kementerian Kehutanan yang menjatuhkan sanksi administratif kepada enam perusahaan di Kalimantan selama karhutla beberapa bula",
+    "Sejak awal Agustus Presiden Prabowo mengklaim telah \"memberi arahan agar penanganan karhutla bisa maksimal dan terkoordinasi\"."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Malapetaka Asap Karhutla dan Ketiadaan Kepemimpinan Prabowo - Greenpeace",
+   "media": "Greenpeace",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi",
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.greenpeace.org/indonesia/siaran-pers/67786/malapetaka-asap-karhutla-dan-ketiadaan-kepemimpinan-prabowo/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace",
+    "Auriga"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "ujar Janang Firman Palanungkai dari WALHI Kalimantan Tengah.",
+    "Narahubung:\nYLBHI, Auriga Nusantara, Greenpeace Indonesia, Trend Asia, WALHI Kalimantan Tengah, PHLI, CISDI"
+   ]
+  },
+  {
+   "judul": "Greenpeace: Ancaman Pembatalan HGU Tak Cukup,Pemerintah Harus Audit Tata Kelola Lahan - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kontan.co.id/news/greenpeace-ancaman-pembatalan-hgu-tak-cukuppemerintah-harus-audit-tata-kelola-lahan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace"
+   ],
+   "kalimat_pemerintah": [
+    "Baca Juga: Seskab: Presiden Prabowo Perintahkan Penertiban Kawasan Hutan Dilakukan Secara Tegas \nAsep menambahkan, penegakan hukum terhadap kasus karhutla juga tidak seharusnya hanya berfokus pada pencarian pihak yang menyalakan api.",
+    "Baca Juga: Kemenhut Jatuhkan Sanksi 6 Perusahaan Imbas Karhutla di Kalimantan \nNusron mengatakan, pemerintah akan melakukan identifikasi, verifikasi, dan pengkajian terhadap lahan yang terbakar sebelum menentukan sanksi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bukan Negara (Korporasi) Api - Betahita",
+   "media": "Betahita",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/opini/12338/bukan-negara-korporasi-api",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Auriga"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Mendorong Penindakan Korporasi Besar di Balik Kasus Karhutla - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "Greenpeace karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla: Empat perusahaan diselidiki di Kalimantan, pengamat minta 'jangan ada tebang pilih' - BBC",
+   "media": "BBC",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/c5y6yxep249o",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [
+    "Auriga"
+   ],
+   "kalimat_pemerintah": [
+    "Sebelumnya, Menteri Sekretaris Negara (Mensesneg), Prasetyo Hadi, mengklaim sudah ada empat perusahaan di Kalimantan Barat yang sedang dalam penyelidikan.",
+    "Di situ, Tenaga Ahli Kepala BNPB, Asrianus Bulo, mengklaim berdasarkan data satelit 24 jam terakhir, ada 198 titik api dengan tingkat tinggi.",
+    "Sekretaris Kabinet, Teddy Indra Wijaya, mengatakan instruksi Presiden adalah agar karhutla gambut ditangani cepat dan optimal.",
+    "\"Presiden juga meminta setiap pelanggaran hukum yang ditemukan ditindak secara tegas sesuai ketentuan yang berlaku.\"",
+    "\"Presiden menekankan agar pemerintah daerah tegas dalam menerapkan aturan di wilayahnya, sekaligus memperkuat langkah-langkah pencegahan agar kebakaran hutan dan lahan tidak terus berulang,\"",
+    "Terkait penindakan hukum, setidaknya ada empat perusahaan di Kalimantan Barat yang kini menjalani penyelidikan, kata Menteri Sekretaris Negara, Prasetyo Hadi."
+   ],
+   "kalimat_walhi": [
+    "Koordinator Kampanye Walhi Nasional, Uli Arta Siagian, mengatakan berkaca pada catatan lembaganya, sejak Juli 2026, sebanyak 74% titik api di Kalimantan berada di area konsesi.",
+    "Walhi lantas mendeteksi peningkatan tajam sepanjang Juli 2026."
+   ]
+  },
+  {
+   "judul": "10 Korporasi Konsesi Penyumbang Titik Api Karhutla Terbanyak di Kalimantan 2026 - GoodStats",
+   "media": "GoodStats",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://goodstats.id/article/10-korporasi-konsesi-penyumbang-titik-api-karhutla-terbanyak-di-kalimantan-8ZLmd",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Auriga"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "8 Temuan Karhutla 2026 versi MapBiomas Auriga Nusantara, NTT Lampaui Kalbar - Kabar24",
+   "media": "Kabar24",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kabar24.bisnis.com/read/20260824/15/1998679/8-temuan-karhutla-2026-versi-mapbiomas-auriga-nusantara-ntt-lampaui-kalbar",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Beda Data Karhutla, Temuan MapBiomas 66% Lebih Luas dari SiPongi Kemenhut - Kabar24",
+   "media": "Kabar24",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kabar24.bisnis.com/read/20260824/15/1998677/beda-data-karhutla-temuan-mapbiomas-66-lebih-luas-dari-sipongi-kemenhut",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla Kalimantan: Korporasi Picu Asap, Peladang Jadi Kambing Hitam - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/karhutla-kalimantan-korporasi-picu-asap-peladang-jadi-kambing-hitam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Direktur Pengawasan, Pengenaan Sanksi Administratif, dan Keperdataan Kehutanan Kemenhut Ardi Risman."
+   ],
+   "kalimat_walhi": [
+    "Walhi sebut karhutla Kalimantan dipicu korporasi di lahan gambut.",
+    "Hal itu disampaikan Walhi dalam siaran pers daring bertajuk ”Indonesia Dicekik Asap, Rakyat Sesak Napas, Pemerintah Gimmick Saja?”, Selasa (25/8/2026)."
+   ]
+  },
+  {
+   "judul": "Walhi Bongkar Jejak Karhutla di Konsesi PT MAS, Kebakaran Berulang Sejak 2014 - Riau Online",
+   "media": "Riau Online",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.riauonline.co.id/kota-pekanbaru/read/2026/08/25/walhi-bongkar-jejak-karhutla-di-konsesi-pt-mas-kebakaran-berulang-sejak-2014",
+   "teks_terbaca": true,
+   "walhi_di_isi": 21,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "RIAU ONLINE, PEKANBARU - Wahana Lingkungan Hidup Indonesia (Walhi) Riau menyoroti kebakaran hutan dan lahan (karhutla) yang terjadi di wilayah konsesi perusahaan sawit, PT Meskom Agro Sarimas (MAS), di Kabupaten Bengkalis.",
+    "Walhi menilai kebakaran tersebut menjadi persoalan serius karena lokasi perusahaan berada di kawasan pulau kecil yang memiliki kerentanan ekologis tinggi."
+   ]
+  },
+  {
+   "judul": "WALHI: Karhutla Riau Terus Berulang, Penegakan Hukum Korporasi Dipertanyakan - Riau Online",
+   "media": "Riau Online",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.riauonline.co.id/kota-pekanbaru/read/2026/08/25/walhi-karhutla-riau-terus-berulang-penegakan-hukum-korporasi-dipertanyakan",
+   "galat": "The read operation timed out",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Bareskrim Tetapkan 72 Tersangka Karhutla, Data FIRMS Ungkap Indikasi Keterlibatan Konsesi Korporasi - Sumbarsatu",
+   "media": "Sumbarsatu",
+   "tanggal": "25 Aug 2026",
+   "kueri": [
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumbarsatu.com/berita/35420-bareskrim-tetapkan-72-tersangka-karhutla-data-firms-ungkap-indikasi-keterlibatan-konsesi-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Auriga"
+   ],
+   "kalimat_pemerintah": [
+    "Meskipun demikian, Presiden Prabowo Subianto secara tegas mengancam akan mencabut izin usaha korporasi mana pun yang terbukti terlibat langsung maupun lalai dalam menjaga area konsesinya dari ancaman api."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bekas Karhutla Ditanam Akasia, Walhi Riau Desak Polda Usut Korporasi - Riau Online",
+   "media": "Riau Online",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.riauonline.co.id/lingkungan/read/2026/08/26/bekas-karhutla-ditanam-akasia-walhi-riau-desak-polda-usut-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 18,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "RIAU ONLINE, PEKANBARU - Wahana Lingkungan Hidup Indonesia (WALHI) Riau mendesak Polda Riau segera melakukan penyelidikan dan penegakan hukum terhadap empat korporasi yang diduga berkaitan dengan kebakaran hutan dan lahan (karhutla) di Prov",
+    "Direktur WALHI Riau, Eko Yunanda, mengatakan dugaan tersebut perlu ditindaklanjuti secara serius karena sejumlah lokasi yang terbakar berada di kawasan gambut dan bahkan beririsan dengan kawasan konservasi Cagar Biosfer Giam Siak Kecil."
+   ]
+  },
+  {
+   "judul": "Sanksi 6 Perusahaan Terkait Karhutla Kalimantan Dinilai Belum Cukup, Walhi Soroti Transparansi - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://regional.kompas.com/read/2026/08/26/151339578/sanksi-6-perusahaan-terkait-karhutla-kalimantan-dinilai-belum-cukup-walhi?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kemenhut juga menegaskan sanksi dapat ditingkatkan apabila kewajiban yang diberikan kepada perusahaan tidak dipenuhi, termasuk hingga pencabutan perizinan berusaha."
+   ],
+   "kalimat_walhi": [
+    "Penulis\nPALANGKA RAYA, KOMPAS.com - Wahana Lingkungan Hidup Indonesia (Walhi) Kalimantan Tengah menilai sanksi yang dijatuhkan Kementerian Kehutanan (Kemenhut) kepada enam perusahaan terkait kebakaran hutan dan lahan (karhutla) di Kalimanta",
+    "Direktur Walhi Kalteng Janang Firman Palanungkai mengapresiasi langkah pemerintah menjatuhkan sanksi kepada perusahaan yang arealnya terdampak karhutla."
+   ]
+  },
+  {
+   "judul": "Karhutla Riau Tembus 16.277 Hektare, WALHI Soroti 34 Konsesi - Cyrustimes.com",
+   "media": "Cyrustimes.com",
+   "tanggal": "26 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://cyrustimes.com/karhutla-riau-tembus-16-277-hektare-walhi-soroti-34-konsesi/",
+   "galat": "HTTP Error 520: Origin Server Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Karhutla di Tengah Jejak Modal Konsesi Sawit Malaysia-Singapura di Indonesia - bataviapos.id",
+   "media": "bataviapos.id",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "Auriga karhutla korporasi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bataviapos.id/susi-susanti/jejak-modal-malaysia-singapura-di-konsesi-sawit-dan-bayang-bayang-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace",
+    "Auriga"
+   ],
+   "kalimat_pemerintah": [
+    "Perintah pencabutan izin dari Presiden Prabowo akan menjadi ujian bagi konsistensi penegakan hukum: apakah negara mampu menindak perusahaan yang terbukti melanggar tanpa melihat asal modalnya, sekaligus memastikan pemulihan kerugian lingkungan benar-benar terlaksana."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "16.314 Hotspot di Kaltim, Walhi: 80 Persen Terdeteksi di Area Konsesi Perusahaan - EKSPOSKALTIM",
+   "media": "EKSPOSKALTIM",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://eksposkaltim.com/berita-18341-16314-hotspot-di-kaltim-walhi-80-persen-terdeteksi-di-area-konsesi-perusahaan.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Analisis WALHI Kaltim menemukan 13.475 titik atau lebih dari 80 persen di antaranya berada di dalam area konsesi perusahaan kehutanan, tambang, dan perkebunan sawit.",
+    "EKSPOSKALTIM, Balikpapan – Wahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Timur merilis temuan terkait ancaman Kebakaran Hutan dan Lahan (Karhutla) yang kembali melanda wilayah tersebut."
+   ]
+  },
+  {
+   "judul": "Walhi Sebut 99 Persen Karhutla Disebabkan Aktivitas Korporasi, Singgung Kondisi di Indonesia - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "walhi karhutla \"kejahatan negara\"",
+    "karhutla \"kejahatan negara\" korporasi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kompas.tv/nasional/688014/walhi-sebut-99-persen-karhutla-disebabkan-aktivitas-korporasi-singgung-kondisi-di-indonesia?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JAKARTA, KOMPAS.TV - Wahana Lingkungan Hidup Indonesia (Walhi) menyebut 99 persen kebakaran hutan dan lahan (karhutla) disebabkan oleh aktivitas korporasi.",
+    "Koordinator Pengkampanye Eksekutif Nasional Walhi, Uli Arta Siagian mengatakan riset yang ada terkait karhutla menyebutkan, hanya 1 persen kebakaran hutan dan lahan terjadi secara alami."
+   ]
+  },
+  {
+   "judul": "Walhi Kaltim Catat 13.475 Titik Hotspot di Wilayah Korporasi - detikcom",
+   "media": "detikcom",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.detik.com/kalimantan/kalimantan-lestari/d-8638919/walhi-kaltim-catat-13-475-titik-hotspot-di-wilayah-korporasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 11,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Balikpapan -\nWahana Lingkungan Hidup Indonesia (WALHI) Kalimantan Timur (Kaltim) mencatat 13.475 titik panas atau hotspot ada di wilayah korporasi, didominasi konsensi pertambangan, kehutanan, dan perkebunan sawit.",
+    "Direktur Eksekutif Daerah WALHI Kaltim, Fathur Roziqin menyebut data tersebut berdasarkan pemantauan dari 1-25 Agustus 2026."
+   ]
+  },
+  {
+   "judul": "13.000 Lebih ”Hotspot” di Kaltim Teridentifikasi di Area Perusahaan - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "29 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/13000-lebih-hotspot-di-kaltim-teridentifikasi-di-area-perusahaan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Kapolda Kaltim Inspektur Jenderal Endar Priantoro.",
+    "Direktur Jenderal Penegakan Hukum Kehutanan Kemenhut Dwi Januanto Nugroho menegaskan, pihaknya terus memantau dan menginvestigasi karhutla di wilayah kelola perusahaan."
+   ],
+   "kalimat_walhi": [
+    "Walhi Kaltim menemukan 13.475 titik panas atau ”hotspot”",
+    "29 Agt 2026 18:58 WIB · Lingkungan\nCENTRE FOR ORANGUTAN PROTECTION\nBALIKPAPAN, KOMPAS — Analisis Wahana Lingkungan Hidup Indonesia (Walhi) Kalimantan Timur menunjukkan 13.475 titik panas (hotspot) tersebar di area konsesi perusahaan sepanja"
+   ]
+  },
+  {
+   "judul": "Kasus Karhutla Riau Jerat Puluhan Tersangka Perorangan, Bagaimana Perusahaan? - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/08/30/kasus-karhutla-riau-jerat-puluhan-tersangka-perorangan-bagaimana-perusahaan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ade Kuncoro Ridwan, Direktur Reserse Kriminal Khusus Polda Riau, mengatakan, pengungkapan kasus terus mereka lakukan seiring masih ada titik panas di sejumlah wilayah Riau.",
+    "kata Rizal Irawan, Deputi Bidang Penegakan Hukum KLH/BPLH, Rizal Irawan, secara tertulis, 21 Agustus.",
+    "Ristianto Pribadi, Kepala Biro Hubungan Masyarakat dan Kerjasama Luar Negeri, Kemenhut menjelaskan, ketiga perusahaan kena sanksi administratif sesuai hasil pengawasan dan ketentuan peraturan perundang-undangan.",
+    "“Kementerian Kehutanan terus melakukan pengawasan dan evaluasi untuk memastikan seluruh kewajiban tersebut dilaksanakan secara tuntas,”",
+    "“Pada prinsipnya, Kementerian Kehutanan akan bertindak tegas dan terukur, serta memastikan pihak yang bertanggung jawab memenuhi kewajiban pemulihan lingkungan dengan biaya yang menjadi tanggung jawab perusahaan.”"
+   ],
+   "kalimat_walhi": [
+    "- Sedangkan temuan Walhi Riau, sekitar Mei lalu, sedikitnya karhutla terjadi pada empat konsesi perusahaan di Riau.",
+    "Penghujung Juli lalu, Eko Yunanda, Direktur Eksekutif Walhi Riau menyerahkan hasil temuan dan kajian mereka terhadap empat perusahaan itu pada kepolisian."
+   ]
+  },
+  {
+   "judul": "WALHI: Ribuan Hotspot di Gambut dan Konsesi Bukti Negara Gagal Tindak Korporasi Karhutla - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi karhutla korporasi agustus"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/berita/592074/walhi-ribuan-hotspot-di-gambut-dan-konsesi-bukti-negara-gagal-tindak-korporasi-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Dana Prima Tarigan",
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "WALHI secara tegas mendesak lintas kementerian untuk mengambil tindakan nyata terhadap perusahaan yang melanggar:\n- Kementerian Kehutanan: Dievaluasi menggunakan Pasal 72 UU No."
+   ],
+   "kalimat_walhi": [
+    "JAKARTA — Wahana Lingkungan Hidup Indonesia (WALHI) menilai pemerintah gagal menindak tegas korporasi yang bertindak lalai hingga memicu kebakaran hutan dan lahan (karhutla).",
+    "Berdasarkan data terbaru WALHI periode 25–31 Agustus 2026, terdeteksi sebanyak 6.902 titik panas (hotspot) di berbagai wilayah Indonesia, dengan konsentrasi tertinggi berada di Pulau Kalimantan sebanyak 5.201 titik."
+   ]
+  }
+ ]
+}
