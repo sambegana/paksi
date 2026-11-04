@@ -1,0 +1,53 @@
+{
+ "id": "R06",
+ "tanggal": "2026-08-15",
+ "kueri_gagal": [],
+ "rentang": [
+  "2026-08-14",
+  "2026-08-30"
+ ],
+ "kueri": [
+  "walhi \"pidato kenegaraan\""
+ ],
+ "jejaring": [],
+ "jumlah_berita": 2,
+ "berita": [
+  {
+   "judul": "Walhi Anggap Pidato Kenegaraan Prabowo Jauh dari Realitas Kerusakan Lingkungan - NU Online",
+   "media": "NU Online",
+   "tanggal": "16 Aug 2026",
+   "kueri": [
+    "walhi \"pidato kenegaraan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.nu.or.id/nasional/walhi-anggap-pidato-kenegaraan-prabowo-jauh-dari-realitas-kerusakan-lingkungan-lhBxH",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "“Walhi mendesak Presiden Prabowo menghentikan pembangunan yang bertumpu pada eksploitasi sumber daya alam, mengevaluasi proyek food estate dan perluasan konsesi sawit, mempercepat pengakuan Wilayah Kelola Rakyat (WKR), serta memastikan pemulihan lingkungan dan penegakan hukum kep"
+   ],
+   "kalimat_walhi": [
+    "Walhi Anggap Pidato Kenegaraan Prabowo Jauh dari Realitas Kerusakan Lingkungan\nNU Online · Ahad, 16 Agustus 2026 | 18:00 WIB\nRikhul Jannah\nKontributor\nJakarta, NU Online\nWahana Lingkungan Hidup Indonesia (Walhi) menyoroti Pidato Kenegaraan ",
+    "Walhi menilai narasi keberhasilan ekonomi, swasembada pangan, hingga ekspor komoditas masih terjebak dalam paradigma eksploitatif yang mengorbankan keselamatan lingkungan hidup dan hak-hak rakyat."
+   ]
+  },
+  {
+   "judul": "Alasan WALHI Desak Pemerintah Kaji Ulang Rencana Pembangunan Giant Sea Wall di Pantura Jawa - Limit News - Limit News",
+   "media": "Limit News",
+   "tanggal": "23 Aug 2026",
+   "kueri": [
+    "walhi \"pidato kenegaraan\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.limitnews.net/nasional/772968784/alasan-walhi-desak-pemerintah-kaji-ulang-rencana-pembangunan-giant-sea-wall-di-pantura-jawa",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  }
+ ]
+}

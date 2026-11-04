@@ -1,0 +1,45 @@
+{
+ "judul_walhi_aguokt": {
+  "Hutan & Kebun": 494,
+  "Perkotaan & Tata Ruang": 127,
+  "Ekosistem Esensial & Pangan": 109,
+  "Tambang & Energi": 103,
+  "Pesisir & Laut": 26,
+  "Iklim & Global": 50
+ },
+ "semua_aguokt": {
+  "Hutan & Kebun": 661,
+  "Perkotaan & Tata Ruang": 187,
+  "Ekosistem Esensial & Pangan": 153,
+  "Tambang & Energi": 198,
+  "Pesisir & Laut": 72,
+  "Iklim & Global": 91
+ },
+ "media": {
+  "Hutan & Kebun": 259,
+  "Perkotaan & Tata Ruang": 116,
+  "Ekosistem Esensial & Pangan": 94,
+  "Tambang & Energi": 126,
+  "Pesisir & Laut": 49,
+  "Iklim & Global": 64
+ },
+ "unik_judul_walhi": 843,
+ "rilis_walhi_per_bidang": {
+  "Hutan & Kebun": 183,
+  "Iklim & Isu Global": 19,
+  "Lintas bidang (lembaga)": 6,
+  "Pangan & Ekosistem Esensial": 41,
+  "Pesisir & Laut": 46,
+  "Tambang & Energi": 3,
+  "Urban": 84
+ },
+ "rilis_kasus_per_bidang": {
+  "Hutan & Kebun": 509,
+  "Iklim & Isu Global": 37,
+  "Lintas bidang (lembaga)": 7,
+  "Pangan & Ekosistem Esensial": 228,
+  "Pesisir & Laut": 112,
+  "Tambang & Energi": 18,
+  "Urban": 221
+ }
+}

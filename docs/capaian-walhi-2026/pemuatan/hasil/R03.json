@@ -1,0 +1,73 @@
+{
+ "id": "R03",
+ "tanggal": "2026-08-21",
+ "kueri_gagal": [],
+ "rentang": [
+  "2026-08-20",
+  "2026-09-05"
+ ],
+ "kueri": [
+  "walhi \"hak alam\""
+ ],
+ "jejaring": [],
+ "jumlah_berita": 3,
+ "berita": [
+  {
+   "judul": "WALHI Gelar Pekan Rakyat Lingkungan Hidup di Riau - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "21 Aug 2026",
+   "kueri": [
+    "walhi \"hak alam\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://rri.co.id/pekanbaru/regional/2668919/walhi-gelar-pekan-rakyat-lingkungan-hidup-di-riau",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Dorong Gerakan Pulihkan Indonesia: Hentikan Sumber Kerusakan, Akui Hak Masyarakat Adat - NU Online",
+   "media": "NU Online",
+   "tanggal": "22 Aug 2026",
+   "kueri": [
+    "walhi \"hak alam\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.nu.or.id/nasional/walhi-dorong-gerakan-pulihkan-indonesia-hentikan-sumber-kerusakan-akui-hak-masyarakat-adat-6Ib7u",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Dorong Gerakan Pulihkan Indonesia: Hentikan Sumber Kerusakan, Akui Hak Masyarakat Adat\nNU Online · Sabtu, 22 Agustus 2026 | 10:00 WIB\nDirektur Eksekutif Nasional Walhi, Boy Jerry Even berbicara pada Pekan Rakyat Lingkungan Hidup dan K",
+    "(Dok Walhi)\nRikhul Jannah\nKontributor\nJakarta, NU Online\nWahana Lingkungan Hidup Indonesia (Walhi) mendorong gerakan pulihkan Indonesia untuk mewujudkan keadilan ekologis di tengah situasi krisis yang membutuhkan perubahan mendasar dalam ca"
+   ]
+  },
+  {
+   "judul": "Pertumbuhan Ekonomi Tak Boleh Dibayar dengan Kerusakan Ekologi - NU Online",
+   "media": "NU Online",
+   "tanggal": "22 Aug 2026",
+   "kueri": [
+    "walhi \"hak alam\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://nu.or.id/nasional/pertumbuhan-ekonomi-tak-boleh-dibayar-dengan-kerusakan-ekologi-tb8kk",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "(Dok Walhi)\nRikhul Jannah\nKontributor\nJakarta, NU Online\nWahana Lingkungan Hidup Indonesia (Walhi) menyoroti krisis ekologis di Indonesia sebagai konsekuensi model pembangunan yang mengejar pertumbuhan ekonomi melalui ekspansi industri ekst",
+    "Koordinator Pengkampanye Walhi Nasional Uli Arta Siagian mengatakan ketika pertumbuhan ekonomi dikejar tanpa batas ekologis, eksploitasi sumber daya, konflik agraria, dan bencana ekologis semakin dalam."
+   ]
+  }
+ ]
+}

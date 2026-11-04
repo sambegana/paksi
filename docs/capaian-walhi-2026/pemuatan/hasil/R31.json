@@ -1,0 +1,473 @@
+{
+ "id": "R31",
+ "tanggal": "2026-10-20",
+ "kueri_gagal": [],
+ "rentang": [
+  "2026-10-19",
+  "2026-11-04"
+ ],
+ "kueri": [
+  "walhi \"dua tahun\" prabowo"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 24,
+ "berita": [
+  {
+   "judul": "Asap Kebakaran Hutan Mengiringi Dua Tahun Pemerintahan Prabowo-Gibran - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/asap-karhutla-mengiringi-dua-tahun-pemerintahan-prabowo-gibran",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Dudung saat konferensi pers di kantor Kemenko Polkam, Jakarta, Senin (19/10/2026).",
+    "Uli menegaskan, tidak boleh ada impunitas terhadap perusahaan yang terafiliasi dengan orang dekat presiden ataupun grup-grup besar di sektor sawit dan kehutanan.",
+    "Presiden juga didesak untuk merealisasikan komitmennya menindak tegas semua perusahaan yang terlibat dalam karhutla, bukan sekadar menyampaikan pernyataan tanpa tindakan nyata."
+   ],
+   "kalimat_walhi": [
+    "Kajian terbaru dari Wahana Lingkungan Hidup Indonesia (Walhi) berjudul ”Siapa di Balik Api?”",
+    "Kajian ini berangkat dari analisis Walhi terhadap 30 perusahaan dengan konsentrasi titik panas tertinggi sepanjang Januari–Agustus 2026, yang terdiri dari 15 perusahaan perkebunan kelapa sawit dan 15 pemegang perizinan berusaha pemanfaatan "
+   ]
+  },
+  {
+   "judul": "[FULL] WALHI-Adi Prayitno Soroti Karhutla Era Presiden Prabowo, BNPB Update Penanganan | SAPA PAGI - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kompas.tv/nasional/696957/full-walhi-adi-prayitno-soroti-karhutla-era-presiden-prabowo-bnpb-update-penanganan-sapa-pagi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Simak ulasan Kepala Pusat Data, Informasi, dan Komunikasi Kebencanaan BNPB, Berton Panjaitan; Kepala Departemen Komunikasi Strategis dan Jaringan Eksekutif Nasional WALHI, Dana Tarigan; dan Direktur Eksekutif Parameter Politik Indonesia, Ad"
+   ]
+  },
+  {
+   "judul": "2 Tahun Prabowo-Gibran, WALHI Soroti RTH Bandar Lampung yang Hanya 4,5 Persen dan Karhutla Berulang - Tribunlampung.co.id",
+   "media": "Tribunlampung.co.id",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://lampung.tribunnews.com/lampung/1220835/2-tahun-prabowo-gibran-walhi-soroti-rth-bandar-lampung-yang-hanya-45-persen-dan-karhutla-berulang",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "2 Tahun Prabowo-Gibran, WALHI Tekankan Perlunya Skema Berbasis Sains dalam Penanganan Karhutla - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.tribunnews.com/nasional/7899459/2-tahun-prabowo-gibran-walhi-tekankan-perlunya-skema-berbasis-sains-dalam-penanganan-karhutla",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Korporasi Asing dan Karhutla Indonesia: WALHI Telusuri Jejak Kepemilikan di Balik Konsesi Hutan dan Perkebunan - Hallo Indonesia - Hallo Indonesia",
+   "media": "Hallo Indonesia",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://indonesia.hallo.id/nasional/115617792241/korporasi-asing-dan-karhutla-indonesia-walhi-telusuri-jejak-kepemilikan-di-balik-konsesi-hutan-dan-perkebunan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Dua Tahun Prabowo-Gibran: Mahasiswa Pertanyakan Kopdes dan MBG, Rocky Bicara Oligarki - Riau24.com",
+   "media": "Riau24.com",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.riau24.com/berita/baca/1792571141-dua-tahun-prabowo-gibran-mahasiswa-pertanyakan-kopdes-dan-mbg-rocky-bicara-oligarki",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Sembilan Korporasi Terkait dengan Entitas Asing Disorot WALHI, Ini Fakta Kajian Soal Kebakaran Hutan Indonesia - Ceritojambi.com - Ceritojambi.com",
+   "media": "Ceritojambi.com",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.ceritojambi.com/nasional/101617792248/sembilan-korporasi-terkait-dengan-entitas-asing-disorot-walhi-ini-fakta-kajian-soal-kebakaran-hutan-indonesia",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Ungkap Jaringan Terkait dengan Kepemilikan Korporasi, Karhutla dan Konsesi Hutan Jadi Perhatian - Hallo Tasik - Hallo.id",
+   "media": "Hallo.id",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://tasik.hallo.id/nasional/4717794226/walhi-ungkap-jaringan-terkait-dengan-kepemilikan-korporasi-karhutla-dan-konsesi-hutan-jadi-perhatian?page=2",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Catatan 2 Tahun Prabowo-Gibran: WALHI Desak Pengesahan RUU Perubahan Iklim - harian.disway.id - HARIAN DISWAY",
+   "media": "HARIAN DISWAY",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://harian.disway.id/read/975003/catatan-2-tahun-prabowo-gibran-walhi-desak-pengesahan-ruu-perubahan-iklim",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Catatan 2 Tahun Prabowo-Gibran: WALHI Desak Pengesahan RUU Perubahan Iklim\nAnggota parlemen Malaysia Kalam Salan menegur Prabowo menggunakan bahasa Jawa agar serius menangani karhutla yang menyebabkan kabut asap lintas batas dan mengganggu ",
+    "WALHI menilai pemerintah telah gagal menepati janji-janji lingkungan yang tertuang dalam dokumen Astacita maupun RPJMN 2025–2029."
+   ]
+  },
+  {
+   "judul": "Dua Tahun Prabowo-Gibran, WALHI Kritik Pembangunan yang Mengorbankan Lingkungan - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/berita/599626/dua-tahun-prabowo-gibran-walhi-kritik-pembangunan-yang-mengorbankan-lingkungan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 34,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "WALHI juga menyebut adanya keterkaitan sejumlah figur yang dinilai dekat dengan Presiden Prabowo Subianto dengan perusahaan yang konsesinya mengalami kebakaran."
+   ],
+   "kalimat_walhi": [
+    "JAKARTA – Wahana Lingkungan Hidup Indonesia (WALHI) mengkritik arah pembangunan pemerintahan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming Raka yang dinilai lebih mengutamakan pertumbuhan ekonomi dibandingkan perlindungan l",
+    "Dalam evaluasi dua tahun pemerintahan Prabowo-Gibran yang dilantik pada 20 Oktober 2024, WALHI menilai sejumlah target lingkungan dalam Asta Cita dan Rencana Pembangunan Jangka Menengah Nasional (RPJMN) 2025–2029 belum tercermin secara kons"
+   ]
+  },
+  {
+   "judul": "Karhutla: Polisi pastikan tiga korporasi 'modal asing' jadi tersangka karhutla - 'Jangan dijadikan alasan pemerintah Indonesia untuk lepas tangan', kata aktivis - BBC",
+   "media": "BBC",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/cmgqwlyznw3po",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pada Rabu (21/10), Kapolri Jenderal Suyudi Ario Seto mengatakan pihaknya telah menetapkan tiga korporasi penanaman modal asing (PMA) sebagai tersangka kasus kebakaran hutan dan lahan (karhutla).",
+    "kata Suyudi di kompleks Istana Kepresidenan, Jakarta, Rabu (21/10).",
+    "Dalam penelusurannya, kata Kapolri Suyudi pada Senin (19/10), pihaknya menemukan adanya keterlibatan pihak asing.",
+    "Ketua Komisi VIII DPR Marwan Dasopang juga menyebut negara tetangga berkontribusi atas karhutla yang terjadi.",
+    "Klik di sini\nAkhir dari Whatsapp\nPada Rabu (21/10), Kapolri Jenderal Suyudi Ario Seto mengatakan bahwa pihaknyasudah menetapkan tiga korporasi penanaman modal asing (PMA) sebagai tersangka kasus kebakaran hutan dan lahan (karhutla).",
+    "kata Suyudi di kompleks Istana Kepresidenan, Jakarta, Rabu (21/10)."
+   ],
+   "kalimat_walhi": [
+    "Koordinator Pengkampanye Walhi, Uli Artha Siagian berkata, pemerintah tetap menjadi pihak utama yang bertanggung jawab dalam mencegah, memadamkan hingga menghukum para perusahaan nakal yang diduga terlibat karhutla di Indonesia.",
+    "Wahana Lingkungan Hidup Indonesia (Walhi) menelusuri ada 93 perusahaan terindikasi terlibat karhutla di Indonesia pada 2026, yang terafiliasi dengan kelompok usaha besar (holding company) di negara lain."
+   ]
+  },
+  {
+   "judul": "Prabowo Resmikan Dewan Nasional Kesejahteraan Keuangan, Pimpin Langsung sebagai Ketua - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01122834/prabowo-resmikan-dewan-nasional-kesejahteraan-keuangan-pimpin-langsung-sebagai-ketua",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Baca Juga: Prabowo Targetkan 700 BUMN Ditutup hingga Akhir 2026, Sebanyak 364 Sudah Dirampingkan\nMenteri Koordinator Bidang Perekonomian Airlangga Hartarto mengatakan, pembentukan DNKK memiliki dasar hukum Peraturan Pemerintah Nomor 43 Tahun 2026."
+   ],
+   "kalimat_walhi": [
+    "Baca Juga: Walhi Catat 4 Masalah di Dua Tahun Prabowo-Gibran\nSalah satu perhatian DNKK adalah memperluas akses masyarakat terhadap pembiayaan dengan biaya terjangkau dan persyaratan yang mudah diakses."
+   ]
+  },
+  {
+   "judul": "Di Acara TPKAD, Prabowo: Ke Mana KDM? Yang Paling Dekat, Enggak Hadir - NTVNews.id",
+   "media": "NTVNews.id",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.ntvnews.id/news/01122815/di-acara-tpkad-prabowo-ke-mana-kdm-yang-paling-dekat-enggak-hadir",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Baca Juga: Walhi Catat 4 Masalah di Dua Tahun Prabowo-Gibran\nPadahal, kata Prabowo, lokasi acara hari ini berada di Jakarta yang dekat dengan Jabar."
+   ]
+  },
+  {
+   "judul": "WALHI NTB Ingatkan Klaim Masyarakat Adat Tak Bisa Instan, Soroti Konflik Lahan dan Investasi - Detik NTB",
+   "media": "Detik NTB",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://detikntb.com/2026/10/24/walhi-ntb-ingatkan-klaim-masyarakat-adat-tak-bisa-instan-soroti-konflik-lahan-dan-investasi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Detikntbcom — Wahana Lingkungan Hidup Indonesia (WALHI) Nusa Tenggara Barat (NTB) mengingatkan bahwa pengakuan terhadap Masyarakat Hukum Adat (MHA) tidak boleh dilakukan secara instan tanpa landasan sejarah, bukti wilayah adat, serta hubung",
+    "Direktur Eksekutif WALHI NTB, Amri Nuryadin, menegaskan pengakuan masyarakat adat harus berlandaskan ketentuan hukum dan melalui proses verifikasi yang dapat dipertanggungjawabkan."
+   ]
+  },
+  {
+   "judul": "Walhi Bongkar 601 Titik Api di Konsesi Perusahaan Terafiliasi Singapura-Malaysia, dari PT Bumi Mekar Hijau hingga PT Kayung Agro Lestari - Medius News - Medius News",
+   "media": "Medius News",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.mediusnews.com/nasional/13217808013/walhi-bongkar-601-titik-api-di-konsesi-perusahaan-terafiliasi-singapura-malaysia-dari-pt-bumi-mekar-hijau-hingga-pt-kayung-agro-lestari",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Dua Tahun Pemerintahan Prabowo-Gibran, Walhi Ungkap Lemahnya Perlindungan Lingkungan - NU Online",
+   "media": "NU Online",
+   "tanggal": "25 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.nu.or.id/nasional/dua-tahun-pemerintahan-prabowo-gibran-walhi-ungkap-lemahnya-perlindungan-lingkungan-3BYDH",
+   "teks_terbaca": true,
+   "walhi_di_isi": 12,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Dua Tahun Pemerintahan Prabowo-Gibran, Walhi Ungkap Lemahnya Perlindungan Lingkungan\nNU Online · Ahad, 25 Oktober 2026 | 20:00 WIB\nDirektur Eksekutif Nasional Walhi, Boy Jerry Even Sembiring dalam Konferensi Pers di Jakarta pada Jumat (6/3/",
+    "Direktur Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (Walhi), Boy Jerry Even Sembiring, menilai pemerintahan Prabowo-Gibran belum memenuhi berbagai janji perlindungan lingkungan yang tercantum dalam Astacita dan Rencana Pembangunan"
+   ]
+  },
+  {
+   "judul": "Walhi Beri Catatan Kritis 2 Tahun Prabowo-Gibran, Soroti Komitmen Lingkungan Hidup - Warta Ekonomi",
+   "media": "Warta Ekonomi",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://wartaekonomi.co.id/read643479/walhi-beri-catatan-kritis-2-tahun-prabowo-gibran-soroti-komitmen-lingkungan-hidup",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Beri Catatan Kritis 2 Tahun Prabowo-Gibran, Soroti Komitmen Lingkungan Hidup\nDua tahun masa pemerintahan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming Raka dinilai belum menunjukkan komitmen kuat terhadap perlindungan",
+    "Wahana Lingkungan Hidup Indonesia (Walhi) menilai target pertumbuhan ekonomi serta Proyek Strategis Nasional (PSN) masih jauh lebih mendominasi dibandingkan agenda pemulihan ekosistem."
+   ]
+  },
+  {
+   "judul": "Karhutla melanda belasan taman nasional sepanjang 2026 - 'Ini menunjukkan kegagalan berlipat Satgas Taman Nasional' - BBC",
+   "media": "BBC",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.bbc.com/indonesia/articles/cr1ex97nvjppo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Klik di sini\nAkhir dari Whatsapp\nRiri mengatakan, upaya pemadaman di wilayah Cabang masih terus dilakukan dengan melibatkan berbagai unsur, mulai dari TNI, Polri, pemerintah daerah, BPBD, hingga masyarakat.",
+    "Dia juga menyebut, pemadaman dilakukan secara bersama-sama oleh petugas taman nasional, TNI, Polri, masyarakat, serta unsur lain yang membantu penanganan kebakaran.",
+    "Bupati Cianjur, Mohamad Wahyu Ferdian, mengklaim kebakaran diduga dipicu faktor alam dan manusia.",
+    "Lebih jauh, Satgas menyatakan sedang menyusun strategi pembiayaan dengan fokus awal pada 13 taman nasional dan dua lanskap konservasi spesies ikonik.",
+    "Satgas menyatakan terbuka terhadap pengawasan publik."
+   ],
+   "kalimat_walhi": [
+    "Lembaga pemerhati lingkungan, Walhi menyebut kejadian tersebut sebagai yang \"terbesar\"",
+    "Manager Kampanye Hutan dan Kebun Walhi Nasional, Uli Arta Siagian, menilai masifnya kebakaran di taman nasional menunjukkan gagalnya peran Satuan Tugas (Satgas) Inovasi Pembiayaan dan Pengelolaan Taman Nasional yang dipimpin Hashim Djojohad"
+   ]
+  },
+  {
+   "judul": "Dua Tahun Prabowo, Nasib Hutan dan Masyarakat Makin Memprihatinkan? - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "27 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/10/27/dua-tahun-prabowo-nasib-hutan-dan-masyarakat-makin-memprihatinkan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "- Uli Arta Siagian, Koordinator Pengampanye Eksekutif Nasional Wahana Lingkungan Hidup (Walhi), bilang, negara melegalkan deforestasi seperti melalui label Proyek Strategis Nasional (PSN).",
+    "kata Uli Arta Siagian, Koordinator Pengampanye Eksekutif Nasional Wahana Lingkungan Hidup (Walhi) Nasional dalam diskusi dua tahun pemerintahan Prabowo, Kamis (15/10/26)."
+   ]
+  },
+  {
+   "judul": "Warga Terdampak Karhutla Menjerit, Kesehatan Terganggu hingga Ekonomi Terpuruk - NU Online",
+   "media": "NU Online",
+   "tanggal": "27 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.nu.or.id/nasional/warga-terdampak-karhutla-menjerit-kesehatan-terganggu-hingga-ekonomi-terpuruk-CXFdY",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [
+    "Christine Constanta"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Sementara itu, Manajer Pembelaan Hukum Wahana Lingkungan Hidup Indonesia (Walhi) Nasional, Christine Constanta, mengungkapkan bahwa besarnya dampak karhutla terlihat dari beban kesehatan dan hilangnya sumber penghidupan warga."
+   ]
+  },
+  {
+   "judul": "Survei Ungkap 55 Persen Pemilih Prabowo Ogah Memilih Kembali pada Pilpres 2029 - Riau24.com",
+   "media": "Riau24.com",
+   "tanggal": "28 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.riau24.com/berita/baca/1793181115-survei-ungkap-55-persen-pemilih-prabowo-ogah-memilih-kembali-pada-pilpres-2029",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "dari temuan survei menunjukkan sebanyak 55 persen responden yang merupakan pemilih Prabowo pada Pilpres 2024 menyatakan tidak akan memilih kembali Prabowo Subianto pada Pemilihan Presiden (Pilpres) 2029."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kuda Troya Bikin Mahasiswa Berhasil Bikuli Aparat, Ini 5 'Perintah Rakyat' kepada Prabowo-Gibran - Riau24.com",
+   "media": "Riau24.com",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.riau24.com/berita/baca/1793257179-kuda-troya-bikin-mahasiswa-berhasil-bikuli-aparat-ini-5-perintah-rakyat-kepada-prabowo-gibran",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pembakar Hutan Bakal Disebut Teroris Ekologi, Efektifkah? - semaraknews.co.id - Semaraknews",
+   "media": "Semaraknews",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.semaraknews.co.id/read/36492/pembakar-hutan-bakal-disebut-teroris-ekologi-efektifkah/15",
+   "galat": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Aceh Soroti Serapan Tenaga Kerja Lokal PT Nafasindo, Minta Data Dibuka Transparan - satupena.co.id -",
+   "media": "satupena.co.id -",
+   "tanggal": "31 Oct 2026",
+   "kueri": [
+    "walhi \"dua tahun\" prabowo"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://satupena.co.id/walhi-aceh-soroti-serapan-tenaga-kerja-lokal-pt-nafasindo-minta-data-dibuka-transparan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Aceh Singkil —Satupena.co.id: Wahana Lingkungan Hidup Indonesia (Walhi) Aceh menyoroti transparansi dan tingkat penyerapan tenaga kerja lokal oleh PT Nafasindo yang beroperasi di Kabupaten Aceh Singkil.",
+    "Sorotan tersebut disampaikan Munawir, anggota Walhi Aceh, dalam kegiatan Focus Group Discussion (FGD) evaluasi perizinan perkebunan kelapa sawit yang digelar bersama Masyarakat Transparansi Aceh (MaTA) di Kantor Bappeda Aceh Singkil, Selasa"
+   ]
+  }
+ ]
+}

@@ -63,6 +63,12 @@ kode["P14"] = {"id": "P14", "tuntutan_ringkas": base["P14"]["tuntutan_utama"], "
                "alasan_verifikasi": "Tidak ditemukan tanggapan BOPPJ/Kemenko Infrastruktur atas kritik segmen 3.3 setelah 11 Sep. Pernyataan Presiden 16 Sep (GSW mulai 2027) bukan tanggapan atas tuntutan.",
                "catatan": "Dikode penyunting; 3 berita relevan (Betahita, Suara, Kompasiana) dari 6 yang terkumpul."}
 kode["R28"] = dict(kode["P10"], id="R28", catatan="Digabung dengan P10 (rilis offset PTAR). " + kode["P10"]["catatan"])
+kode["P15"] = {"id": "P15", "tuntutan_ringkas": base["P15"]["tuntutan_utama"], "lembaga_dituju": base["P15"]["lembaga_dituju"],
+               "berita_kasus": 0, "berita_memuat_walhi": 0, "berita_jejaring_tanpa_walhi": 0, "berita_kontra": 0, "penutur_terdeteksi": [],
+               "jejaring_terdeteksi": [], "respons": [], "skor_final": 0, "hari_ke_respons": -1, "konvergensi": False, "keyakinan_final": "rendah",
+               "alasan_verifikasi": "Tidak ditemukan jejak publik rilis maupun tanggapan BOPPJ/KLH atas kritik prosedur GSW pada Oktober 2026; proyek tetap berjalan.",
+               "catatan": "Dikode penyunting dari daftar divisi; tanggal pasti belum diketahui."}
+kode["P16"] = dict(kode["P05"], id="P16", catatan="Satu tuntutan dengan P05 (RUU Daerah Kepulauan); kode respons mengikuti P05. " + kode["P05"].get("catatan", ""))
 
 
 def kelompok_penutur(rid, k):
@@ -93,7 +99,9 @@ for rid, b in base.items():
     k = kode.get(rid)
     kel = kelompok_penutur(rid, k)
     status = "dihitung"
-    if rid == "R37":
+    if b.get("daftar_divisi") == "tidak":
+        status = "catatan: di luar daftar divisi"
+    elif rid == "R37":
         status = "catatan: pemerintah asing"
     elif kel in ("catatan lembaga",) or b["jenis_tuntutan"] == "umum":
         status = "catatan: lembaga/tuntutan umum"
@@ -108,7 +116,7 @@ for rid, b in base.items():
                 isu, pj = bid, {"Wahyu Eka": "Wahyu Eka Styawan", "Patria Rizky": "Patria Rizky Ananda", "Umi Ma’rufah": "Umi Ma'rufah"}.get(nama, nama)
                 break
     rows.append({
-        "id": rid, "tanggal": b["tanggal"], "judul": b["judul_singkat"], "isu": isu, "penutur": kel,
+        "id": rid, "tanggal": b["tanggal"], "judul": b["judul_singkat"], "isu": isu, "penutur": kel, "daftar_divisi": b.get("daftar_divisi", ""), "sifat": b.get("sifat", ""),
         "pj_pengkampanye": pj,
         "status": status, "tuntutan": (k or {}).get("tuntutan_ringkas", b["tuntutan_utama"]), "lembaga_dituju": (k or {}).get("lembaga_dituju", b["lembaga_dituju"]),
         "skor": skor, "jenis_respons": JENIS.get(skor, "") if skor != "" else "tidak dikode",

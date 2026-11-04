@@ -7,9 +7,11 @@ PJ = {"Hutan & Kebun": "Umi Ma'rufah", "Pesisir & Laut": "Mida Saragih", "Urban"
       "Pangan & Ekosistem Esensial": "Musdalifah Jamal", "Iklim & Isu Global": "Patria Rizky Ananda", "Tambang & Energi": "Faisal Ratuela"}
 prod = {}
 for isu, pj in PJ.items():
-    rs = [r for r in fin if r["isu"] == isu and r["status"] == "dihitung"]
-    bln = collections.Counter(r["tanggal"][5:7] for r in rs)
-    prod[isu] = {"pj": pj, "total": len(rs), "pengkampanye": sum(r["penutur"].startswith("pengkampanye") for r in rs),
+    semua = [r for r in fin if r["isu"] == isu and r["daftar_divisi"] == "ya"]  # mengikuti daftar divisi (termasuk momen lembaga)
+    rs = [r for r in semua if r["status"] == "dihitung"]
+    bln = collections.Counter(r["tanggal"][5:7] for r in semua)
+    prod[isu] = {"pj": pj, "total": len(semua), "dengan_tuntutan_spesifik": len(rs), "momen_lembaga": sum(r["sifat"] == "momen lembaga" for r in semua),
+                 "dibawakan_pj": sum(r["penutur"].startswith("pengkampanye") for r in semua), "pengkampanye": sum(r["penutur"].startswith("pengkampanye") for r in rs),
                  "pimpinan": sum(r["penutur"].startswith("pimpinan") for r in rs), "tidak_diketahui": sum(r["penutur"] == "penutur tidak diketahui" for r in rs),
                  "agu": bln.get("08", 0), "sep": bln.get("09", 0), "okt": bln.get("10", 0)}
 PIM = {"Uli Arta Siagian": "Kadiv Kampanye", "Boy Jerry Even Sembiring": "Direktur Eksekutif", "Dana Prima Tarigan": "Kadep Komunikasi",

@@ -77,6 +77,9 @@ const tot = S._total;
 const hitung = R.filter(r => r.status === "dihitung");
 const nyataRilis = hitung.filter(r => +r.skor >= 3 && ["inti", "sebagian"].includes(r.kecocokan_tindakan));
 const PROD = JSON.parse(fs.readFileSync(path.join(HERE, "produksi_rilis.json"), "utf8"));
+const PRODTOT = Object.values(PROD.produksi).reduce((a, p) => a + p.total, 0) + 2; // + 2 rilis lintas bidang
+const LUAR = R.filter(r => r.status === "catatan: di luar daftar divisi");
+const fill0 = { 3: "DEEAF6", 2: "F2F2F2" };
 const C = [];
 C.push(
   new Paragraph({ children: [new TextRun({ text: "LAPORAN CAPAIAN KAMPANYE", bold: true, size: 20, color: "595959" })], spacing: { after: 60 } }),
@@ -87,7 +90,7 @@ C.push(
 // 1. Ringkasan
 C.push(H1("1. Ringkasan Capaian"));
 C.push(
-  B([{ t: "Produksi. ", b: true }, `${tot.rilis} rilis kampanye dengan tuntutan spesifik terbit dalam tiga bulan, ditambah 7 rilis momen lembaga. Hutan & Kebun paling banyak (${S["Hutan & Kebun"].rilis}), Tambang & Energi paling sedikit (${S["Tambang & Energi"].rilis}).`]),
+  B([{ t: "Produksi. ", b: true }, `Divisi Kampanye memproduksi ${PRODTOT} rilis (43 baris di rekap divisi; satu rilis tercatat dua kali). Hutan & Kebun paling banyak (${PROD.produksi["Hutan & Kebun"].total}), disusul Pesisir & Laut (${PROD.produksi["Pesisir & Laut"].total}); Tambang & Energi paling sedikit (${PROD.produksi["Tambang & Energi"].total}). ${tot.rilis} rilis berisi tuntutan spesifik kepada pemerintah dan dikode responsnya.`]),
   B([{ t: "Respons. ", b: true }, `${tot.ada_respons} rilis (${pct(tot.pct_ada_respons)}) mendapat respons pemerintah, tetapi hanya ${tot.tindakan_nyata} (${pct(tot.pct_tindakan_nyata)}) yang berujung tindakan nyata. Tidak ada tuntutan yang dipenuhi penuh.`]),
   B([{ t: "Capaian utama ada di karhutla. ", b: true }, `Ada ${T.length} tindakan unik: pembekuan dan pencabutan izin, penyegelan konsesi, penetapan 20 korporasi tersangka, penyerahan data pemilik manfaat, penyidikan laporan WALHI Kalsel, dan rumah oksigen gratis bagi korban asap. Dua di antaranya terkait langsung dengan WALHI: 4 dari 5 izin yang dicabut ada di daftar laporan WALHI, dan Kapolda Kalsel menyebut laporan WALHI Kalsel naik ke penyidikan.`]),
   B([{ t: "Isu lain baru sampai respons. ", b: true }, `Urban direspons di semua rilis, tetapi dengan penolakan atau janji. Pesisir & Laut (${pct(S["Pesisir & Laut"].pct_ada_respons)}), Iklim (${pct(S["Iklim & Isu Global"].pct_ada_respons)}) dan Tambang & Energi (${pct(S["Tambang & Energi"].pct_ada_respons)}) paling jarang direspons.`]),
@@ -118,11 +121,13 @@ C.push(...fig("gambar-2-respons-vs-tindakan.png", "Persentase rilis yang direspo
 
 // 4. Produksi rilis
 C.push(H1("4. Produksi Rilis per Bidang"));
-C.push(P("Rilis dihitung ke isu pemilik topiknya. Rilis yang hanya disuarakan pimpinan atau Hukum tetap masuk isunya, tetapi tidak dikreditkan ke pengkampanye bidang."));
-C.push(...table("Rilis kampanye per bidang dan bulan", [2250, 1800, 800, 900, 900, 800, 800, 822],
-  ["Bidang", "PJ", "Total", "Dibawakan PJ", "Pimpinan/ Hukum", "Agu", "Sep", "Okt"],
-  [...ISU.map(k => { const p = PROD.produksi[k]; return [NAMA_ISU[k], p.pj, String(p.total), String(p.pengkampanye), String(p.pimpinan) + (p.tidak_diketahui ? ` (+${p.tidak_diketahui} ?)` : ""), String(p.agu), String(p.sep), String(p.okt)]; })]));
-C.push(P("Di Hutan & Kebun, 9 dari 15 rilis hanya mengutip pimpinan atau Hukum. Pesisir & Laut, Urban, dan Pangan hampir seluruhnya dibawakan pengkampanyenya sendiri. \"?\" = penutur belum diketahui."));
+C.push(P("Jumlah rilis mengikuti daftar rilis Laporan Divisi Kampanye Juli–Oktober 2026. Rilis yang hanya disuarakan pimpinan atau Hukum tetap masuk bidang pemilik topiknya, tetapi tidak dikreditkan ke pengkampanye."));
+C.push(...table("Rilis kampanye per bidang dan bulan (daftar divisi)", [2100, 1700, 700, 900, 900, 900, 600, 600, 672],
+  ["Bidang", "PJ", "Total", "Dibawakan PJ", "Pimpinan/ Hukum", "Momen lembaga", "Agu", "Sep", "Okt"],
+  [...ISU.map(k => { const p = PROD.produksi[k]; return [NAMA_ISU[k], p.pj, String(p.total), String(p.dibawakan_pj), String(p.total - p.dibawakan_pj - p.tidak_diketahui), String(p.momen_lembaga), String(p.agu), String(p.sep), String(p.okt)]; }),
+   ["Lintas bidang (lembaga)", "–", "2", "–", "2", "2", "1", "1", "0"],
+   [{ t: "Total", b: true }, "", { t: String(PRODTOT), b: true }, "", "", "", "", "", ""]]));
+C.push(P("Pesisir & Laut tercatat 11 baris di daftar divisi. Satu di antaranya, Ketahanan Pangan Jangan Rampas Ruang Petambak, tercantum dua kali (September dan Oktober), jadi dihitung 10 rilis. Di Hutan & Kebun, sebagian besar rilis hanya mengutip pimpinan atau Hukum; Pesisir & Laut, Urban, dan Pangan hampir seluruhnya dibawakan pengkampanyenya sendiri."));
 
 // 5. Pemberitaan
 C.push(H1("5. Pemberitaan (Konteks)"));
@@ -137,6 +142,14 @@ const top = [...hitung].sort((a, b) => b.berita_memuat_walhi - a.berita_memuat_w
 C.push(...table("Delapan rilis dengan berita memuat WALHI terbanyak", [1100, 3672, 1400, 1500, 1400],
   ["Rilis", "Narasi", "Memuat WALHI", "Berita kasus", "Skor respons"],
   top.map(r => [`${r.id} · ${tgl(r.tanggal)}`, (RING[r.id] || {}).narasi_singkat || r.tuntutan, r.berita_memuat_walhi, r.berita_kasus, LABEL[r.skor]])));
+
+// 5b. Rilis publik di luar daftar divisi
+C.push(H2("Rilis publik di luar daftar divisi"));
+C.push(P(`${LUAR.length} rilis berikut terbit di situs atau kanal WALHI pada periode yang sama tetapi tidak ada di daftar divisi. Respons atas rilis-rilis ini tidak masuk statistik bidang, tetapi dicatat karena sebagian berujung tindakan.`));
+C.push(...table("Rilis publik di luar daftar divisi dan respons pemerintah", [1150, 1400, 2500, 2822, 1200],
+  ["Rilis", "Isu dugaan", "Tuntutan", "Respons pemerintah", "Skor"],
+  LUAR.sort((a, b) => a.tanggal.localeCompare(b.tanggal)).map(r => [`${r.id} · ${tgl(r.tanggal)}`, NAMA_ISU[r.isu] || r.isu, (RING[r.id] || {}).narasi_singkat || r.tuntutan, (RING[r.id] || {}).respons_singkat || "", LABEL[r.skor] + (r.kecocokan_tindakan === "generik" ? " (generik)" : "")]),
+  { fills: LUAR.map(r => fill0[r.skor]) }));
 
 // 6. Rincian per isu
 C.push(new Paragraph({ children: [new PageBreak()] }));
@@ -169,7 +182,7 @@ C.push(...table("Rilis publik Agu–Okt yang belum dikode", [1000, 4772, 1700, 1
 // 8. Metode
 C.push(H1("8. Metode Singkat"));
 C.push(
-  B("Daftar rilis: 37 rilis folder RILIS/2026 (rekap tim), ditambah rilis publik WALHI yang tidak ada di folder dan daftar siaran pers tim PELA."),
+  B("Daftar rilis: tabel rilis Laporan Divisi Kampanye Juli–Oktober 2026 (43 baris, 42 rilis unik). Rilis publik WALHI di luar daftar itu dicatat terpisah."),
   B("Atribusi bidang: rilis masuk bidang pengkampanye yang dikutip atau menjadi narahubung; bila hanya pimpinan atau Hukum yang bicara, rilis masuk isu pemilik topik tanpa dikreditkan ke pengkampanye."),
   B("Respons: dicari dari tanggal rilis sampai 2 Nov 2026, dari lembaga yang dituju atau yang berwenang, termasuk respons kepada jejaring yang membawa tuntutan sama. Respons sebelum tanggal rilis tidak dihitung."),
   B("Pemeriksaan: tiap rilis dikode satu agen dan diperiksa agen kedua yang bertugas membantah skor. Klaim tindakan nyata diperiksa ulang penyunting: satu dikeluarkan (Singapura) dan dua ditandai generik."),

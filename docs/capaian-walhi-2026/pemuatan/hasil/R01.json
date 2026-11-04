@@ -1,0 +1,124 @@
+{
+ "id": "R01",
+ "tanggal": "2026-08-13",
+ "kueri_gagal": [],
+ "rentang": [
+  "2026-08-12",
+  "2026-08-28"
+ ],
+ "kueri": [
+  "\"TAP MPR\" walhi"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 5,
+ "berita": [
+  {
+   "judul": "Krisis Lingkungan Ancam Generasi Mendatang, Orang Muda Desak Pemerintah Lakukan Pemulihan Ekologis - NU Online",
+   "media": "NU Online",
+   "tanggal": "14 Aug 2026",
+   "kueri": [
+    "\"TAP MPR\" walhi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://nu.or.id/nasional/krisis-lingkungan-ancam-generasi-mendatang-orang-muda-desak-pemerintah-lakukan-pemulihan-ekologis-tc5s2",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Krisis Lingkungan Ancam Generasi Mendatang, Orang Muda Desak Pemerintah Lakukan Pemulihan Ekologis\nNU Online · Jumat, 14 Agustus 2026 | 11:15 WIB\nKepala Departemen Keorganisasian Eksekutif Nasional Walhi, Tubagus Soleh Ahmadi Diskusi Media ",
+    "Kepala Departemen Keorganisasian Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (Walhi) Tubagus Soleh Ahmadi menilai Indonesia sedang menghadapi dampak kerusakan ekologis yang terjadi selama puluhan hingga ratusan tahun ke depan."
+   ]
+  },
+  {
+   "judul": "25 Tahun TAP MPR IX/2001, Walhi Nilai Pengelolaan SDA Masih Picu Krisis Ekologis - NU Online",
+   "media": "NU Online",
+   "tanggal": "15 Aug 2026",
+   "kueri": [
+    "\"TAP MPR\" walhi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://nu.or.id/nasional/25-tahun-tap-mpr-ix-2001-walhi-nilai-pengelolaan-sda-masih-picu-krisis-ekologis-Dt6eC",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "25 Tahun TAP MPR IX/2001, Walhi Nilai Pengelolaan SDA Masih Picu Krisis Ekologis\nNU Online · Sabtu, 15 Agustus 2026 | 21:00 WIB\nDiskusi Media bertajuk 81 Tahun Merdeka: Menuju Indonesia Emas atau Kehancuran 2045?",
+    "(Foto: NU Online/Jannah)\nRikhul Jannah\nKontributor\nJakarta, NU Online\nDua puluh lima tahun setelah terbitnya Ketetapan Majelis Permusyawaratan Rakyat (TAP MPR) Nomor IX Tahun 2001 tentang Pembaruan Agraria dan Pengelolaan Sumber Daya Alam, "
+   ]
+  },
+  {
+   "judul": "Asa Kemerdekaan bagi Masyarakat Terdampak - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "20 Aug 2026",
+   "kueri": [
+    "\"TAP MPR\" walhi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/08/20/asa-kemerdekaan-bagi-masyarakat-terdampak/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "- Walhi pun menilai, perampasan lahan warga kian massif karena banyak proyek-proyek skala besar yang memerlukan lahan luas.",
+    "Tersingkir demi proyek besar dan investasi\nWalhi pun menilai, perampasan lahan warga kian massif karena banyak proyek-proyek skala besar yang memerlukan lahan luas."
+   ]
+  },
+  {
+   "judul": "Pertumbuhan Ekonomi Tak Boleh Dibayar dengan Kerusakan Ekologi - NU Online",
+   "media": "NU Online",
+   "tanggal": "22 Aug 2026",
+   "kueri": [
+    "\"TAP MPR\" walhi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://nu.or.id/nasional/pertumbuhan-ekonomi-tak-boleh-dibayar-dengan-kerusakan-ekologi-tb8kk",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "(Dok Walhi)\nRikhul Jannah\nKontributor\nJakarta, NU Online\nWahana Lingkungan Hidup Indonesia (Walhi) menyoroti krisis ekologis di Indonesia sebagai konsekuensi model pembangunan yang mengejar pertumbuhan ekonomi melalui ekspansi industri ekst",
+    "Koordinator Pengkampanye Walhi Nasional Uli Arta Siagian mengatakan ketika pertumbuhan ekonomi dikejar tanpa batas ekologis, eksploitasi sumber daya, konflik agraria, dan bencana ekologis semakin dalam."
+   ]
+  },
+  {
+   "judul": "Jangan Kasih Ampun! Pemerintah Harus Cabut Izin Usaha Perusahaan Penyebab Karthula - OWRITE",
+   "media": "OWRITE",
+   "tanggal": "24 Aug 2026",
+   "kueri": [
+    "\"TAP MPR\" walhi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.owrite.id/nasional/2026/08/24/jangan-kasih-ampun-pemerintah-harus-cabut-izin-usaha-perusahaan-penyebab-karthula/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) mendesak pemerintah mengevaluasi hingga mencabut izin perusahaan yang diduga berkontribusi terhadap terjadinya kebakaran hutan dan lahan (karhutla).",
+    "Pengkampanye Ekosistem Esensial dan Pangan Walhi, Musdalifah Jamal, mengatakan langkah tersebut perlu dilakukan sebagai bagian dari upaya mitigasi untuk mencegah karhutla terus berulang setiap tahun."
+   ]
+  }
+ ]
+}
