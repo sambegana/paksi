@@ -1,0 +1,314 @@
+<title>Riset Adaptasi WKR</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: laporan kerja dua kolom (daftar isi lengket + isi), satu kolom di ponsel. Palet: lumpur pesisir, mangrove, air pasang. */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --ink:#1c2422; --muted:#5a6662; --line:#d9dfdb;
+  --mangrove:#1e6b55; --mangrove-soft:#e3efe9; --tide:#245c86; --tide-soft:#e4edf5;
+  --silt:#9a6a1f; --silt-soft:#f5ecdc; --risk:#a63a2b; --risk-soft:#f7e6e2;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--tide);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--tide);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:13.5px}
+nav.toc p{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{color:var(--muted);text-decoration:none;display:flex;gap:8px}
+nav.toc a::before{content:counter(t,decimal-leading-zero);font-family:var(--mono);font-size:11px;padding-top:2px;color:var(--line)}
+nav.toc a:hover{color:var(--ink)}
+main{min-width:0}
+header.top{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:8px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--mangrove)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,4.6vw,46px);line-height:1.08;margin:10px 0 14px;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(23px,2.8vw,30px);line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--body);font-weight:600;font-size:16.5px;margin:26px 0 8px}
+h4{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px}
+p{margin:0 0 12px;max-width:72ch}
+.lede{font-size:17.5px;color:var(--muted);max-width:68ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12.5px;color:var(--muted);margin-top:16px}
+section{padding-block:40px 8px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sub{color:var(--muted);margin-bottom:20px;max-width:70ch}
+ul.tight{margin:0 0 12px;padding-left:20px;max-width:74ch}
+ul.tight li{margin-bottom:6px}
+.pill{display:inline-block;font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.03em;padding:2px 8px;border-radius:3px;white-space:nowrap}
+.p-go{background:var(--mangrove-soft);color:var(--mangrove)}
+.p-warn{background:var(--silt-soft);color:var(--silt)}
+.p-risk{background:var(--risk-soft);color:var(--risk)}
+.p-info{background:var(--tide-soft);color:var(--tide)}
+
+.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:22px 24px;margin:24px 0 8px;display:grid;gap:10px}
+.verdict .big{font-family:var(--display);font-size:24px;font-weight:600;line-height:1.25}
+.countdown{display:flex;flex-wrap:wrap;gap:24px;margin-top:6px}
+.countdown div{display:grid}
+.countdown b{font-family:var(--display);font-size:34px;line-height:1;font-weight:600;font-variant-numeric:tabular-nums}
+.countdown span{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+.challenge{display:grid;gap:14px;margin-top:14px}
+.challenge article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.challenge h4{margin:0 0 4px}
+.challenge p{margin:0;font-size:14.5px}
+.challenge .you h4{color:var(--silt)}
+.challenge .me h4{color:var(--mangrove)}
+
+.tbl{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td small,li small{color:var(--muted)}
+.doi{font-family:var(--mono);font-size:12px;word-break:break-all}
+
+.weights{display:grid;gap:8px;margin:14px 0 18px;max-width:640px}
+.wrow{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr) 44px;gap:12px;align-items:center;font-size:14px}
+.bar{height:12px;background:var(--line);position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--mangrove)}
+.wrow .num{font-family:var(--mono);text-align:right}
+
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:12px 0}
+.card{background:var(--surface);border:1px solid var(--line);padding:16px 18px;min-width:0}
+.card h4{margin-top:0}
+.swot .card{border-top:3px solid var(--line)}
+.swot .s{border-top-color:var(--mangrove)}.swot .w{border-top-color:var(--silt)}
+.swot .o{border-top-color:var(--tide)}.swot .t{border-top-color:var(--risk)}
+.swot .s h4{color:var(--mangrove)}.swot .w h4{color:var(--silt)}.swot .o h4{color:var(--tide)}.swot .t h4{color:var(--risk)}
+.swot ul{margin:0;padding-left:18px;font-size:14.2px}
+.swot li{margin-bottom:6px}
+
+.score{display:inline-flex;gap:3px;vertical-align:middle}
+.score i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.score i.on{background:var(--mangrove)}
+
+.toc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.toc-flow .step{background:var(--surface);border:1px solid var(--line);padding:12px 14px;font-size:13.8px;min-width:0}
+.toc-flow .step b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:500}
+.toc-flow .imp{grid-column:1/-1;background:var(--mangrove-soft);border-color:transparent}
+.outputs{display:grid;gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove)}
+.outputs ol{margin:6px 0 0;padding-left:20px;font-size:14.2px}
+.callout{background:var(--silt-soft);padding:14px 18px;margin:14px 0;max-width:78ch;font-size:14.6px}
+.callout.blue{background:var(--tide-soft)}
+.callout.red{background:var(--risk-soft)}
+.callout p:last-child{margin:0}
+footer{font-size:13px;color:var(--muted);padding-top:28px}
+ol.src{font-size:13px;padding-left:20px;display:grid;gap:4px;max-width:90ch}
+ol.src li{word-break:break-word}
+
+@media (max-width:900px){
+  .wrap{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:24px 60px}
+  nav.toc{position:static;border:1px solid var(--line);background:var(--surface);padding:14px 16px}
+  nav.toc ol{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc-flow{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .grid2,.challenge article{grid-template-columns:minmax(0,1fr)}
+  nav.toc ol{grid-template-columns:minmax(0,1fr)}
+  .toc-flow{grid-template-columns:minmax(0,1fr)}
+  .wrow{grid-template-columns:minmax(0,1fr) 44px}.wrow .bar{grid-column:1/-1;grid-row:2}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+<style>
+.answer{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:18px 22px;margin:18px 0}
+.answer .big{font-family:var(--display);font-size:22px;font-weight:600;line-height:1.3;margin-bottom:8px}
+.answer p:last-child{margin:0}
+.risk{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:14px 0}
+.risk .card h4{margin-top:0}
+.risk .fixed{border-top:3px solid var(--line)}
+.risk .moves{border-top:3px solid var(--mangrove)}
+.risk .card p{margin:0;font-size:14px}
+.q4{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:14px 0}
+.q4 .card{border-top:3px solid var(--tide)}
+.q4 .card h4{margin-top:0;color:var(--tide)}
+.q4 blockquote{margin:6px 0 8px;padding:6px 12px;border-left:3px solid var(--line);color:var(--muted);font-size:13.8px}
+.q4 p{font-size:14px;margin:0}
+.strands{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin:14px 0}
+.strands div{background:var(--surface);border:1px solid var(--line);padding:12px;font-size:13.6px;min-width:0}
+.strands b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--mangrove);font-weight:500;margin-bottom:4px}
+.strands .ph1{background:var(--mangrove-soft);border-color:transparent}
+@media (max-width:900px){.strands{grid-template-columns:repeat(2,minmax(0,1fr))}.risk{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:620px){.strands,.q4{grid-template-columns:minmax(0,1fr)}}
+</style>
+
+<div class="wrap">
+<nav class="toc" aria-label="Daftar isi">
+  <p>Isi</p>
+  <ol>
+    <li><a href="#jawab">Jawaban singkat</a></li>
+    <li><a href="#ukur">Apa yang sebenarnya diukur</a></li>
+    <li><a href="#kerangka">Kerangka baku: 4 pertanyaan</a></li>
+    <li><a href="#feno">Posisi fenomenologi</a></li>
+    <li><a href="#contoh">Contoh proyek EbA</a></li>
+    <li><a href="#desain">Desain riset usulan</a></li>
+    <li><a href="#kritis">Catatan kritis</a></li>
+    <li><a href="#sumber">Sumber</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <div class="eyebrow">Global EbA Fund · Arah WKR · Desain riset</div>
+  <h1>Meneliti dampak WKR terhadap adaptasi: metode dan contoh proyek</h1>
+  <p class="lede">Bagaimana meneliti apakah Wilayah Kelola Rakyat benar-benar membantu warga beradaptasi, dengan ukuran yang bukan karbon. Di bawah ada kerangka baku yang dikenal reviewer, posisi pendekatan fenomenologis, contoh proyek EbA yang pernah didanai fund, dan desain riset usulan.</p>
+  <div class="meta"><span>4 November 2026</span><span>Tenggat submit: 16 November 2026</span></div>
+</header>
+
+<section id="jawab">
+  <h2>Jawaban singkat</h2>
+  <div class="answer">
+    <div class="big">Riset dulu di beberapa WKR: ya. Fenomenologi: boleh sebagai salah satu lensa, tapi jangan satu-satunya.</div>
+    <p>Pengalaman hidup warga ("dulu mata air tidak pernah kering", "sejak hutan dijaga, longsor berkurang") adalah data yang berharga. Tapi reviewer menilai apakah <b>risiko iklim benar-benar turun</b>, dan itu butuh triangulasi dengan data lain. Jadi desainnya <b>metode campuran</b>: fenomenologi untuk makna dan pengalaman, ditambah survei rumah tangga, data iklim, dan indikator biofisik sederhana.</p>
+  </div>
+  <p>Ada satu hal yang perlu diluruskan sejak awal. WKR <b>tidak mengubah iklim</b>, kecuali iklim mikro di bawah tajuk hutan. Hujan ekstrem dan kemarau panjang tetap datang. Yang bisa diubah WKR adalah <b>seberapa parah dampaknya bagi warga</b>. Pertanyaan risetnya bukan "apakah iklimnya berubah", melainkan "apakah warga di WKR lebih tahan menghadapi iklim yang berubah".</p>
+</section>
+
+<section id="ukur">
+  <h2>Apa yang sebenarnya diukur</h2>
+  <p>IPCC merumuskan risiko iklim sebagai pertemuan tiga unsur: <b>bahaya × keterpaparan × kerentanan</b>. Bahaya iklim tidak bisa diubah proyek. Dua unsur lainnya bisa.</p>
+  <div class="risk">
+    <div class="card fixed"><h4>Bahaya iklim</h4><p>Hujan ekstrem, kemarau panjang, suhu naik. <b>Tidak diubah oleh WKR.</b> Di riset ini cukup dicatat trennya sebagai konteks.</p></div>
+    <div class="card moves"><h4>Keterpaparan</h4><p>Seberapa banyak rumah, lahan, dan sumber air yang terkena. Bisa turun karena tutupan hutan menahan longsor dan banjir, dan mata air tetap mengalir.</p></div>
+    <div class="card moves"><h4>Kerentanan</h4><p>Seberapa mampu warga bertahan dan pulih. Bisa turun karena sumber pangan beragam, akses hutan aman secara hukum, kelembagaan kuat, dan pengetahuan lokal hidup.</p></div>
+  </div>
+  <div class="tbl"><table>
+    <tr><th>Yang mungkin berubah karena WKR</th><th>Contoh indikator</th><th>Cara mengukur</th></tr>
+    <tr><td>Ketersediaan air saat kemarau</td><td>Debit mata air, jumlah bulan sumur kering</td><td>Pengukuran sederhana oleh warga, ingatan bersama (kalender musim)</td></tr>
+    <tr><td>Bencana hidrometeorologi</td><td>Kejadian longsor dan banjir per tahun, kerugian</td><td>Catatan desa, data bencana BNPB (DIBI), wawancara</td></tr>
+    <tr><td>Kebakaran</td><td>Titik api di dalam vs. di luar WKR</td><td>Data satelit NASA FIRMS</td></tr>
+    <tr><td>Iklim mikro</td><td>Suhu dan kelembapan di bawah tajuk vs. lahan terbuka</td><td>Data logger murah</td></tr>
+    <tr><td>Pangan dan penghidupan</td><td>Keragaman sumber pangan dan pendapatan, bulan paceklik</td><td>Survei rumah tangga</td></tr>
+    <tr><td>Rasa aman dan tenurial</td><td>Kepastian akses, konflik, rasa takut kehilangan lahan</td><td>Survei persepsi, wawancara mendalam (relevan untuk Topik 2)</td></tr>
+    <tr><td>Kelembagaan dan pengetahuan</td><td>Aturan kelola yang hidup, praktik adaptasi lokal</td><td>Fenomenologi, analisis dokumen kelembagaan</td></tr>
+  </table></div>
+</section>
+
+<section id="kerangka">
+  <h2>Kerangka baku: empat pertanyaan efektivitas EbA</h2>
+  <p>Tidak perlu membuat kerangka sendiri. IIED, IUCN, dan UNEP-WCMC sudah menyusun panduan penilaian efektivitas EbA dan mengujinya di 13 lokasi (Reid et al. 2017). Panduan ini lahir dari proyek yang didanai <b>IKI, donor yang sama dengan Global EbA Fund</b>. Memakainya mengirim sinyal bahwa WALHI berbicara dalam bahasa yang dikenal reviewer.</p>
+  <div class="q4">
+    <div class="card"><h4>1 · Efektif bagi masyarakat</h4>
+      <blockquote>"Does the initiative allow human communities to maintain or improve their adaptive capacity or resilience and reduce their vulnerability in the face of climate change…?"</blockquote>
+      <p>Termasuk: apakah manfaatnya dirasakan adil oleh perempuan, kelompok termiskin, dan masyarakat adat? Apa peran pengetahuan lokal?</p></div>
+    <div class="card"><h4>2 · Efektif bagi ekosistem</h4>
+      <blockquote>"Does the initiative restore, maintain or enhance the capacity of ecosystems to produce adaptation services for local communities…?"</blockquote>
+      <p>Tekanan apa yang dihadapi ekosistem? Jasa ekosistem apa yang terjaga atau pulih?</p></div>
+    <div class="card"><h4>3 · Efektif secara ekonomi</h4>
+      <blockquote>"Is EbA cost effective and economically viable over the long term?"</blockquote>
+      <p>Berapa biaya dan manfaatnya, idealnya dibandingkan dengan pilihan lain. Bukan harga karbon.</p></div>
+    <div class="card"><h4>4 · Kebijakan dan kelembagaan</h4>
+      <blockquote>"What social, institutional and political issues influence the implementation of effective EbA…?"</blockquote>
+      <p>Apa hambatan kebijakan di tingkat lokal sampai nasional? Perubahan kebijakan apa yang dibutuhkan? Ini langsung menyambung ke Output 3 dan SO1.</p></div>
+  </div>
+  <p>Panduan ini juga punya versi pertanyaan berbahasa awam (Annex 2), sehingga bisa diterjemahkan untuk wawancara dengan warga.</p>
+</section>
+
+<section id="feno">
+  <h2>Posisi fenomenologi</h2>
+  <p><b>Fenomenologi</b> adalah pendekatan yang menggali pengalaman hidup dan makna: bagaimana warga mengalami perubahan iklim, dan apa arti hutan atau mata air bagi mereka. Dalam riset iklim, pendekatan ini dipakai untuk menangkap hal yang tidak terlihat di data, misalnya rasa aman, keterikatan dengan tanah, dan pengetahuan membaca tanda alam.</p>
+  <div class="tbl"><table>
+    <tr><th>Kekuatan</th><th>Keterbatasan</th></tr>
+    <tr><td>Menangkap pengetahuan lokal dan cara warga membaca perubahan</td><td>Persepsi bisa bias oleh ingatan atau oleh peristiwa terakhir yang paling membekas</td></tr>
+    <tr><td>Memberi suara pada perempuan, pemuda, dan kelompok yang jarang didengar</td><td>Tidak bisa sendirian membuktikan bahwa WKR <i>menyebabkan</i> ketahanan meningkat</td></tr>
+    <tr><td>Kuat untuk dimensi keamanan manusia (Topik 2): rasa takut, kepastian, konflik</td><td>Reviewer EbA terbiasa dengan bukti terukur. Tanpa triangulasi, temuan bisa dianggap anekdot.</td></tr>
+  </table></div>
+  <div class="callout blue"><p><b>Cara yang sudah lazim: membandingkan persepsi dengan data stasiun.</b> Studi di kelompok pengguna hutan kemasyarakatan Nepal melakukan ini. Contohnya studi di Lamjung: survei 62 rumah tangga di tiga kelompok hutan kemasyarakatan, diskusi kelompok, lalu hasilnya dicocokkan dengan 29 tahun data curah hujan stasiun. Kesimpulannya, hutan kemasyarakatan perlu diakui dalam perencanaan adaptasi. Pola yang sama bisa dipakai di WKR, dengan data BMKG atau data satelit curah hujan (CHIRPS) dan suhu (ERA5).</p></div>
+</section>
+
+<section id="contoh">
+  <h2>Contoh proyek EbA yang didanai Global EbA Fund</h2>
+  <p class="sub">Dipilih yang paling mirip dengan ide WKR: hutan kelola komunitas, pengetahuan tradisional, tenurial, dan pembuktian dampak. Ringkasan diambil dari halaman proyek di situs fund.</p>
+  <div class="tbl"><table>
+    <tr><th>Proyek</th><th>Yang dikerjakan</th><th>Cara membuktikan dampak</th><th>Pelajaran untuk WALHI</th></tr>
+    <tr><td><b>Restoring nature and peace</b>, Kenya<br><small>Conservation International · Cohort 1 · USD 251.680 · 2022–2023</small></td><td>Menguji apakah restorasi padang rumput menurunkan konflik antarwarga dan dengan satwa di tengah kekeringan</td><td>Empat putaran survei kepada <b>1.567 rumah tangga</b>. Hasilnya: semakin luas area yang dipulihkan, semakin sedikit konflik. Diterbitkan di <i>Frontiers in Environmental Science</i>.</td><td><b>Contoh terbaik untuk Topik 2.</b> Survei berulang dan perbandingan antarlokasi membuat klaimnya kuat. Satu temuan tidak sesuai harapan (konflik dengan satwa tidak turun) dan tetap dilaporkan. Kejujuran ini meningkatkan kredibilitas.</td></tr>
+    <tr><td><b>Mainstreaming EbA into territorial plans of Andean communities</b>, Cusco, Peru<br><small>ACCA · Cohort 2 · USD 254.067 · 2022–2024</small></td><td>Rencana tata kelola wilayah komunitas, pengetahuan tradisional (Yachaq), dan advokasi masuk ke instrumen daerah</td><td>Karakterisasi lahan basah dan rencana kelola. Bukti efektivitasnya tidak dijelaskan rinci.</td><td><b>Strukturnya paling mirip dengan ide WKR</b>: rencana wilayah komunitas naik ke kebijakan daerah. Hasilnya nyata: strategi iklim regional diperbarui sampai 2050, dan dua peraturan daerah disahkan.</td></tr>
+    <tr><td><b>Integrating traditional knowledge</b>, Naga, Myanmar<br><small>WWF-Myanmar + organisasi lokal · Cohort 6 · USD 250.000 · mulai 2026</small></td><td>Mengkaji pengetahuan tradisional Naga, pilot adaptasi di 17 desa, dan meletakkan dasar pengakuan hak atas tanah</td><td>Belum dijelaskan</td><td><b>Pesaing terdekat secara tema.</b> Pengetahuan tradisional, tenurial, dan EbA sudah didanai pada 2026. Tema ini diterima fund, tapi WALHI harus menonjolkan pembeda: jaringan banyak WKR, integrasi kebijakan sampai nasional, dan bukti yang terukur.</td></tr>
+    <tr><td><b>Restore Kaya</b>, Kenya<br><small>BGCI + National Museums of Kenya · Cohort 6 · USD 199.770 · mulai 2026</small></td><td>Hutan sakral masyarakat adat, menggabungkan suara tetua adat dan sains untuk kebijakan kabupaten</td><td>Survei pengetahuan, sikap, dan praktik (KAP), analisis kesenjangan kebijakan</td><td>Situs awal harus <b>diganti</b> karena masalah tata kelola dan penerimaan warga. Seleksi situs WKR perlu dilakukan dengan hati-hati sejak awal.</td></tr>
+    <tr><td><b>Community-led EbA in forest landscapes</b>, Vietnam<br><small>IIED · Cohort 2 · USD 188.333 · 2022–2025</small></td><td>Lima studi kasus praktik EbA oleh organisasi petani-hutan, strategi pemasaran produk</td><td>Studi kasus dan asesmen partisipatif. Metode efektivitas tidak dijelaskan.</td><td>Proyek <b>ditutup lebih awal karena hambatan birokrasi</b>. Risiko izin pemerintah harus masuk analisis risiko. Bukti berupa studi kasus saja terlihat tipis.</td></tr>
+  </table></div>
+  <p><b>Pola yang terlihat:</b> sebagian besar halaman proyek tidak menjelaskan metode pembuktian dampak secara rinci. Ini <b>peluang bagi WALHI</b>. Proposal yang menjelaskan desain riset dengan jelas (kerangka IIED, triangulasi, pembanding) akan menonjol, terutama di kriteria "Design and Methodology".</p>
+  <p><small>Di luar fund, rujukan pembanding yang kuat adalah proyek IIED, IUCN, dan UNEP-WCMC (2015–2019) yang menilai efektivitas EbA di 13 lokasi di 12 negara, termasuk hutan kemasyarakatan di Nepal.</small></p>
+</section>
+
+<section id="desain">
+  <h2>Desain riset usulan: studi efektivitas adaptasi WKR</h2>
+  <p class="sub">Ini menjadi isi Output 1 di logframe. Riset dipadatkan ke bulan 1–9, supaya hasilnya sempat dipakai untuk kerja kebijakan di bulan 6–24.</p>
+
+  <h3>Pertanyaan riset</h3>
+  <ol class="tight">
+    <li>Bagaimana warga WKR mengalami perubahan iklim, dan apakah pengalaman itu sejalan dengan data iklim?</li>
+    <li>Apakah warga di WKR lebih tahan terhadap kekeringan, longsor, banjir, dan kebakaran dibanding warga di desa pembanding? Siapa yang paling dan paling sedikit merasakan manfaatnya?</li>
+    <li>Jasa ekosistem apa dari WKR yang paling menentukan ketahanan itu?</li>
+    <li>Bagaimana kepastian tenurial memengaruhi kemampuan beradaptasi dan rasa aman warga?</li>
+    <li>Hambatan kebijakan apa yang membuat praktik ini tidak diakui sebagai adaptasi?</li>
+  </ol>
+
+  <h3>Lima jalur data</h3>
+  <div class="strands">
+    <div class="ph1"><b>A · Fenomenologi</b>Wawancara mendalam, sejarah hidup, diskusi terpisah untuk perempuan dan pemuda</div>
+    <div><b>B · Survei</b>Survei rumah tangga: ketahanan pangan, sumber pendapatan, kerugian bencana, rasa aman</div>
+    <div><b>C · Data iklim</b>Tren curah hujan dan suhu (BMKG, CHIRPS, ERA5), dicocokkan dengan persepsi warga</div>
+    <div><b>D · Biofisik</b>Debit mata air, suhu bawah tajuk, titik api (FIRMS), tutupan lahan (Sentinel), catatan bencana</div>
+    <div><b>E · Kebijakan</b>Analisis dokumen: RKPS, RPJMDes, Perpres 28/2023, NAP</div>
+  </div>
+
+  <h3>Desain perbandingan</h3>
+  <div class="tbl"><table>
+    <tr><th>Unsur</th><th>Usulan</th><th>Alasan</th></tr>
+    <tr><td>Situs</td><td><span class="pill p-warn">[3–4]</span> WKR dengan bahaya iklim yang berbeda (misalnya kekeringan, longsor, pesisir)</td><td>Menunjukkan model berlaku di lebih dari satu kondisi</td></tr>
+    <tr><td>Pembanding</td><td>Satu desa tetangga tanpa WKR untuk tiap situs, dengan kondisi serupa</td><td>Tanpa pembanding, dampak tidak bisa dipisahkan dari kebetulan</td></tr>
+    <tr><td>Waktu</td><td>Baseline sekarang, ingatan bersama untuk 10–20 tahun ke belakang, dan pengukuran ulang di bulan 18–24</td><td>Proyek hanya 24 bulan. Ingatan bersama mengisi data masa lalu.</td></tr>
+    <tr><td>Analisis</td><td>Kerangka empat pertanyaan IIED, dengan temuan dari tiap jalur data saling diuji</td><td>Bahasa yang dikenal reviewer, dan klaimnya lebih kuat</td></tr>
+    <tr><td>Etika</td><td>FPIC, data milik komunitas, hasil dikembalikan ke warga sebelum dipublikasikan</td><td>Riset tidak boleh ekstraktif. Ini juga bagian dari kriteria gender dan inklusi.</td></tr>
+  </table></div>
+  <p><b>Bagaimana masuk ke logframe:</b> Output 1 menjadi "Studi efektivitas adaptasi WKR". Sistem pemantauan warga yang dibangun dari jalur D bisa dilaporkan sebagai Core Indicator 3, asalkan ada pihak yang memeliharanya setelah proyek selesai.</p>
+</section>
+
+<section id="kritis">
+  <h2>Catatan kritis</h2>
+  <ul class="tight">
+    <li><b>Klaim kontribusi, bukan sebab tunggal.</b> Dalam 24 bulan tidak mungkin membuktikan bahwa WKR <i>menyebabkan</i> ketahanan. Yang bisa ditunjukkan adalah kontribusinya, lewat perbandingan dan triangulasi. Tulis klaimnya sesuai kekuatan bukti.</li>
+    <li><b>Bias pemilihan situs.</b> Kalau hanya WKR yang berhasil yang diteliti, hasilnya akan terlihat terlalu bagus. Sertakan satu situs yang masih bermasalah, dan laporkan temuan yang tidak sesuai harapan, seperti yang dilakukan CI Kenya.</li>
+    <li><b>Riset jangan memakan seluruh proyek.</b> Fund mensyaratkan Pilar 2 punya rencana agar data benar-benar dipakai pengambil keputusan. Riset selesai di bulan 9, lalu sisanya untuk kapasitas dan kebijakan.</li>
+    <li><b>Jangan menjanjikan iklim yang membaik.</b> Bahasa seperti "WKR memperbaiki iklim" akan langsung dipersoalkan reviewer. Gunakan "mengurangi risiko" atau "meningkatkan ketahanan".</li>
+    <li><b>Risiko birokrasi itu nyata.</b> Proyek IIED di Vietnam ditutup lebih awal karena hambatan birokrasi. Pastikan izin dan dukungan dari Kemenhut dan pemda sudah dijajaki sebelum submit.</li>
+    <li><b>Jalur ke Pasal 6.8 justru diperkuat</b> oleh riset seperti ini, karena pendekatan non-pasar membutuhkan bukti manfaat yang bukan karbon. Tapi cukup disebut di exit strategy, tidak perlu ditonjolkan sekarang.</li>
+  </ul>
+</section>
+
+<section id="sumber">
+  <h2>Sumber</h2>
+  <ol class="src">
+    <li>Reid H, Seddon N, Barrow E, et al. (2017). <i>Ecosystem-based adaptation: question-based guidance for assessing effectiveness</i>. IIED, London. <a href="https://www.iied.org/sites/default/files/pdfs/migrate/17606IIED.pdf">PDF</a></li>
+    <li><a href="https://www.iied.org/g04045">Seddon et al. (2016). Ecosystem-based approaches to adaptation: strengthening the evidence and informing policy. Research overview (IIED)</a></li>
+    <li><a href="https://globalebafund.org/projects/">Portofolio proyek Global EbA Fund</a></li>
+    <li><a href="https://globalebafund.org/project/restoring-nature-and-peace-threatened-by-climate-change-monitoring-human-security-benefits-of-eba-in-kenya/">CI Kenya: Restoring nature and peace</a></li>
+    <li><a href="https://globalebafund.org/project/mainstreaming-ecosystem-based-adaptation-into-public-policy-and-the-territorial-plans-of-andean-communities-in-cusco-peru/">ACCA Peru: territorial plans of Andean communities</a></li>
+    <li><a href="https://globalebafund.org/project/enhancing-community-resilience-to-climate-change-through-the-integration-of-traditional-knowledge-and-practices-into-adaptation-strategies/">WWF-Myanmar: traditional knowledge, Naga</a></li>
+    <li><a href="https://globalebafund.org/project/restore-kaya-amplifying-indigenous-kaya-voices-through-policy-and-science-towards-creating-a-climate-resilient-community/">BGCI Kenya: Restore Kaya</a></li>
+    <li><a href="https://globalebafund.org/project/scaling-up-community-led-eba-in-biodiverse-forest-landscapes-in-viet-nam/">IIED Vietnam: community-led EbA in forest landscapes</a></li>
+    <li><a href="https://nepjol.info/index.php/BANKO/article/view/24189">Studi CFUG Lamjung, Nepal (Banko Janakari)</a> · <a href="https://nepjol.info/index.php/jfnrm/article/view/74226">Studi Nechasalyan, Nepal (2024)</a></li>
+  </ol>
+</section>
+</main>
+</div>
