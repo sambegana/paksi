@@ -1,0 +1,307 @@
+<title>NbS Warga Jawa</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: laporan kerja dua kolom (daftar isi lengket + isi), satu kolom di ponsel. Palet: lumpur pesisir, mangrove, air pasang. */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --ink:#1c2422; --muted:#5a6662; --line:#d9dfdb;
+  --mangrove:#1e6b55; --mangrove-soft:#e3efe9; --tide:#245c86; --tide-soft:#e4edf5;
+  --silt:#9a6a1f; --silt-soft:#f5ecdc; --risk:#a63a2b; --risk-soft:#f7e6e2;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--tide);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--tide);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:13.5px}
+nav.toc p{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{color:var(--muted);text-decoration:none;display:flex;gap:8px}
+nav.toc a::before{content:counter(t,decimal-leading-zero);font-family:var(--mono);font-size:11px;padding-top:2px;color:var(--line)}
+nav.toc a:hover{color:var(--ink)}
+main{min-width:0}
+header.top{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:8px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--mangrove)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,4.6vw,46px);line-height:1.08;margin:10px 0 14px;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(23px,2.8vw,30px);line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--body);font-weight:600;font-size:16.5px;margin:26px 0 8px}
+h4{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px}
+p{margin:0 0 12px;max-width:72ch}
+.lede{font-size:17.5px;color:var(--muted);max-width:68ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12.5px;color:var(--muted);margin-top:16px}
+section{padding-block:40px 8px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sub{color:var(--muted);margin-bottom:20px;max-width:70ch}
+ul.tight{margin:0 0 12px;padding-left:20px;max-width:74ch}
+ul.tight li{margin-bottom:6px}
+.pill{display:inline-block;font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.03em;padding:2px 8px;border-radius:3px;white-space:nowrap}
+.p-go{background:var(--mangrove-soft);color:var(--mangrove)}
+.p-warn{background:var(--silt-soft);color:var(--silt)}
+.p-risk{background:var(--risk-soft);color:var(--risk)}
+.p-info{background:var(--tide-soft);color:var(--tide)}
+
+.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:22px 24px;margin:24px 0 8px;display:grid;gap:10px}
+.verdict .big{font-family:var(--display);font-size:24px;font-weight:600;line-height:1.25}
+.countdown{display:flex;flex-wrap:wrap;gap:24px;margin-top:6px}
+.countdown div{display:grid}
+.countdown b{font-family:var(--display);font-size:34px;line-height:1;font-weight:600;font-variant-numeric:tabular-nums}
+.countdown span{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+.challenge{display:grid;gap:14px;margin-top:14px}
+.challenge article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.challenge h4{margin:0 0 4px}
+.challenge p{margin:0;font-size:14.5px}
+.challenge .you h4{color:var(--silt)}
+.challenge .me h4{color:var(--mangrove)}
+
+.tbl{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td small,li small{color:var(--muted)}
+.doi{font-family:var(--mono);font-size:12px;word-break:break-all}
+
+.weights{display:grid;gap:8px;margin:14px 0 18px;max-width:640px}
+.wrow{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr) 44px;gap:12px;align-items:center;font-size:14px}
+.bar{height:12px;background:var(--line);position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--mangrove)}
+.wrow .num{font-family:var(--mono);text-align:right}
+
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:12px 0}
+.card{background:var(--surface);border:1px solid var(--line);padding:16px 18px;min-width:0}
+.card h4{margin-top:0}
+.swot .card{border-top:3px solid var(--line)}
+.swot .s{border-top-color:var(--mangrove)}.swot .w{border-top-color:var(--silt)}
+.swot .o{border-top-color:var(--tide)}.swot .t{border-top-color:var(--risk)}
+.swot .s h4{color:var(--mangrove)}.swot .w h4{color:var(--silt)}.swot .o h4{color:var(--tide)}.swot .t h4{color:var(--risk)}
+.swot ul{margin:0;padding-left:18px;font-size:14.2px}
+.swot li{margin-bottom:6px}
+
+.score{display:inline-flex;gap:3px;vertical-align:middle}
+.score i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.score i.on{background:var(--mangrove)}
+
+.toc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.toc-flow .step{background:var(--surface);border:1px solid var(--line);padding:12px 14px;font-size:13.8px;min-width:0}
+.toc-flow .step b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:500}
+.toc-flow .imp{grid-column:1/-1;background:var(--mangrove-soft);border-color:transparent}
+.outputs{display:grid;gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove)}
+.outputs ol{margin:6px 0 0;padding-left:20px;font-size:14.2px}
+.callout{background:var(--silt-soft);padding:14px 18px;margin:14px 0;max-width:78ch;font-size:14.6px}
+.callout.blue{background:var(--tide-soft)}
+.callout.red{background:var(--risk-soft)}
+.callout p:last-child{margin:0}
+footer{font-size:13px;color:var(--muted);padding-top:28px}
+ol.src{font-size:13px;padding-left:20px;display:grid;gap:4px;max-width:90ch}
+ol.src li{word-break:break-word}
+
+@media (max-width:900px){
+  .wrap{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:24px 60px}
+  nav.toc{position:static;border:1px solid var(--line);background:var(--surface);padding:14px 16px}
+  nav.toc ol{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc-flow{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .grid2,.challenge article{grid-template-columns:minmax(0,1fr)}
+  nav.toc ol{grid-template-columns:minmax(0,1fr)}
+  .toc-flow{grid-template-columns:minmax(0,1fr)}
+  .wrow{grid-template-columns:minmax(0,1fr) 44px}.wrow .bar{grid-column:1/-1;grid-row:2}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+<style>
+.formula{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:16px 0 8px;font-size:14.5px}
+.formula span{background:var(--surface);border:1px solid var(--line);padding:8px 12px}
+.formula span.on{background:var(--mangrove-soft);border-color:transparent;color:var(--mangrove);font-weight:600}
+.formula i{font-style:normal;color:var(--muted);font-family:var(--mono)}
+.gaps{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.gaps .card{border-top:3px solid var(--silt)}
+.gaps .card h4{margin-top:0;color:var(--silt)}
+.gaps .card p{margin:0;font-size:14px}
+.gaps .card .to{display:block;margin-top:8px;font-family:var(--mono);font-size:11.5px;color:var(--mangrove);letter-spacing:.03em}
+.outputs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove);margin-top:0}
+.outputs ul{margin:6px 0 0;padding-left:18px;font-size:14.2px}
+.outputs li{margin-bottom:4px}
+.outcome{background:var(--mangrove-soft);padding:16px 20px;margin:14px 0;font-size:15.5px;max-width:80ch}
+.outcome b{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;display:block;color:var(--mangrove);margin-bottom:4px;font-weight:500}
+.sites{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:14px 0}
+.sites div{background:var(--surface);border:1px solid var(--line);padding:12px;font-size:13.6px;min-width:0}
+.sites b{display:block;font-family:var(--display);font-size:17px;font-weight:600;margin-bottom:2px}
+.sites small{color:var(--muted)}
+@media (max-width:900px){.gaps{grid-template-columns:repeat(2,minmax(0,1fr))}.sites{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:620px){.gaps,.outputs,.sites{grid-template-columns:minmax(0,1fr)}}
+</style>
+
+<div class="wrap">
+<nav class="toc" aria-label="Daftar isi">
+  <p>Isi</p>
+  <ol>
+    <li><a href="#rumus">Apa yang dibiayai fund</a></li>
+    <li><a href="#inventaris">NbS warga yang sudah ada</a></li>
+    <li><a href="#pola">Empat celah yang sama</a></li>
+    <li><a href="#rancangan">Outcome &amp; output</a></li>
+    <li><a href="#situs">Satu situs per kota</a></li>
+    <li><a href="#kritis">Catatan kritis</a></li>
+    <li><a href="#sumber">Sumber</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <div class="eyebrow">Lanjutan diskusi Global EbA Fund · Fokus nature-based</div>
+  <h1>NbS warga Jawa: dari cerita menjadi kebijakan</h1>
+  <p class="lede">Inventaris praktik berbasis alam yang sudah dijalankan warga di Jawa, mirip kasus jurnal UI tentang Ciliwung Condet, beserta rancangan outcome dan kegiatan yang bisa dibiayai Global EbA Fund dalam kerangka Topik 2, SO1, dan Pilar 1 dan 2.</p>
+  <div class="meta"><span>4 November 2026</span><span>Tenggat submit: 16 November 2026</span></div>
+</header>
+
+<section id="rumus">
+  <h2>Yang dibiayai fund bukan menanamnya</h2>
+  <p>EbA memang berbasis alam. Tapi Global EbA Fund secara tegas tidak membiayai implementasi lapangan yang berdiri sendiri, jadi menanam atau membangun NbS tidak dibayar. Yang dibiayai adalah upaya agar praktik berbasis alam itu <b>terbukti, diakui, dibiayai, dan terlindungi</b>.</p>
+  <p>Ini justru menguntungkan untuk praktik warga yang sudah berjalan. Syarat "project must be built off existing work" langsung terpenuhi.</p>
+  <div class="formula" aria-label="Alur: praktik NbS warga, diukur, diakui kebijakan, masuk anggaran publik, dilindungi">
+    <span class="on">Praktik NbS warga yang sudah ada</span><i>→</i><span>Diukur</span><i>→</i><span>Diakui kebijakan</span><i>→</i><span>Masuk anggaran publik</span><i>→</i><span>Dilindungi dari ancaman</span>
+  </div>
+</section>
+
+<section id="inventaris">
+  <h2>NbS warga yang sudah ada</h2>
+  <p class="sub">Status <span class="pill p-go">dicek</span> berarti ada sumber daring yang sudah dibaca di sesi ini. <span class="pill p-info">riset awal</span> berarti berasal dari riset sebelumnya (jurnal, tesis, atau pemberitaan) dan detailnya masih perlu dikonfirmasi.</p>
+
+  <h3>Kota</h3>
+  <div class="tbl"><table>
+    <tr><th>Inisiatif</th><th>Bentuk NbS</th><th>Kenapa menarik</th><th>Status</th></tr>
+    <tr><td>Padepokan Ciliwung Condet, Jakarta</td><td>Konservasi sempadan sungai berbasis budaya Betawi</td><td>Kasus jurnal UI (CUDJ 2024). Ceritanya kuat, tapi manfaat adaptasinya belum diukur.</td><td><span class="pill p-go">dicek</span></td></tr>
+    <tr><td><b>Babakan Siliwangi, Bandung</b></td><td>Hutan kota. Dinyatakan "World City Forest" pada konferensi TUNZA UNEP 2011.</td><td><b>WALHI Jabar dan warga menolak rencana komersialisasi (apartemen, mal, restoran) pada 2013.</b> Ini rekam jejak WALHI Jabar di NbS kota yang sebelumnya kita cari.</td><td><span class="pill p-go">dicek</span></td></tr>
+    <tr><td>Kampung Kali Code, Yogyakarta</td><td>Kampung tepi sungai yang dibenahi tanpa penggusuran (Romo Mangunwijaya, 1980–1985, Aga Khan Award 1992)</td><td>Preseden hak atas kota. Unsur ekosistemnya lemah, dan studi 2023 menilai modelnya sudah tidak relevan.</td><td><span class="pill p-go">dicek</span></td></tr>
+    <tr><td>Sekolah Air Hujan Banyu Bening, Sleman</td><td>Panen air hujan berbasis komunitas</td><td>Mengurangi pengambilan air tanah, sehingga terhubung ke isu subsidensi. Sudah ditiru daerah lain (Bangka Belitung). Catatan: bentuknya lebih hibrida daripada murni ekosistem.</td><td><span class="pill p-go">dicek</span></td></tr>
+  </table></div>
+
+  <h3>Pesisir</h3>
+  <div class="tbl"><table>
+    <tr><th>Inisiatif</th><th>Bentuk NbS</th><th>Kenapa menarik</th><th>Status</th></tr>
+    <tr><td>Mangunharjo &amp; Tugurejo, Semarang</td><td>Mangrove kelola warga sejak sekitar 2008</td><td>Tesis UGM mencatat penambahan sekitar 63 ha pada 2010–2020. Lokasinya kota besar dan datanya cukup.</td><td><span class="pill p-info">riset awal</span></td></tr>
+    <tr><td>Forum Bintoro, Timbulsloko, Demak</td><td>Mangrove warga di desa yang tenggelam</td><td>Tempat paling jelas untuk menguji pertanyaan "mangrove vs. subsidensi". Lokasinya padat donor.</td><td><span class="pill p-info">riset awal</span></td></tr>
+    <tr><td>Wonorejo, Surabaya</td><td>Kelompok tani mangrove dan ekowisata</td><td>Ada data pendapatan warga. Kawasannya terancam reklamasi.</td><td><span class="pill p-info">riset awal</span></td></tr>
+    <tr><td>Baros, Bantul</td><td>Mangrove yang dikelola pemuda (KP2B)</td><td>Ditetapkan lewat SK Bupati, jadi contoh pengakuan formal.</td><td><span class="pill p-info">riset awal</span></td></tr>
+  </table></div>
+
+  <h3>Karst dan hulu</h3>
+  <div class="tbl"><table>
+    <tr><th>Inisiatif</th><th>Bentuk NbS</th><th>Kenapa menarik</th><th>Status</th></tr>
+    <tr><td><b>Komunitas Resan, Gunungkidul</b></td><td>Pemuda menjaga pohon "resan" di sekitar mata air</td><td>Aktif di 42 dari 144 desa. Kearifan lokal yang skalanya sudah besar, dan sangat EbA.</td><td><span class="pill p-info">riset awal</span></td></tr>
+    <tr><td>Telaga Gunung Sewu</td><td>Pengelolaan telaga secara tradisional</td><td>Sudah ada jurnalnya (Martias 2024).</td><td><span class="pill p-info">riset awal</span></td></tr>
+    <tr><td>JMPPK Kendeng</td><td>Pemetaan mata air oleh petani</td><td>Ada valuasi ilmiahnya (Sumarga 2024) dan rekam jejak advokasi WALHI.</td><td><span class="pill p-info">riset awal</span></td></tr>
+  </table></div>
+</section>
+
+<section id="pola">
+  <h2>Pola: empat celah yang sama</h2>
+  <p class="sub">Hampir semua inisiatif di atas punya masalah yang sama. Setiap celah bisa langsung menjadi satu output proposal.</p>
+  <div class="gaps">
+    <div class="card"><h4>1 · Belum diukur</h4><p>Bukti manfaat adaptasinya masih berupa cerita, persis seperti jurnal UI.</p><span class="to">→ Output 1: Bukti</span></div>
+    <div class="card"><h4>2 · Tidak dikenal luas</h4><p>Pengetahuannya tertahan di komunitas masing-masing. Perencana kota tidak tahu praktik ini ada.</p><span class="to">→ Output 2: Pengetahuan</span></div>
+    <div class="card"><h4>3 · Status hukum lemah</h4><p>Tidak tercantum di tata ruang, bahkan dianggap "menempati sempadan". Hidup dari relawan tanpa anggaran publik.</p><span class="to">→ Output 3: Pengakuan</span></div>
+    <div class="card"><h4>4 · Terancam</h4><p>Reklamasi, normalisasi sungai, komersialisasi, tambang.</p><span class="to">→ Output 4: Perlindungan</span></div>
+  </div>
+</section>
+
+<section id="rancangan">
+  <h2>Rancangan outcome dan output</h2>
+  <p class="sub">Tetap dalam kerangka atasan: Topik 2 (keamanan manusia), SO1 (kesadaran, pengetahuan, kapasitas), Pilar 1 (satu sub-opsi) dan Pilar 2 (data dan sains).</p>
+  <div class="outcome"><b>Outcome</b>Praktik NbS yang dikelola warga di kota-kota Jawa diakui dan dipakai pemerintah daerah dalam rencana adaptasi dan tata ruang, berdasarkan bukti manfaat adaptasinya.</div>
+  <div class="outputs">
+    <div class="card"><h4>Output 1 · Bukti (Pilar 2)</h4>
+      <p>Mengukur manfaat adaptasi di 5–6 situs. Warga menjadi peneliti bersama universitas.</p>
+      <ul>
+        <li>Pin atau plat sedimen di mangrove: apakah lumpur menumpuk lebih cepat daripada tanah turun?</li>
+        <li>Debit mata air resan saat kemarau, dibandingkan antara yang dijaga dan yang tidak</li>
+        <li>Sensor suhu murah di bantaran berpohon vs. bantaran gundul</li>
+        <li>Catatan genangan oleh warga dan valuasi jasa ekosistem sederhana</li>
+      </ul></div>
+    <div class="card"><h4>Output 2 · Pengetahuan dan kesadaran (SO1)</h4>
+      <ul>
+        <li>Katalog "NbS Warga Jawa" dan peta cerita</li>
+        <li>Kunjungan belajar antarkomunitas, misalnya Condet ke Code, atau Resan ke Mangunharjo</li>
+        <li>Modul singkat untuk perencana Bappeda dan dinas</li>
+      </ul></div>
+    <div class="card"><h4>Output 3 · Pengakuan kebijakan (Pilar 1)</h4>
+      <ul>
+        <li>Usulan agar situs masuk RDTR atau RTRW sebagai zona lindung yang dikelola warga</li>
+        <li>Draf Perwal atau Perbup tentang kelola bersama sempadan</li>
+        <li>Masukan untuk kriteria ProKlim dan untuk KLHS</li>
+      </ul></div>
+    <div class="card"><h4>Output 4 · Perlindungan dan kohesi sosial (Topik 2)</h4>
+      <ul>
+        <li>Forum warga dengan pemda yang dilembagakan</li>
+        <li>Uji kepekaan konflik terhadap proyek yang mengancam situs</li>
+        <li>Dukungan pelindungan pejuang lingkungan (Permen LHK 10/2024)</li>
+      </ul></div>
+  </div>
+  <div class="tbl"><table>
+    <tr><th>Core Indicator</th><th>Dari output mana</th></tr>
+    <tr><td>1 · Kebijakan atau instrumen yang dikembangkan atau dipengaruhi</td><td>Output 3</td></tr>
+    <tr><td>2 · Mekanisme koordinasi yang terlembaga</td><td>Output 4 (forum warga dan pemda)</td></tr>
+    <tr><td>3 · Instrumen MEL efektivitas EbA</td><td>Output 1 (sistem pemantauan warga)</td></tr>
+    <tr><td>10 · Produk pengetahuan (cadangan)</td><td>Output 2. Jangan dihitung ganda dengan indikator 3.</td></tr>
+  </table></div>
+</section>
+
+<section id="situs">
+  <h2>Satu situs per kota sudah cukup</h2>
+  <p>Rancangan ini memecahkan masalah "terlalu banyak provinsi" dari diskusi sebelumnya. Kerjanya mengukur dan memperjuangkan pengakuan, bukan membangun. Jadi satu situs per kota cukup, dan lima kota bisa bergerak sebagai satu jaringan.</p>
+  <div class="sites">
+    <div><b>Bandung</b>Babakan Siliwangi atau Cikapundung<br><small>Jabar · hutan kota, sungai</small></div>
+    <div><b>Semarang</b>Mangunharjo &amp; Tugurejo<br><small>Jateng · mangrove, subsidensi</small></div>
+    <div><b>Yogyakarta</b>Kali Code atau Banyu Bening<br><small>DIY · sungai, air hujan</small></div>
+    <div><b>Surabaya</b>Wonorejo<br><small>Jatim · mangrove, reklamasi</small></div>
+    <div><b>Jakarta</b>Ciliwung Condet<br><small>DKI · sempadan, budaya</small></div>
+  </div>
+  <p><small>Komunitas Resan (Gunungkidul) dan JMPPK Kendeng bisa ditambahkan kalau proposal tidak dibatasi pada kota. Pilihan ini bergantung pada keputusan atasan: sepenuhnya urban, atau urban ditambah pesisir dan hulu.</small></p>
+</section>
+
+<section id="kritis">
+  <h2>Catatan kritis</h2>
+  <ul class="tight">
+    <li><b>Jangan meromantisasi kearifan lokal.</b> Reviewer menilai bukti. Pilih indikator yang bisa berubah dalam 24 bulan: suhu, sedimen, debit mata air, genangan. Tutupan hutan tidak akan banyak berubah dalam waktu sesingkat itu.</li>
+    <li><b>Kerja lapangan hanya untuk pemantauan</b>, misalnya pembelian alat ukur. Penanaman tidak dibiayai, dan seed grant ke komunitas juga dilarang.</li>
+    <li><b>Pengetahuan warga adalah milik warga.</b> Perlu FPIC dan kesepakatan pembagian manfaat, supaya proyek ini tidak sekadar mengambil cerita mereka.</li>
+    <li><b>Babakan Siliwangi perlu dicek ke WALHI Jabar:</b> bagaimana kelanjutannya setelah 2013, dan apakah hubungan dengan warganya masih terjaga.</li>
+    <li><b>Kali Code perlu dibaca kritis.</b> Studi 2023 menilai modelnya sudah tidak relevan. Pakai sebagai preseden sejarah, bukan contoh keberhasilan saat ini.</li>
+    <li><b>Banyu Bening berada di batas definisi EbA.</b> Panen air hujan adalah teknologi, bukan ekosistem. Hubungkan dengan pengurangan pengambilan air tanah dan pengisian akuifer agar tetap relevan.</li>
+  </ul>
+</section>
+
+<section id="sumber">
+  <h2>Sumber</h2>
+  <ol class="src">
+    <li><a href="https://en.wikipedia.org/wiki/Babakan_Siliwangi">Babakan Siliwangi (Wikipedia)</a> · <a href="https://kabar24.bisnis.com/read/20130526/78/141042/hutan-kota-pembangunan-babakan-siliwangi-ditolak-walhi">Bisnis (2013): pembangunan Babakan Siliwangi ditolak WALHI</a> · <a href="https://mongabay.co.id/2013/05/24/tolak-alihfungsi-babakan-siliwangi-forum-warga-gugat-walikota-bandung/">Mongabay (2013): forum warga gugat Wali Kota Bandung</a></li>
+    <li><a href="https://infopublik.id/kategori/nasional-sosial-budaya/970429/banyu-bening-bangun-gerakan-konservasi-air-berbasis-komunitas">InfoPublik: Banyu Bening, gerakan konservasi air berbasis komunitas</a> · <a href="https://news.republika.co.id/berita/q1y5pv313/babel-pelajari-pengelolaan-air-hujan-di-sleman">Republika (2019): Babel pelajari pengelolaan air hujan di Sleman</a></li>
+    <li><a href="https://sites.google.com/view/pearls-project/selected-case-studies/kampung-kali-code-id">PEARLS: studi kasus Kampung Kali Code</a> · <a href="https://en.wikipedia.org/wiki/Y._B._Mangunwijaya">Y. B. Mangunwijaya (Wikipedia)</a> · <a href="https://journals.vilniustech.lt/index.php/JAU/article/view/6900">Studi Kampung Code Utara (JAU, 2023)</a></li>
+    <li><a href="https://scholarhub.ui.ac.id/cudj/vol2/iss2/3">Aminullah &amp; Sari (2024), CUDJ: Ciliwung Condet</a></li>
+    <li><a href="https://doaj.org/article/415bba34f3c04ecdb5e2b2d6380ac797">Jurnal Wilayah dan Lingkungan (2018): mangrove Mangunharjo</a> · <a href="https://www.mongabay.co.id/2024/12/30/menolak-menyerah-lawan-rob-forum-bintoro-giat-tanam-mangrove-demak/">Mongabay (2024): Forum Bintoro, Demak</a></li>
+    <li><a href="https://doi.org/10.13057/bonorowo/w050105">Nurdela &amp; Ichwandi (2015): Wonorejo</a> · <a href="https://journal.ugm.ac.id/jpkm/article/download/94316/41213">UGM JPKM: Komunitas Resan Gunungkidul</a> · <a href="https://doi.org/10.20473/bk.v13i1.52253">Martias (2024): telaga Gunung Sewu</a> · <a href="https://doi.org/10.1016/j.indic.2024.100518">Sumarga et al. (2024): karst Kendeng</a></li>
+  </ol>
+</section>
+</main>
+</div>
