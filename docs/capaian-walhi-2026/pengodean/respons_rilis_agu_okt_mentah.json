@@ -1,0 +1,2108 @@
+[
+ {
+  "kelompok": "Hutan & Kebun (Agu–Sep)",
+  "kode": {
+   "rilis": [
+    {
+     "id": "R02",
+     "tuntutan_ringkas": "Hentikan karhutla; negara dan korporasi bertanggung jawab atas asap (aksi serentak 14 Agu)",
+     "lembaga_dituju": "Presiden, KLH, Kemenhut",
+     "berita_kasus": 16,
+     "berita_memuat_walhi": 16,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian",
+      "Boy Jerry Even Sembiring"
+     ],
+     "jejaring_terdeteksi": [
+      "Koalisi Masyarakat Sipil Jambi (judul Gaperta)"
+     ],
+     "respons": [
+      {
+       "lembaga": "KLH (Menteri LH)",
+       "tanggal": "2026-08-21",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Menteri LH menyatakan tidak ada laporan karhutla di konsesi; sehari kemudian menyebut 335 perusahaan terindikasi punya titik api (bantahan yang kemudian dikoreksi sendiri)",
+       "url": "https://pantaugambut.id/kabar/membayar-karhutla-dengan-pajak-dan-paruparu"
+      },
+      {
+       "lembaga": "Presiden/Mensesneg",
+       "tanggal": "2026-08-24",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Presiden minta pelanggaran ditindak tegas; Mensesneg: 4 perusahaan di Kalbar diselidiki",
+       "url": "https://www.bbc.com/indonesia/articles/c5y6yxep249o"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-08-25",
+       "bentuk": "tindakan",
+       "isi": "Sanksi administratif (paksaan pemerintah; 1 izin dibekukan) untuk 6 perusahaan PBPH di Kalimantan",
+       "url": "https://regional.kompas.com/read/2026/08/26/151339578/sanksi-6-perusahaan-terkait-karhutla-kalimantan-dinilai-belum-cukup-walhi?page=all"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-09-21",
+       "bentuk": "tindakan",
+       "isi": "Menhut mencabut izin 5 perusahaan terkait karhutla",
+       "url": "https://www.betahita.id/berita/12401/izin-5-perusahaan-kembali-dicabut-karena-karhutla"
+      },
+      {
+       "lembaga": "Polri (Bareskrim)",
+       "tanggal": "2026-10-29",
+       "bentuk": "tindakan",
+       "isi": "20 korporasi ditetapkan tersangka karhutla; 23 korporasi direkomendasikan dicabut izinnya",
+       "url": "https://katadata.co.id/amp/berita/nasional/6ae3056c011da/polri-umumkan-20-perusahaan-tersangka-karhutla-empat-berstatus-modal-asing"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 7,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Tuntutan umum (hentikan karhutla, negara-korporasi bertanggung jawab). Penindakan korporasi berjalan (sanksi, pembekuan 32 izin, 5 izin dicabut, 20 korporasi tersangka) tetapi tidak merujuk WALHI dan sebagian mengikuti arahan Presiden, jadi dicatat sebagai konvergensi. Ini tindakan parsial: karhutla tidak berhenti dan tanggung jawab negara tidak diakui. Respons pertama (21 Agu) berupa bantahan Menteri LH. Padanan rilis belum pasti; liputan aksi 14 Agu ada di Liputan6, beritapagi (Sumsel Lumbung Asap) dan Kompas.id. Umi Ma'rufah tidak terdeteksi sebagai penutur. Drone Emprit dikeluarkan karena bukan berita."
+    },
+    {
+     "id": "R05",
+     "tuntutan_ringkas": "Tindak korporasi pembakar dan pejabat yang lalai (karhutla sebagai kejahatan negara-korporasi)",
+     "lembaga_dituju": "KLH, Kemenhut, Polri",
+     "berita_kasus": 32,
+     "berita_memuat_walhi": 18,
+     "berita_jejaring_tanpa_walhi": 13,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian",
+      "Boy Jerry Even Sembiring",
+      "Dana Prima Tarigan",
+      "Umi Ma'rufah"
+     ],
+     "jejaring_terdeteksi": [
+      "Greenpeace",
+      "Greenpeace Malaysia",
+      "Auriga (MapBiomas)"
+     ],
+     "respons": [
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-08-25",
+       "bentuk": "tindakan",
+       "isi": "Sanksi 6 perusahaan PBPH (paksaan pemerintah, 1 dibekukan); sanksi bisa naik hingga pencabutan izin",
+       "url": "https://regional.kompas.com/read/2026/08/26/151339578/sanksi-6-perusahaan-terkait-karhutla-kalimantan-dinilai-belum-cukup-walhi?page=all"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-09-03",
+       "bentuk": "tindakan",
+       "isi": "Izin 5 korporasi hutan di Kalbar dibekukan, termasuk Mayawana",
+       "url": "https://www.betahita.id/berita/12326/lima-korporasi-hutan-di-kalbar-dibekukan-termasuk-mayawana"
+      },
+      {
+       "lembaga": "Kemenhut (Biro Humas)",
+       "tanggal": "2026-09-07",
+       "bentuk": "ke_jejaring",
+       "isi": "Kemenhut belum dapat mengungkap nama lengkap perusahaan (tuntutan buka data juga dibawa Greenpeace/aktivis Malaysia)",
+       "url": "https://mongabay.co.id/2026/09/07/walhi-beberkan-karhutla-di-konsesi-dan-psn/"
+      },
+      {
+       "lembaga": "Presiden",
+       "tanggal": "2026-09-16",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Presiden memerintahkan pencabutan izin dan pengusutan pidana korporasi pelaku karhutla",
+       "url": "https://setkab.go.id/qpwc"
+      },
+      {
+       "lembaga": "Polri (Bareskrim)",
+       "tanggal": "2026-10-29",
+       "bentuk": "tindakan",
+       "isi": "20 korporasi tersangka karhutla (4 PMA); 23 diusulkan dicabut izinnya",
+       "url": "https://katadata.co.id/amp/berita/nasional/6ae3056c011da/polri-umumkan-20-perusahaan-tersangka-karhutla-empat-berstatus-modal-asing"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 0,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Bagian 'tindak korporasi' dijawab dengan tindakan parsial (sanksi, pembekuan, pencabutan 5 izin, 20 korporasi tersangka). Bagian 'pejabat yang lalai' tidak ditemukan tindakan apa pun. Sanksi 6 perusahaan diumumkan pada hari rilis (25 Agu), jadi kemungkinan besar sudah berproses sebelumnya. Tindakan tidak merujuk WALHI (konvergensi). Untuk tuntutan Greenpeace membuka data korporasi, Kemenhut menolak sementara (7 Sep) dan Presiden berjanji membuka 'pada saatnya' (22 Okt). Siaran pers Greenpeace sendiri dikeluarkan dari hitungan."
+    },
+    {
+     "id": "R07",
+     "tuntutan_ringkas": "Paksa korporasi bertanggung jawab; audit dan sanksi konsesi (HGU/PBPH) yang terbakar",
+     "lembaga_dituju": "KLH, Kemenhut, ATR/BPN",
+     "berita_kasus": 43,
+     "berita_memuat_walhi": 28,
+     "berita_jejaring_tanpa_walhi": 12,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Dana Prima Tarigan",
+      "Umi Ma'rufah",
+      "Boy Jerry Even Sembiring",
+      "Uli Arta Siagian"
+     ],
+     "jejaring_terdeteksi": [
+      "Greenpeace",
+      "Pantau Gambut",
+      "Jikalahari"
+     ],
+     "respons": [
+      {
+       "lembaga": "Kemenhut (Menhut Raja Juli)",
+       "tanggal": "2026-08-31",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Pemerintah menjanjikan penegakan hukum tanpa pandang bulu atas kebakaran di wilayah konsesi",
+       "url": "https://www.kompas.id/artikel/kebakaran-di-wilayah-konsesi-pemerintah-janjikan-penegakan-hukum-tanpa-pandang-bulu"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-09-03",
+       "bentuk": "tindakan",
+       "isi": "Izin 5 PBPH di Kalbar dibekukan (371.560 ha)",
+       "url": "https://www.betahita.id/berita/12326/lima-korporasi-hutan-di-kalbar-dibekukan-termasuk-mayawana"
+      },
+      {
+       "lembaga": "ATR/BPN",
+       "tanggal": "2026-09-07",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Menteri Nusron: HGU yang lahannya dibakar dapat dibatalkan sesuai Permen ATR 15/2016",
+       "url": "https://www.atrbpn.go.id/berita/menteri-nusron-peringatkan-pengusaha-kebakaran-lahan-dapat-batalkan-hgu"
+      },
+      {
+       "lembaga": "KLH",
+       "tanggal": "2026-09-13",
+       "bentuk": "tindakan",
+       "isi": "KLH menyegel 50 badan usaha terkait karhutla (27 ribu ha konsesi terbakar)",
+       "url": "https://mediaindonesia.com/humaniora/932875/27-ribu-hektare-konsesi-terbakar-klh-segel-50-badan-usaha-terkait-karhutla"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-09-21",
+       "bentuk": "tindakan",
+       "isi": "Izin 5 perusahaan dicabut karena karhutla",
+       "url": "https://www.betahita.id/berita/12401/izin-5-perusahaan-kembali-dicabut-karena-karhutla"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-10-21",
+       "bentuk": "tindakan",
+       "isi": "6 perusahaan lagi dibekukan; total 32 perusahaan kena sanksi",
+       "url": "https://katadata.co.id/berita/nasional/6ad8994f68262/pemerintah-bekukan-enam-perusahaan-penyebab-karhutla"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 0,
+     "konvergensi": true,
+     "keyakinan": "tinggi",
+     "catatan": "Ada sanksi dan penyegelan konsesi yang terbakar dan terverifikasi, tetapi tidak ada audit menyeluruh atas konsesi dan belum ada HGU yang dibatalkan, jadi parsial. Tindakan tidak menyebut WALHI (konvergensi). Sebelum rilis, Kemenhut (25 Agu) menyatakan titik panas tidak berarti ada karhutla; pernyataan ini tidak dihitung. Tuntutan Greenpeace agar ada audit tata kelola lahan (Kontan 9 Sep) tidak ditemukan tanggapannya. Dua publikasi di kanal Pantau Gambut sendiri dikeluarkan dari hitungan."
+    },
+    {
+     "id": "R09",
+     "tuntutan_ringkas": "Jaminan kesehatan gratis dan evakuasi bagi korban asap karhutla Kalimantan",
+     "lembaga_dituju": "Pemerintah pusat, Kemenkes, pemda",
+     "berita_kasus": 55,
+     "berita_memuat_walhi": 9,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [],
+     "jejaring_terdeteksi": [
+      "Inisiatif Solidaritas Publik Anti Asap (ISPA): Trend Asia, Greenpeace, Auriga, YLBHI, LBH Samarinda"
+     ],
+     "respons": [
+      {
+       "lembaga": "Kemenkes",
+       "tanggal": "2026-09-01",
+       "bentuk": "tindakan",
+       "isi": "Kemenkes mengirim ratusan ribu masker dan oksigen ke wilayah karhutla Kalimantan (Menkes: bagian dari kesiapsiagaan)",
+       "url": "https://www.beritasatu.com/multimedia/3023491/kemenkes-kirim-ratusan-ribu-masker-ke-wilayah-karhutla-kalimantan"
+      },
+      {
+       "lembaga": "Pemkab Kotawaringin Timur",
+       "tanggal": "2026-09-04",
+       "bentuk": "tindakan",
+       "isi": "Wabup Kotim meninjau pemeriksaan kesehatan gratis dan distribusi air bersih bagi warga terdampak kabut asap",
+       "url": "https://www.seputarborneo.com/news/25630-wakil-bupati-kotim-irawati-meninjau-pemeriksaan-kesehatan-gratis-dan-distribusi-air-bersih.html"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 2,
+     "konvergensi": true,
+     "keyakinan": "rendah",
+     "catatan": "Tindakan searah tetapi sebagian: pemeriksaan kesehatan gratis di tingkat lokal dan distribusi masker/oksigen oleh Kemenkes. Tidak ada jaminan pengobatan gratis bagi 3,4 juta warga dan tidak ada evakuasi. Pengerahan nakes Kemenkes dimulai 29 Agu, sebelum rilis. Tindakan ini rutin penanganan darurat dan tidak merujuk WALHI. Pengodean lama (narasi_respons) memberi skor 0 ('tidak ditemukan'). Perbedaan ini perlu ditinjau penyunting; bila tindakan rutin pemda tidak dianggap respons, turunkan ke 0. WALHI Kalbar (15-16 Sep) masih mendesak pengobatan gratis dan mengkritik masker yang tidak standar. Musdalifah Jamal tidak terdeteksi skrip (dua berita utama 403). Tuntutan bantuan darurat internasional dari koalisi ISPA: tidak ditemukan tanggapan. Berita orangutan, bandara dan sejenisnya tidak dihitung."
+    },
+    {
+     "id": "R12",
+     "tuntutan_ringkas": "Koreksi Inpres 11/2026 karhutla yang salah sasaran; hentikan kriminalisasi masyarakat adat/peladang",
+     "lembaga_dituju": "Presiden",
+     "berita_kasus": 19,
+     "berita_memuat_walhi": 8,
+     "berita_jejaring_tanpa_walhi": 1,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian",
+      "Umi Ma'rufah"
+     ],
+     "jejaring_terdeteksi": [
+      "AMAN (Aliansi Masyarakat Adat Nusantara)",
+      "ICEL"
+     ],
+     "respons": [
+      {
+       "lembaga": "Presiden",
+       "tanggal": "2026-09-24",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Prabowo menyebut 8 perda yang mengizinkan warga membakar 2 ha sebagai 'complete nonsense' dan merencanakan pencabutannya",
+       "url": "https://nasional.kompas.com/read/2026/09/25/17043861/prabowo-8-perda-izinkan-warga-bakar-2-hektar-which-is-complete-nonsense"
+      },
+      {
+       "lembaga": "Kemendagri",
+       "tanggal": "2026-10-01",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Kemendagri memperketat evaluasi perda pembakaran lahan agar selaras dengan standar nasional",
+       "url": "https://www.metrotvnews.com/read/K5nC12oj-cegah-karhutla-kemendagri-perketat-evaluasi-perda-pembakaran-lahan"
+      }
+     ],
+     "skor": 1,
+     "hari_ke_respons": 6,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Tanggal rilis yang tercatat '2026-09' dipastikan 18 Sep 2026: Kaltim.Akurasi mengutip keterangan tertulis WALHI Jumat (18/9), dan NU Online 18 Sep memuat Uli Arta Siagian serta Muhammad Arman dari AMAN. Skrip dijalankan ulang dengan tanggal itu. Inpres tidak dikoreksi. Sesudah rilis, Presiden secara terbuka menolak ruang kearifan lokal ('complete nonsense', 24 Sep) dan Kemendagri mengevaluasi perda. Arahnya berlawanan dengan tuntutan, jadi skor 1. Penolakan ini tidak menyebut WALHI/AMAN. Pada hari rilis, Pemprov Kalbar menjelaskan pencabutan 7 regulasi daerah (hasil rakor 16 Sep); ini tidak dihitung karena diputuskan sebelum rilis. Detik (1 Okt) melaporkan 2 peladang Dayak ditangkap, tanda kriminalisasi berlanjut. APHI mendukung koreksi regulasi oleh Presiden; itu pihak ketiga, tidak diberi skor. Deteksi 'AMAN' oleh skrip tidak andal karena sama dengan kata 'aman'; hanya 'Aliansi Masyarakat Adat' yang dipakai."
+    },
+    {
+     "id": "R17",
+     "tuntutan_ringkas": "ATR/BPN mengevaluasi dan mencabut HGU yang terbakar; jalankan reforma agraria",
+     "lembaga_dituju": "ATR/BPN",
+     "berita_kasus": 22,
+     "berita_memuat_walhi": 9,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Boy Jerry Even Sembiring",
+      "Dana Prima Tarigan",
+      "Umi Ma'rufah"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "ATR/BPN (Menteri Nusron Wahid)",
+       "tanggal": "2026-09-07",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Di rakor dengan pemegang HGU, Nusron menegaskan HGU dapat dibatalkan (sebagian atau seluruhnya) bila lahan dibuka dengan membakar, setelah identifikasi, verifikasi dan pengkajian",
+       "url": "https://www.atrbpn.go.id/berita/menteri-nusron-peringatkan-pengusaha-kebakaran-lahan-dapat-batalkan-hgu"
+      },
+      {
+       "lembaga": "ATR/BPN",
+       "tanggal": "2026-09-07",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Overlay hotspot SiPongi dengan data pertanahan menemukan 7 HGU di Kaltara terindikasi karhutla; kewajiban pencegahan dipantau",
+       "url": "https://radartarakan.jawapos.com/kaltara/2609070017/tujuh-hgu-kaltara-terindikasi-karhutla"
+      },
+      {
+       "lembaga": "Presiden",
+       "tanggal": "2026-09-07",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Dalam ratas, Prabowo mengancam mencabut izin hingga HGU korporasi pelaku karhutla dan menelusuri pemiliknya",
+       "url": "https://pontianakpost.jawapos.com/metropolis/2609080009/prabowo-buru-korporasi-karhutla-ancam-cabut-izin-hingga-hgu-telusuri-pemilik-perusahaan"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 1,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "ATR/BPN menanggapi sehari setelah rilis dengan peringatan bahwa HGU bisa dibatalkan dan langkah identifikasi awal (overlay). Hingga 2 Nov tidak ditemukan satu pun HGU yang dibatalkan karena karhutla. Ragu antara 2 dan 3 (identifikasi/overlay sudah berjalan), dipilih 2 karena belum ada evaluasi atau pembatalan yang terverifikasi. Pernyataan disampaikan di rakor dengan pengusaha dan tidak menyebut WALHI (konvergensi). Bagian reforma agraria: tidak ditemukan respons. Berita RUU Reforma Agraria, OTT ATR/BPN (KPA) dan ISPA tidak dihitung karena di luar kasus."
+    },
+    {
+     "id": "R18",
+     "tuntutan_ringkas": "Jangan memakai label 'terorisme ekologi' (berisiko mengkriminalisasi petani/peladang); perkuat UU yang ada (UU Kehutanan, UU PPLH, aturan gambut)",
+     "lembaga_dituju": "Presiden, Kemenkum",
+     "berita_kasus": 33,
+     "berita_memuat_walhi": 6,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Umi Ma'rufah",
+      "Uli Arta Siagian"
+     ],
+     "jejaring_terdeteksi": [
+      "AMAN (Aliansi Masyarakat Adat Nusantara)"
+     ],
+     "respons": [
+      {
+       "lembaga": "Kemenkum (Menkum Supratman Andi Agtas)",
+       "tanggal": "2026-09-29",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Menkum: arahan Presiden menggolongkan karhutla sebagai terorisme ekologi akan dikaji lebih lanjut; 'prinsipnya menjaga lingkungan itu penting'",
+       "url": "https://nasional.kompas.com/read/2026/09/29/17264151/menkum-soal-terorisme-ekologi-prinsipnya-menjaga-lingkungan-itu-penting"
+      },
+      {
+       "lembaga": "Kemenkum",
+       "tanggal": "2026-09-30",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Menkum mengkaji penerapan sanksi terorisme ekologi bagi pelaku karhutla",
+       "url": "https://www.kompas.tv/nasional/693495/menkum-kaji-penerapan-sanksi-terorisme-ekologi-pelaku-karhutla-jmp"
+      }
+     ],
+     "skor": 1,
+     "hari_ke_respons": 10,
+     "konvergensi": false,
+     "keyakinan": "rendah",
+     "catatan": "Tidak ada tanggapan langsung atas kritik WALHI (NU Online 21 Sep). Pemerintah justru melanjutkan wacana label itu: Menkum mengkaji arahan Presiden. Arahnya berlawanan dengan tuntutan, setara dengan 'proyek tetap jalan', jadi skor 1. Bisa juga dibaca 0 karena tidak ada yang menanggapi WALHI; keyakinan rendah. Hingga akhir Okt belum ada rancangan aturan. DPR (Sahroni, Komisi III; Daniel Johan, Komisi IV) mendukung label; itu legislatif, tidak diberi skor. Ada tulisan pranata humas KLH (27 Sep) yang mendukung label tetapi menyebut 'bukan perang melawan petani kecil'; itu opini staf, bukan sikap resmi. Opini pro-label (Minews, Suara Dewata) tidak menyerang WALHI, jadi tidak dihitung kontra. NU Online 21 Sep ditambahkan manual karena tidak tertangkap skrip. Deteksi 'AMAN' oleh skrip sering salah (kata 'aman')."
+    },
+    {
+     "id": "P07",
+     "tuntutan_ringkas": "Presiden memerintahkan verifikasi dan penindakan 262 perusahaan terindikasi karhutla (data diserahkan ke Kemensetneg 11 Sep)",
+     "lembaga_dituju": "Presiden",
+     "berita_kasus": 52,
+     "berita_memuat_walhi": 17,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian",
+      "Umi Ma'rufah",
+      "Boy Jerry Even Sembiring"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-09-14",
+       "bentuk": "tindakan",
+       "isi": "Menhut membekukan izin 3 perusahaan terkait karhutla di Kaltim",
+       "url": "https://rri.co.id/samarinda/nasional/2728838/menhut-bekukan-izin-tiga-perusahaan-terkait-karhutla-kaltim"
+      },
+      {
+       "lembaga": "Presiden",
+       "tanggal": "2026-09-16",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Ratas: 95 korporasi terindikasi diverifikasi; perintah cabut izin dan usut pidana korporasi yang terbukti",
+       "url": "https://setkab.go.id/qpwc"
+      },
+      {
+       "lembaga": "Kemenhut (Biro Humas)",
+       "tanggal": "2026-09-16",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "Kemenhut menyatakan menghargai perhatian dan kontribusi Walhi dalam pengendalian karhutla (atas laporan 372 perusahaan)",
+       "url": "https://www.betahita.id/berita/12369/372-perusahaan-terduga-karhutla-dilaporkan-ke-3-kementerian"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-09-21",
+       "bentuk": "tindakan",
+       "isi": "Izin 5 perusahaan dicabut; menurut Betahita, 4 di antaranya ada dalam daftar 262 perusahaan dari WALHI",
+       "url": "https://www.betahita.id/berita/12401/izin-5-perusahaan-kembali-dicabut-karena-karhutla"
+      },
+      {
+       "lembaga": "Polri (Bareskrim)",
+       "tanggal": "2026-10-29",
+       "bentuk": "tindakan",
+       "isi": "20 korporasi tersangka; 23 direkomendasikan dicabut izinnya",
+       "url": "https://katadata.co.id/amp/berita/nasional/6ae3056c011da/polri-umumkan-20-perusahaan-tersangka-karhutla-empat-berstatus-modal-asing"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 3,
+     "konvergensi": true,
+     "keyakinan": "tinggi",
+     "catatan": "Rilis publik yang tidak ada di folder; penutur Uli Arta Siagian (Hukumonline) dan Umi Ma'rufah (Kompas.id). Respons parsial: Presiden memerintahkan penindakan (95 korporasi, bukan 262), 5 izin dicabut (4 masuk daftar WALHI), 20 korporasi tersangka. Ada juga pengakuan verbal Kemenhut kepada WALHI. Hingga akhir Sep WALHI mencatat baru 5 dari 372 perusahaan yang izinnya dicabut, jadi tuntutan belum dipenuhi. Nama tersangka hanya diumumkan dengan inisial (Presiden 22 Okt: 'pada saatnya'). Dua tulisan Minews pro-pemerintah tidak menyerang WALHI, jadi bukan kontra. Duplikat Kompas versi Inggris dan berita tak relevan (Transjakarta, PTPN) dibuang."
+    },
+    {
+     "id": "P08",
+     "tuntutan_ringkas": "Negara dan korporasi bertanggung jawab atas udara tidak sehat (ISPU memburuk akibat karhutla)",
+     "lembaga_dituju": "KLH, pemda",
+     "berita_kasus": 71,
+     "berita_memuat_walhi": 13,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [],
+     "jejaring_terdeteksi": [
+      "Greenpeace (Mongabay 13 Sep)",
+      "PBHI dan LP2M Sumbar"
+     ],
+     "respons": [
+      {
+       "lembaga": "KLH",
+       "tanggal": "2026-09-13",
+       "bentuk": "tindakan",
+       "isi": "KLH menyegel 50 badan usaha terkait karhutla (27 ribu ha konsesi terbakar)",
+       "url": "https://mediaindonesia.com/humaniora/932875/27-ribu-hektare-konsesi-terbakar-klh-segel-50-badan-usaha-terkait-karhutla"
+      },
+      {
+       "lembaga": "KLH (Wamen Diaz Hendropriyono)",
+       "tanggal": "2026-09-15",
+       "bentuk": "tindakan",
+       "isi": "Wamen LH akan menyegel 4 perusahaan di Kaltim yang terlibat karhutla",
+       "url": "https://www.ntvnews.id/news/01118690/wamen-diaz-hendropriyono-bakal-segel-4-perusahaan-di-kaltim-yang-terlibat-karhutla"
+      },
+      {
+       "lembaga": "KLH",
+       "tanggal": "2026-09-24",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "KLH merilis 10 wilayah dengan kualitas udara terburuk (Murung Raya berbahaya)",
+       "url": "https://www.metrotvnews.com/read/kewCjp7E-klh-10-wilayah-dengan-kualitas-udara-terburuk-murung-raya-berbahaya"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 1,
+     "konvergensi": true,
+     "keyakinan": "rendah",
+     "catatan": "Rilis publik yang tidak ada di folder; teks rilis tidak dibuka dan penutur tidak terdeteksi. Sebagian besar dari 71 berita adalah laporan ISPU harian; yang memuat WALHI kebanyakan WALHI Kalbar soal ISPA, ditambah RRI 13 Sep. Bagian 'korporasi bertanggung jawab' dijawab sebagian oleh penyegelan KLH (konvergensi, tanpa merujuk WALHI). Bagian 'negara bertanggung jawab atas udara' hanya dijawab dengan informasi ISPU dan pembelajaran jarak jauh oleh pemda; tidak ada pemulihan atau kompensasi bagi warga. Keyakinan rendah karena tuntutannya umum dan teks rilis belum dicek. Bila tindakan KLH dianggap respons atas rilis lain (R07/P07), skor bisa turun."
+    }
+   ]
+  },
+  "verifikasi": {
+   "rilis": [
+    {
+     "id": "R02",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [
+      {
+       "lembaga": "KLH (Menteri LH Jumhur Hidayat)",
+       "tanggal": "2026-08-21",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "Saat membuka Konsultasi Nasional LH WALHI di Pekanbaru, Menteri LH menyatakan tidak ada karhutla di konsesi dan menyebutnya bukti kepatuhan. Boy Jerry langsung membantah di forum yang sama. Ini bantahan (skala 1) yang disampaikan di forum WALHI sendiri.",
+       "url": "https://afu.id/nasional/walhijumhur-ribut-soal-data-karhutla-di-lahan-konsesi-sawit-dan-tambang-gakkum-klh-malah-segel-perusahaan-sawit"
+      }
+     ],
+     "alasan": "Bukti yang dibuka cocok. Pantau Gambut (30 Agu, dari Tempo) memuat bantahan 21 Agu dan 335 perusahaan pada 22 Agu. Betahita mencatat 5 izin dicabut 21 Sep. Katadata mencatat 20 korporasi tersangka 29 Okt. Semuanya terjadi setelah 14 Agu. Bantahan 21 Agu sebaiknya ditandai langsung_ke_walhi karena diucapkan di forum WALHI, tetapi skornya tetap. Tindakan korporasi bersifat parsial: karhutla tidak berhenti dan tanggung jawab negara tidak diakui. Skor 3 bertahan. Halaman BBC dan Kompas regional tidak bisa dibuka, dan padanan rilis masih belum pasti.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R05",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [],
+     "alasan": "Katadata menerbitkan sanksi 6 PBPH pada 25 Agu pukul 09.07, pada hari rilis atau sebelumnya, jadi kemungkinan besar tidak dipicu rilis (pengode sudah mencatat ini). Meski begitu, sesudah rilis ada tindakan yang terverifikasi: 5 PBPH Kalbar dibekukan (diumumkan 3 Sep, Betahita 5 Sep), 5 izin dicabut 21 Sep, dan 20 korporasi tersangka 29 Okt. Ratas 16 Sep di Setkab hanya menyebut 'puluhan korporasi', tanpa angka. Tidak ditemukan tindakan apa pun terhadap pejabat yang lalai, jadi tetap parsial. Tidak ditemukan respons yang terlewat.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R07",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [],
+     "alasan": "Pembekuan 5 PBPH (3 Sep), pencabutan 5 izin (21 Sep) dan pernyataan Nusron (7 Sep) terverifikasi dan terjadi setelah 31 Agu. Mediaindonesia (segel 50 badan usaha) tidak bisa dibuka karena HTTP 402, sehingga tanggal mulai penyegelan belum terverifikasi. Itu tidak mengubah skor karena tindakan Kemenhut lain sudah cukup untuk skor 3. Tidak ditemukan audit konsesi menyeluruh atau HGU yang dibatalkan hingga 2 Nov. Pencarian 'ATR/BPN batalkan HGU karhutla' juga hanya menemukan peringatan 7 Sep. Jadi parsial.",
+     "keyakinan": "tinggi"
+    },
+    {
+     "id": "R09",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [
+      {
+       "lembaga": "Pemprov Kalimantan Tengah (Gubernur Agustiar Sabran)",
+       "tanggal": "2026-09-01",
+       "bentuk": "tindakan",
+       "isi": "Pemprov membuka Rumah Oksigen Gratis di dua lokasi di Palangka Raya, lengkap dengan konsentrator oksigen, tempat tidur dan nakes siaga. Ada juga pos layanan kesehatan gratis (pemeriksaan, vitamin, masker). Gubernur: 'Seluruh layanan diberikan secara gratis'.",
+       "url": "https://www.rctiplus.com/news/detail/berita-utama/5463713/kabut-asap-karhutla--gubernur-kalteng-siapkan-rumah-oksigen-dan-imbau-warga-pakai-masker"
+      }
+     ],
+     "alasan": "Bukti yang diklaim terverifikasi. Beritasatu 1 Sep memuat masker dan oksigen Kemenkes, tetapi tidak menyebut layanan gratis atau evakuasi. Seputarborneo 4 Sep memuat pemeriksaan gratis di Kotim untuk warga terdampak asap, tetapi penyelenggaranya tidak disebut tegas. Ditemukan tambahan dari pemda yang dituju: layanan gratis Pemprov Kalteng (1 Sep). Ini memperkuat temuan tindakan searah yang parsial. Tidak ada jaminan pengobatan gratis yang menyeluruh dan tidak ada evakuasi resmi. Rumah aman asap yang ada dibuat Rakat (masyarakat sipil) dan Tasya Farasya, bukan pemerintah. Posko NasDem dan bagi masker oleh Pertamina bukan lembaga yang dituju. Skor 3 bertahan dengan syarat tindakan darurat rutin diterima sebagai konvergensi. Tidak ada temuan yang mendukung penurunan ke 0.",
+     "keyakinan": "rendah"
+    },
+    {
+     "id": "R12",
+     "skor_awal": 1,
+     "skor_final": 1,
+     "respons_tambahan": [
+      {
+       "lembaga": "KLH (Menteri LH Jumhur Hidayat), menyampaikan keinginan Presiden",
+       "tanggal": "2026-10-13",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Sesudah ratas 12 Okt, Menteri LH menyatakan pemerintah berencana melarang tegas tradisi membakar untuk berladang. Presiden ingin pengecualian Pasal 69 ayat 2 UU PPLH dihapus. Dua warga adat Dayak Maanyan (Barito Timur) menjadi tersangka. Arahnya berlawanan dengan tuntutan.",
+       "url": "https://mongabay.co.id/2026/10/24/gelagapan-tangani-karhutla-pemerintah-malah-kambinghitamkan-tradisi-masyarakat-adat/"
+      }
+     ],
+     "alasan": "Respons yang diklaim valid. Kemendagri 1 Okt (Metro TV) memperketat evaluasi perda dengan merujuk Inpres 11/2026, jadi searah Inpres dan bukan koreksi. Temuan tambahan 13 Okt (Mongabay 24 Okt) menegaskan penolakan: pengecualian kearifan lokal mau dihapus dan peladang adat dipidana. Inpres tidak dikoreksi hingga 2 Nov. Skor 1 malah lebih kuat. Ada catatan soal tanggal: kritik WALHI (Umi Ma'rufah) atas Inpres sudah terbit di Katadata 10 Sep, jadi rilis mungkin lebih awal dari 18 Sep. Itu tidak mengubah skor karena semua respons jatuh sesudah kedua tanggal.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R17",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "Pernyataan Nusron 7 Sep (HGU dapat dibatalkan menurut Permen ATR 15/2016) terverifikasi di beberapa sumber (atrbpn, Antara, infopublik). Pencarian pembatalan atau evaluasi HGU karhutla hingga Okt 2026 tidak menemukan apa pun. Berita jpnn 'HGU 10 perusahaan dievaluasi' ternyata dari 2015, jadi tidak dihitung. Ada klaim '57 badan usaha diverifikasi ATR/BPN' dalam ringkasan pencarian, tetapi tidak ada di artikel Investortrust 7 Sep, jadi tidak dipakai. Karena belum ada tindakan yang terverifikasi, skor tetap 2 dan tidak naik ke 3. Untuk reforma agraria tidak ditemukan respons.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R18",
+     "skor_awal": 1,
+     "skor_final": 1,
+     "respons_tambahan": [
+      {
+       "lembaga": "Presiden",
+       "tanggal": "2026-10-21",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Di sidang kabinet dua tahun pemerintahan, Prabowo menegaskan label itu lagi: 'Kita anggap ini adalah terorisme lingkungan.' Label dipakai untuk pembakaran sengaja secara umum, termasuk 'oknum' perorangan, dan tidak ada pengecualian bagi petani atau peladang. Ini sikap 'tetap jalan'.",
+       "url": "https://www.rctiplus.com/news/detail/okezone/5499077/keras--prabowo-sebut-korporasi-pembakar-hutan-sebagai-terorisme-lingkungan"
+      }
+     ],
+     "alasan": "Halaman Kompas dan RMOL untuk Menkum tidak bisa dibuka, tetapi hasil pencarian mengonfirmasi Menkum 'akan mengkaji' arahan itu (29-30 Sep). Temuan tambahan: Presiden menegaskan label lagi pada 21 Okt tanpa membedakan petani kecil. Ini mengurangi keraguan antara 0 dan 1, karena lembaga yang dituju terbuka melanjutkan hal yang ditolak WALHI. Tidak ditemukan pernyataan pemerintah bahwa label tidak menyasar peladang. Usulan Daniel Johan (DPR, 24 Okt) adalah legislatif, tidak diberi skor.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P07",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [],
+     "alasan": "Bukti terverifikasi. Betahita 16 Sep memuat Biro Humas Kemenhut (15 Sep): laporan WALHI 'dapat menjadi bahan awal verifikasi', yaitu respons langsung skala 2. Betahita 22 Sep: 4 dari 5 izin yang dicabut 21 Sep masuk daftar 262 WALHI. Katadata 29 Okt: 20 korporasi tersangka. Koreksi kecil: halaman Setkab ratas 16 Sep hanya menyebut 'puluhan korporasi', bukan 95. Pembekuan 3 perusahaan Kaltim (RRI 14 Sep) tidak bisa dibuka (403), tetapi skor tidak bergantung padanya. Tuntutan belum dipenuhi (5 dari 262 dicabut), jadi tetap 3.",
+     "keyakinan": "tinggi"
+    },
+    {
+     "id": "P08",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [],
+     "alasan": "Tidak ditemukan respons yang terlewat. Penyegelan 50 badan usaha (Media Indonesia 13 Sep) tidak bisa dibuka (402), jadi tanggal mulainya belum terverifikasi. Bisa jadi itu angka kumulatif yang dimulai sebelum 12 Sep, karena Gakkum KLH sudah menyegel sejak 11-15 Agu. Sesudah rilis, KLH terus menyegel (rencana Wamen 15 Sep; Mongabay mencatat 68 konsesi disegel hingga Okt), jadi tindakan korporasi yang parsial tetap ada. Bagian tanggung jawab negara atas udara (pemulihan, kompensasi) tidak dijawab. Skor 3 bertahan dengan keyakinan rendah karena teks rilis belum dicek dan respons tumpang tindih dengan R07 dan P07.",
+     "keyakinan": "rendah"
+    }
+   ]
+  }
+ },
+ {
+  "kelompok": "Hutan & Kebun (Sep–Okt)",
+  "kode": {
+   "rilis": [
+    {
+     "id": "R21",
+     "tuntutan_ringkas": "Polda Kalsel mengusut tuntas laporan WALHI Kalsel tentang karhutla di konsesi 4 perusahaan sawit (3.539 ha)",
+     "lembaga_dituju": "Polda Kalsel",
+     "berita_kasus": 47,
+     "berita_memuat_walhi": 28,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Umi Ma'rufah",
+      "Raden Rafiq Sepdian Fadel Wibisono (Direktur WALHI Kalsel)"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "Ditreskrimsus Polda Kalsel",
+       "tanggal": "2026-10-06",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "Polda Kalsel menerima pengaduan WALHI dan menyatakan akan menyampaikan perkembangan penanganan lewat surat resmi",
+       "url": "https://kalimantanpost.com/2026/10/walhi-laporkan-empat-perusahaan-sawit-dugaan-karhutla-capai-3-539-hektare/"
+      },
+      {
+       "lembaga": "Polda Kalsel (Kapolda Irjen Rosyanto Yudha Hermawan)",
+       "tanggal": "2026-10-16",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "Kapolda memastikan perkara yang dilaporkan WALHI Kalsel sudah naik ke penyidikan; 12 korporasi dibidik",
+       "url": "https://radarbanjarmasin.jawapos.com/hukum-peristiwa/2610160040/laporan-walhi-kalsel-naik-status-sidik-polda-kalsel-bidik-12-korporasi-kasus-karhutla"
+      },
+      {
+       "lembaga": "Polda Kalsel",
+       "tanggal": "2026-10-17",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "'Prosesnya, termasuk yang dilaporkan WALHI Kalsel, itu sudah naik sidik'",
+       "url": "https://newsway.co.id/polda-kalsel-pastikan-tangani-laporan-walhi-terkait-karhutla-sudah-tahap-penyidikan/"
+      },
+      {
+       "lembaga": "Polda Kalsel",
+       "tanggal": "2026-10-20",
+       "bentuk": "tindakan",
+       "isi": "4 korporasi ditetapkan tersangka karhutla dari 12 kasus korporasi yang ditangani",
+       "url": "https://kalsel.antaranews.com/berita/540049/polda-kalsel-tetapkan-empat-tersangka-karhutla-dari-korporasi"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 0,
+     "konvergensi": false,
+     "keyakinan": "tinggi",
+     "catatan": "Respons langsung dan menyebut WALHI. Laporan naik ke penyidikan (16-17 Okt), lalu 4 korporasi jadi tersangka (20 Okt). Tindakan nyata tetapi belum tuntas: tidak dipastikan apakah 4 tersangka itu perusahaan yang dilaporkan WALHI, dan belum ada pelimpahan atau putusan, jadi skor 3, bukan 4. Hari ke respons dihitung dari penerimaan pengaduan pada hari rilis. Berita nasional Bareskrim/Kapolri dan berita tak relevan (kekeringan, imbauan Dinkes) tidak dihitung. Rilis daerah WALHI Kalsel."
+    },
+    {
+     "id": "R22",
+     "tuntutan_ringkas": "(Draft) Kritik terhadap RSPO yang menerima Astra Agro Lestari (AAL) sebagai anggota; isi pasti tidak bisa dicek",
+     "lembaga_dituju": "RSPO",
+     "berita_kasus": 3,
+     "berita_memuat_walhi": 0,
+     "berita_jejaring_tanpa_walhi": 1,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian (dikutip sebagai Friends of the Earth Indonesia)"
+     ],
+     "jejaring_terdeteksi": [
+      "Friends of the Earth US",
+      "TuK Indonesia"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "rendah",
+     "catatan": "Berkas berstatus DRAFT dan tidak ditemukan sebagai rilis WALHI. Bukti terbit hanya tidak langsung: Katadata 31 Okt mengutip 'keterangan resmi' Uli Arta Siagian atas nama Friends of the Earth Indonesia (nama WALHI tidak muncul), bersama FoE US dan TuK, soal AAL masuk RSPO. Tanggal kerja diasumsikan sekitar 31 Okt. AAL resmi menjadi anggota penuh RSPO sekitar 21 Okt (InfoSAWIT, Agricom). Pada 30 Okt Director of Assurance RSPO, Aryo Gustomo, membela keputusan itu dengan alasan uji tuntas dan penilaian risiko. Pernyataan itu mendahului keterangan 31 Okt, dan RSPO bukan lembaga pemerintah, jadi tidak diberi skor. Tidak ada respons pemerintah. Catatan teknis: kecocokan 'TuK' di skrip banyak yang palsu (kata 'untuk'), jadi diabaikan."
+    },
+    {
+     "id": "R25",
+     "tuntutan_ringkas": "Polri mengusut 372 konsesi yang terindikasi terbakar dan membuka nama korporasi tersangka",
+     "lembaga_dituju": "Polri",
+     "berita_kasus": 98,
+     "berita_memuat_walhi": 13,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Teo Reffelsen",
+      "Uli Arta Siagian",
+      "Umi Ma'rufah"
+     ],
+     "jejaring_terdeteksi": [
+      "Greenpeace"
+     ],
+     "respons": [
+      {
+       "lembaga": "Bareskrim Polri",
+       "tanggal": "2026-10-14",
+       "bentuk": "tindakan",
+       "isi": "9 korporasi sawit ditetapkan tersangka karhutla dari 98 laporan; 223 tersangka perorangan",
+       "url": "https://news.detik.com/berita/d-8706972/bareskrim-tetapkan-9-korporasi-jadi-tersangka-kasus-karhutla-di-kalimantan"
+      },
+      {
+       "lembaga": "Kapolri",
+       "tanggal": "2026-10-19",
+       "bentuk": "tindakan",
+       "isi": "98 laporan karhutla korporasi naik penyidikan; tersangka segera ditetapkan",
+       "url": "https://nasional.kompas.com/read/2026/10/19/17560211/98-kasus-karhutla-terkait-korporasi-naik-sidik-kapolri-tersangka-segera"
+      },
+      {
+       "lembaga": "Kapolri",
+       "tanggal": "2026-10-21",
+       "bentuk": "tindakan",
+       "isi": "11 korporasi tersangka, 3 di antaranya PMA; nama tidak diumumkan",
+       "url": "https://www.cnnindonesia.com/nasional/20261021200652-12-1418171/polri-tetapkan-11-korporasi-tersangka-karhutla"
+      },
+      {
+       "lembaga": "Presiden",
+       "tanggal": "2026-10-22",
+       "bentuk": "ke_jejaring",
+       "isi": "Nama perusahaan akan diumumkan 'pada saatnya' (tuntutan WALHI-Greenpeace untuk membuka data)",
+       "url": "https://www.cnnindonesia.com/nasional/20261023094532-20-1418680/walhi-greenpeace-desak-pemerintah-buka-data-korporasi-pemicu-karhutla"
+      },
+      {
+       "lembaga": "Bareskrim Polri",
+       "tanggal": "2026-10-29",
+       "bentuk": "tindakan",
+       "isi": "20 korporasi tersangka karhutla, 4 di antaranya PMA; identitas tetap tidak dibuka",
+       "url": "https://regional.kompas.com/read/2026/10/29/131438578/20-korporasi-jadi-tersangka-karhutla-di-indonesia-4-perusahaan-bermodal"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 7,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Polri bergerak searah dengan tuntutan (9 menjadi 11 lalu 20 korporasi tersangka; 98 laporan naik sidik) tanpa menyebut WALHI atau laporan 372 konsesi. Karena itu dicatat sebagai konvergensi; sebagian juga mengikuti arahan Presiden. Tuntutan kedua, membuka nama tersangka, belum dipenuhi: Presiden hanya berjanji 'pada saatnya', dan WALHI masih menuntut pada 1-2 Nov. Jadi skor 3, bukan 4. Hampir semua berita kasus adalah berita penetapan tersangka tanpa WALHI. Item tidak relevan (Kapolda Kepri, gugatan warga Kalbar, karhutla Jatim) dibuang."
+    },
+    {
+     "id": "R34",
+     "tuntutan_ringkas": "Tindak korporasi dan PSN (food estate Merauke dan lainnya) penyebab kebakaran di Papua (8.324 titik panas)",
+     "lembaga_dituju": "Kemenhut, KLH",
+     "berita_kasus": 34,
+     "berita_memuat_walhi": 20,
+     "berita_jejaring_tanpa_walhi": 2,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Dana Prima Tarigan",
+      "Uli Arta Siagian",
+      "Boy Jerry Even Sembiring"
+     ],
+     "jejaring_terdeteksi": [
+      "Yayasan Pusaka Bentala Rakyat"
+     ],
+     "respons": [
+      {
+       "lembaga": "Kemenko Pangan (Wamenko Hanif Faisol Nurofiq)",
+       "tanggal": "2026-10-15",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Temuan titik panas di area PSN Papua Selatan 'akan menjadi perhatian pemerintah'; pengawasan PSN 'akan dilakukan pengetatan'; 'yakin KLH akan atensi'",
+       "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ad1e7211fead/wamenko-pangan-akan-perhatikan-temuan-titik-panas-di-area-psn-papua-selatan"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 4,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Respons tertinggi berupa janji Wamenko Pangan (otoritas PSN pangan) untuk memperhatikan temuan dan mengetatkan pengawasan, tanpa tindakan terverifikasi. Katadata menulisnya sebagai tanggapan atas temuan WALHI, tetapi kutipan Hanif tidak menyebut nama WALHI. Tidak ditemukan sanksi, segel, atau pembekuan izin oleh Kemenhut/KLH terhadap korporasi atau PSN di Papua sampai 2 Nov; sanksi nasional (6 PBPH dibekukan 21 Okt, segel KLH) tidak menyasar Papua. Bantahan Menteri Komunikasi Malaysia (17 Okt) terkait kajian aktor (R35), bukan kasus Papua."
+    },
+    {
+     "id": "R35",
+     "tuntutan_ringkas": "Usut aktor yang paling diuntungkan dan pemilik manfaat (beneficial owner) korporasi di balik karhutla (kajian 'Siapa di Balik Api?')",
+     "lembaga_dituju": "Polri, KLH",
+     "berita_kasus": 57,
+     "berita_memuat_walhi": 24,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 1,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian",
+      "Boy Jerry Even Sembiring",
+      "Umi Ma'rufah"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "Kemenko Pangan (Wamenko Hanif Faisol)",
+       "tanggal": "2026-10-15",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Menanggapi temuan kajian: 'akan menjadi perhatian pemerintah'",
+       "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ad1e7211fead/wamenko-pangan-akan-perhatikan-temuan-titik-panas-di-area-psn-papua-selatan"
+      },
+      {
+       "lembaga": "Kemenhut (Dirjen Gakkum Dwi Januanto Nugroho)",
+       "tanggal": "2026-10-20",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Penegakan hukum karhutla diarahkan ke beneficial owner; opsi tuntutan ganti rugi",
+       "url": "https://sawitindonesia.com/tak-cuma-pemadaman-kemenhut-incar-beneficial-owner-dan-tuntut-ganti-rugi-kerusakan-karhutla"
+      },
+      {
+       "lembaga": "Kementerian Hukum (Menkum Supratman)",
+       "tanggal": "2026-10-23",
+       "bentuk": "tindakan",
+       "isi": "Menyerahkan seluruh data pemilik manfaat korporasi yang diduga terlibat karhutla kepada aparat penegak hukum atas permintaan resmi",
+       "url": "https://www.ntvnews.id/news/01123023/menkum-serahkan-data-pemilik-manfaat-korporasi-terlibat-karhutla-ke-aph"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-10-29",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Kemenhut menelusuri pertanggungjawaban hingga penerima manfaat korporasi; belum ada BO yang diproses",
+       "url": "https://www.kehutanan.go.id/news/kemenhut-telusuri-pertanggungjawaban-karhutla-hingga-pemilik-manfaat-korporasi"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 1,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Tindakan searah tetapi sebagian: Menkum menyerahkan data BO ke APH (23 Okt), Kemenhut dan Kapolri menyatakan pengusutan sampai pemilik manfaat (20-29 Okt). Belum ada pemilik manfaat yang ditetapkan tersangka atau diumumkan, jadi skor 3, bukan 4. Tidak ada yang merujuk kajian WALHI, sehingga dicatat konvergensi. Sebagian langkah juga dipicu Kapolri dan arahan Presiden. Kontra (1): Menteri Komunikasi Malaysia Fahmi Fadzil membantah perusahaan sawit Malaysia terlibat (BeritaSatu 17 Okt). Itu pemerintah asing, bukan lembaga yang dituju, jadi tidak diberi skor."
+    },
+    {
+     "id": "R37",
+     "tuntutan_ringkas": "Pemerintah Singapura menindak grup induk/pengendali perusahaan pembakar (perluas dari 10 ke 66 perusahaan terafiliasi); satgas RI-Singapura transparan dan menjangkau induk korporasi",
+     "lembaga_dituju": "Pemerintah Singapura (dan RI sebagai mitra)",
+     "berita_kasus": 105,
+     "berita_memuat_walhi": 13,
+     "berita_jejaring_tanpa_walhi": 2,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian",
+      "Teo Reffelsen"
+     ],
+     "jejaring_terdeteksi": [
+      "Greenpeace"
+     ],
+     "respons": [
+      {
+       "lembaga": "Pemerintah Singapura (MinLaw & NEA)",
+       "tanggal": "2026-10-30",
+       "bentuk": "tindakan",
+       "isi": "Menunjuk 7 anggota panel (firma investigasi dan hukum) untuk menilai operasi, hubungan korporasi, dan rantai pasok 10 perusahaan terdaftar di Singapura",
+       "url": "https://www.cna.id/asia/singapura-panel-penyelidikan-karhutla-52426"
+      },
+      {
+       "lembaga": "Kemenhut (RI)",
+       "tanggal": "2026-10-30",
+       "bentuk": "tindakan",
+       "isi": "Menetapkan 2 korporasi tersangka, salah satunya PMA asal Singapura (PT GAP)",
+       "url": "https://voi.id/amp/600739/kemenhut-tetapkan-2-korporasi-tersangka-karhutla-salah-satunya-perusahaan-singapura"
+      },
+      {
+       "lembaga": "Pemerintah Singapura",
+       "tanggal": "2026-10-31",
+       "bentuk": "tindakan",
+       "isi": "5 perusahaan terdaftar di Singapura menyatakan kooperatif dan menunjuk penilai dalam penyelidikan asap lintas batas",
+       "url": "https://investortrust.id/international/121136/5-perusahaan-terdaftar-di-singapura-kooperatif-dalam-penyelidikin-asap-lintas-batas-ada-dari-indonesia"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 1,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Tanggal rilis tidak tercantum; dipakai 29 Okt (Kompas.id, VOI, Prohealth memuat desakan yang sama hari itu; Katadata 31 Okt untuk angka 66 perusahaan). Langkah Singapura sudah berjalan sebelum rilis dan TIDAK dihitung: pemberitahuan NEA ke 10 perusahaan (~18-24 Okt), pemanggilan bos perusahaan (28 Okt), kesepakatan satgas RI-Singapura dan janji Menlu Balakrishnan (28-29 Okt). Sesudah rilis ada tindakan lanjutan yang searah: panel dibentuk (30 Okt) dan perusahaan menyatakan kooperatif. Usulan denda 10 kali lipat (CNA 4 Nov) di luar batas 2 Nov. Penyelidikan masih terbatas pada 10 perusahaan, belum 66, dan tidak ada yang menyebut WALHI, jadi skor 3 dengan konvergensi. Bantahan JCorp/Menteri Besar Johor (NST, Okt) hanya terlihat di judul hasil pencarian, tidak dihitung. Banyak berita kasus tentang satgas dan pemanggilan Singapura tanpa WALHI."
+    },
+    {
+     "id": "P09",
+     "tuntutan_ringkas": "Menhut mencabut izin 144 PBPH lain yang konsesinya terbakar (setelah 4 PBPH laporan WALHI dicabut)",
+     "lembaga_dituju": "Kemenhut",
+     "berita_kasus": 12,
+     "berita_memuat_walhi": 2,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Umi Ma'rufah",
+      "Uli Arta Siagian"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "Kemenhut (Dir. Pengawasan & Sanksi Administratif Adi Rizman)",
+       "tanggal": "2026-09-29",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Rekap sanksi terhadap 26 subjek hukum: 13 izin dibekukan, 5 PBPH dicabut, sisanya teguran; tanggal pembekuan tidak jelas",
+       "url": "https://www.antaranews.com/berita/5763413/karhutla-kemenhut-bekukan-13-izin-dan-cabut-lima-pbph"
+      },
+      {
+       "lembaga": "Menteri Kehutanan Raja Juli Antoni",
+       "tanggal": "2026-10-21",
+       "bentuk": "tindakan",
+       "isi": "Membekukan izin 6 perusahaan PBPH lagi terkait karhutla; total 32 perusahaan kehutanan kena sanksi administratif",
+       "url": "https://katadata.co.id/berita/nasional/6ad8994f68262/pemerintah-bekukan-enam-perusahaan-penyebab-karhutla"
+      },
+      {
+       "lembaga": "Kemenhut",
+       "tanggal": "2026-10-29",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "32 perusahaan disanksi, termasuk 5 izin dicabut (tidak ada pencabutan baru)",
+       "url": "https://www.kehutanan.go.id/news/kemenhut-telusuri-pertanggungjawaban-karhutla-hingga-pemilik-manfaat-korporasi"
+      }
+     ],
+     "skor": 3,
+     "hari_ke_respons": 26,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Tindakan setelah rilis hanya pembekuan, bukan pencabutan: 6 PBPH dibekukan pada 21 Okt. Tidak dipastikan ke-6 PBPH itu termasuk 144 yang disebut WALHI. Jumlah izin yang dicabut tetap 5 sampai 29 Okt. Searah tetapi jauh dari tuntutan, jadi skor 3 dengan konvergensi; bila pembekuan tidak dianggap searah dengan pencabutan, skornya 2 atau lebih rendah. Rekap 29 Sep (13 dibekukan) dicatat, tetapi hari ke respons dihitung dari 21 Okt karena tanggal pembekuan 13 izin tidak terverifikasi setelah 25 Sep. Liputan WALHI yang memuat angka 144 sedikit: Jempolindo 27 Sep ada di korpus tetapi tidak tertangkap skrip; kueri kedua menangkap Berita Seputar Borneo 25 Sep dan Kontan 27 Sep."
+    },
+    {
+     "id": "P11",
+     "tuntutan_ringkas": "Jangan kambinghitamkan individu (menjawab Wamenko Pangan Hanif Faisol '99% ulah manusia'); tindak struktur penyebab karhutla: izin, korporasi, eksekusi putusan Rp19 T terhadap 12 korporasi",
+     "lembaga_dituju": "Kemenko Pangan",
+     "berita_kasus": 12,
+     "berita_memuat_walhi": 6,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Dana Prima Tarigan"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Tidak ditemukan tanggapan Hanif Faisol atau Kemenko Pangan atas bantahan WALHI. Kegiatan Kemenko Pangan sesudah 22 Okt bersifat operasional: 175 regu pemadam, pembasahan gambut di tiga zona Kalteng, target padam dua pekan. Itu tidak menyentuh tuntutan struktural (izin, korporasi). Tidak ditemukan eksekusi KLH atas putusan Rp19 T terhadap 12 korporasi. Penetapan 20 korporasi tersangka oleh Polri (29 Okt) dan 2 korporasi oleh Kemenhut (30 Okt) bisa dibaca sebagai konvergensi luas, tetapi bukan dari lembaga yang dituju, proses itu sudah berjalan sebelum rilis, dan sudah dihitung di R25. Pilihan yang lebih rendah (0) diambil. Liputan WALHI: Prohealth 23 Okt, VOI 24 Okt, Suara.com 2 Nov; banyak berita karhutla umum dibuang."
+    },
+    {
+     "id": "P12",
+     "tuntutan_ringkas": "Menhut menggugat 148 PBPH atas nama warga korban karhutla berdasarkan Pasal 72 UU Kehutanan",
+     "lembaga_dituju": "Menteri Kehutanan",
+     "berita_kasus": 7,
+     "berita_memuat_walhi": 5,
+     "berita_jejaring_tanpa_walhi": 1,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Christine Constanta",
+      "Wahyu Eka"
+     ],
+     "jejaring_terdeteksi": [
+      "Pantau Gambut"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Tidak ditemukan tanggapan Menhut soal gugatan perwakilan berdasarkan Pasal 72 sampai 2 Nov (rilis baru berumur 7 hari, sensor kanan). Langkah Kemenhut sesudah rilis tidak memenuhi tuntutan: 2 korporasi tersangka (PT MAP dan PT GAP, 30 Okt), plang larangan di bekas karhutla Kalteng (1 Nov), dan pernyataan 29 Okt yang 'membuka kemungkinan tuntutan ganti rugi' atas kerusakan hutan. Pernyataan itu soal kerugian negara, bukan gugatan atas nama warga korban, dan opsi yang sama sudah disebut sebelum rilis (20-22 Okt), jadi tidak dihitung. Jejaring: Pantau Gambut menagih Menhut (Inilah, 28 Okt; isi tidak terbaca)."
+    }
+   ]
+  },
+  "verifikasi": {
+   "rilis": [
+    {
+     "id": "R21",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [],
+     "alasan": "Dikonfirmasi. Kalimantan Post (6 Okt) memuat bahwa Ditreskrimsus menerima pengaduan dan berjanji mengirim perkembangan lewat surat resmi. Pernyataannya parafrase dan tanpa nama juru bicara. Radar Banjarmasin memuat kutipan Kapolda 'termasuk yang dilaporkan Walhi Kalsel, itu sudah naik sidik'. Pernyataan itu diucapkan 15 Okt dan terbit 16 Okt, jadi tanggal respons sebaiknya 15 Okt. Antara (20 Okt) menyebut 4 tersangka korporasi dari 12, tetapi tidak menyebut nama dan tidak menyebut WALHI. Pencarian tidak menemukan bukti bahwa tersangka itu MIB, SAM, KJW, atau Palmina. Tindakan nyata tetapi belum tuntas, jadi skor 3 tepat dan 4 tidak bisa dibenarkan.",
+     "keyakinan": "tinggi"
+    },
+    {
+     "id": "R22",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Dikonfirmasi. Katadata 31 Okt: pernyataan Aryo Gustomo (RSPO) disampaikan di diskusi publik 30 Okt, sehari sebelum keterangan FoE Indonesia/Uli (31 Okt). Artikel tidak menyajikannya sebagai jawaban atas kritik itu, melainkan pembelaan umum atas proses keanggotaan. Pernyataan itu mendahului rilis dan tidak menjawab tuntutan, jadi tidak bisa diberi skor 1. Rilis berstatus draft dan tanggalnya tidak pasti.",
+     "keyakinan": "rendah"
+    },
+    {
+     "id": "R25",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [],
+     "alasan": "Skor dipertahankan, tetapi ada koreksi bentuk. Pernyataan Presiden 'nanti pada saatnya kita umumkan' diucapkan 22 Okt. Desakan WALHI-Greenpeace yang dimuat CNN baru terbit 23 Okt, dan artikel mengaitkan ucapan Presiden dengan protes negara tetangga. Jadi itu BUKAN respons ke_jejaring; bentuknya umum_tanpa_menyebut, dan levelnya tetap janji (2). Skor 3 berdiri di atas penetapan tersangka korporasi oleh Bareskrim (9 menjadi 11 lalu 20) sesudah 7 Okt. Itu searah dengan tuntutan pengusutan, sedangkan nama tersangka tetap tidak dibuka Polri. Catatan: Kemenhut sendiri menyebut PT MAP dan PT GAP (30 Okt), tetapi itu bukan Polri.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R34",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "Skor 2 dipertahankan dengan catatan. Katadata (terbit 16 Okt, ucapan 15 Okt) menyajikan kutipan Hanif sebagai tanggapan langsung atas temuan WALHI, jadi bentuknya lebih tepat langsung_ke_walhi daripada umum. Namun artikel itu berpusat pada kajian 'Siapa di Balik Api?' (R35), yakni data 807 titik panas di Merauke, bukan rilis Papua 11 Okt. Respons ini tetap relevan karena tuntutannya sama (PSN Papua), tetapi atribusinya ke R34 tidak langsung. Pencarian tidak menemukan segel atau sanksi KLH/Kemenhut di Merauke atau Papua Selatan pada Okt sampai 2 Nov.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R35",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [],
+     "alasan": "Dikonfirmasi. NTVNews 23 Okt: Menkum menyatakan seluruh data pemilik manfaat 'sudah saya berikan' kepada APH atas permintaan resmi. Itu tindakan yang sudah terjadi, searah, dan sebagian. Sawitindonesia 20 Okt: Dirjen Gakkum menyatakan penyidikan diarahkan ke beneficial owner, tanpa nama. Belum ada pemilik manfaat yang ditetapkan tersangka, jadi bukan 4. Koreksi kecil: kutipan Hanif di Katadata 15-16 Okt adalah tanggapan langsung atas kajian ini (langsung_ke_walhi), jadi konvergensi tidak sepenuhnya benar. Namun level respons itu hanya 2 dan tidak mengubah skor.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R37",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [],
+     "alasan": "Skor dipertahankan dengan keyakinan diturunkan. Panel 30 Okt (CNA) memang sesudah tanggal kerja 29 Okt, dan cakupannya mencakup 'struktur grup perusahaan' dan hubungan korporasi, jadi searah dengan tuntutan menjangkau induk. Tetapi mekanisme panel sudah dimulai sebelum rilis: MinLaw menunjuk Davinder Singh Chambers pada 23 Okt. Rilis juga hanya bisa diberi tanggal 29 Okt (VOI dan Kompas.id), sedangkan angka 66 baru muncul 31 Okt (Katadata). WALHI sendiri menilai lingkup 10 perusahaan tidak cukup. Item '5 perusahaan kooperatif' (31 Okt) adalah sikap perusahaan, bukan respons pemerintah, jadi tidak dihitung. Penetapan PT GAP oleh Kemenhut hanya relevan sebagai RI sebagai mitra. Bila tanggal rilis ternyata 31 Okt, skor turun ke 0. Tidak ditemukan respons yang menyebut WALHI.",
+     "keyakinan": "rendah"
+    },
+    {
+     "id": "P09",
+     "skor_awal": 3,
+     "skor_final": 3,
+     "respons_tambahan": [
+      {
+       "lembaga": "Bareskrim Polri (Kabareskrim Komjen Asep Safrudin)",
+       "tanggal": "2026-10-30",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "'Jadi ada 23 korporasi yang kami ajukan untuk pencabutan izin'. Jenis izin (PBPH atau HGU) dan instansi yang dituju tidak disebut. Ini usulan, bukan pencabutan.",
+       "url": "https://rctiplus.com/news/detail/nasional/5505049/bareskrim-ajukan-pencabutan-izin-23-korporasi-diduga-terlibat-karhutla"
+      }
+     ],
+     "alasan": "Skor 3 bertahan secara tipis. Radar Malang dan Antara memastikan 5 pencabutan dan 13 pembekuan diumumkan 21 Sep, sebelum rilis 25 Sep, jadi rekap 29 Sep tidak boleh dihitung. Pencabutan ke-5 juga bukan sesudah rilis. Katadata 21 Okt: Menhut membekukan ulang 6 PBPH di Kalteng yang konsesinya terbakar, disertai paksaan pemulihan, tetapi tanpa pencabutan baru. Itu tindakan terverifikasi dan searah, tetapi lebih ringan dari tuntutan, dan tidak ada yang menyebut WALHI atau 144 PBPH. Usulan Bareskrim mencabut izin 23 korporasi (30 Okt) datang dari lembaga yang bukan dituju dan masih berupa usulan, jadi tidak menaikkan skor. Bila pembekuan tidak dianggap searah dengan pencabutan, skornya turun ke 0, karena tidak ada janji Kemenhut untuk mencabut.",
+     "keyakinan": "rendah"
+    },
+    {
+     "id": "P11",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Dikonfirmasi. Pencarian tidak menemukan tanggapan Hanif Faisol atau Kemenko Pangan atas bantahan WALHI. Kegiatan Kemenko Pangan pada 1-3 Nov (pembasahan gambut, regu pemadam) bersifat operasional dan tidak menyentuh izin, korporasi, atau eksekusi putusan Rp19 T.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P12",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Dikonfirmasi. Pencarian hanya menemukan desakan WALHI (Katadata 26 Okt), tanpa tanggapan Menhut soal gugatan atas nama warga berdasarkan Pasal 72. Pernyataan Kemenhut soal kemungkinan ganti rugi sudah muncul 20 Okt (Sawitindonesia), sebelum rilis, dan menyangkut kerugian negara, bukan gugatan atas nama warga. Rilis masih sangat baru (sensor kanan).",
+     "keyakinan": "sedang"
+    }
+   ]
+  }
+ },
+ {
+  "kelompok": "Pesisir & Laut",
+  "kode": {
+   "rilis": [
+    {
+     "id": "R15",
+     "tuntutan_ringkas": "Koreksi RUU Daerah Kepulauan agar tidak jadi payung tambang; larang tambang di pulau kecil",
+     "lembaga_dituju": "DPR (Pansus RUU Daerah Kepulauan), Kemendagri",
+     "berita_kasus": 16,
+     "berita_memuat_walhi": 4,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 1,
+     "penutur_terdeteksi": [],
+     "jejaring_terdeteksi": [],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Jendela 4-20 Sep: ada 16 berita RUU Daerah Kepulauan. Empat memuat WALHI, tetapi hanya sebagai peserta RDPU Pansus 3 Sep (NasDem, Majalah TAMBANG) atau sebagai tanda indeks (detik, Sultratop). Tidak ada penutur WALHI yang dikutip, dan KIARA/JATAM tidak muncul. RDPU 3 Sep dan pernyataan Julie Laiskodat ('seimbangkan ekologi dan kesejahteraan') terjadi SEBELUM rilis 5 Sep, jadi tidak dihitung (dicatat di P05). Sesudah 5 Sep, pernyataan Pansus hanya soal Dana Khusus Kepulauan, lex specialis, dan perlindungan masyarakat pesisir/privatisasi pulau (Hendry Munief, 18 Sep). Tidak ada yang menyentuh larangan tambang pulau kecil. Ketua Pansus Mercy Barends menanggapi KAHMI Sultra (13 Sep, tuntutan serupa) dengan jawaban umum bahwa RUU adalah instrumen afirmasi. KAHMI bukan jejaring, jadi tidak diskor. Raker DIM pemerintah (Kemendagri) dijadwalkan 6 Okt, tetapi isinya soal tambang tidak ditemukan. Kontra: pakar IMEW Ferdy Hasiman (Majalah TAMBANG, 8 Sep) meminta RUU memberi kepastian investasi pertambangan. Kode lama (respons_D) juga 0."
+    },
+    {
+     "id": "R16",
+     "tuntutan_ringkas": "Batalkan PSN Revitalisasi Tambak Pantura Jawa Barat",
+     "lembaga_dituju": "KKP",
+     "berita_kasus": 16,
+     "berita_memuat_walhi": 13,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 8,
+     "penutur_terdeteksi": [
+      "Mida Saragih",
+      "Teo Reffelsen",
+      "Wahyudin (Direktur WALHI Jabar)"
+     ],
+     "jejaring_terdeteksi": [
+      "KOMPI",
+      "Jatayu"
+     ],
+     "respons": [
+      {
+       "lembaga": "KKP (Dirjen Perikanan Budidaya Tb Haeru Rahayu)",
+       "tanggal": "2026-09-24",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "Saat menemui massa WALHI-KOMPI-Jatayu di kantor KKP, Dirjen menyatakan revitalisasi bertujuan meningkatkan produktivitas tambak dan kesejahteraan pembudidaya. Tidak ada janji membatalkan, menunda, atau mengkaji ulang; proyek tetap dibela.",
+       "url": "https://mongabay.co.id/2026/10/03/ratusan-nelayan-datangi-kementerian-kelautan-tolak-psn-tambak/"
+      }
+     ],
+     "skor": 1,
+     "hari_ke_respons": 0,
+     "konvergensi": false,
+     "keyakinan": "tinggi",
+     "catatan": "Respons terjadi pada hari aksi/rilis (24 Sep). KKP membela proyek di hadapan pengunjuk rasa, artinya menolak tuntutan pembatalan (skor 1), sejalan dengan kode lama di respons_A. Tidak ditemukan pernyataan atau tindakan KKP lain sampai 2 Nov; SKKLH sudah terbit 18 Jun 2026. Kontra dari pihak ketiga tidak diskor (8 berita): Iwan 'Terpal' Setiawan, aktivis pro-proyek, di JPNN, SINDOnews, jurnas ('WALHI jangan provokasi rakyat'), Media Indonesia 937201, RM.ID, Tribunnews, dan Rmol; ditambah aksi KOPAAAS yang menuntut WALHI dibubarkan (Iconomics, 28 Sep). PELAKITA (promosi program KKP) tidak dihitung kontra. KIARA dan Maleh Dadi Segoro tidak terdeteksi. Kompas.id dan Tempo hanya bertanda indeks WALHI."
+    },
+    {
+     "id": "R19",
+     "tuntutan_ringkas": "Hentikan kriminalisasi 5 warga Rempang (panggilan Polda Kepri) dan penerobosan lahan ulayat oleh BP Batam",
+     "lembaga_dituju": "BP Batam, Polri (Polda Kepri)",
+     "berita_kasus": 4,
+     "berita_memuat_walhi": 3,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Teo Reffelsen",
+      "Dina Reski (WALHI Riau)"
+     ],
+     "jejaring_terdeteksi": [
+      "LBH Pekanbaru",
+      "Solidaritas Nasional untuk Rempang",
+      "YLBHI"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Pemuatan: siaran pers bersama di ylbhi.or.id (24 Sep), Betahita (24 Sep), PASBANA (27 Sep), dan Batamnews (7 Okt, kisah warga yang pindah ke Rempang Eco-City; bernada pro-proyek tetapi tidak membantah tuntutan, jadi tidak dihitung kontra). Warga dan Tim Solidaritas mengadu ke Komnas HAM, Komnas Perempuan, Kompolnas, LPSK, ATR/BPN, dan Ombudsman (14-18 Sep). Artikel Betahita tidak memuat tanggapan Polda Kepri maupun BP Batam. ATR/BPN hanya menyatakan data HPL dikecualikan dan harus diminta lewat PPID (sebelum rilis, bukan lembaga yang dituju). Pencarian web atas tanggapan Polda Kepri/BP Batam (pencabutan laporan, penghentian pemanggilan) untuk periode 22 Sep-2 Nov tidak menemukan apa pun. Pernyataan BP Batam bahwa lahan sekolah masuk HPL berasal dari sebelum rilis (Mongabay 1 Sep), jadi tidak dihitung. Kumparan 21 Sep (audiensi WALHI ke Fraksi PDIP) tidak dibaca dan tidak dihitung relevan."
+    },
+    {
+     "id": "R29",
+     "tuntutan_ringkas": "Cabut IUP PT Timah di perairan Batu Beriga; tetapkan zona tangkap nelayan bebas tambang",
+     "lembaga_dituju": "ESDM, KKP, Pemprov dan DPRD Babel",
+     "berita_kasus": 12,
+     "berita_memuat_walhi": 4,
+     "berita_jejaring_tanpa_walhi": 8,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Mida Saragih"
+     ],
+     "jejaring_terdeteksi": [
+      "nelayan/masyarakat Batu Beriga"
+     ],
+     "respons": [
+      {
+       "lembaga": "DPRD Provinsi Kepulauan Bangka Belitung (Pansus Revisi Perda RZWP3K, Wakil Ketua Edi Nasapta)",
+       "tanggal": "2026-10-22",
+       "bentuk": "ke_jejaring",
+       "isi": "Usai menerima audiensi masyarakat Batu Beriga, DPRD menyatakan seluruh fraksi mendukung percepatan revisi Perda RZWP3K untuk menetapkan Laut Batu Beriga sebagai kawasan bebas tambang dan zona tangkap nelayan, dengan target pengesahan di paripurna 20 Nov 2026. IUP PT Timah tidak disinggung.",
+       "url": "https://babelpos.disway.id/pangkalpinang/read/691306/dprd-babel-targetkan-keputusan-revisi-perda-rzwp3k-batu-b"
+      },
+      {
+       "lembaga": "DPRD Babel (Edi Nasapta)",
+       "tanggal": "2026-10-22",
+       "bentuk": "ke_jejaring",
+       "isi": "Pemberitaan yang sama: DPRD memastikan semua fraksi mendukung Batu Beriga menjadi zona bebas tambang; ditegaskan seusai menerima audiensi perwakilan masyarakat Batu Beriga.",
+       "url": "https://okeyboz.com/index.php/2026/10/22/menjaga-laut-untuk-nelayan-dprd-babel-dorong-zona-bebas-tambang-di-ba"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 12,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Respons tertinggi datang dari DPRD Babel, salah satu lembaga yang dituju, kepada warga Batu Beriga (jejaring). Isinya komitmen politik dan proses revisi perda yang belum disahkan (target 20 Nov, di luar jendela). IUP PT Timah belum dicabut. Saya ragu antara 2 dan 3; diambil 2 karena belum ada produk hukum dan DPRD sudah menjadi co-demander bersama WALHI sejak pertemuan di KKP 9 Okt (sebelum rilis). Kode lama berbeda: respons_A memberi 2, respons_B memberi 3. Bangkapos 22 Okt berjudul 'Pemprov Babel Pastikan Revisi RZWP3K Beriga Terus Berjalan, Regulasi Tak Boleh Dilewati' tidak bisa dibaca (isi kosong), jadi tidak dijadikan bukti. Tanggapan KKP dan ESDM tidak ditemukan; pernyataan KKP bahwa Beriga adalah 'zona tambang' berasal dari Okt 2024 dan tidak dihitung. Berita yang tidak relevan dibuang: Teluk Kelabat, tambang ilegal umum, Polda/Polresta, cuaca. Delapan berita DPRD tanggal 22-23 Okt tidak memuat WALHI tetapi berbasis audiensi warga Batu Beriga."
+    },
+    {
+     "id": "R36",
+     "tuntutan_ringkas": "Hentikan kelanjutan PSN tambak Pantura; ketahanan pangan jangan rampas ruang petambak",
+     "lembaga_dituju": "KKP",
+     "berita_kasus": 4,
+     "berita_memuat_walhi": 4,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 2,
+     "penutur_terdeteksi": [
+      "Mida Saragih",
+      "Teo Reffelsen"
+     ],
+     "jejaring_terdeteksi": [
+      "KOMPI",
+      "Jatayu"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Tanggal rilis 29 Sep (bulan di laporan folder salah, Okt menjadi Sep). Pemuatan: Betahita 1 Okt ('Koalisi Minta PSN Revitalisasi Tambak Pantura Dihentikan', KOMPI+WALHI) dan Mongabay 3 Okt. Satu-satunya respons KKP, yaitu Dirjen Tb Haeru Rahayu yang membela proyek, terjadi 24 Sep, sebelum rilis ini, sehingga tidak dihitung (sudah dihitung di R16). Respons KKP atas tuntutan penghentian PSN tambak setelah 29 Sep sampai 2 Nov tidak ditemukan. Kontra (tidak diskor): aksi KOPAAAS menuntut pembubaran WALHI (Iconomics dan Jempolindo, 28 Sep, H-1). Berita Harian Massa dan faktakalbar (Perpres 74/2026 soal pasokan ikan) tidak relevan dan dibuang."
+    },
+    {
+     "id": "P02",
+     "tuntutan_ringkas": "Kaji ulang Giant Sea Wall Pantura dan tata kelola BOPPJ; buka informasi rencana induk/AMDAL",
+     "lembaga_dituju": "Pemerintah pusat, BOPPJ",
+     "berita_kasus": 3,
+     "berita_memuat_walhi": 3,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Mida Saragih",
+      "Dana Prima Tarigan"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Pemuatan: Limit News (23 Agu), Suara.com (24 Agu), Betahita (25 Agu); berita RRI soal lomba tangkap ikan tidak relevan. Pertemuan WALHI dengan BOPPJ terjadi 19 Agu, sebelum rilis, dan liputannya tidak memuat tanggapan BOPPJ. Tidak ditemukan tanggapan BOPPJ atau pemerintah atas kritik ini setelah 21 Agu. Presiden Prabowo (17 Sep, Okezone/RCTI+) menegaskan GSW mulai dibangun 2027, tetapi pernyataan itu tidak menjawab WALHI. Saya ragu antara 0 dan 1 ('proyek tetap jalan'); diambil 0 karena itu kelanjutan agenda yang sudah ada, bukan respons atas tuntutan. Rapat terbatas 'penyempurnaan rencana' GSW berlangsung 20 Apr 2026, sebelum periode. KIARA dan Maleh Dadi Segoro tidak terdeteksi di jendela ini. Kode lama (respons_D) juga 0."
+    },
+    {
+     "id": "P03",
+     "tuntutan_ringkas": "Hentikan aktivitas tongkang Harita Nickel di perairan Kawasi (Obi)",
+     "lembaga_dituju": "KLH, ESDM, Pemprov Malut",
+     "berita_kasus": 5,
+     "berita_memuat_walhi": 1,
+     "berita_jejaring_tanpa_walhi": 4,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [],
+     "jejaring_terdeteksi": [
+      "Aliansi Persatuan Canga Kawasi"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "rendah",
+     "catatan": "Aksi damai warga Kawasi pada 26 Agu dilakukan oleh Aliansi Persatuan Canga Kawasi (Ahmad Ibrahim, Aswat Ibrahim). Di cermat, HalmaheraPost, Betahita, dan Beritambang, WALHI/WALHI Malut tidak dikutip; di Betahita, WALHI hanya muncul sebagai sumber foto (tanda indeks). Rilis WALHI dengan judul ini tidak ditemukan di web, jadi WALHI sebagai penulis belum terverifikasi. Tuntutan ditujukan ke Harita serta pemerintah pusat dan daerah (evaluasi lalu lintas tongkang, keterbukaan izin, pencabutan Perbup Halsel 72/2023). Tanggapan KLH, ESDM, Pemprov Malut, Pemkab Halsel, maupun KSOP tidak ditemukan; Harita juga belum merespons menurut Betahita. Wagub Malut sempat mengapresiasi program nelayan Harita (27 Agu dan 3 Sep), tetapi itu tidak menjawab tuntutan sehingga tidak dihitung. JATAM tidak terdeteksi."
+    },
+    {
+     "id": "P05",
+     "tuntutan_ringkas": "Koreksi arah pembangunan pesisir dan pulau kecil lewat RUU Daerah Kepulauan",
+     "lembaga_dituju": "DPR (Pansus RUU Daerah Kepulauan), Kemendagri",
+     "berita_kasus": 26,
+     "berita_memuat_walhi": 6,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 2,
+     "penutur_terdeteksi": [],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "DPR RI, Pansus RUU Daerah Kepulauan (anggota Julie Sutrisno Laiskodat)",
+       "tanggal": "2026-09-03",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "Dalam RDPU Pansus dengan WALHI, FWI, dan Sajogyo Institute, Julie menyatakan RUU harus menjadi instrumen yang menyeimbangkan perlindungan ekologi dan kesejahteraan ('tapi sekali lagi tidak merusak lingkungannya'), dan perlu dicari jalan tengah. Namun ia juga menekankan infrastruktur ekonomi tetap dibutuhkan. Tidak ada komitmen pada koreksi spesifik.",
+       "url": "https://partainasdem.id/2026/09/04/ruu-daerah-kepulauan-harus-pastikan-keseimbangan-ekologi-dan-kesejahteraan/"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 7,
+     "konvergensi": false,
+     "keyakinan": "rendah",
+     "catatan": "Tanggal rilis 27 Agu. RRI 31 Agu ('WALHI Tuntut Koreksi Pembangunan Pesisir lewat RUU Daerah Kepulauan') memastikan rilis terbit, tetapi situsnya memblokir sehingga hanya tanda indeks. Skor 2 karena DPR, lembaga yang dituju, menerima masukan WALHI di RDPU 3 Sep (MetroTV menyebut agendanya sejak 27 Agu) dan mengakui kepentingan ekologis tanpa janji atau tindakan. Saya ragu antara 0 dan 2: RDPU sudah terjadwal dan pernyataannya umum, bukan jawaban atas poin koreksi WALHI. Kode lama (respons_D) memberi 0. Bila tim memakai tafsir ketat, turunkan ke 0. Sesudahnya Pansus hanya membahas Dana Khusus Kepulauan dan lex specialis; DIM pemerintah dijadwalkan 6 Okt dan isinya tidak ditemukan. Berita yang memuat WALHI: NasDem, Majalah TAMBANG, MetroTV (sebagai peserta RDPU), RRI (judul), detik dan Sultratop (indeks). Kontra (tidak diskor): pakar IMEW meminta kepastian investasi pertambangan (ANTARA Sultra 7 Sep, Majalah TAMBANG 8 Sep). FWI dan Sajogyo hanya tercatat sebagai sesama peserta RDPU; KIARA tidak terdeteksi."
+    }
+   ]
+  },
+  "verifikasi": {
+   "rilis": [
+    {
+     "id": "R15",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Pengodean bertahan. Pernyataan Julie Laiskodat di ANTARA Sultra (7 Sep) ternyata berasal dari RDP 3 Sep, sebelum rilis 5 Sep, jadi tidak dihitung. Ketua Pansus Mercy Barends menjawab KAHMI (lajur.co, 13 Sep) hanya soal 'pertumbuhan ekonomi tanpa pengawasan'. Ia tidak menyebut tambang atau larangan tambang di pulau kecil, dan KAHMI bukan jejaring. Pencarian atas Pansus/DIM Kemendagri sampai Okt 2026 tidak menemukan respons soal larangan tambang pulau kecil.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R16",
+     "skor_awal": 1,
+     "skor_final": 1,
+     "respons_tambahan": [],
+     "alasan": "Terverifikasi di Mongabay (3 Okt). Dirjen Perikanan Budidaya Tb Haeru Rahayu menyampaikan pernyataan 'saat temui pengunjuk rasa' pada aksi Kamis 24/9, sama dengan hari rilis, jadi dihitung. Isinya membela proyek (produktivitas dan kesejahteraan) tanpa janji kaji ulang atau penundaan, artinya penolakan (skor 1). Mongabay mengutip secara tidak langsung, tetapi atribusinya jelas. Pencarian pernyataan KKP lain sampai 2 Nov tidak menemukan apa pun.",
+     "keyakinan": "tinggi"
+    },
+    {
+     "id": "R19",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Tidak ditemukan respons Polda Kepri atau BP Batam sesudah 22 Sep. Halaman bidtik.kepri.polri.go.id berjudul 'Batam Police Confirm Withdrawal of Case Against Rempang Residents' tidak bisa dibuka (403). Pencarian terkait menunjukkan pencabutan laporan itu terjadi Feb 2025 (kasus Mak Awe dan kawan-kawan, Polresta Barelang), bukan kasus 5 warga 2026, jadi tidak dihitung. Pernyataan BP Batam soal HPL 18,5 ha berasal dari sebelum rilis (Mongabay 1 Sep). Komnas HAM, Kompolnas, dan LPSK bukan lembaga yang dituju dan tidak berwenang atas tuntutan.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R29",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "Skor 2 dipertahankan. Komitmen DPRD Babel 22 Okt (seluruh fraksi mendukung revisi Perda RZWP3K, target paripurna 20 Nov) adalah janji politik, belum produk hukum. IUP PT Timah tidak dicabut, dan tidak ada tanggapan KKP, ESDM, PT Timah, atau Pemprov yang terverifikasi. Betahita 12 Okt hanya mencatat dukungan Ketua Pansus Sardi pada pertemuan 9 Okt, sebelum rilis, tanpa kutipan KKP. Artikel Bangkapos 'Pemprov Babel Pastikan Revisi RZWP3K...' kosong saat dibuka. Catatan teknis: kedua URL bukti terpotong. URL lengkap Babelpos: https://babelpos.disway.id/pangkalpinang/read/691306/dprd-babel-targetkan-keputusan-revisi-perda-rzwp3k-batu-beriga-sah-20-november-2026. URL lengkap OkeyBoz: https://okeyboz.com/index.php/2026/10/22/menjaga-laut-untuk-nelayan-dprd-babel-dorong-zona-bebas-tambang-di-batu-beriga/",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R36",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Satu-satunya respons KKP terjadi 24 Sep, sebelum rilis 29 Sep, dan sudah dihitung di R16. Pencarian pernyataan KKP atau Menteri Trenggono tentang kelanjutan PSN tambak Pantura untuk periode Okt sampai 2 Nov 2026 tidak menemukan hasil. Berita terbaru yang muncul berasal dari Juni 2026. Kontra KOPAAAS memang bukan respons resmi.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P02",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Tidak ditemukan tanggapan BOPPJ (Didit Herdiawan) atau pemerintah atas kritik WALHI sesudah 21 Agu 2026. Pernyataan BOPPJ yang ditemukan berasal dari Feb sampai Juli 2026, sebelum periode. Pernyataan Presiden 17 Sep tidak menjawab tuntutan. Penerapan skor 0, bukan 1, sejalan dengan aturan ambil yang lebih rendah.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P03",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Betahita (28 Agu) dikonfirmasi tidak memuat tanggapan KLH, ESDM, Pemprov Malut, Pemkab Halsel, KSOP, atau Dishub. Harita juga 'belum memberikan respons'. WALHI hanya muncul sebagai sumber foto. Pencarian tambahan tidak menemukan respons pemerintah. Status WALHI sebagai penulis rilis tetap belum terverifikasi, karena itu keyakinan rendah.",
+     "keyakinan": "rendah"
+    },
+    {
+     "id": "P05",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "Halaman NasDem terverifikasi: RDP 3 Sep dengan WALHI, FWI, dan Sajogyo terjadi sesudah rilis 27 Agu. Julie merujuk langsung masukan tertulis peserta ('Tadi ditulis bahwa RUU Daerah Kepulauan harus menjadi instrumen perlindungan ekologis...') dan mengakuinya ('tidak merusak lingkungannya', 'mesti cari solusi'), meski menambahkan 'infrastruktur tetap diperlukan'. Ini pengakuan tanpa komitmen spesifik, bukan penolakan, jadi skor 2 bisa dipertahankan. Risikonya: Julie hanya anggota Pansus, pernyataannya umum, dan RDPU sudah terjadwal. Bila tim memakai tafsir ketat (harus menjawab poin koreksi), skor turun ke 0. ANTARA Sultra 7 Sep hanya mengulang pernyataan 3 Sep tanpa menyebut WALHI.",
+     "keyakinan": "rendah"
+    }
+   ]
+  }
+ },
+ {
+  "kelompok": "Urban + Tambang & Energi",
+  "kode": {
+   "rilis": [
+    {
+     "id": "R04",
+     "tuntutan_ringkas": "Kendalikan sumber pencemar udara Jabodetabek dan jalankan putusan gugatan polusi (CLS)",
+     "lembaga_dituju": "KLH, Pemprov DKI",
+     "berita_kasus": 29,
+     "berita_memuat_walhi": 3,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Wahyu Eka Setyawan"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "Pemprov DKI (Gubernur Pramono Anung)",
+       "tanggal": "2026-08-19",
+       "bentuk": "tindakan",
+       "isi": "Damkar DKI menyemprotkan air untuk menekan polusi selama OMC belum bisa dilakukan. Ini mitigasi, bukan pengendalian sumber.",
+       "url": "https://news.detik.com/berita/d-8625228/tekan-polusi-damkar-dki-semprot-air-saat-omc-belum-bisa-dilakukan"
+      },
+      {
+       "lembaga": "Pemprov DKI (Gubernur Pramono Anung)",
+       "tanggal": "2026-08-20",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Pramono mengakui polusi tak bisa diatasi Pemprov sendiri. Ia menunjuk industri dan PLTU batu bara di wilayah penyangga, serta target 10.000 bus listrik pada 2030. Tidak ada komitmen menjalankan putusan CLS.",
+       "url": "https://www.metrotvnews.com/read/K5nCR6xD-pramono-tegaskan-kendala-polusi-jakarta"
+      },
+      {
+       "lembaga": "KLH",
+       "tanggal": "2026-08-22",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "KLH belum menjawab konfirmasi Mongabay. Staf Ahli Menteri (19 Agu) mengatakan jawaban sedang disiapkan.",
+       "url": "https://mongabay.co.id/2026/08/22/polusi-udara-jakarta-parah-masalah-menahun-tanpa-penyelesaian/"
+      },
+      {
+       "lembaga": "Pemprov DKI (Sudin LH Jakarta Selatan)",
+       "tanggal": "2026-08-28",
+       "bentuk": "tindakan",
+       "isi": "Uji emisi 102 kendaraan di Mampang; 22 tidak lulus. Pemilik hanya diimbau memperbaiki kendaraan, tanpa sanksi.",
+       "url": "https://www.metrotvnews.com/read/kpLCQPQe-tekan-polusi-udara-jakarta-pemkot-jaksel-uji-emisi-kendaraan"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 2,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Respons tertinggi adalah pengakuan Gubernur DKI atas masalah dan sumbernya, ditambah langkah rutin (OMC, water mist, uji emisi skala kecil tanpa sanksi). Ragu antara 2 dan 3: uji emisi Sudin LH Jaksel searah dengan pengendalian sumber, tetapi rutin, kecil, dan tanpa penegakan, jadi diambil 2. Tidak ditemukan tindakan KLH terhadap industri atau PLTU penyangga pada periode ini; hasil pencarian hanya memuat penindakan 2025. Tidak ditemukan pula langkah pelaksanaan putusan CLS. Siaran pers Koalisi IBUKOTA (Greenpeace, Hari Udara Bersih 2026) menyatakan belum ada putusan yang dijalankan penuh. KPBB, yang tidak ada di daftar jejaring, membawa tuntutan serupa; Sekda DKI menyebut sudah bertemu KPBB (19 Agu). Jejaring dalam daftar (Koalisi Ibukota, ICEL, LBH Jakarta) tidak muncul di korpus. Semua 29 berita relevan dengan polusi Jakarta, tetapi sebagian besar laporan harian ISPU."
+    },
+    {
+     "id": "R08",
+     "tuntutan_ringkas": "Hentikan program PSEL/PLTSa (kritik Zulhas dan Menteri LH Jumhur)",
+     "lembaga_dituju": "Kemenko Pangan, KLH",
+     "berita_kasus": 21,
+     "berita_memuat_walhi": 12,
+     "berita_jejaring_tanpa_walhi": 3,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Wahyu Eka Setyawan",
+      "Nurul Fadli Gaffar (WALHI Sulsel)"
+     ],
+     "jejaring_terdeteksi": [
+      "warga Tamalanrea (GERAM PLTSa)",
+      "LBH Makassar"
+     ],
+     "respons": [
+      {
+       "lembaga": "Pemkot Makassar (DLH) / Danantara",
+       "tanggal": "2026-08-07",
+       "bentuk": "ke_jejaring",
+       "isi": "Danantara mengambil alih polemik PSEL Makassar. Pilihan lokasi hanya Tamalanrea atau lahan Pemprov Sulsel. Program tetap dijalankan sesuai Perpres 109/2025.",
+       "url": "https://makassar.antaranews.com/berita/635625/danantara-akhirnya-ambil-alih-polemik-proyek-psel-di-makassar"
+      },
+      {
+       "lembaga": "Kemenko Pangan (Zulkifli Hasan)",
+       "tanggal": "2026-08-09",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Zulhas menyatakan Perpres 109/2025 mempercepat pembangunan PSEL di berbagai daerah, dan pirolisis didorong sebagai pelengkap PSEL. Program jalan terus.",
+       "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8610705/kemenko-pangan-dorong-teknologi-pirolisis-untuk-olah-sampah-jadi-energi"
+      },
+      {
+       "lembaga": "Kemenko Pangan (Zulkifli Hasan)",
+       "tanggal": "2026-08-14",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Satu PLTSa di Sulsel akan diresmikan tahun ini.",
+       "url": "https://www.bloombergtechnoz.com/detail-news/118435/zulhas-1-pltsa-bakal-diresmikan-di-sulsel-tahun-ini"
+      },
+      {
+       "lembaga": "Kemenko Pangan (Zulkifli Hasan)",
+       "tanggal": "2026-08-19",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Zulhas mengejar PSEL di 40 kota dan menargetkan 70% masalah sampah selesai pada 2029.",
+       "url": "https://news.detik.com/berita/d-8626057/targetkan-70-masalah-sampah-beres-2029-zulhas-kejar-psel-di-40-kota"
+      }
+     ],
+     "skor": 1,
+     "hari_ke_respons": 0,
+     "konvergensi": false,
+     "keyakinan": "tinggi",
+     "catatan": "Pemerintah menegaskan PSEL tetap dipercepat, artinya menolak tuntutan penghentian (skor 1). Kepada warga Tamalanrea (jejaring), pemerintah hanya membuka opsi pindah lokasi. Itu menjawab tuntutan relokasi warga, bukan tuntutan WALHI menghentikan PSEL, dan relokasinya belum terverifikasi sampai 2 Nov. Respons 7 Agu jatuh tepat pada tanggal rilis. Liputan pertama atas kritik WALHI (SultraKini) bertanggal 6 Agu, jadi rilis mungkin terbit 6 Agu; tanggal CSV tetap dipakai. Satu berita (transisienergiberkeadilan.id, soal pengangguran) dibuang karena tidak relevan. Tidak ditemukan kontra-narasi pihak ketiga."
+    },
+    {
+     "id": "R14",
+     "tuntutan_ringkas": "Hentikan open dumping dan pulihkan TPA Putri Cempo (Solo) pascakebakaran",
+     "lembaga_dituju": "Pemkot Surakarta, KLH",
+     "berita_kasus": 75,
+     "berita_memuat_walhi": 6,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Wahyu Eka Setyawan",
+      "Nur Cholis (WALHI Jateng)"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "KLH (Direktur Penanganan Sampah Melda Mardalina)",
+       "tanggal": "2026-09-04",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "KLH mengakui open dumping sebagai salah satu penyebab kebakaran TPA Putri Cempo.",
+       "url": "https://www.antaranews.com/berita/"
+      },
+      {
+       "lembaga": "KLH (Direktur Pengelolaan Limbah B3 dan Non-B3 Amsor)",
+       "tanggal": "2026-09-04",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "KLH akan menyelidiki penyebab kebakaran dan mempertimbangkan helikopter untuk pemadaman.",
+       "url": "https://tirto.id/"
+      },
+      {
+       "lembaga": "Pemkot Surakarta (Wali Kota Respati Ardi)",
+       "tanggal": "2026-09-07",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Wali Kota berjanji merombak total dan melarang open dumping di TPA Putri Cempo (judul Kompas). Isi artikel tidak terbaca.",
+       "url": "https://regional.kompas.com/read/2026/09/07/182428478/respati-akan-rombak-total-dan-larang-open-dumping-di-tpa-putri-cempo-solo"
+      },
+      {
+       "lembaga": "KLH (Deputi PSLB3 Vinda Damayanti)",
+       "tanggal": "2026-09-09",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Pemda wajib mematuhi SE 11/2026. Soal sanksi bagi pemda yang TPA-nya terbakar, KLH menyatakan masih melakukan pendalaman.",
+       "url": "https://mediaindonesia.com/humaniora/931289/klh-minta-pemda-siaga-kebakaran-tpa-akibat-cuaca-panas-ekstrem"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 0,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Ada pengakuan KLH dan janji Wali Kota untuk melarang open dumping, tetapi sampai 2 Nov tidak ditemukan bukti open dumping benar-benar dihentikan, TPA beralih ke sanitary/controlled landfill, atau sanksi KLH dijatuhkan. Pemadaman, evakuasi, dan status tanggap darurat adalah penanganan bencana, bukan pemenuhan tuntutan, sehingga tidak dihitung sebagai tindakan searah. Sebelum rilis (3 Sep), Espos memberitakan tenggat 1 bulan dari KLH untuk mengakhiri open dumping; ini tidak dihitung. Laporan 18 Sep (journalarta) soal rencana menghidupkan kembali PLTSa Putri Cempo hanya terlihat sebagai judul hasil pencarian. URL dua respons 4 Sep tidak lengkap: artikel Antara 'KLH: Open dumping salah satu penyebab kebakaran TPA Putri Cempo' dan artikel Tirto 'KLH Ungkap Damkar Sulit Capai Titik Api' terlihat di keluaran skrip hasil/R14.json (item 46 dan 47); URL lengkapnya ada di file itu. WALHI hanya muncul di 6 dari 75 berita; liputan didominasi berita kebakaran."
+    },
+    {
+     "id": "R30",
+     "tuntutan_ringkas": "Moratorium pembangunan data center AI sampai ada regulasi khusus (air, energi, daya dukung)",
+     "lembaga_dituju": "Komdigi, pemda",
+     "berita_kasus": 44,
+     "berita_memuat_walhi": 21,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Wahyu Eka Setyawan",
+      "Wahyudin Iwang (WALHI Jabar)"
+     ],
+     "jejaring_terdeteksi": [
+      "LBH Bandung",
+      "Trend Asia"
+     ],
+     "respons": [
+      {
+       "lembaga": "Komdigi (Menkomdigi Meutya Hafid)",
+       "tanggal": "2026-10-07",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Data center AI tidak boleh mengganggu kebutuhan energi dan air warga. Menkomdigi mendukung penghentian sementara BDx Jatiluhur oleh Gubernur Jabar dan menyatakan lokasi perlu dikaji lintas sektor. Tidak menyebut moratorium.",
+       "url": "https://www.cnnindonesia.com/"
+      },
+      {
+       "lembaga": "Komdigi (Menkomdigi Meutya Hafid)",
+       "tanggal": "2026-10-08",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Komdigi perlu ikut menentukan titik pembangunan data center berdasarkan kebutuhan komputasi, konektivitas, dan kelayakan lokasi.",
+       "url": "https://teknologi.bisnis.com/read/20261008/101/2010766/menkomdigi-tekankan-data-center-ai-harus-perhatikan-pasokan-air-masyarakat"
+      },
+      {
+       "lembaga": "BP Batam",
+       "tanggal": "2026-10-10",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "BP Batam membantah data center menyebabkan krisis air; air pendingin dipasok dari Kabil Industrial Estate. Soal moratorium hanya disebut 'nanti kita cek'.",
+       "url": "https://mongabay.co.id/2026/10/10/batam-krisis-air-warga-demo-data-center/"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 6,
+     "konvergensi": false,
+     "keyakinan": "tinggi",
+     "catatan": "Komdigi mengakui risiko air dan energi serta menyebut kajian lokasi lintas sektor, tetapi tidak ada moratorium atau regulasi baru yang bisa diverifikasi sampai 2 Nov (skor 2, sesuai pengodean lama di narasi_respons.csv). BP Batam membantah klaim krisis air (setara skor 1), tetapi yang dipakai adalah respons tertinggi, yaitu dari Komdigi. Penghentian sementara BDx Jatiluhur oleh Pemprov Jabar terjadi 28 Sep, sebelum rilis, jadi tidak dihitung sebagai respons; karena itu konvergensi=false. Pembahasan AMDAL lanjutannya hanya parsial dan lokal. Liputan rilis moratorium nasional baru ramai 7–9 Okt; tanggal CSV (1 Okt) dipakai, dan Katadata 1 Okt sudah memuat tuntutan regulasi WALHI. Dibuang 10 berita tidak relevan (Amazon/OpenAI/BlackRock, data pribadi, Satu Data, pemilu AS, dll.). Trend Asia (Batam) dan IESR membawa isu serupa tanpa WALHI, tetapi bukan jejaring yang terdaftar. URL CNN untuk respons 7 Okt tidak lengkap: artikelnya 'Menkomdigi: Data Center AI Tak Boleh Ganggu Kebutuhan Energi dan Air' (keluaran skrip hasil/R30.json, item 16)."
+    },
+    {
+     "id": "R32",
+     "tuntutan_ringkas": "Hentikan program 33 PSEL senilai Rp89 triliun; benahi akar krisis sampah (pengurangan dari sumber)",
+     "lembaga_dituju": "KLH, Danantara",
+     "berita_kasus": 15,
+     "berita_memuat_walhi": 5,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Wahyu Eka Setyawan"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "Danantara (CEO Rosan Roeslani)",
+       "tanggal": "2026-10-06",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Danantara menargetkan groundbreaking PSEL di 12 kota sebelum akhir 2026; lelang tahap II berjalan.",
+       "url": "https://www.metrotvnews.com/read/KdZCPRQO-rosan-kejar-groundbreaking-psel-di-12-kota-hingga-akhir-2026"
+      },
+      {
+       "lembaga": "Pemkot Makassar (Wali Kota Munafri Arifuddin)",
+       "tanggal": "2026-10-08",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Proyek PSEL Makassar Rp3,5 T tetap berjalan; groundbreaking ditargetkan akhir tahun.",
+       "url": "https://www.detik.com/sulsel/berita/d-8698552/proyek-psel-makassar-rp-3-5-t-groundbreaking-akhir-tahun-ini"
+      },
+      {
+       "lembaga": "Danantara",
+       "tanggal": "2026-10-19",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Danantara menargetkan 6 mitra baru proyek PSEL sampai akhir tahun.",
+       "url": "https://market.bisnis.com/read/20261019/192/2013855/danantara-targetkan-6-mitra-baru-proyek-psel-hingga-akhir-tahun"
+      }
+     ],
+     "skor": 1,
+     "hari_ke_respons": 8,
+     "konvergensi": false,
+     "keyakinan": "tinggi",
+     "catatan": "Tanggal 28 Sep terkonfirmasi lewat Validnews dan Betahita, yang memberitakan rilis '33 PSEL' pada 28 Sep, jadi status 'salah bulan' berarti rilis memang terbit September. Pemerintah dan Danantara justru mempercepat PSEL setelah rilis, yang berarti menolak tuntutan secara implisit (skor 1). Tidak ada pernyataan yang menanggapi WALHI secara langsung. Tidak ditemukan respons KLH atas tuntutan pengurangan sampah dari sumber. Dibuang 6 berita tidak relevan (Kapolri, Eiger, IHSG, APBD DKI, Lapas, mikroplastik). AZWI tidak muncul di korpus."
+    },
+    {
+     "id": "R23",
+     "tuntutan_ringkas": "Hentikan eksploitasi atas nama transisi energi di Jawa: setop pembangkit fosil baru, percepat pensiun PLTU, evaluasi proyek panas bumi",
+     "lembaga_dituju": "ESDM",
+     "berita_kasus": 18,
+     "berita_memuat_walhi": 3,
+     "berita_jejaring_tanpa_walhi": 1,
+     "berita_kontra": 2,
+     "penutur_terdeteksi": [
+      "Faisal Ratuela",
+      "Fahmi Bastian (WALHI Jateng)"
+     ],
+     "jejaring_terdeteksi": [
+      "Rhizoma Indonesia",
+      "warga Tampomas/Majelis Adat Sumedang Larang"
+     ],
+     "respons": [
+      {
+       "lembaga": "Kementerian ESDM (Dirjen EBTKE Eniya Listiani Dewi)",
+       "tanggal": "2026-10-12",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Dalam audiensi dengan Bupati Kuningan, Dirjen EBTKE menyatakan Kuningan (Ciremai) masuk 14 lokasi penjajakan panas bumi dan masih harus melalui kajian geosains, perizinan, dan studi kelayakan. ESDM mengakui belum mengirim surat resmi. Tidak ada penundaan atau evaluasi.",
+       "url": "https://fajarcirebon.com/geothermal-kuningan-jadi-sorotan-esdm-akui-belum-kirim-surat-resmi/"
+      },
+      {
+       "lembaga": "Dinas ESDM Provinsi Jateng",
+       "tanggal": "2026-10-13",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Dinas ESDM Jateng menjelaskan PLTP Ungaran tidak akan merusak situs kearifan lokal dan dampaknya ke sumber air kecil jika dimitigasi; proyek masih tahap studi eksplorasi. Ini membela proyek.",
+       "url": "https://rejogja.republika.co.id/berita/tmulm5282/imingiming-investasi-rp4-triliun-dpd-yakin-geotermal-ungaran-mampu-dongkrak-ekonomi-jateng"
+      }
+     ],
+     "skor": 1,
+     "hari_ke_respons": 4,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Menurut Betahita (10 Okt), aksi dan audiensi di depan Kementerian ESDM berlangsung 9 Okt, bersama Rhizoma dan warga dari Cilincing, Cilegon, Lebak, Tampomas, Cilacap, Dieng, Paiton, dan Batu. Tidak ditemukan pejabat ESDM yang menanggapi aksi itu secara langsung. Skor 1 karena ESDM dan Dinas ESDM Jateng tetap menjalankan atau membela proyek panas bumi tanpa evaluasi. Ragu antara 0 dan 1 karena pernyataan EBTKE netral dan prosedural, sedangkan pembelaan terbuka datang dari Dinas ESDM provinsi dan hanya dikutip tidak langsung lewat anggota DPD. Kontra (tidak diskor): anggota DPD yang meyakini geotermal Ungaran mendongkrak ekonomi (Republika, 13 Okt) dan pakar Undip yang menilai PLTP Ungaran positif (voxindonews, 15 Okt). DPRD Kabupaten Semarang (19 Okt) dan DPRD Sumedang bersama warga Tampomas (21 Okt) menyatakan akan meneruskan atau mendukung penolakan, tetapi DPRD bukan lembaga berwenang atas izin panas bumi. Berita Flores, Bangka, dan Riau dibuang dari berita_kasus karena di luar Jawa."
+    },
+    {
+     "id": "P01",
+     "tuntutan_ringkas": "Transparansi dan pengawasan tambang nikel (diseminasi liputan jurnalis soal dampak tambang nikel)",
+     "lembaga_dituju": "ESDM, KLH",
+     "berita_kasus": 9,
+     "berita_memuat_walhi": 0,
+     "berita_jejaring_tanpa_walhi": 7,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [],
+     "jejaring_terdeteksi": [
+      "JATAM"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Rilis terbit: tercantum di daftar siaran pers publik WALHI (siaran_pers.csv, 5 Agu 2026, 'Diseminasi Liputan Jurnalis Ungkap Dampak Tambang Nikel'). Tidak ditemukan satu pun berita media yang memuat rilis ini (pemuatan_siaran_pers.csv juga mencatat 0). Tidak ditemukan respons ESDM atau KLH. Berita kasus yang terjaring adalah isu nikel lain dari JATAM, misalnya gugatan JATAM Sulteng ke Gubernur soal limbah tailing PT QMB. Pemprov Sulteng hanya menyatakan 'siap menghadapi gugatan' (Harian Sulteng, 7 Agu). Itu kasus dan tuntutan yang berbeda, dan Gubernur bukan lembaga yang dituju, sehingga tidak diskor. SIEJ tidak muncul. Penutur WALHI tidak diketahui."
+    },
+    {
+     "id": "P06",
+     "tuntutan_ringkas": "Tolak solusi palsu; ubah ukuran keberhasilan transisi energi dan lindungi ekosistem esensial (Pekan Rakyat Lingkungan Hidup, Unri)",
+     "lembaga_dituju": "ESDM",
+     "berita_kasus": 11,
+     "berita_memuat_walhi": 7,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Musdalifah Jamal"
+     ],
+     "jejaring_terdeteksi": [
+      "JATAM (Koalisi Tolak Geotermal)"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Rilis terbit 28 Agu (siaran_pers.csv). Liputan utamanya Dunia Energi (2 Sep): diskusi 21 Agu di FMIPA Universitas Riau dengan penutur Musdalifah Jamal. Pejabat ESDM (Agus Cahyono Adi) dan Polda Riau hadir di forum 21 Agu, sebelum tanggal rilis, dan hanya memaparkan komitmen emisi, jadi tidak dihitung. Tidak ditemukan respons ESDM yang menjawab tuntutan umum ini setelah 28 Agu. Pembelaan ESDM atas PLTP Ungaran (Jubir ESDM, 2 Sep) berasal dari kampanye WALHI Jateng yang terpisah dan sudah dikodekan di narasi_respons.csv; tidak dipakai di sini. Sebagian berita WALHI yang terjaring skrip adalah liputan WALHI Jateng soal Ungaran (tema searah, kampanye berbeda). Mongabay 30 Agu mengutip Fanny Tri Jambore tanpa kata WALHI, jadi tidak dihitung sebagai memuat WALHI."
+    },
+    {
+     "id": "P10",
+     "tuntutan_ringkas": "Tolak biodiversity offset PT Agincourt Resources (tambang emas Martabe); jadikan habitat orangutan Tapanuli zona no-go",
+     "lembaga_dituju": "KLH, Kemenhut",
+     "berita_kasus": 10,
+     "berita_memuat_walhi": 4,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Rilis terbit 19 Okt (siaran_pers.csv), disusul rilis lanjutan 21 Okt 'Offset Tidak Bisa Menebus yang Tak Tergantikan'; kemungkinan sama dengan R28. Liputan: AFU.id, Berita Moneter, Prohealth.id, dan IDN Times Sumut (tercatat di pemuatan_siaran_pers.csv). Sampai 2 Nov tidak ditemukan respons KLH atau Kemenhut atas skema offset PTAR. Hasil pencarian hanya memuat pernyataan perusahaan dan kronologi lama: izin dicabut Jan 2026, izin operasional dikembalikan Menteri LH Mar 2026, keduanya sebelum rilis. Satya Bumi membawa isu orangutan Tapanuli ke COP17 tanpa menyebut WALHI, tetapi tidak terdaftar sebagai jejaring. Berita PR binaan Martabe (IDN Times Sumut, 30 Okt) tidak dihitung kontra karena tidak menyanggah tuntutan."
+    }
+   ]
+  },
+  "verifikasi": {
+   "rilis": [
+    {
+     "id": "R04",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "Bukti yang diklaim terverifikasi. Metro TV 20 Agu memuat pengakuan Pramono bahwa PLTU Suralaya dan industri penyangga adalah sumber utama, serta dorongan mengatur emisi bersama pusat; ini setara skor 2. Uji emisi Sudin LH Jaksel (Metro TV 28 Agu) hanya 102 kendaraan dengan imbauan, tanpa tilang, jadi tidak cukup untuk skor 3. Saya mencari penindakan industri oleh KLH dan Perpres udara Jabodetabek. Yang muncul hanya penindakan Juni 2025 dan Januari 2026 (keduanya sebelum rilis); Perpres belum ditemukan terbit. Tidak ditemukan pula tilang emisi 2026 atau langkah pelaksanaan putusan CLS; Koalisi IBUKOTA (7 Sep) menyatakan putusan belum dijalankan. Catatan kecil: item KLH 22 Agu ('belum menjawab') bukan respons dan seharusnya tidak dicantumkan sebagai respons, tetapi tidak mengubah skor.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R08",
+     "skor_awal": 1,
+     "skor_final": 1,
+     "respons_tambahan": [],
+     "alasan": "Detik 19 Agu terverifikasi: Zulhas menargetkan PSEL di 40 kota darurat sampah rampung 2027–2028, artinya program dipercepat dan tuntutan penghentian ditolak secara implisit. Tidak ditemukan respons Menteri LH Jumhur atas kritik WALHI soal PSEL pada periode ini. Opsi pindah lokasi bagi warga Tamalanrea menjawab tuntutan relokasi, bukan penghentian. Skor 1 tetap.",
+     "keyakinan": "tinggi"
+    },
+    {
+     "id": "R14",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [
+      {
+       "lembaga": "Pemkot Surakarta (DLH Solo)",
+       "tanggal": "2026-09-17",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Setelah api padam, DLH Solo menata ulang distribusi sampah ke Blok C, Blok D, dan blok darurat. Menurut ringkasan hasil pencarian, penataan blok dilakukan untuk rencana metode controlled landfill. Isi artikel tidak terbaca (Kompas memblokir), jadi status pelaksanaannya belum terverifikasi.",
+       "url": "https://regional.kompas.com/read/2026/09/17/200232178/kebakaran-tpa-putri-cempo-padam-dlh-solo-tata-ulang-distribusi-sampah"
+      }
+     ],
+     "alasan": "Skor 2 dipertahankan. Janji Wali Kota (7 Sep) dan rencana controlled landfill DLH (17 Sep) baru berupa rencana. Sampai 2 Nov tidak ditemukan bukti open dumping benar-benar dihentikan, TPA beralih ke controlled landfill, atau sanksi/paksaan pemerintah dari KLH. Item 17 Sep bisa mengarah ke skor 3, tetapi isinya tidak terverifikasi, jadi skor yang lebih rendah dipakai. URL dua respons 4 Sep perlu dilengkapi: https://www.antaranews.com/berita/5726256/klh-open-dumping-salah-satu-penyebab-kebakaran-tpa-putri-cempo dan https://tirto.id/klh-ungkap-damkar-sulit-capai-titik-api-di-tpa-putri-cempo-solo-hCoz (hasil/R14.json item 46 dan 47). Media Indonesia 9 Sep tidak bisa dibuka (HTTP 402) dan belum terverifikasi.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R30",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "CNN 7 Okt terverifikasi. Meutya menyatakan kebutuhan air dan energi tidak boleh terganggu dan perlu koordinasi lintas sektor sebelum izin, tanpa moratorium. Artikel itu tidak memuat dukungan langsung Meutya atas penghentian BDx; klaim itu berasal dari judul lain (Warta Ekonomi/Kompas), jadi isi respons perlu dikoreksi. Tidak ditemukan Permen atau regulasi pusat data maupun moratorium pemda sampai 2 Nov. Penghentian BDx oleh Pemprov Jabar berawal 28 Sep (sebelum rilis), dan per 19 Okt masih menunggu AMDAL tanpa keputusan final. Skor 2 tetap. URL CNN yang benar: https://www.cnnindonesia.com/teknologi/20261007195812-192-1412859/menkomdigi-data-center-ai-tak-boleh-ganggu-kebutuhan-energi-dan-air",
+     "keyakinan": "tinggi"
+    },
+    {
+     "id": "R32",
+     "skor_awal": 1,
+     "skor_final": 1,
+     "respons_tambahan": [],
+     "alasan": "Metro TV 6 Okt terverifikasi. Rosan menargetkan groundbreaking PSEL di 12 kota sampai akhir 2026 dengan standar emisi Eropa, artinya program dipercepat dan tuntutan ditolak secara implisit. Tidak ditemukan respons KLH soal pengurangan sampah dari sumber. Skor 1 tetap.",
+     "keyakinan": "tinggi"
+    },
+    {
+     "id": "R23",
+     "skor_awal": 1,
+     "skor_final": 1,
+     "respons_tambahan": [],
+     "alasan": "Keraguan pengode antara 0 dan 1 terjawab oleh Fajar Cirebon 13 Okt (audiensi 12 Okt). Di sana Dirjen EBTKE menyatakan pemerintah terus mendorong panas bumi demi ketahanan energi, dan Kuningan masuk 14 wilayah rencana pengembangan. Ini menegaskan program jalan terus tanpa evaluasi; jadi pernyataan itu bukan sekadar netral dan skor 1 sah. Dasar skor sebaiknya pernyataan EBTKE ini. Pembelaan Dinas ESDM Jateng kurang kuat sebagai dasar: instansi provinsi itu tidak berwenang atas izin panas bumi, dan artikel KuasaKata tidak terbaca (403). Tidak ditemukan pembatalan WKP Ciremai, Ungaran, atau Tampomas, maupun pernyataan pensiun dini PLTU pada 8 Okt–2 Nov. Pernyataan Jubir ESDM soal Ungaran (2 Sep) terjadi sebelum rilis.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P01",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Tidak ditemukan respons ESDM atau KLH pada 5 Agu–2 Nov soal transparansi dan pengawasan tambang nikel. Sanksi KLH di IMIP dan pencabutan IUP Raja Ampat terjadi pada 2025, sebelum periode. Tanggapan Pemprov Sulteng atas gugatan JATAM menyangkut kasus berbeda dan bukan lembaga yang dituju. Skor 0 tetap.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P06",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Tidak ditemukan respons ESDM atas tuntutan umum (ukuran keberhasilan transisi energi, ekosistem esensial) setelah 28 Agu. Satu kandidat yang perlu dicatat: siaran pers ESDM 'Pengembangan Panas Bumi Gunung Ungaran Dilakukan Bertahap dan Berbasis Kajian' (Jubir, 2 Sep, terbit setelah rilis). Bila geotermal dihitung bagian dari 'solusi palsu', pernyataan itu bisa jadi skor 1. Namun pernyataan itu menjawab kampanye Ungaran yang sudah dikodekan terpisah, halaman esdm.go.id tidak bisa dibuka (503), dan kaitannya dengan rilis ini tidak pasti, jadi skor yang lebih rendah dipakai.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P10",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "Tidak ditemukan respons KLH atau Kemenhut soal offset PTAR atau zona no-go orangutan Tapanuli pada 19 Okt–2 Nov, termasuk pernyataan delegasi RI di COP17. Hasil pencarian hanya memuat pencabutan sanksi KLH Mar 2026 dan operasi kembali Mei 2026, keduanya sebelum rilis, serta materi perusahaan. Skor 0 tetap.",
+     "keyakinan": "sedang"
+    }
+   ]
+  }
+ },
+ {
+  "kelompok": "Iklim & Isu Global + Pangan & Ekosistem Esensial",
+  "kode": {
+   "rilis": [
+    {
+     "id": "R11",
+     "tuntutan_ringkas": "Audit transparan skema RBP dan perdagangan karbon setelah ribuan hotspot terdeteksi di konsesi proyek karbon/RBP",
+     "lembaga_dituju": "KLH, Kemenhut",
+     "berita_kasus": 3,
+     "berita_memuat_walhi": 3,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Patria Rizky Ananda"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Pemuatannya kecil. Liputan yang relevan: Katadata 24 Sep (Patria dikutip; skrip membacanya walau judul tampil 'Verify to continue'), Ruai TV 25 Sep (dari korpus) dan Pontianak Post 2 Okt (WALHI Kalbar minta penggunaan dana RBP Rp39 miliar dibuka). Sampai 2 Nov tidak ditemukan tanggapan KLH atau Kemenhut soal audit proyek karbon/RBP. Yang muncul justru arah sebaliknya: Kemenhut (28 Sep, kehutanan.go.id) mendorong Perhutanan Sosial Bujang Raba masuk perdagangan karbon, dan Menko Pangan (6 Okt) menyebut karbon pertanian/biru sebagai proyek karbon berikutnya. Itu bukan bantahan atas tuntutan, jadi tidak diberi skor 1. Pernyataan Dirjen Gakkum Kemenhut (29 Sep) soal sanksi karhutla di konsesi tidak menyinggung audit proyek karbon. Pembekuan izin PT MPK (pemegang proyek karbon) terjadi akhir Agustus, sebelum rilis, jadi tidak dihitung. Berita WALHI Jambi soal konsesi PT ABT terbakar (8 Okt) tidak dimasukkan karena tidak jelas apakah itu proyek karbon."
+    },
+    {
+     "id": "R20",
+     "tuntutan_ringkas": "Emisi karhutla mengancam FOLU Net Sink 2030; integrasikan kebijakan iklim dengan perizinan dan penegakan hukum",
+     "lembaga_dituju": "KLH, Kemenhut",
+     "berita_kasus": 25,
+     "berita_memuat_walhi": 9,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian",
+      "Patria Rizky Ananda"
+     ],
+     "jejaring_terdeteksi": [
+      "ICEL",
+      "Yayasan Madani Berkelanjutan"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Pemuatannya kuat. Berita yang memuat WALHI: Kompas.id 8 Sep (versi Indonesia dan Inggris), Disway, Katadata, IDN Times, Suara, Kompas.id 14 Sep, Katadata 18 Sep, Mongabay 20 Sep. Sisanya liputan emisi karhutla tertinggi dunia berbasis data Copernicus/Reuters. Satu-satunya pernyataan KLH (ke Reuters, 9–10 Sep; Tirto, Kompas.com, Kontan) menyatakan prihatin soal kualitas udara dan menyebut data Copernicus 'tidak secara langsung mencerminkan kondisi'. Pernyataan itu menanggapi data internasional, bukan tuntutan WALHI soal integrasi kebijakan iklim, perizinan dan penegakan hukum, jadi tidak diberi skor. Anggota Komisi XII DPR Eddy Soeparno (Katadata 18 Sep) hanya menjelaskan bahwa RUU Perubahan Iklim adalah payung umum; DPR bukan lembaga yang dituju. Mongabay 20 Sep tidak memuat kutipan pejabat. Ini sama dengan pengodean lama (narasi_respons, skor 0)."
+    },
+    {
+     "id": "R24",
+     "tuntutan_ringkas": "Jelang COP31: akui hak dan kontribusi Masyarakat Adat dan komunitas lokal dalam aksi iklim, evaluasi proyek karbon bermasalah",
+     "lembaga_dituju": "KLH, Delegasi RI COP31",
+     "berita_kasus": 4,
+     "berita_memuat_walhi": 4,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Boy Jerry Even Sembiring",
+      "Patria Rizky Ananda"
+     ],
+     "jejaring_terdeteksi": [
+      "AMAN"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "sedang",
+     "catatan": "Berita kasus: Betahita 13 Okt, VOI 13 Okt, Terasbatam 13 Okt dan Gebrak.id (dua terakhir dari korpus/pengodean lama). Deteksi 'AMAN' oleh skrip juga muncul di berita yang jelas tidak relevan (VOI soal tenun, kecelakaan), jadi kemungkinan salah cocok huruf. Tidak ditemukan respons KLH atau delegasi yang menjawab pengakuan hak MAKL atau evaluasi proyek karbon sampai 2 Nov. Pernyataan resmi yang ada berfokus pada pasar karbon (Menko Pangan, VOI 12 Okt) dan persiapan data karhutla (KLH, Republika 14 Okt). Audiensi koalisi ke KLH pada 26 Okt dan dukungan KKP pada Pasal 6.8 dibahas di P13: tanggal dukungan KKP tidak pasti (terbit 3 Nov) dan isinya tidak menjawab tuntutan R24 secara langsung, jadi tidak dihitung di sini. COP31 sendiri berlangsung 9–20 Nov, di luar periode."
+    },
+    {
+     "id": "P04",
+     "tuntutan_ringkas": "RUU Keadilan/Perubahan Iklim harus menjamin keadilan bagi rakyat dan tidak melegalkan solusi palsu",
+     "lembaga_dituju": "DPR, KLH",
+     "berita_kasus": 4,
+     "berita_memuat_walhi": 1,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [],
+     "jejaring_terdeteksi": [
+      "Greenpeace",
+      "IESR"
+     ],
+     "respons": [
+      {
+       "lembaga": "DPR (Ketua Fraksi Demokrat / Wakil Ketua MPR Edhie Baskoro Yudhoyono)",
+       "tanggal": "2026-09-02",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Dalam forum RUU Perubahan Iklim yang dihadiri WALHI, Greenpeace dan IESR, Ibas mendorong agar RUU tidak berhenti sebagai regulasi normatif tetapi menjadi instrumen untuk melindungi rakyat. Ini dukungan normatif tanpa komitmen substansi.",
+       "url": "https://www.mpr.go.id/berita/edhie-baskoro-ruu-perubahan-iklim-lindungi-rakyat"
+      },
+      {
+       "lembaga": "KLH/BPLH (Sestama Rosa Vivien Ratnawati) di Komisi XII DPR",
+       "tanggal": "2026-09-03",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "KLH memaparkan 5 substansi RUU dan menyatakan RUU 'tidak hanya berorientasi pada NDC dan karbon, tapi juga ketangguhan masyarakat'. Muncul usulan judul 'Pengendalian Perubahan Iklim yang Berkeadilan'. Namun substansinya tetap memuat nilai ekonomi karbon.",
+       "url": "https://www.hukumonline.com/berita/a/bukan-sekadar-target-karbon--ruu-perubahan-iklim-harus-jamin-keadilan-bagi-kelompok-rentan-lt6a9a20370d235/"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 7,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Rilis terbit di walhi.or.id 26 Agu (tercatat di pela_siaran_pers.csv), tetapi tidak ditemukan liputan media atas rilis itu sendiri. Berita kasus hanya soal pembahasan RUU: MPR/Ibas, ANTARA/Ibas, Hukumonline 4 Sep dan opini Pikiran Rakyat. Ada pengakuan normatif ke arah keadilan dan perubahan judul menjadi 'Berkeadilan', tetapi nilai ekonomi karbon tetap dimuat, sehingga tuntutan menolak solusi palsu tidak dijawab. Proses legislasi masih berjalan (RDPU 6 Okt; Menteri LH 13 Okt menyebut draf dibawa ke COP31; Katadata 30 Okt: belum ada jadwal pengesahan). Saya ragu antara 2 dan 3, jadi dipakai 2. Respons tidak menyebut WALHI; forum Ibas dihadiri WALHI, tetapi pernyataannya umum."
+    },
+    {
+     "id": "P13",
+     "tuntutan_ringkas": "Jelang COP31: delegasi RI perkuat agenda keadilan iklim (Pasal 6.8, pendanaan iklim, pengakuan aksi masyarakat) dan libatkan kelompok rentan",
+     "lembaga_dituju": "Delegasi RI COP31, KLH",
+     "berita_kasus": 8,
+     "berita_memuat_walhi": 5,
+     "berita_jejaring_tanpa_walhi": 3,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Patria Rizky Ananda",
+      "Uli Arta Siagian",
+      "Boy Jerry Even Sembiring"
+     ],
+     "jejaring_terdeteksi": [
+      "Forest Watch Indonesia",
+      "KNTI",
+      "Yayasan Pikul",
+      "Climate Rangers",
+      "Solidaritas Perempuan"
+     ],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "rendah",
+     "catatan": "Rilis koalisi terbit 26 Okt (walhi.or.id; Kompas.id 26 Okt, versi Indonesia dan Inggris). Tuntutan disampaikan lewat audiensi dengan KLH pada 26 Okt, tetapi isi tanggapan KLH tidak terlaporkan. Pernyataan Menteri LH Jumhur dan Hashim di Kompas.id disebut 'secara terpisah' (siaran pers persiapan COP31), bukan jawaban kepada koalisi. Calon respons yang tidak dihitung: Prohealth (terbit 3 Nov) melaporkan perwakilan KKP (Dit. P3K) menyatakan dukungan pada penguatan Pasal 6.8, dan negosiator Pasal 6 Riko Wahyudi menjelaskan skemanya, dalam diskusi yang tanggalnya tidak disebut. Karena tanggalnya mungkin lewat batas 2 Nov dan KKP bukan lembaga yang dituju, dipakai skor lebih rendah (0). Jika terbukti terjadi sebelum atau pada 2 Nov, skornya 2 (bentuk ke_walhi). ANTARA 4 Nov (RI angkat RUU PPI Berkeadilan di COP31) di luar periode. Halaman walhi.or.id dan Kompas.id memblokir pembaca otomatis; dipakai teks dari skrip."
+    },
+    {
+     "id": "R13",
+     "tuntutan_ringkas": "Selaraskan narasi ketahanan di forum global (BRICS) dengan penanganan karhutla dan ketahanan ekologis di dalam negeri",
+     "lembaga_dituju": "Presiden",
+     "berita_kasus": 5,
+     "berita_memuat_walhi": 3,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Patria Rizky Ananda"
+     ],
+     "jejaring_terdeteksi": [],
+     "respons": [
+      {
+       "lembaga": "Presiden (rapat terbatas di Istana Merdeka)",
+       "tanggal": "2026-09-16",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Dua hari setelah rilis, Presiden menggelar ratas karhutla. Ia meminta Mensesneg dan Menkum mengkaji penguatan regulasi dan sanksi bagi pelaku pembakaran, dan menegaskan 'tidak ada toleransi' terhadap pembukaan lahan dengan membakar. Ini perintah kajian, belum tindakan, dan WALHI mengkritik arah 'terorisme ekologi'-nya.",
+       "url": "https://nu.or.id/nasional/walhi-soroti-narasi-terorisme-ekologi-dalam-penanganan-karhutla-0953D"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 2,
+     "konvergensi": true,
+     "keyakinan": "rendah",
+     "catatan": "Tanggal pasti rilis: 14 Sep 2026. Status 'tidak terindeks' keliru: rilis ditemukan dimuat Prohealth 14 Sep, NU Online 14 Sep dan Betahita 16 Sep, semuanya mengutip Patria. Berita kasus lain: Warta Ekonomi 13 Sep (kritik keberangkatan ke BRICS di tengah karhutla) dan Kompas.com 13 Sep (Anwar–Prabowo bahas karhutla). Bantahan Bakom RI ('operasi karhutla tetap berjalan') terbit 13 Sep, sehari sebelum rilis, jadi tidak dihitung. Tuntutannya umum. Ratas 16 Sep hanya searah sebagian (perhatian ke penanganan karhutla domestik) dan berupa perintah kajian, sehingga diberi 2. Saya juga ragu apakah ini dihitung sama sekali; kalau tidak, skornya 0. Pembentukan BPGMN (24 Sep) tidak dihitung di sini karena sudah dinilai di R26."
+    },
+    {
+     "id": "R26",
+     "tuntutan_ringkas": "BPGMN jangan sekadar rebranding BRGM: harus punya kewenangan audit/evaluasi izin konsesi dan pemulihan gambut-mangrove nyata",
+     "lembaga_dituju": "Presiden, BPGMN",
+     "berita_kasus": 121,
+     "berita_memuat_walhi": 13,
+     "berita_jejaring_tanpa_walhi": 16,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Uli Arta Siagian",
+      "Musdalifah Jamal"
+     ],
+     "jejaring_terdeteksi": [
+      "Pantau Gambut",
+      "Greenpeace"
+     ],
+     "respons": [
+      {
+       "lembaga": "Kemenhut (Menhut Raja Juli Antoni)",
+       "tanggal": "2026-09-28",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Menhut menyatakan struktur BPGMN berbeda dengan periode sebelumnya karena langsung di bawah komando Presiden, didukung tenaga ahli dan pendanaan kuat. Ini jawaban implisit atas kekhawatiran 'rebranding'.",
+       "url": "https://tirto.id/bpgmn-dibentuk-seberapa-efektif-cegah-karhutla-berulang-hDhB"
+      },
+      {
+       "lembaga": "Kemenhut (Menhut, Workshop Pembentukan BPGMN)",
+       "tanggal": "2026-10-01",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Menhut menyatakan struktur kelembagaan perlu dirancang agar punya kewenangan dan daya kerja kuat, 'tidak hanya terbentuk secara kelembagaan, tetapi juga efektif'. Workshop merumuskan mandat, SOTK dan draf Perpres, dan Menhut mengusulkan DIPA sendiri.",
+       "url": "https://www.kehutanan.go.id/pers/pemerintah-siapkan-pembentukan-badan-pengelolaan-gambut-dan-mangrove-nasional"
+      },
+      {
+       "lembaga": "Kemenhut / KemenPAN-RB",
+       "tanggal": "2026-10-02",
+       "bentuk": "ke_jejaring",
+       "isi": "Kemenhut membuka opsi BPGMN tidak diberi batas waktu (bukan ad hoc), menanggapi usulan Pantau Gambut dan pakar.",
+       "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6abf2ab4429e6/badan-gambut-diusulkan-bukan-ad-hoc-kemenhut-buka-opsi-tak-atur-batas-waktu"
+      },
+      {
+       "lembaga": "Kemenhut (Menhut)",
+       "tanggal": "2026-10-02",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Pemegang PBPH 'akan diwajibkan' memasang alat pemantau tinggi muka air dan kelembapan gambut. Ini rencana kewajiban, belum regulasi.",
+       "url": "https://www.antaranews.com/berita/5768060/menhut-pemegang-pbph-akan-diwajibkan-pasang-alat-pantau-gambut"
+      },
+      {
+       "lembaga": "Presiden / BPGMN",
+       "tanggal": "2026-10-15",
+       "bentuk": "tindakan",
+       "isi": "Presiden melantik Satyawan Pudyatmoko sebagai Kepala BPGMN, yang menyatakan fokus menekan karhutla dan memulihkan ekosistem gambut. Perpres dan kewenangan audit izin belum dibuka ke publik (Pantau Gambut menagih payung hukum).",
+       "url": "https://setneg.go.id/baca/index/usai_dilantik_kepala_bpgmn_tegaskan_fokus_tekan_karhutla_dan_pulihkan_ekosistem_gambut"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 3,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Rilis 25 Sep (bukan Okt). Pemuatannya sangat besar karena kasusnya memang besar (124 item; 121 relevan setelah membuang yang tidak relevan). WALHI termuat di 13 berita (Kontan, Media Indonesia, OWRITE, WALHI Jambi/Riau/Kalbar, Kedai Pena, Tirto, CNA, Mongabay), sedangkan Pantau Gambut dan Greenpeace tampil tanpa WALHI di sekitar 16 berita. Deteksi 'Pantau Gambut' oleh skrip bisa salah cocok dengan frasa 'alat pantau gambut', jadi angka jejaring perkiraan. Keputusan membentuk BPGMN (24 Sep) mendahului rilis dan tidak dihitung. Respons sesudah rilis berupa janji kelembagaan kuat dan pelantikan kepala, tetapi kewenangan audit atau evaluasi izin tidak terverifikasi (Perpres tertutup). Mongabay 6 Okt: mekanisme menyasar konsesi 'masih diteliti'. Tindakan terverifikasi (pelantikan) hanya menyentuh sebagian kecil tuntutan; saya ragu antara 2 dan 3, jadi dipakai 2. Ini konsisten dengan pengodean lama respons_C (audit izin gambut, 2)."
+    },
+    {
+     "id": "R27",
+     "tuntutan_ringkas": "Pernyataan Hashim 'tak butuh hutan untuk sawah' harus diikuti koreksi kebijakan cetak sawah dan food estate (PSN Merauke, pelepasan kawasan hutan)",
+     "lembaga_dituju": "Kemenko Pangan, Kementan",
+     "berita_kasus": 24,
+     "berita_memuat_walhi": 4,
+     "berita_jejaring_tanpa_walhi": 6,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Musdalifah Jamal"
+     ],
+     "jejaring_terdeteksi": [
+      "Yayasan Pusaka Bentala Rakyat",
+      "Solidaritas Merauke"
+     ],
+     "respons": [
+      {
+       "lembaga": "Utusan Khusus Presiden Bidang Iklim dan Energi (Hashim Djojohadikusumo)",
+       "tanggal": "2026-10-07",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Di Investor Daily Summit, Hashim kembali menyatakan pemerintah tidak lagi perlu mencetak 2–3 juta ha sawah baru (Merauke/Kalimantan) karena swasembada beras. Ini hanya pernyataan lisan, tanpa keputusan tertulis.",
+       "url": "https://www.beritasatu.com/ekonomi/3033527/swasembada-beras-pemerintah-batalkan-cetak-2-3-juta-sawah-baru"
+      },
+      {
+       "lembaga": "Utusan Khusus Presiden Bidang Iklim dan Energi (Hashim Djojohadikusumo)",
+       "tanggal": "2026-10-12",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Hashim mengulang klaim pemerintah tidak akan memperluas sawah di kawasan hutan; pengembangan dialihkan ke rawa non-gambut di Papua dan Kalimantan. Artikel yang sama memuat kritik Musdalifah (WALHI).",
+       "url": "https://lestari.kompas.com/read/2026/10/12/170000686/hashim-sebut-pemerintah-tak-akan-alihkan-kawasan-hutan-jadi-sawah-komitmen?page=all"
+      },
+      {
+       "lembaga": "Kemenko Pangan (Wamenko Hanif Faisol Nurofiq)",
+       "tanggal": "2026-10-15",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "Menanggapi kajian WALHI 'Siapa di Balik Api?' (807 titik panas di PSN pangan-energi Merauke), Wamenko menyatakan temuan 'akan menjadi perhatian pemerintah' dan pengawasan PSN akan diperketat. Ini janji tanpa tindakan terverifikasi.",
+       "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ad1e7211fead/wamenko-pangan-akan-perhatikan-temuan-titik-panas-di-area-psn-papua-selatan"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 0,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Rilis 7 Okt menanggapi pernyataan Hashim di ISF 6 Okt. Pernyataan 6 Okt itu pemicu yang mendahului rilis, jadi tidak dihitung. Banyak berita 6 Okt (Tirto, ANTARA, Republika, Liputan6, Katadata dan lain-lain) masuk hitungan kasus karena berada di rentang H-1 skrip. WALHI termuat di 4 berita: kabarbisnis, Betahita, Katadata 8 Okt dan Kompas 12 Okt. Jejaring tanpa WALHI: Pusaka/Solidaritas Merauke (siaran pers 8 Okt, Prohealth 9 Okt, Teras/Jubi 12 Okt, Betahita 7 dan 14 Okt, Sasagupapua). Sesudah rilis hanya ada pengulangan janji dan janji pengawasan. Tidak ada Keppres, Permentan atau penghentian PSN Merauke sampai 2 Nov, jadi skornya 2. Janji Wamenko menjawab kajian WALHI yang lain (karhutla PSN), bukan rilis ini secara langsung, tetapi menyangkut food estate yang sama. Pujian Mighty Earth atas pengumuman Hashim bukan serangan terhadap WALHI, jadi tidak dihitung sebagai kontra."
+    },
+    {
+     "id": "R33",
+     "tuntutan_ringkas": "Hentikan konversi jutaan hektare hutan untuk proyek pangan dan energi di tengah karhutla (PAPH 5,67 juta ha, food estate, bioetanol)",
+     "lembaga_dituju": "Kemenhut, Kemenko Pangan",
+     "berita_kasus": 16,
+     "berita_memuat_walhi": 9,
+     "berita_jejaring_tanpa_walhi": 5,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [
+      "Umi Ma'rufah",
+      "Faisal Ratuela",
+      "Musdalifah Jamal"
+     ],
+     "jejaring_terdeteksi": [
+      "Greenpeace",
+      "Yayasan Pusaka Bentala Rakyat",
+      "YLBHI/LBH se-Papua",
+      "Koalisi masyarakat sipil (B50)"
+     ],
+     "respons": [
+      {
+       "lembaga": "Utusan Khusus Presiden Bidang Iklim dan Energi (Hashim Djojohadikusumo), atas nama pemerintah termasuk Kementan",
+       "tanggal": "2026-10-06",
+       "bentuk": "umum_tanpa_menyebut",
+       "isi": "Di ISF 2026, Hashim menyatakan pemerintah tidak lagi akan memperluas budidaya padi atau membuka sawah baru di kawasan hutan karena swasembada beras tercapai. Mari Elka Pangestu menyebut 12 juta ha lahan terdegradasi untuk tanaman pangan/energi. Hanya pernyataan, tanpa regulasi.",
+       "url": "https://www.antaranews.com/berita/5773149/pemerintah-nyatakan-tak-akan-perluas-pembukaan-lahan-untuk-sawah"
+      },
+      {
+       "lembaga": "Kemenko Pangan (Wamenko Hanif Faisol Nurofiq)",
+       "tanggal": "2026-10-15",
+       "bentuk": "langsung_ke_walhi",
+       "isi": "Wamenko berjanji memperketat pengawasan PSN pangan-energi Merauke setelah temuan titik panas WALHI.",
+       "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ad1e7211fead/wamenko-pangan-akan-perhatikan-temuan-titik-panas-di-area-psn-papua-selatan"
+      }
+     ],
+     "skor": 2,
+     "hari_ke_respons": 5,
+     "konvergensi": true,
+     "keyakinan": "sedang",
+     "catatan": "Rilis 1 Okt (siaran pers di folder berpenutur Musdalifah; media mengutip Umi Ma'rufah dan Faisal Ratuela). WALHI termuat di Betahita 2 Okt, Prohealth 2 Okt, NU Online 7 Okt, Dunia Energi 7 Okt, Kompas.id 15 Okt, serta berita R27 (kabarbisnis, Betahita, Katadata 8 Okt; Kompas 12 Okt). Ada tumpang tindih dengan R27 karena kasusnya sama. Jejaring tanpa WALHI: Greenpeace (siaran pers 8 Okt; Kakinews 9 Okt), YLBHI/LBH Papua 12 Okt, Pusaka (Betahita 14 Okt), koalisi B50 (Sawit Indonesia 30 Sep). Janji Hashim hanya mencakup cetak sawah, bukan konversi hutan untuk energi. Sebaliknya Hashim (BBC 16 Okt) menyebut 12,7 juta ha 'hutan rusak' untuk bahan baku biodiesel, dan Mentan (21 Sep, sebelum rilis) menyiapkan 2 juta ha untuk bioetanol. PAPH 5,67 juta ha Kemenhut tidak dicabut. Tidak ditemukan tanggapan Kemenhut setelah 1 Okt. Karena hanya janji parsial tanpa tindakan terverifikasi, skornya 2."
+    },
+    {
+     "id": "R28",
+     "tuntutan_ringkas": "(perlu cek isi) siaran pers WALHI Oktober 2026 dengan nama berkas generik; topik tidak diketahui",
+     "lembaga_dituju": "-",
+     "berita_kasus": 0,
+     "berita_memuat_walhi": 0,
+     "berita_jejaring_tanpa_walhi": 0,
+     "berita_kontra": 0,
+     "penutur_terdeteksi": [],
+     "jejaring_terdeteksi": [],
+     "respons": [],
+     "skor": 0,
+     "hari_ke_respons": -1,
+     "konvergensi": false,
+     "keyakinan": "rendah",
+     "catatan": "Tidak ditemukan bukti terbit yang bisa dipadankan secara pasti; isi berkas tidak tersedia. Skrip probe (R28probe.json; kueri Musdalifah, PTAR, Martabe, Okt 2026) menemukan dua kandidat. Pertama, rilis offset PTAR/Martabe 19 dan 21 Okt; itu sudah tercatat sebagai P10, tetapi penuturnya Uli Arta Siagian dan Dana Prima Tarigan, bukan Musdalifah. Kedua, rilis Galodo Sumatera Barat 5–6 Okt; Musdalifah dikutip Media Indonesia 6 Okt, tetapi bidangnya Perkotaan & Tata Ruang. Tidak dipadankan agar tidak terhitung ganda. Perlu tim membuka berkas 'SIARAN PERSWahana Lingkungan Hidup Indonesia (WALHI)' untuk memastikan topiknya."
+    }
+   ]
+  },
+  "verifikasi": {
+   "rilis": [
+    {
+     "id": "R11",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "I found no response after 24 Sep that touches the audit of RBP or carbon projects. Kemenhut's statement that it was examining PT MPK over fires (Edo Mahendra, Katadata 16 Sep) came before the release. Kemenhut's investigation of repeat fires in concessions (Katadata 29 Sep: 26 permit holders sanctioned, 5 PBPH revoked) does not mention carbon projects or RBP. I also found no official response to the Rp39 miliar RBP fund in Kalbar. The coder's reason for not giving a 1 (Bujang Raba and agricultural carbon) is right. Score 0 stands.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R20",
+     "skor_awal": 0,
+     "skor_final": 3,
+     "respons_tambahan": [
+      {
+       "lembaga": "KLH (Menteri LH Moh Jumhur Hidayat)",
+       "tanggal": "2026-09-13",
+       "bentuk": "tindakan",
+       "isi": "KLH sealed 50 business entities in 8 provinces (27,333.79 ha of burned concession). The basis was strict liability of concession holders. KLH also threatened criminal sanctions and civil suits for restoration, and Polri named 138 suspects. This is law enforcement against permit holders, done after the release (8 Sep). It does not mention WALHI or FOLU.",
+       "url": "https://www.rctiplus.com/news/detail/nasional/5472183/tindak-lanjuti-inpres-karhutla--klh-segel-50-badan-usaha-di-8-provinsi"
+      },
+      {
+       "lembaga": "Kemenhut (Dirjen Gakkum Kehutanan Dwi Januanto Nugroho)",
+       "tanggal": "2026-09-29",
+       "bentuk": "tindakan",
+       "isi": "Kemenhut reported about 26 permit holders sanctioned, 5 PBPH permits revoked and 6 more under review. It also floated addenda to reorganise concessions that burn repeatedly. The same article quotes Uli (WALHI). The dates of the revocations are not given, so this is supporting evidence only.",
+       "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6abbb602999ff/karhutla-berulang-di-area-konsesi-apa-temuan-kemenhut"
+      }
+     ],
+     "alasan": "The coder missed a verified action in the same direction. The tuntutan explicitly names law enforcement and permits, and KLH, a target institution, sealed 50 concessions on 13 Sep, five days after the release. It does not mention WALHI, so konvergensi=true. Inpres 11/2026 itself was signed on 31 Aug, before the release, so it is not counted; only the post-release implementation (sealing, sanctions) is. The core demand, tying climate policy and FOLU to permitting, is not met, so the action is only partial: 3, not 4. Possible objection: the sealing continues a policy that started before the release (21 entities sealed on 2 Sep). If the team does not count implementation of an older policy, the score is 0.",
+     "keyakinan": "rendah"
+    },
+    {
+     "id": "R24",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "I found no response from KLH or the delegation on recognising the rights of Masyarakat Adat and local communities (MAKL) or on evaluating carbon projects between 12 Oct and 2 Nov. Government statements before COP31 were about the carbon market, karhutla data and the Indonesia pavilion. The KLH pieces dated 3–4 Nov fall outside the period. The coder's note that the AMAN detection is a false match is right. Score 0 stands.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P04",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "Both claimed responses check out and come after the release (26 Aug). One correction: Ibas's forum (Demokrat faction sarasehan, attended by WALHI) took place on 31 Aug. The MPR article was published 2 Sep, so the response date is 31 Aug, 5 days after the release. Hukumonline confirms that KLH Sestama Rosa Vivien spoke at Komisi XII on 3 Sep ('tidak hanya NDC dan karbon, tapi juga ketangguhan masyarakat') and that the 'Berkeadilan' title was proposed. Neither statement mentions WALHI or rejects carbon economic value. These are normative acknowledgements with no verified action, so 2 is right.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "P13",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "The Prohealth article (published 3 Nov) does not give the date of the discussion. KKP's support for Article 6.8 is general ('sudah punya modal'), with no commitment, and negotiator Riko Wahyudi only explains the scheme. I found no report of KLH's answer at the 26 Oct audiensi. The KLH and ANTARA pieces dated 3–4 Nov fall outside the period. Score 0 stands; the coder's low confidence is reasonable.",
+     "keyakinan": "rendah"
+    },
+    {
+     "id": "R13",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [
+      {
+       "lembaga": "Presiden (Banpres via Kemenhut)",
+       "tanggal": "2026-10-21",
+       "bentuk": "tindakan",
+       "isi": "The President disbursed Rp240 miliar in Banpres for karhutla in Kalbar: Rp200 miliar to the province and 10 regencies/cities, and Rp10 miliar each to four regencies, transferred 21 Oct. This is a verified domestic karhutla action. It does not mention WALHI.",
+       "url": "https://www.fortuneidn.com/news/menhut-presiden-kucurkan-rp240-miliar-untuk-atasi-karhutla-di-kalbar-00-4vfn9-wkntfs"
+      }
+     ],
+     "alasan": "The claimed ratas checks out: 16 Sep at Istana Merdeka. The evidence URL (NU Online) was published 21 Sep and quotes Umi Ma'rufah, not Patria. The ratas is an order to study regulation, so 2 fits. I add the Rp240 miliar Banpres (21–23 Oct) as a verified domestic karhutla action. That could support a 3, but the tuntutan is very general ('selaraskan narasi'), and it is doubtful that firefighting money answers it. Following the rule, I take the lower score, 2.",
+     "keyakinan": "rendah"
+    },
+    {
+     "id": "R26",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "The claimed responses check out and come after 25 Sep. Katadata 15 Oct confirms the BPGMN head was sworn in without a public statement on authority over concessions or permit audits; Pantau Gambut was still demanding the Perpres. Mongabay 6 Oct says the power to recommend permit revocation was only being floated. The setkab.go.id piece 'Presiden minta review semua perizinan gambut' is from 2015 (Jokowi), so it does not count. The swearing-in is an institutional action, not the audit authority that was demanded. Score 2 stands.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R27",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "Katadata confirms Wamenko Pangan Hanif Faisol Nurofiq spoke on 15 Oct (published 16 Oct), referred to WALHI's study 'Siapa di Balik Api?', promised that oversight of the PSN would be tightened, and passed follow-up to KLH. That is a promise without action. I found no Keppres, Permentan or halt to the Merauke PSN up to 2 Nov. Hashim's statements on 7 and 12 Oct are oral only. Score 2 stands. Note that the Wamenko's response answers a different WALHI study, so labelling it langsung_ke_walhi for this release is slightly generous; the score does not change.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R33",
+     "skor_awal": 2,
+     "skor_final": 2,
+     "respons_tambahan": [],
+     "alasan": "I found no response from Kemenhut on PAPH 5.67 juta ha after 1 Oct. Hashim's statement on 6 Oct (no new rice fields in forest areas) is only a partial promise, and the energy side moves the other way (12.7 juta ha for biodiesel feedstock). The Wamenko's promise on 15 Oct is oversight, not halting conversion. No action has been verified, so 2 stands.",
+     "keyakinan": "sedang"
+    },
+    {
+     "id": "R28",
+     "skor_awal": 0,
+     "skor_final": 0,
+     "respons_tambahan": [],
+     "alasan": "The topic is unknown and no publication could be matched, so no response can be assessed. The coder was right not to match it to P10 or to the Sumbar galodo release, to avoid double counting. The team needs to open the original file.",
+     "keyakinan": "rendah"
+    }
+   ]
+  }
+ }
+]

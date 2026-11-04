@@ -1,0 +1,159 @@
+{
+ "id": "P14",
+ "tanggal": "2026-09-11",
+ "kueri_gagal": [],
+ "rentang": [
+  "2026-09-10",
+  "2026-09-26"
+ ],
+ "kueri": [
+  "walhi \"giant sea wall\" bekasi",
+  "walhi \"giant sea wall\" \"teluk jakarta\"",
+  "\"giant sea wall\" \"segmen 3\"",
+  "walhi \"tanggul laut\" bekasi"
+ ],
+ "jejaring": [
+  "KIARA",
+  "Maleh Dadi Segoro"
+ ],
+ "jumlah_berita": 6,
+ "berita": [
+  {
+   "judul": "Giant Sea Wall dapat Mengancam Ekologi dan Masyarakat Pesisir - Betahita",
+   "media": "Betahita",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "walhi \"giant sea wall\" bekasi",
+    "walhi \"giant sea wall\" \"teluk jakarta\"",
+    "\"giant sea wall\" \"segmen 3\"",
+    "walhi \"tanggul laut\" bekasi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12354/giant-sea-wall-dapat-mengancam-ekologi-dan-masyarakat-pesisir",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Amin menjelaskan, pemerintah melalui BOPPJ tengah mendorong pembangunan GSW pada pesisir Pantai Utara Jawa sepanjang sekitar 575-kilometer yang membentang dari Banten hingga Jawa Timur.",
+    "ujar Menteri Jumhur, dalam acara penandatanganan MoU tersebut.",
+    "Didit menjelaskan, untuk memperkuat landasan hukum percepatan pembangunan, diperlukan Instruksi Presiden (Inpres) dan Peraturan Presiden (Perpres), serta Surat Keputusan Bersama (SKB) guna memastikan seluruh proses perizinan dapat dilaksanakan."
+   ],
+   "kalimat_walhi": [
+    "Mida Saragih, Pengkampanye Perlindungan Pesisir dan Laut Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (Walhi), mengatakan GSW Segmen 3.3 bukan hanya proyek tanggul laut, melainkan proyek transformasi bentang pesisir melalui reklamas",
+    "\"Walhi menilai hingga saat ini pemerintah belum mampu menjawab persoalan mendasar terkait dampak ekologis proyek GSW yang berpotensi mengubah sistem ekologis Teluk Jakarta secara permanen,\""
+   ]
+  },
+  {
+   "judul": "Prabowo Ungkap Pembangunan Giant Sea Wall: Mulai Tahun 2027, Butuh Biaya 100 Miliar Dolar AS - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi \"giant sea wall\" \"teluk jakarta\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://m.tribunnews.com/nasional/7883362/prabowo-ungkap-pembangunan-giant-sea-wall-mulai-tahun-2027-butuh-biaya-100-miliar-dolar-as?page=all&s=paging_new",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Mengapa Suara Nelayan Penting dalam Pembangunan Giant Sea Wall di Teluk Jakarta? - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "walhi \"giant sea wall\" bekasi",
+    "walhi \"giant sea wall\" \"teluk jakarta\"",
+    "walhi \"tanggul laut\" bekasi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/09/21/123000/mengapa-suara-nelayan-penting-dalam-pembangunan-giant-sea-wall-di-teluk-jakarta",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Mida Saragih"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Kondisi ini dipersoalkan Wahana Lingkungan Hidup Indonesia (WALHI).",
+    "Direktur Eksekutif Daerah WALHI Jakarta, Muhammad Aminullah, mengatakan komposisi peserta menunjukkan ketimpangan dalam pelibatan masyarakat."
+   ]
+  },
+  {
+   "judul": "Giant Sea Wall 575 Km, Bukan Cuma Soal Tanggul Halaman all - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "walhi \"giant sea wall\" bekasi",
+    "walhi \"giant sea wall\" \"teluk jakarta\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/rasyidwork7137/6ab09d6c34777c796b36b462/giant-sea-wall-575-km-bukan-cuma-soal-tanggul?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan menyebut kenaikan muka air laut akibat perubahan iklim berada di kisaran 0,8 hingga 1,2 sentimeter per tahun.",
+    "Kementerian Pekerjaan Umum menyebut pengendalian banjir perlu berjalan bersamaan dengan penyediaan air bersih agar ketergantungan terhadap air tanah dapat dikurangi.",
+    "Staf Khusus Kemenko Infrastruktur dan Pembangunan Kewilayahan Herzaky Mahendra Putra mengatakan master plan Giant Sea Wall masih terus dimatangkan.",
+    "Kementerian PU menyebut tanggul pengaman pantai Tahap A sepanjang 12,66 kilometer telah selesai dibangun.",
+    "BOPPJ menjelaskan bahwa sistem perlindungan Pantura akan menggabungkan berbagai jenis infrastruktur, seperti tanggul laut, tanggul pantai, breakwater, serta pendekatan berbasis alam atau nature-based solutions seperti penguatan ekosistem mangrove.",
+    "BOPPJ mengatakan pembangunan akan dilakukan secara tematik menyesuaikan kondisi masing-masing wilayah."
+   ],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia atau WALHI pada September 2026 menyampaikan kritik terhadap rencana Giant Sea Wall Segmen 3.3 di Teluk Jakarta dan Bekasi.",
+    "WALHI menyoroti potensi dampak terhadap ekosistem, mangrove, kualitas air, aktivitas nelayan serta ruang hidup masyarakat pesisir."
+   ]
+  },
+  {
+   "judul": "WALHI Diimbau Tak Provokasi Rakyat soal Revitalisasi Tambak Pantura - jurnas.com",
+   "media": "jurnas.com",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"giant sea wall\" bekasi",
+    "walhi \"giant sea wall\" \"teluk jakarta\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.jurnas.com/news/1666026/walhi-diimbau-tak-provokasi-rakyat-soal-revitalisasi-tambak-pantura/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Setiawan, mengkritik sikap Wahana Lingkungan Hidup Indonesia (WALHI) yang menolak program revitalisasi tambak Pantai Utara Jawa (Pantura), khususnya di Kabupaten Indramayu.",
+    "“WALHI jangan memprovokasi rakyat dengan bertameng lingkungan."
+   ]
+  },
+  {
+   "judul": "Revitalisasi Tambak Pantura Perkuat Ketahanan Pangan dan Ekonomi Pesisir - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "walhi \"giant sea wall\" bekasi",
+    "walhi \"giant sea wall\" \"teluk jakarta\"",
+    "walhi \"tanggul laut\" bekasi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/937201/revitalisasi-tambak-pantura-perkuat-ketahanan-pangan-dan-ekonomi-pesisir",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Aktivis lingkungan Yogyakarta yang juga alumni Mapala Universitas Muhammadiyah Yogyakarta (UMY) Iwan 'Terpal' Setiawan, mengkritik sikap Wahana Lingkungan Hidup Indonesia (Walhi) yang menolak sejumlah proyek pembangunan di kawasan Pantura.",
+    "Walhi sendiri dalam pernyataan publiknya pada 11 September 2026 mendesak penghentian rencana Giant Sea Wall Segmen 3.3 di Teluk Jakarta dan Bekasi."
+   ]
+  }
+ ]
+}
