@@ -24,7 +24,10 @@
    "T7"
   ],
   "berita_kasus": 555,
-  "berita_kontra": 1
+  "berita_kontra": 1,
+  "berita_memuat_walhi": 213,
+  "berita_jejaring": 29,
+  "rata_walhi_per_rilis": 14.2
  },
  "Pesisir & Laut": {
   "rilis": 8,
@@ -43,7 +46,10 @@
   "median_hari_ke_respons": 7,
   "tindakan_unik": [],
   "berita_kasus": 85,
-  "berita_kontra": 13
+  "berita_kontra": 13,
+  "berita_memuat_walhi": 38,
+  "berita_jejaring": 12,
+  "rata_walhi_per_rilis": 4.8
  },
  "Urban": {
   "rilis": 5,
@@ -62,11 +68,14 @@
   "median_hari_ke_respons": 2,
   "tindakan_unik": [],
   "berita_kasus": 184,
-  "berita_kontra": 0
+  "berita_kontra": 0,
+  "berita_memuat_walhi": 47,
+  "berita_jejaring": 3,
+  "rata_walhi_per_rilis": 9.4
  },
  "Pangan & Ekosistem Esensial": {
-  "rilis": 5,
-  "oleh_pengkampanye": 4,
+  "rilis": 6,
+  "oleh_pengkampanye": 5,
   "oleh_pimpinan_hukum": 1,
   "penutur_tidak_diketahui": 0,
   "ada_respons": 4,
@@ -76,14 +85,17 @@
   "dipenuhi": 0,
   "tindakan_nyata": 1,
   "tindakan_generik": 0,
-  "pct_ada_respons": 80,
-  "pct_tindakan_nyata": 20,
+  "pct_ada_respons": 67,
+  "pct_tindakan_nyata": 17,
   "median_hari_ke_respons": 2.5,
   "tindakan_unik": [
    "T8"
   ],
-  "berita_kasus": 226,
-  "berita_kontra": 0
+  "berita_kasus": 237,
+  "berita_kontra": 0,
+  "berita_memuat_walhi": 46,
+  "berita_jejaring": 27,
+  "rata_walhi_per_rilis": 7.7
  },
  "Iklim & Isu Global": {
   "rilis": 5,
@@ -102,11 +114,14 @@
   "median_hari_ke_respons": 7,
   "tindakan_unik": [],
   "berita_kasus": 44,
-  "berita_kontra": 0
+  "berita_kontra": 0,
+  "berita_memuat_walhi": 22,
+  "berita_jejaring": 3,
+  "rata_walhi_per_rilis": 4.4
  },
  "Tambang & Energi": {
-  "rilis": 3,
-  "oleh_pengkampanye": 2,
+  "rilis": 2,
+  "oleh_pengkampanye": 1,
   "oleh_pimpinan_hukum": 0,
   "penutur_tidak_diketahui": 1,
   "ada_respons": 1,
@@ -116,12 +131,15 @@
   "dipenuhi": 0,
   "tindakan_nyata": 0,
   "tindakan_generik": 0,
-  "pct_ada_respons": 33,
+  "pct_ada_respons": 50,
   "pct_tindakan_nyata": 0,
   "median_hari_ke_respons": 4,
   "tindakan_unik": [],
-  "berita_kasus": 38,
-  "berita_kontra": 2
+  "berita_kasus": 27,
+  "berita_kontra": 2,
+  "berita_memuat_walhi": 3,
+  "berita_jejaring": 8,
+  "rata_walhi_per_rilis": 1.5
  },
  "_total": {
   "rilis": 41,
@@ -134,6 +152,24 @@
    "tidak dihitung: DRAFT": 1,
    "catatan: pemerintah asing": 1,
    "catatan: lembaga/tuntutan umum": 7
+  },
+  "berita_kasus": 1132,
+  "berita_memuat_walhi": 369,
+  "berita_jejaring": 82,
+  "berita_kontra": 16,
+  "median_walhi_per_skor": {
+   "0": 4,
+   "1": 7.0,
+   "2": 6,
+   "3": 16,
+   "4": 0
+  },
+  "n_per_skor": {
+   "0": 13,
+   "1": 6,
+   "2": 11,
+   "3": 11,
+   "4": 0
   }
  }
 }

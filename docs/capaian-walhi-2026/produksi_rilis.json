@@ -1,0 +1,90 @@
+{
+ "produksi": {
+  "Hutan & Kebun": {
+   "pj": "Umi Ma'rufah",
+   "total": 15,
+   "pengkampanye": 5,
+   "pimpinan": 9,
+   "tidak_diketahui": 1,
+   "agu": 3,
+   "sep": 6,
+   "okt": 6
+  },
+  "Pesisir & Laut": {
+   "pj": "Mida Saragih",
+   "total": 8,
+   "pengkampanye": 7,
+   "pimpinan": 0,
+   "tidak_diketahui": 1,
+   "agu": 3,
+   "sep": 4,
+   "okt": 1
+  },
+  "Urban": {
+   "pj": "Wahyu Eka Setyawan",
+   "total": 5,
+   "pengkampanye": 5,
+   "pimpinan": 0,
+   "tidak_diketahui": 0,
+   "agu": 2,
+   "sep": 2,
+   "okt": 1
+  },
+  "Pangan & Ekosistem Esensial": {
+   "pj": "Musdalifah Jamal",
+   "total": 6,
+   "pengkampanye": 5,
+   "pimpinan": 1,
+   "tidak_diketahui": 0,
+   "agu": 2,
+   "sep": 1,
+   "okt": 3
+  },
+  "Iklim & Isu Global": {
+   "pj": "Patria Rizky Ananda",
+   "total": 5,
+   "pengkampanye": 3,
+   "pimpinan": 1,
+   "tidak_diketahui": 1,
+   "agu": 1,
+   "sep": 2,
+   "okt": 2
+  },
+  "Tambang & Energi": {
+   "pj": "Faisal Ratuela",
+   "total": 2,
+   "pengkampanye": 1,
+   "pimpinan": 0,
+   "tidak_diketahui": 1,
+   "agu": 1,
+   "sep": 0,
+   "okt": 1
+  }
+ },
+ "suara_pimpinan": {
+  "Uli Arta Siagian": {
+   "peran": "Kadiv Kampanye",
+   "rilis": 12
+  },
+  "Boy Jerry Even Sembiring": {
+   "peran": "Direktur Eksekutif",
+   "rilis": 8
+  },
+  "Dana Prima Tarigan": {
+   "peran": "Kadep Komunikasi",
+   "rilis": 6
+  },
+  "Teo Reffelsen": {
+   "peran": "Manajer Hukum & Pembelaan",
+   "rilis": 5
+  },
+  "Christine Constanta": {
+   "peran": "Hukum (respons cepat)",
+   "rilis": 1
+  },
+  "Tubagus Soleh Ahmadi": {
+   "peran": "Kadep Keorganisasian",
+   "rilis": 1
+  }
+ }
+}

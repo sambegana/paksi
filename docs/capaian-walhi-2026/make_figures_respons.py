@@ -55,4 +55,16 @@ ax.set_xticks(x); ax.set_xticklabels([k.replace(" & ", " &\n") for k in ISU], fo
 ax.set_ylim(0, 112); ax.set_ylabel("Persen rilis")
 ax.legend(fontsize=8, ncol=2, loc="lower left", bbox_to_anchor=(0, 1.0))
 save(fig, "gambar-2-respons-vs-tindakan")
+# Gambar 3: pemberitaan menurut tingkat respons
+fig, ax = plt.subplots(figsize=(W, 2.5))
+lvl = [0, 1, 2, 3]; nam = ["0 · tidak ada", "1 · ditolak", "2 · dijanjikan", "3 · tindakan"]
+med = [tot["median_walhi_per_skor"][str(l)] if str(l) in tot["median_walhi_per_skor"] else tot["median_walhi_per_skor"][l] for l in lvl]
+nn = [tot["n_per_skor"][str(l)] if str(l) in tot["n_per_skor"] else tot["n_per_skor"][l] for l in lvl]
+bars = ax.bar(nam, med, color=["#ffffff", "#d0d0d0", "#9e9e9e", ACCENT], edgecolor=INK, linewidth=0.6)
+for bb, m, n in zip(bars, med, nn):
+    ax.text(bb.get_x() + bb.get_width() / 2, bb.get_height() + 0.4, f"{m:g} (n={n})", ha="center", fontsize=8.5)
+ax.set_ylabel("Median berita yang\nmemuat WALHI per rilis")
+ax.set_xlabel("Respons tertinggi pemerintah")
+ax.set_ylim(0, max(med) * 1.25)
+save(fig, "gambar-3-pemberitaan-vs-respons")
 print("ok")

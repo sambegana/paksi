@@ -101,9 +101,15 @@ for rid, b in base.items():
         status = "tidak dihitung: DRAFT"
     skor = k["skor_final"] if k else ""
     bukti = next((r["url"] for r in (k or {}).get("respons", []) if r.get("url")), "")
+    isu, pj = b["bidang_topik"], (b.get("pj_bidang", "") if kel.startswith("pengkampanye") else "")
+    if kel == "pengkampanye (dari isi berita)":  # aturan rekap tim: rilis masuk bidang pengkampanye yang dikutip
+        for nama, bid in KAMPANYE.items():
+            if any(nama in n or n in nama for n in (k or {}).get("penutur_terdeteksi", [])):
+                isu, pj = bid, {"Wahyu Eka": "Wahyu Eka Setyawan", "Patria Rizky": "Patria Rizky Ananda", "Umi Ma’rufah": "Umi Ma'rufah"}.get(nama, nama)
+                break
     rows.append({
-        "id": rid, "tanggal": b["tanggal"], "judul": b["judul_singkat"], "isu": b["bidang_topik"], "penutur": kel,
-        "pj_pengkampanye": b.get("pj_bidang", "") if kel.startswith("pengkampanye") else "",
+        "id": rid, "tanggal": b["tanggal"], "judul": b["judul_singkat"], "isu": isu, "penutur": kel,
+        "pj_pengkampanye": pj,
         "status": status, "tuntutan": (k or {}).get("tuntutan_ringkas", b["tuntutan_utama"]), "lembaga_dituju": (k or {}).get("lembaga_dituju", b["lembaga_dituju"]),
         "skor": skor, "jenis_respons": JENIS.get(skor, "") if skor != "" else "tidak dikode",
         "kecocokan_tindakan": KECOCOKAN.get(rid, "") if skor != "" and skor >= 3 else "",
@@ -139,12 +145,18 @@ for isu in ISU:
         "median_hari_ke_respons": statistics.median(hari) if hari else None,
         "tindakan_unik": sorted({t for r in nyata for t in r["tindakan_unik"].split(";") if t}),
         "berita_kasus": sum(r["berita_kasus"] or 0 for r in rs), "berita_kontra": sum(r["berita_kontra"] or 0 for r in rs),
+        "berita_memuat_walhi": sum(r["berita_memuat_walhi"] or 0 for r in rs), "berita_jejaring": sum(r["berita_jejaring_tanpa_walhi"] or 0 for r in rs),
+        "rata_walhi_per_rilis": round(sum(r["berita_memuat_walhi"] or 0 for r in rs) / len(rs), 1) if rs else 0,
     }
 allr = [r for r in rows if r["status"] == "dihitung"]
 s = [r["skor"] for r in allr]
 out["_total"] = {"rilis": len(allr), "ada_respons": sum(v >= 1 for v in s), "tindakan_nyata": sum(r["skor"] >= 3 and r["kecocokan_tindakan"] in ("inti", "sebagian") for r in allr),
                  "pct_ada_respons": round(100 * sum(v >= 1 for v in s) / len(s)), "pct_tindakan_nyata": round(100 * sum(r["skor"] >= 3 and r["kecocokan_tindakan"] in ("inti", "sebagian") for r in allr) / len(s)),
-                 "tindakan_unik": len(TINDAKAN), "catatan": Counter(r["status"] for r in rows if r["status"] != "dihitung")}
+                 "tindakan_unik": len(TINDAKAN), "catatan": Counter(r["status"] for r in rows if r["status"] != "dihitung"),
+                 "berita_kasus": sum(r["berita_kasus"] or 0 for r in allr), "berita_memuat_walhi": sum(r["berita_memuat_walhi"] or 0 for r in allr),
+                 "berita_jejaring": sum(r["berita_jejaring_tanpa_walhi"] or 0 for r in allr), "berita_kontra": sum(r["berita_kontra"] or 0 for r in allr),
+                 "median_walhi_per_skor": {lv: statistics.median([r["berita_memuat_walhi"] for r in allr if r["skor"] == lv] or [0]) for lv in range(5)},
+                 "n_per_skor": {lv: sum(r["skor"] == lv for r in allr) for lv in range(5)}}
 json.dump(out, open(os.path.join(HERE, "ringkasan_per_isu.json"), "w"), ensure_ascii=False, indent=1, default=list)
 for k, v in out.items():
     print(k, {x: v[x] for x in v if x not in ("tindakan_unik",)} if k != "_total" else v)
