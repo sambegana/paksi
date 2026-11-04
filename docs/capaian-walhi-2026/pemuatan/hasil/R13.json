@@ -1,0 +1,266 @@
+{
+ "id": "R13",
+ "tanggal": "2026-09-14",
+ "rentang": [
+  "2026-09-13",
+  "2026-09-29"
+ ],
+ "kueri": [
+  "walhi BRICS karhutla",
+  "Prabowo BRICS ketahanan karhutla",
+  "Prabowo BRICS asap karhutla",
+  "pidato Prabowo BRICS walhi",
+  "anomali pidato Prabowo BRICS"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 12,
+ "berita": [
+  {
+   "judul": "Karhutla dan Dugaan Keracunan MBG Belum Usai, Kenapa Prabowo Tetap ke KTT BRICS? - Warta Ekonomi",
+   "media": "Warta Ekonomi",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS ketahanan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://wartaekonomi.co.id/read634360/karhutla-dan-dugaan-keracunan-mbg-belum-usai-kenapa-prabowo-tetap-ke-ktt-brics",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Bakom RI menegaskan keberangkatan Presiden ke luar negeri tidak berarti pemerintah mengabaikan persoalan yang terjadi di dalam negeri.",
+    "Terkait karhutla, Bakom RI menyatakan operasi lintas kementerian dan lembaga untuk menangani karhutla 2026 tetap berjalan secara terkoordinasi.",
+    "Bakom RI menyebut langkah tersebut merupakan bagian dari penanganan karhutla yang tetap berjalan meski Presiden melakukan kunjungan luar negeri."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "PM Malaysia Anwar Ibrahim Bahas Karhutla Saat Bertemu Prabowo di Sela KTT BRICS, Apa Katanya? - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS asap karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.com/tren/read/2026/09/13/120327665/pm-malaysia-anwar-ibrahim-bahas-karhutla-saat-bertemu-prabowo-di-sela-ktt",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Putin: Perdagangan Antarnegara BRICS Tembus US$1,2 Triliun - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS asap karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/internasional/932905/putin-perdagangan-antarnegara-brics-tembus-us12-triliun",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ketika ditanya mengenai pihak yang akan menghadiri pertemuan tersebut, Trump menjawab, \"Presiden Putin dan Presiden Zelenskyy,\"",
+    "Di KTT BRICS 2026, Presiden Prabowo Subianto menyatakan Indonesia siap berkontribusi pada ketahanan pangan global dan menawarkan industrialisasi bersama."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI: Indonesia Terbakar, Prabowo Bicara Ketahanan di BRICS - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "walhi BRICS karhutla",
+    "Prabowo BRICS ketahanan karhutla",
+    "Prabowo BRICS asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://prohealth.id/walhi-indonesia-terbakar-prabowo-bicara-ketahanan-di-brics/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Bagi WALHI, situasi ini memperlihatkan adanya kesenjangan antara narasi ketahanan yang dibawa ke forum global dengan kebutuhan membangun ketahanan ekologis di dalam negeri.",
+    "WALHI menyatakan ketahanan semestinya tidak dimaknai sebatas kemampuan negara merespons bencana setelah terjadi."
+   ]
+  },
+  {
+   "judul": "Prabowo Bicara Ketahanan di BRICS, Rakyat Indonesia Masih Menghirup Asap Karhutla - NU Online",
+   "media": "NU Online",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "walhi BRICS karhutla",
+    "Prabowo BRICS ketahanan karhutla",
+    "Prabowo BRICS asap karhutla"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://nu.or.id/nasional/prabowo-bicara-ketahanan-di-brics-rakyat-indonesia-masih-menghirup-asap-karhutla-ENrP3",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (Walhi) menilai pesan itu perlu dibuktikan melalui kebijakan nyata di dalam negeri, terutama ketika kebakaran hutan dan lahan (karhutla) kembali mengancam masyarakat dan ekosistem.",
+    "Pengkampanye Iklim dan Isu Global Walhi Patria Rizky Ananda mengatakan ketahanan semestinya tidak dimaknai sebatas kemampuan negara merespons bencana setelah terjadi."
+   ]
+  },
+  {
+   "judul": "Presiden Prabowo: BRICS Punya Kekuatan Kolektif Perkuat Ketahanan Global - Gerindra",
+   "media": "Gerindra",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS ketahanan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://gerindra.id/2026/09/14/presiden-prabowo-brics-punya-kekuatan-kolektif-perkuat-ketahanan-global/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Presiden Republik Indonesia, Prabowo Subianto, menegaskan BRICS memiliki peran penting dalam memperkuat kapasitas kolektif untuk berkontribusi terhadap ketahanan global."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Seskab Teddy: Prabowo bawa tiga pesan utama di KTT BRICS - ANTARA News Bali",
+   "media": "ANTARA News Bali",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS ketahanan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bali.antaranews.com/berita/413463/seskab-teddy-prabowo-bawa-tiga-pesan-utama-di-ktt-brics",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Jakarta (ANTARA) - Presiden RI Prabowo Subianto membawa tiga pesan utama Indonesia dalam KTT BRICS 2026, yakni kemandirian nasional, persatuan Global South, dan penguatan kerja sama BRICS, kata Selretaris Kabinet Teddy Indra Wijaya.",
+    "Teddy mengatakan tiga pesan tersebut ditekankan Presiden Prabowo saat menghadiri sesi terbatas KTT BRICS 2026 bertajuk “Inclusive Global Governance and Strengthening Multilateralism”"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Prabowo Tiba di Tanah Air usai Hadiri KTT BRICS 2026 di India - SINDOnews Nasional",
+   "media": "SINDOnews Nasional",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS ketahanan karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.sindonews.com/read/1749513/12/prabowo-tiba-di-tanah-air-usai-hadiri-ktt-brics-2026-di-india-1789344560",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hasil KTT BRICS 2026, Mata Uang Lokal hingga Sikap Indonesia - Cyrustimes.com",
+   "media": "Cyrustimes.com",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS asap karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://cyrustimes.com/hasil-ktt-brics-2026-indonesia-new-delhi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemprov Kalteng Siapkan 500.000 Masker untuk Hadapi Asap - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS asap karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/933179/pemprov-kalteng-siapkan-500000-masker-untuk-hadapi-asap",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pelaksana Tugas Kepala Dinas Kesehatan Kalimantan Tengah Suyuti Syamsul mengatakan pengadaan 500.000 masker tersebut sedang dilakukan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Perdagangan BRICS US$1,2 Triliun, CORE: Sulit Jadi Daya Tawar Tekanan AS - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "Prabowo BRICS asap karhutla"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/ekonomi/933165/perdagangan-brics-us12-triliun-core-sulit-jadi-daya-tawar-tekanan-as",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sebelumnya, Presiden Rusia Vladimir Putin menyatakan nilai perdagangan di antara para anggota forum kerja sama BRICS telah mencapai US$1,2 triliun (sekitar Rp21,1 kuadriliun).",
+    "Presiden Rusia Vladimir Putin menyebut perdagangan antaranggota BRICS mencapai US$1,2 triliun dan menegaskan kemandirian ekonomi dari tekanan eksternal.",
+    "Di KTT BRICS 2026, Presiden Prabowo Subianto menyatakan Indonesia siap berkontribusi pada ketahanan pangan global dan menawarkan industrialisasi bersama."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Anomali dalam Pidato Prabowo di BRICS - Betahita",
+   "media": "Betahita",
+   "tanggal": "16 Sep 2026",
+   "kueri": [
+    "walhi BRICS karhutla",
+    "Prabowo BRICS ketahanan karhutla",
+    "Prabowo BRICS asap karhutla",
+    "pidato Prabowo BRICS walhi",
+    "anomali pidato Prabowo BRICS"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12360/anomali-dalam-pidato-prabowo-di-brics",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ucap Presiden pada BRICS Summit Open Session pada Minggu (13/9/2026)."
+   ],
+   "kalimat_walhi": [
+    "Berita\nAnomali dalam Pidato Prabowo di BRICS\nWalhi mengkritisi soal kerentanan karhutla di Indonesia yang tak terucap pada forum internasional ini.",
+    "Namun Walhi mencatat anomali, karena kerentanan karhutla di Indonesia tak disampaikan pada forum internasional ini."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "id": "R11",
+ "tanggal": "2026-09-24",
+ "rentang": [
+  "2026-09-23",
+  "2026-10-09"
+ ],
+ "kueri": [
+  "walhi \"proyek karbon\" hotspot",
+  "walhi RBP karbon audit",
+  "\"proyek karbon\" titik panas konsesi",
+  "\"proyek karbon\" karhutla Kemenhut",
+  "RBP REDD+ karhutla audit"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 9,
+ "berita": [
+  {
+   "judul": "Asap Karhutla Papua Selatan sudah Mencapai Kawasan Konservasi Lorentz - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "05 Oct 2026",
+   "kueri": [
+    "\"proyek karbon\" karhutla Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ac35a2659b90/asap-karhutla-papua-selatan-sudah-mencapai-kawasan-konservasi-lorentz",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karbon Pertanian dan Karbon Biru Berpotensi Jadi Proyek Karbon Berikutnya - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "\"proyek karbon\" titik panas konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ac4f12160f08/karbon-pertanian-dan-karbon-biru-berpotensi-jadi-proyek-karbon-berikutnya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Karbon Pertanian dan Karbon Biru Berpotensi Jadi Proyek Karbon Berikutnya\nMenteri Koordinator Bidang Pangan Zulkifli Hasan mengatakan karbon dari sektor pertanian dan karbon biru (blue carbon) siap dipasarkan untuk proyek karbon berikutnya."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Potensi Jumbo Kredit Karbon Maskapai Bisa Lari ke Luar Negeri, Apa Masalahnya? - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "\"proyek karbon\" titik panas konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ac5c709cf969/potensi-jumbo-kredit-karbon-maskapai-bisa-lari-ke-luar-negeri-apa-masalahnya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Jambi Soroti 1.965,8 Hektare Areal Konsesi PT ABT Terbakar - Mattanews.co",
+   "media": "Mattanews.co",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "\"proyek karbon\" karhutla Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://mattanews.co/walhi-jambi-soroti-1-9658-hektare-areal-konsesi-pt-abt-terbakar/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 12,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "MATTANEWS.CO, JAMBI – Wahana Lingkungan Hidup Indonesia (WALHI) Jambi menyoroti kebakaran hutan dan lahan (karhutla) yang terjadi di areal konsesi PT Alam Bukit Tigapuluh (PT ABT) dalam lanskap Bukit Tigapuluh, Jambi.",
+    "Berdasarkan analisis WALHI Jambi, sekitar 1.965,8 hektare atau sekitar 5 persen dari luas areal konsesi PT ABT disebut terbakar."
+   ]
+  },
+  {
+   "judul": "Jelajah Riau Sustainability: Dari Hutan ke Pendapatan, Riau Siapkan Skema Kredit Karbon Berkelanjutan - Bisnis.com",
+   "media": "Bisnis.com",
+   "tanggal": "23 Sep 2026",
+   "kueri": [
+    "\"proyek karbon\" karhutla Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://hijau.bisnis.com/read/20260923/653/2006482/jelajah-riau-sustainability-dari-hutan-ke-pendapatan-riau-siapkan-skema-kredit-karbon-berkelanjutan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Verify to continue - Katadata - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "24 Sep 2026",
+   "kueri": [
+    "\"proyek karbon\" titik panas konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6ab4abb41ac48/walhi-sorot-ribuan-titik-panas-di-konsesi-proyek-karbon-kehutanan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi Sorot Ribuan Titik Panas di Konsesi Proyek Karbon Kehutanan\nProyek karbon kehutanan menuai sorotan seiring banyaknya titik panas yang terdeteksi di area konsesi proyek.",
+    "Lembaga swadaya masyarakat bidang lingkungan Wahana Lingkungan Hidup Indonesia (Walhi) mencatat, sebanyak 446 titik panas dengan tingkat kepercayaan tinggi terdeteksi di 12 konsesi perusahaan pengelola proyek karbon sepanjang 1 Januari-14 S"
+   ]
+  },
+  {
+   "judul": "BPGMN Dibentuk, Seberapa Efektif Cegah Karhutla Berulang? - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "28 Sep 2026",
+   "kueri": [
+    "\"proyek karbon\" titik panas konsesi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tirto.id/bpgmn-dibentuk-seberapa-efektif-cegah-karhutla-berulang-hDhB",
+   "teks_terbaca": true,
+   "walhi_di_isi": 12,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Kehutanan, Raja Juli Antoni, mengatakan struktur lembaga ini berbeda dengan periode sebelumnya karena berada langsung di bawah komando presiden dengan dukungan tenaga ahli dan pendanaan yang kuat.",
+    "Sementara itu Menteri Pendidikan Tinggi, Sains, dan Teknologi (Mendiktisaintek), Brian Yuliarto, menjelaskan pendirian BPGMN lahir dari kesimpulan diskusi panel para ilmuwan dan pakar lintas perguruan tinggi.",
+    "Menanggapi hal tersebut, Pengamat Lingkungan dari Saba Alam Indonesia Hijau (SAIH), Pahrul Roji, melihat ada niat baik dari Presiden untuk menanggulangi kebakaran hutan."
+   ],
+   "kalimat_walhi": [
+    "Jangan Sekadar Rebranding\nPembentukan lembaga baru tidak akan berarti, menurut WALHI, apabila hanya mengulang pola lama yang bersifat reaktif setelah kebakaran terjadi.",
+    "Koordinator Pengkampanye Eksekutif Nasional WALHI, Uli Arta Siagian, mendesak BPGMN tidak boleh berhenti pada perubahan nomenklatur kelembagaan."
+   ]
+  },
+  {
+   "judul": "Kementerian Kehutanan - Kementerian Kehutanan",
+   "media": "Kementerian Kehutanan",
+   "tanggal": "28 Sep 2026",
+   "kueri": [
+    "\"proyek karbon\" karhutla Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kehutanan.go.id/pers/bujang-raba-lanskap-perhutanan-sosial-pertama-yang-masuk-perdagangan-karbon",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menhut menegaskan, arah yang ingin dicapai Kementerian Kehutanan adalah mengubah cara pandang terhadap hutan dari menebang menjadi menanam dan menjaga, dengan memastikan masyarakat yang menjaga hutan mendapatkan manfaat.",
+    "Kehadiran Menhut di Bujang Raba menegaskan pesan Kementerian Kehutanan bahwa Perhutanan Sosial yang dikelola dengan baik dapat menghasilkan nilai ekonomi yang tinggi bagi pemegangnya, sekaligus menjaga hutan tetap lestari untuk generasi mendatang.(*)\nPenanggung jawab berita:\nKepa"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut Dorong Perhutanan Sosial Bujang Raba Masuk Perdagangan Karbon - www.suaralandak.co.id",
+   "media": "www.suaralandak.co.id",
+   "tanggal": "29 Sep 2026",
+   "kueri": [
+    "\"proyek karbon\" karhutla Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suaralandak.co.id/kemenhut-dorong-perhutanan-sosial-bujang-raba-perdagangan-karbon",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menu\nKategori\nNews\nEntertainment\nTekno & Sains\nBisnis\nOtomotif\nFood & Travel\nBola & Sports\nPendidikan\nGaya Hidup\nTips Trik & Tutorial\nHalaman\nHubungi Kami\nRSS\nSuaralandak.co.id\nPortal Berita Online\nHubungi Kami\nRSS\nNews\nEntertainment\nTekno & Sains\nBisnis\nOtomotif\nFood & Travel\nBo"
+   ],
+   "kalimat_walhi": []
+  }
+ ]
+}

@@ -1,0 +1,396 @@
+{
+ "id": "P13",
+ "tanggal": "2026-10-26",
+ "rentang": [
+  "2026-10-25",
+  "2026-11-10"
+ ],
+ "kueri": [
+  "masyarakat sipil COP31 delegasi keadilan iklim",
+  "walhi COP31",
+  "koalisi masyarakat sipil COP31",
+  "\"keadilan iklim\" COP31 delegasi Indonesia",
+  "COP31 delegasi RI KLH"
+ ],
+ "jejaring": [
+  "koalisi masyarakat sipil",
+  "Greenpeace",
+  "AMAN"
+ ],
+ "jumlah_berita": 20,
+ "berita": [
+  {
+   "judul": "RAN Gender dan Perubahan Iklim Dinilai Belum Akuntabel, Perempuan dan Kelompok Rentan Masih Terabaikan - Ecobiz Asia",
+   "media": "Ecobiz Asia",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "koalisi masyarakat sipil COP31"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ecobiz.asia/ran-gender-dan-perubahan-iklim-dinilai-belum-akuntabel-perempuan-dan-kelompok-rentan-masih-terabaikan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "koalisi masyarakat sipil",
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Delegasi RI Imbangi Jejak Karbon Perjalanan Menuju COP31 Turkiye Lewat Aksi Tanam Mangrove - Ecobiz Asia",
+   "media": "Ecobiz Asia",
+   "tanggal": "01 Nov 2026",
+   "kueri": [
+    "COP31 delegasi RI KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ecobiz.asia/delegasi-ri-imbangi-jejak-karbon-perjalanan-menuju-cop31-turkiye-lewat-aksi-tanam-mangrove/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Staf Ahli Menteri Bidang Sumber Daya Pangan, Sumber Daya Alam, Energi dan Mutu Lingkungan KLH/BPLH sekaligus Penanggung Jawab Paviliun Indonesia COP31, Laksmi Widyajayanti, mengatakan perjalanan menuju forum iklim internasional juga menghasilkan emisi yang perlu dipertanggungjawa"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Dorong Indonesia Ajukan Inisiatif pada Pasal UNFCCC untuk Akui Penjaga Alam di COP 31 - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://prohealth.id/walhi-dorong-indonesia-ajukan-inisiatif-pada-pasal-unfccc-untuk-akui-penjaga-alam-di-cop-31/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "P3K, Kementerian Kelautan dan Perikanan (KKP) menyatakan dukungan terhadap penguatan Pasal 6.8."
+   ],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) mendorong Pemerintah Indonesia segera mengajukan inisiatif pertama berbasis hak kelola rakyat dalam skema Non-Market Approaches (NMA) Pasal 6.8 Perjanjian Paris.",
+    "Direktur Eksekutif Nasional WALHI, Boy Jerry Even Sembiring, mengkritik pendekatan iklim yang terlalu berfokus pada target penurunan emisi secara administratif, tetapi mengabaikan siapa yang sesungguhnya menjaga hutan dan ekosistem di lapan"
+   ]
+  },
+  {
+   "judul": "Indonesia Dorong Aksi Nyata Perubahan Iklim Lewat Kolaborasi Global di COP31 Turki - IBTimes.ID",
+   "media": "IBTimes.ID",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "\"keadilan iklim\" COP31 delegasi Indonesia"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ibtimes.id/indonesia-dorong-aksi-nyata-perubahan-iklim-lewat-kolaborasi-global-di-cop31-turki/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "DPP KNPI Dorong Transisi Energi Berkeadilan, Suarakan Resolusi Pemuda Jelang COP31 - Harian Bhirawa",
+   "media": "Harian Bhirawa",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "\"keadilan iklim\" COP31 delegasi Indonesia"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://harianbhirawa.co.id/dpp-knpi-dorong-transisi-energi-berkeadilan-suarakan-resolusi-pemuda-jelang-cop31/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH gandeng media gaungkan diplomasi Indonesia menuju COP31 - Elshinta",
+   "media": "Elshinta",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "COP31 delegasi RI KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://elshinta.com/amp/indeks/dalam-negeri/klh-gandeng-media-gaungkan-diplomasi-indonesia-menuju-cop31-183640",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Jelang COP31, KLH siapkan strategi perundingan iklim global - Elshinta",
+   "media": "Elshinta",
+   "tanggal": "03 Nov 2026",
+   "kueri": [
+    "COP31 delegasi RI KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://elshinta.com/amp/indeks/dalam-negeri/jelang-cop31-klh-siapkan-strategi-perundingan-iklim-global-183642",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "KLH: COP31 fokus pada implementasi nyata-akuntabilitas pendanaan iklim - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "04 Nov 2026",
+   "kueri": [
+    "masyarakat sipil COP31 delegasi keadilan iklim",
+    "COP31 delegasi RI KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://m.antaranews.com/amp/berita/5831231/klh-cop31-fokus-pada-implementasi-nyata-akuntabilitas-pendanaan-iklim",
+   "galat": "IncompleteRead(131072 bytes read)",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Ratusan Orang Desak Hashim Djojohadikusumo Mundur dari Utusan Khusus Iklim - Bengkulu News",
+   "media": "Bengkulu News",
+   "tanggal": "04 Nov 2026",
+   "kueri": [
+    "masyarakat sipil COP31 delegasi keadilan iklim"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bengkulunews.co.id/ratusan-orang-desak-hashim-djojohadikusumo-mundur-dari-utusan-khusus-iklim",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Darurat Iklim Gerakan Masyarakat Sipil Konsolidasi Cerita Tapak dan Menagih Akuntabilitas Iklim Menuju COP31 - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "04 Nov 2026",
+   "kueri": [
+    "koalisi masyarakat sipil COP31"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/952226/darurat-iklim-gerakan-masyarakat-sipil-konsolidasi-cerita-tapak-dan-menagih-akuntabilitas-iklim-menuju-cop31",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH usung Paviliun Indonesia di COP31 Turki sebagai rumah solusi iklim - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "04 Nov 2026",
+   "kueri": [
+    "\"keadilan iklim\" COP31 delegasi Indonesia",
+    "COP31 delegasi RI KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://m.antaranews.com/amp/berita/5831215/klh-usung-paviliun-indonesia-di-cop31-turki-sebagai-rumah-solusi-iklim",
+   "galat": "Remote end closed connection without response",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "RI siap angkat RUU Pengendalian Perubahan Iklim Berkeadilan pada COP31 - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "04 Nov 2026",
+   "kueri": [
+    "COP31 delegasi RI KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5831691/ri-siap-angkat-ruu-pengendalian-perubahan-iklim-berkeadilan-pada-cop31",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Masyarakat Sipil Desak Penguatan Keadilan Iklim dan Pelibatan Kelompok Rentan dalam COP31 - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "masyarakat sipil COP31 delegasi keadilan iklim",
+    "walhi COP31",
+    "koalisi masyarakat sipil COP31",
+    "\"keadilan iklim\" COP31 delegasi Indonesia"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/koalisi-masyarakat-sipil-desak-penguatan-keadilan-iklim-dan-pelibatan-kelompok-rentan-dalam-cop31",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Secara terpisah, Utusan Khusus Presiden Bidang Iklim dan Energi, Hashim S Djojohadikusumo, dalam siaran pers, mengatakan, COP31 bukan sekadar forum untuk menyampaikan komitmen, melainkan momentum untuk menunjukkan perwujudan solusi iklim.",
+    "Menteri Lingkungan Hidup yang juga Kepala Badan Pengendalian Lingkungan Hidup Moh Jumhur Hidayat mengatakan, persiapan COP31 mencakup berbagai inisiatif, termasuk menyampaikan rancangan undang-undang perubahan iklim berkeadilan dan energi baru terbarukan."
+   ],
+   "kalimat_walhi": [
+    "Hal itu diutarakan Pengampanye Iklim dan Isu Global Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (Walhi) Patria Rizky Ananda sesuai audiensi dengan Kementerian Lingkungan Hidup, di Jakarta, Senin (26/10/2026).",
+    "Dalam audiensi tersebut sebanyak tujuh organisasi turut hadir, yakni Walhi, Forest Watch Indonesia, Kesatuan Nelayan Tradisional Indonesia (KNTI), Yayasan Pikul, Climate Rangers, dan Solidaritas Perempuan."
+   ]
+  },
+  {
+   "judul": "Civil Society Urges Strengthening of Climate Justice and Inclusion of Vulnerable Groups at COP31 - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/civil-society-coalition-urges-strengthening-of-climate-justice-and-involvement-of-vulnerable-groups-in-cop31",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "This was stated by Patria Rizky Ananda, a climate and global issues campaigner from the National Executive of the Indonesian Forum for the Environment (Walhi), during a meeting with the Ministry of Environment in Jakarta on Monday (26/10/20",
+    "During the meeting, seven organizations were present, including Walhi, Forest Watch Indonesia, the Indonesian Traditional Fishermen's Union (KNTI), Yayasan Pikul, Climate Rangers, and Solidaritas Perempuan."
+   ]
+  },
+  {
+   "judul": "Kaset Kusut Jualan Karbon Indonesia dalam Konferensi Iklim COP31 - Transisi energi berkeadilan",
+   "media": "Transisi energi berkeadilan",
+   "tanggal": "27 Oct 2026",
+   "kueri": [
+    "\"keadilan iklim\" COP31 delegasi Indonesia"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://transisienergiberkeadilan.id/id/special-reports/detail/kaset-kusut-jualan-karbon-indonesia-dalam-konferensi-iklim-cop31",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jelang COP31, Koalisi Desak Moratorium Tambang Nikel dan PLTU Captive di Indonesia Timur - cermat",
+   "media": "cermat",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "masyarakat sipil COP31 delegasi keadilan iklim",
+    "koalisi masyarakat sipil COP31"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cermat.co.id/jelang-cop31-koalisi-desak-moratorium-tambang-nikel-dan-pltu-captive-di-indonesia-timur/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Koalisi merujuk pada kemenangan sebagian gugatan WALHI di Pengadilan Negeri Poso pada 3 Desember 2025 serta putusan Komisi Informasi Sulawesi Tengah pada 7 Oktober 2026."
+   ]
+  },
+  {
+   "judul": "Jelang COP31, Anak Muda Desak Pemerintah Hentikan Izin Tambang dan Perkebunan Ekstraktif - Jogjakartanews",
+   "media": "Jogjakartanews",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "\"keadilan iklim\" COP31 delegasi Indonesia"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jogjakartanews.com/baca/2026/10/29/29348/jelang-cop31-anak-muda-desak-pemerintah-hentikan-izin-tambang-dan-perkebunan-ekstraktif",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jaringan Orang Muda Indonesia Desak Pemerintah Hentikan Solusi Palsu Krisis Iklim - Tribunjogja.com",
+   "media": "Tribunjogja.com",
+   "tanggal": "29 Oct 2026",
+   "kueri": [
+    "\"keadilan iklim\" COP31 delegasi Indonesia"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jogja.tribunnews.com/diy/1226661/jaringan-orang-muda-indonesia-desak-pemerintah-hentikan-solusi-palsu-krisis-iklim",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Koalisi Indonesia Timur, Transisi Energi Jangan Jadi Kedok Ekspansi Ekstraktif - Bentaratimur.id",
+   "media": "Bentaratimur.id",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "koalisi masyarakat sipil COP31"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bentaratimur.id/koalisi-indonesia-timur-transisi-energi-jangan-jadi-kedok-ekspansi-ekstraktif/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Meski demikian, koalisi menyebut sejumlah kemenangan dalam proses hukum, termasuk sebagian gugatan WALHI di Pengadilan Negeri Poso pada 3 Desember 2025 dan putusan Komisi Informasi Sulawesi Tengah pada 7 Oktober 2026, sebagai bukti bahwa jalur hukum dan keterbukaan informasi teta"
+   ],
+   "kalimat_walhi": [
+    "Direktur WALHI Palu, Sunardi Katili, menilai persoalan ekspansi tambang nikel di Indonesia Timur tidak bisa dilepaskan dari ancaman terhadap kawasan dengan keanekaragaman hayati tinggi.",
+    "Meski demikian, koalisi menyebut sejumlah kemenangan dalam proses hukum, termasuk sebagian gugatan WALHI di Pengadilan Negeri Poso pada 3 Desember 2025 dan putusan Komisi Informasi Sulawesi Tengah pada 7 Oktober 2026, sebagai bukti bahwa ja"
+   ]
+  },
+  {
+   "judul": "Aksi Godzilla El Nino di Jakarta: Kritik Karpet Merah Korporasi - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "\"keadilan iklim\" COP31 delegasi Indonesia"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tirto.id/aksi-godzilla-el-nino-di-jakarta-kritik-karpet-merah-korporasi-hEq5",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

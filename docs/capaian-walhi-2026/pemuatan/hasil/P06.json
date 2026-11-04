@@ -1,0 +1,243 @@
+{
+ "id": "P06",
+ "tanggal": "2026-08-28",
+ "rentang": [
+  "2026-08-27",
+  "2026-09-12"
+ ],
+ "kueri": [
+  "walhi \"solusi palsu\" transisi energi",
+  "\"solusi palsu\" transisi energi",
+  "\"ekosistem esensial\" transisi energi",
+  "walhi transisi energi ekosistem"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 13,
+ "berita": [
+  {
+   "judul": "Rencana Energi Dikritik karena Masih Bergantung pada Energi Fosil - Betahita",
+   "media": "Betahita",
+   "tanggal": "01 Sep 2026",
+   "kueri": [
+    "\"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12308/rencana-energi-dikritik-karena-masih-bergantung-pada-energi-fosil",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Suplai Listrik Jateng Berlimpah, Urgensi Proyek Panas Bumi di Gunung Ungaran Dipertanyakan - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi transisi energi ekosistem"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/suplai-listrik-jateng-berlimpah-urgensi-proyek-panas-bumi-di-gunung-ungaran-dipertanyakan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Bidang Energi Baru Terbarukan Dinas Energi Sumber Daya Mineral (ESDM) Jateng Dwi Suryono menyebut, Kementerian Energi dan Sumber Daya Mineral telah menerbitkan izin eksplorasi terkait rencana proyek PLTPB di Gunung Ungaran.",
+    "Kepala ESDM Jateng Agus Sugiharto menyebut, masyarakat tidak perlu panik dengan proyek panas bumi."
+   ],
+   "kalimat_walhi": [
+    "Rencana proyek PLTPB itu juga dipertanyakan urgensinya oleh Wahana Lingkungan Hidup Indonesia (Walhi) Jateng.",
+    "Deputi Direktur Walhi Jateng Nur Cholis menyebut, suplai listrik di Jateng sudah tergolong berlebih."
+   ]
+  },
+  {
+   "judul": "Raja Ampat Masih Diincar Tambang, Koalisi Sipil: Pulau Kecil Bukan Ladang Eksploitasi - Suara Papua",
+   "media": "Suara Papua",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "walhi transisi energi ekosistem"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://suarapapua.com/2026/09/04/raja-ampat-masih-diincar-tambang-koalisi-sipil-pulau-kecil-bukan-ladang-eksploitasi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Koalisi ini terdiri dari Greenpeace Indonesia, Aliansi Masyarakat Adat Nusantara (AMAN), Perhimpunan Pembela Masyarakat Adat Nusantara (PPMAN), Working Group ICCAs Indonesia (WGII), Jaringan Kerja Pemetaan Partisipatif (JKPP), Badan Registr",
+    "Data WALHI mencatat sedikitnya 43 pulau kecil di Indonesia telah dibebani 248 izin pertambangan."
+   ]
+  },
+  {
+   "judul": "WALHI Kritik Proyek PLTP Gunung Ungaran, Ancam Mata Air Warga dan Candi Gedong Songo - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "walhi \"solusi palsu\" transisi energi",
+    "\"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.tribunnews.com/regional/7878721/walhi-kritik-proyek-pltp-gunung-ungaran-ancam-mata-air-warga-dan-candi-gedong-songo",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "RUEN Dalam Kebijakan \"Pura-pura Transisi Energi\" - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "\"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://money.kompas.com/read/2026/09/09/164000526/ruen-dalam-kebijakan-pura-pura-transisi-energi-?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Proyek HTE hingga Pembangunan Markas Batalyon di Hutan Bikin Petani Terdesak - Tribunbanyumas.com",
+   "media": "Tribunbanyumas.com",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "\"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi Jateng Sebut Proyek Geotermal Ancam Kawasan Hutan dan Daerah Tangkapan Air - Tribunjateng.com",
+   "media": "Tribunjateng.com",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "walhi \"solusi palsu\" transisi energi",
+    "\"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://jateng.tribunnews.com/jawa-tengah/1264481/walhi-jateng-sebut-proyek-geotermal-ancam-kawasan-hutan-dan-daerah-tangkapan-air",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "IIGCE 2026: Forum Percepatan Dagang Geothermal Di tengah Kerentanan Bencana Pulau-Pulau Indonesia - Jaringan Advokasi Tambang",
+   "media": "Jaringan Advokasi Tambang",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "\"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jatam.org/id/lengkap/Forum-Percepatan-Dagang-Geothermal-Di-tengah-Kerentanan-Bencana-Pulau-Pulau-Indonesia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Karena itu, kami dari Koalisi Tolak Geotermal: JATAM, JPIC-OFM Indonesia, WALHI Nasional, AKSI, SP, CELIOS, Sajogyo Institute, ENTER Nusantara, Papua Solidarity Network, MUDA, GMNI Jakarta Selatan, Rhizoma, Warga Padarincang – Banten, Warga Gunung Gede dan Tampomas – Jawa Barat d"
+   ],
+   "kalimat_walhi": [
+    "Karena itu, kami dari Koalisi Tolak Geotermal: JATAM, JPIC-OFM Indonesia, WALHI Nasional, AKSI, SP, CELIOS, Sajogyo Institute, ENTER Nusantara, Papua Solidarity Network, MUDA, GMNI Jakarta Selatan, Rhizoma, Warga Padarincang – Banten, Warga"
+   ]
+  },
+  {
+   "judul": "WALHI minta perburuan ilegal Burung Ekek Keling Sunda ditindak tegas - ANTARA News Bengkulu",
+   "media": "ANTARA News Bengkulu",
+   "tanggal": "28 Aug 2026",
+   "kueri": [
+    "walhi transisi energi ekosistem"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://bengkulu.antaranews.com/berita/478049/walhi-minta-perburuan-ilegal-burung-ekek-keling-sunda-ditindak-tegas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Bandung (ANTARA) - Wahana Lingkungan Hidup Indonesia (WALHI) Jawa Barat (Jabar) meminta pemerintah dan aparat penegak hukum menindak tegas praktik pemburuan dan perdagangan ilegal Burung Ekek Keling Sunda atau Ekek Geling Jawa (Cissa thalas",
+    "Manager Divisi Pendidikan WALHI Jabar M."
+   ]
+  },
+  {
+   "judul": "Gunung Ungaran Bakal Dibor 2.200 Meter untuk PLTP, WALHI Soroti Ancaman terhadap Sumber Mata Air - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "walhi \"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://regional.kompas.com/read/2026/08/30/065703778/gunung-ungaran-bakal-dibor-2200-meter-untuk-pltp-walhi-soroti-ancaman?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Bidang Energi Baru Terbarukan dan Konservasi Energi Dinas ESDM Jawa Tengah Dwi Suryono mengatakan, pengembangan panas bumi Gunung Ungaran mengacu pada Keputusan Menteri ESDM Nomor 134.TK/EK.04/MEMBPE/2026 yang diterbitkan pada Maret 2026."
+   ],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) Jawa Tengah memiliki catatan tersendiri terhadap pengembangan panas bumi tersebut.",
+    "Staf Kajian dan Pengelolaan Pengetahuan WALHI Jawa Tengah Bagas Kurniawan mengatakan, luas WKP panas bumi di Jawa Tengah mencapai lebih dari 200.000 hektar."
+   ]
+  },
+  {
+   "judul": "Kebijakan Dekarbonisasi Buka Jalan Langgengkan Industri Fosil? - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "30 Aug 2026",
+   "kueri": [
+    "\"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/08/30/kebijakan-dekarbonisasi-buka-jalan-langgengkan-industri-fosil/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [
+    "Fanny Tri Jambore"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bakal Dibor 2.200 Meter untuk PLTP, Keasrian Gunung Ungaran Akan Tinggal Nama - NNC Netralnews",
+   "media": "NNC Netralnews",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi \"solusi palsu\" transisi energi",
+    "\"solusi palsu\" transisi energi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.netralnews.com/nncperistiwa/bakal-dibor-2200-meter-untuk-pltp-keasrian-gunung-ungaran-akan-tinggal-nama",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Tuntut Koreksi Pembangunan Pesisir lewat RUU Daerah Kepulauan - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "walhi transisi energi ekosistem"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://rri.co.id/pekanbaru/regional/2697043/walhi-tuntut-koreksi-pembangunan-pesisir-lewat-ruu-daerah-kepulauan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  }
+ ]
+}

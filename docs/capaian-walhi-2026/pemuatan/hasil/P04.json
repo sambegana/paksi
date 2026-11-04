@@ -1,0 +1,181 @@
+{
+ "id": "P04",
+ "tanggal": "2026-08-26",
+ "rentang": [
+  "2026-08-25",
+  "2026-09-10"
+ ],
+ "kueri": [
+  "walhi \"RUU Keadilan Iklim\"",
+  "walhi \"RUU Perubahan Iklim\"",
+  "\"RUU Perubahan Iklim\" DPR",
+  "\"RUU Keadilan Iklim\"",
+  "RUU iklim \"solusi palsu\""
+ ],
+ "jejaring": [
+  "Koalisi",
+  "Greenpeace",
+  "IESR"
+ ],
+ "jumlah_berita": 9,
+ "berita": [
+  {
+   "judul": "Edhie Baskoro: RUU Perubahan Iklim Jangan Hanya Bagus di Atas Kertas, Harus Terasa Manfaatnya bagi Rakyat - mpr.go.id",
+   "media": "mpr.go.id",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "walhi \"RUU Perubahan Iklim\"",
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.mpr.go.id/berita/edhie-baskoro-ruu-perubahan-iklim-lindungi-rakyat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Greenpeace",
+    "IESR"
+   ],
+   "kalimat_pemerintah": [
+    "JAKARTA— Wakil Ketua MPR RI sekaligus Ketua Fraksi Partai Demokrat DPR RI, Edhie Baskoro Yudhoyono (EBY), mendorong agar Rancangan Undang-Undang (RUU) Perubahan Iklim tidak berhenti sebagai regulasi normatif, tetapi benar-benar menjadi instrumen negara untuk melindungi rakyat, me"
+   ],
+   "kalimat_walhi": [
+    "Eddy Hermawan, M.Sc., Direktur Eksekutif Sustain Tata Mustasya, serta Fabby Tumiwa dari Institute for Essential Services Reform (IESR), bersama perwakilan BMKG, WALHI, Greenpeace, lembaga riset, dan organisasi kepemudaan."
+   ]
+  },
+  {
+   "judul": "Ibas sebut RUU Perubahan Iklim perlu jawab isu target-pembiayaan - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5722500/ibas-sebut-ruu-perubahan-iklim-perlu-jawab-isu-target-pembiayaan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "DPR Minta KLH Fokus Cegah Karhutla - Validnews",
+   "media": "Validnews",
+   "tanggal": "02 Sep 2026",
+   "kueri": [
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://validnews.id/nasional/dpr-minta-klh-fokus-cegah-karhutla-1788339861",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Bukan Sekadar Target Karbon, RUU Perubahan Iklim Harus Jamin Keadilan bagi Kelompok Rentan - Hukumonline",
+   "media": "Hukumonline",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.hukumonline.com/berita/a/bukan-sekadar-target-karbon--ruu-perubahan-iklim-harus-jamin-keadilan-bagi-kelompok-rentan-lt6a9a20370d235/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Fenomena ini menegaskan urgensi pemerintah memperkuat mitigasi perubahan iklim, salah satunya melalui penyusunan Rancangan Undang-Undang (RUU) Perubahan Iklim bersama DPR.",
+    "Sekretaris Utama Kementerian Lingkungan Hidup/Badan Pengendalian Lingkungan Hidup, Rosa Vivien Ratnawati, mengatakan secara umum pengaturan RUU meliputi 5 substansi.",
+    "kata Rosa dalam rapat dengan Komisi XII di kompleks parlemen, Kamis (3/9/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "DPR Setujui 4 RUU Jadi Usul Inisiatif, RUU Reforma Agraria Dianggap Momentum Bersejarah - Hukumonline",
+   "media": "Hukumonline",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.hukumonline.com/berita/a/dpr-setujui-4-ruu-jadi-usul-inisiatif--ruu-reforma-agraria-dianggap-momentum-bersejarah-lt6a9fd6e667089/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Dasco dalam rapat paripurna DPR, Selasa (08/09/2026).",
+    "Sekretaris Jenderal Konsorsium Pembaruan Agraria (KPA), Dewi Kartika, mengatakan KPA mengapresiasi DPR menyetujui RUU Pengaturan Reforma Agraria sebagai RUU inisiatif DPR."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Urgensi RUU Perubahan Iklim - Pikiran Rakyat Koran",
+   "media": "Pikiran Rakyat Koran",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://koran.pikiran-rakyat.com/opini/pr-30310441985/urgensi-ruu-perubahan-iklim",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemkab Tanjung Jabung Barat dorong daur ulang sampah berbasis ekonomi - ANTARA News Jambi",
+   "media": "ANTARA News Jambi",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambi.antaranews.com/berita/666728/pemkab-tanjung-jabung-barat-dorong-daur-ulang-sampah-berbasis-ekonomi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Wakil Bupati Tanjab Barat Katamso di Kuala Tungkal, Kamis."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Atasi Krisis Sampah Bekasi, Pemerintah Dorong Solusi dari Hulu hingga Hilir - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "27 Aug 2026",
+   "kueri": [
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/nasional/2682931/atasi-krisis-sampah-bekasi-pemerintah-dorong-solusi-dari-hulu-hingga-hilir",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Unpatti & BK DPR RI Teken Kerja Sama - MalukuTerkini.com",
+   "media": "MalukuTerkini.com",
+   "tanggal": "31 Aug 2026",
+   "kueri": [
+    "\"RUU Perubahan Iklim\" DPR"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.malukuterkini.com/2026/08/31/unpatti-bk-dpr-ri-teken-kerja-sama/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

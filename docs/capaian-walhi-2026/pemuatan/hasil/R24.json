@@ -1,0 +1,261 @@
+{
+ "id": "R24",
+ "tanggal": "2026-10-12",
+ "rentang": [
+  "2026-10-11",
+  "2026-10-27"
+ ],
+ "kueri": [
+  "walhi COP31 komunitas",
+  "COP31 \"masyarakat adat\" Indonesia",
+  "COP31 delegasi Indonesia komunitas lokal",
+  "AMAN COP31",
+  "walhi COP31"
+ ],
+ "jejaring": [
+  "AMAN",
+  "Aliansi Masyarakat Adat"
+ ],
+ "jumlah_berita": 12,
+ "berita": [
+  {
+   "judul": "COP31 Jadi Ajang Indonesia Kejar Investasi Hijau, Potensi Pasar Karbon Rp138 Triliun per Tahun - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "12 Oct 2026",
+   "kueri": [
+    "walhi COP31 komunitas",
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://voi.id/ekonomi/598197/cop31-jadi-ajang-indonesia-kejar-investasi-hijau-potensi-pasar-karbon-rp138-triliun-per-tahun",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Koordinator Bidang Pangan Zulkifli Hasan mengatakan delegasi Indonesia tidak cukup hanya membawa komitmen."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Swasembada Beras Lebih Cepat, Indonesia Bidik Perlindungan Hutan di COP31 - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "12 Oct 2026",
+   "kueri": [
+    "AMAN COP31"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tribunnews.com/bisnis/7895712/swasembada-beras-lebih-cepat-indonesia-bidik-perlindungan-hutan-di-cop31",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "COP31 Momentum Pengakuan Hak dan Kontribusi Masyarakat - Betahita",
+   "media": "Betahita",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "walhi COP31 komunitas",
+    "COP31 \"masyarakat adat\" Indonesia",
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12496/cop31-momentum-pengakuan-hak-dan-kontribusi-masyarakat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Selasa, 13 Oktober 2026\nBETAHITA.ID - Wahana Lingkungan Hidup Indonesia (Walhi) mendesak Pemerintah Indonesia untuk memastikan terlaksananya aksi iklim tidak kembali terjebak dalam janji dan proyek yang mengabaikan perlindungan ekologis.",
+    "Selain mengakui dan melindungi hak masyarakat adat dan komunitas lokal, Walhi juga melihat COP31 sebagai kesempatan untuk memperkuat wilayah mengelola rakyat, serta menyalurkan dukungan pendanaan kepada inisiatif masyarakat yang terbukti me"
+   ]
+  },
+  {
+   "judul": "Jelang COP31 Antalya, WALHI Desak Pemerintah Akui Hak Komunitas dan Evaluasi Proyek Karbon Bermasalah - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "walhi COP31 komunitas",
+    "COP31 \"masyarakat adat\" Indonesia",
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/berita/598329/jelang-cop31-antalya-walhi-desak-pemerintah-akui-hak-komunitas-dan-evaluasi-proyek-karbon-bermasalah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [
+    "Boy Jerry Even Sembiring"
+   ],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JAKARTA — Menjelang Konferensi Perubahan Iklim PBB ke-31 (COP31) di Antalya, Türkiye, Wahana Lingkungan Hidup Indonesia (WALHI) mendesak Pemerintah Indonesia untuk merombak total pendekatan aksi iklim nasional.",
+    "WALHI menegaskan agar implementasi kebijakan iklim tidak kembali terjebak dalam skema pasar (carbon market) dan proyek berskala besar yang mengabaikan keadilan ekologis."
+   ]
+  },
+  {
+   "judul": "Laksdya Hersan Jadi Perbincangan di Bursa Calon Kasal, Rekam Jejaknya Disorot - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://voi.id/en/news/598306",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tenun Indonesia Dibidik Masuk UNESCO, Pemerintah Siapkan Basis Data Nasional - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi COP31 komunitas"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://voi.id/berita/598388/tenun-indonesia-dibidik-masuk-unesco-pemerintah-siapkan-basis-data-nasional",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Menteri Kebudayaan Fadli Zon mengatakan strategi pengusulan masih perlu dimatangkan dengan memperhatikan mekanisme UNESCO."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Indonesia Siapkan Data Karhutla Hadapi Pertanyaan di COP31 Turki - republika.co.id",
+   "media": "republika.co.id",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "AMAN COP31"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://esgnow.republika.co.id/berita/tmw8re423/indonesia-siapkan-data-karhutla-hadapi-pertanyaan-di-cop31-turki",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "AMAN"
+   ],
+   "kalimat_pemerintah": [
+    "Direktur Mobilisasi Sumber Daya Pengendalian Perubahan Iklim Kementerian Lingkungan Hidup Irawan Asaad mengatakan, isu kebakaran hutan dan deforestasi telah dibahas dalam pertemuan tingkat menteri sebagai bagian dari persiapan Indonesia menghadapi COP31 yang akan digelar pada bul"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pengendara Vario Ditemukan Tewas Usai Tabrak Pohon di Kembangan Jakbar - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://voi.id/berita/598448/pengendara-vario-ditemukan-tewas-usai-tabrak-pohon-di-kembangan-jakbar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Kepala Unit Penegakan Hukum (Kanit Gakkum) Satlantas Polres Metro Jakarta Barat AKP Joko Siswanto, Rabu."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "COP31 Jadi Momentum Prabowo Percepat Transisi Energi - Rmol.id",
+   "media": "Rmol.id",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "COP31 \"masyarakat adat\" Indonesia"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rmol.id/politik/read/2026/10/15/725039/cop31-jadi-momentum-prabowo-percepat-transisi-energi",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kebakaran Hutan dan Janji Perlindungan Alam Jadi Sorotan Jelang COP31, Ini Catatan untuk Indonesia - Hukama News - Hukama News",
+   "media": "Hukama News",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "COP31 \"masyarakat adat\" Indonesia"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.hukamanews.com/climate-justice/46017809091/kebakaran-hutan-dan-janji-perlindungan-alam-jadi-sorotan-jelang-cop31-ini-catatan-untuk-indonesia",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Masyarakat Sipil Desak Penguatan Keadilan Iklim dan Pelibatan Kelompok Rentan dalam COP31 - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "walhi COP31 komunitas",
+    "COP31 \"masyarakat adat\" Indonesia",
+    "COP31 delegasi Indonesia komunitas lokal",
+    "AMAN COP31",
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/koalisi-masyarakat-sipil-desak-penguatan-keadilan-iklim-dan-pelibatan-kelompok-rentan-dalam-cop31",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Secara terpisah, Utusan Khusus Presiden Bidang Iklim dan Energi, Hashim S Djojohadikusumo, dalam siaran pers, mengatakan, COP31 bukan sekadar forum untuk menyampaikan komitmen, melainkan momentum untuk menunjukkan perwujudan solusi iklim.",
+    "Menteri Lingkungan Hidup yang juga Kepala Badan Pengendalian Lingkungan Hidup Moh Jumhur Hidayat mengatakan, persiapan COP31 mencakup berbagai inisiatif, termasuk menyampaikan rancangan undang-undang perubahan iklim berkeadilan dan energi baru terbarukan."
+   ],
+   "kalimat_walhi": [
+    "Hal itu diutarakan Pengampanye Iklim dan Isu Global Eksekutif Nasional Wahana Lingkungan Hidup Indonesia (Walhi) Patria Rizky Ananda sesuai audiensi dengan Kementerian Lingkungan Hidup, di Jakarta, Senin (26/10/2026).",
+    "Dalam audiensi tersebut sebanyak tujuh organisasi turut hadir, yakni Walhi, Forest Watch Indonesia, Kesatuan Nelayan Tradisional Indonesia (KNTI), Yayasan Pikul, Climate Rangers, dan Solidaritas Perempuan."
+   ]
+  },
+  {
+   "judul": "Civil Society Urges Strengthening of Climate Justice and Inclusion of Vulnerable Groups at COP31 - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "26 Oct 2026",
+   "kueri": [
+    "COP31 \"masyarakat adat\" Indonesia",
+    "walhi COP31"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/civil-society-coalition-urges-strengthening-of-climate-justice-and-involvement-of-vulnerable-groups-in-cop31",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "This was stated by Patria Rizky Ananda, a climate and global issues campaigner from the National Executive of the Indonesian Forum for the Environment (Walhi), during a meeting with the Ministry of Environment in Jakarta on Monday (26/10/20",
+    "During the meeting, seven organizations were present, including Walhi, Forest Watch Indonesia, the Indonesian Traditional Fishermen's Union (KNTI), Yayasan Pikul, Climate Rangers, and Solidaritas Perempuan."
+   ]
+  }
+ ]
+}

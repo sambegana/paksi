@@ -1,0 +1,1393 @@
+{
+ "id": "R14",
+ "tanggal": "2026-09-04",
+ "rentang": [
+  "2026-09-03",
+  "2026-09-19"
+ ],
+ "kueri": [
+  "walhi \"putri cempo\"",
+  "\"putri cempo\" terbakar",
+  "\"putri cempo\" open dumping",
+  "\"putri cempo\" KLH"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 75,
+ "berita": [
+  {
+   "judul": "TPA Putri Cempo Solo Terbakar - SinPo.id",
+   "media": "SinPo.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tv.sinpo.id/detail/tpa-putri-cempo-solo-terbakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "6 Hektar Gunungan Sampah TPA Putri Cempo Solo Terbakar - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/120518478/6-hektar-gunungan-sampah-tpa-putri-cempo-solo-terbakar?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Potret TPA Putri Cempo Solo Terbakar! Api Berkobar Lalap 2,17 Hektare - CNBC Indonesia",
+   "media": "CNBC Indonesia",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cnbcindonesia.com/news/20260903161722-7-764732/potret-tpa-putri-cempo-solo-terbakar-api-berkobar-lalap-217-hektare",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Solo Diprediksi Baru Padam Sepekan, Api Menjalar ke 3 Blok - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar",
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/135106878/kebakaran-tpa-putri-cempo-solo-diprediksi-baru-padam-sepekan-api-menjalar?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Masih Terbakar, Wali Kota Solo: Warning Alam Semesta - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/141859678/tpa-putri-cempo-masih-terbakar-wali-kota-solo-warning-alam-semesta",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Gabung Kompas.com+\n            \nKompas.com, 3 September 2026, 14:18 WIB\nSOLO, KOMPAS.com - Wali Kota Solo Respati Ardi mengatakan bahwa kebakaran Tempat Pembuangan Akhir (TPA) Putri Cempo merupakan warning semesta alam.",
+    "Sementara itu, Kepala Dinas Lingkunyan Hidup (DLH) Solo, Herwin Tri Nugroho, menjelaskan produksi gas metana menyebabkan api yang membakar gunungan sampah TPA Putri Cempo belum sepenuhnya padam."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jika Kebakaran TPA Putri Cempo Belum Padam Malam Ini, Pemkot Solo Upayakan Water Bombing - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/190709678/jika-kebakaran-tpa-putri-cempo-belum-padam-malam-ini-pemkot-solo-upayakan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Wali Kota Solo Belum Tahu Penyebab Kebakaran TPA Putri Cempo, Fokus Sekat Titik Api - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/060202478/wali-kota-solo-belum-tahu-penyebab-kebakaran-tpa-putri-cempo-fokus-sekat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Gabung Kompas.com+\n            \nKompas.com, 3 September 2026, 06:02 WIB\nSOLO, KOMPAS.com - Wali Kota Solo, Respati Ardi, mengatakan belum mengetahui penyebab kebakaran Tempat Pembuangan Akhir (TPA) Putri Cempo di Kecamatan Jebres, Solo, Jawa Tengah, Rabu (2/9/2026) petang."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Masih Terbakar, Pemkot Solo Kaji Opsi \"Water Bombing\" - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/081206878/tpa-putri-cempo-masih-terbakar-pemkot-solo-kaji-opsi-water-bombing",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Lingkungan Hidup (DLH) Solo, Herwin Tri Nugroho, mengatakan unit-unit armada pemadam kebakaran masih disiagakan di lokasi kebakaran TPA Putri Cempo."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Solo Terbakar, DLH Minta Pengiriman Sampah dari Kelurahan Ditahan Dulu - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/211103478/tpa-putri-cempo-solo-terbakar-dlh-minta-pengiriman-sampah-dari-kelurahan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala DLH Solo, Herwin Tri Nugroho Adi mengatakan, pihaknya telah membuat skala prioritas penerimaan sampah."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Belum Berstatus KLB, Situasi Diklaim Terkendali - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar",
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/205047078/kebakaran-tpa-putri-cempo-belum-berstatus-klb-situasi-diklaim-terkendali?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ditemui usai peninjauan, Noer menyebut KLH telah mencanangkan untuk memantau semua TPA sampah di seluruh Indonesia.",
+    "Baca juga: TPA Putri Cempo Masih Terbakar, Wali Kota Solo: Warning Alam Semesta\nTerkait dengan kebakaran di TPA Putri Cempo, ia menyebut saat ini sejumlah titik api telah terdeteksi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Solo, 22 Armada Damkar Berjibaku Jinakkan Api - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/060828678/kebakaran-tpa-putri-cempo-solo-22-armada-damkar-berjibaku-jinakkan-api",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara itu, Wali Kota Solo, Respati Ardi, mengatakan personel gabungan BPBD, Damkar, Kepolisian, dan TNI akan siaga 24 jam agar api tidak cepat menjalar."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Dini Hari, Pemkot Solo Rumuskan Skema Pengangkutan Sampah - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/070109678/kebakaran-tpa-putri-cempo-dini-hari-pemkot-solo-rumuskan-skema-pengangkutan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Belum Padam, Walkot Solo Tetapkan Tanggap Darurat - detikNews",
+   "media": "detikNews",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.detik.com/berita/d-8647576/kebakaran-tpa-putri-cempo-belum-padam-walkot-solo-tetapkan-tanggap-darurat",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wali Kota Solo, Respati Ardi, mengatakan bahwa penetapan status darurat ini diputuskan setelah pihaknya melakukan evaluasi menyeluruh terhadap kajian di lapangan, fakta-fakta risiko, serta perkembangan penanganan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Solo, Ada SUTET di Tengah Lokasi - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/065628078/kebakaran-tpa-putri-cempo-solo-ada-sutet-di-tengah-lokasi?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Baca juga: Wali Kota Solo Belum Tahu Penyebab Kebakaran TPA Putri Cempo, Fokus Sekat Titik Api\nSementara itu, Lurah Mojosongo Katarina Kartika Panca Chris Daryani mengatakan, pihaknya menerima laporan kebakaran TPA Putri Cempo sekitar pukul 18.00 WIB."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap Kebakaran TPA Putri Cempo Masuk Sekolah, Disdik Solo Kaji Pembelajaran Jarak Jauh - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/155201378/asap-kebakaran-tpa-putri-cempo-masuk-sekolah-disdik-solo-kaji-pembelajaran?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Kepala Bidang (Kabid) SMP Dinas Pendidikan (Disdik) Solo, Abi Satoto dihubungi wartawan di Solo, Jawa Tengah, Kamis (3/9/2026).",
+    "Wali Kota Solo Respati Ardi mengatakan petugas masih stand by dan melakukan penyekatan titik api agar tidak merembet ke permukiman."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "5 Fakta Kebakaran TPA Putri Cempo Solo: Warga Mulai Dievakuasi, 22 Armada Damkar Diterjunkan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/071532178/5-fakta-kebakaran-tpa-putri-cempo-solo-warga-mulai-dievakuasi-22-armada?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wali Kota Solo, Respati Ardi, mengatakan, satu RT dievakuasi untuk mencegah warga mengalami gangguan kesehatan akibat dampak kebakaran."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Terbakar, 70 Warga Mojosongo Solo Ngungsi ke Pendopo Kelurahan - Espos.id",
+   "media": "Espos.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solopos.espos.id/tpa-putri-cempo-terbakar-70-warga-mojosongo-solo-ngungsi-ke-pendopo-kelurahan-2247641",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sebelumnya, Wali Kota Solo, Respati Ardi, memastikan telah membuka layanan posko darurat dan mengevakuasi warga terdampak ke lokasi yang lebih layak dan aman dari paparan asap.",
+    "Sementara itu, Wakil Wali Kota Solo, Astrid Widayani, mengatakan fokusnya saat ini adalah mengawal kelancaran evakuasi dan penyaluran bantuan kepada warga."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Warga Sekitar TPA Putri Cempo Solo Mengungsi Imbas Kebakaran, Dapur Umum Disiapkan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/064040278/warga-sekitar-tpa-putri-cempo-solo-mengungsi-imbas-kebakaran-dapur-umum",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wali Kota Solo, Respati Ardi, mengatakan sejumlah warga tengah dievakuasi agar tidak mengalami gangguan kesehatan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Solo Terbakar, Api Membumbung Tinggi dan Langit Memerah - Suara Merdeka Solo - Suara Merdeka Solo",
+   "media": "Suara Merdeka Solo",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solo.suaramerdeka.com/solo-raya/0517587635/tpa-putri-cempo-solo-terbakar-api-membumbung-tinggi-dan-langit-memerah",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "TPA Putri Cempo Solo Terbakar Melahap Tumpukan Sampah Blok B dan D - SuaraGarut.ID",
+   "media": "SuaraGarut.ID",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://suaragarut.id/tpa-putri-cempo-solo-terbakar",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Pemkot Solo Punya Waktu 1 Bulan untuk Akhiri Open Dumping di TPA Putri Cempo - Espos.id",
+   "media": "Espos.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solopos.espos.id/pemkot-solo-punya-waktu-1-bulan-untuk-akhiri-open-dumping-di-tpa-putri-cempo-2247425",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Dukung Arahan Presiden, BRI Siap Jadi Tulang Punggung Perluasan Akses Keuangan\nKepala Dinas Lingkungan Hidup (DLH) Kota Solo, Herwin Tri Nugroho Adi, menjelaskan aturan baru berupa peraturan wali kota sedang tahap harmonisasi di tingkat Pemprov Jateng.",
+    "Dia menjelaskan DLH Kota Solo telah melakukan pembatasan dengan pemilahan sampah dari sumbernya, pengolahan sampah, dan pengurangan sampah secara terukur dan teratur.",
+    "Penanganan dari Hulu ke Hilir\nDia menjelaskan Pemkot Solo telah menjalankan beberapa rekomendasi dari Kementerian Lingkungan Hidup dalam mengatasi persoalan sampah dari hulu sampai hilir.",
+    "Dia mengatakan ada sejumlah hal yang belum dipenuhi karena berkaitan dengan teknis tertentu, misalnya teknis penganggaran, teknis pengadaan barang jasa, dan waktu yang bisa saja tidak sejalan dengan persyaratan dari Kementerian Lingkungan Hidup.",
+    "Sebelumnya, Wali Kota Solo Respati Ardi menjelaskan regulasi yang sedang disusun tidak berkaitan dengan kenaikan retribusi sampah atau perubahan tarif retribusi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Solo Meluas, Dapur Umum Disiapkan jika Darurat - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/surakarta/regional/2703064/kebakaran-tpa-putri-cempo-solo-meluas-dapur-umum-disiapkan-jika-darurat",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "TPA Putri Cempo Solo Terbakar, Ternyata Sudah Jadi Tempat Pembuangan Sampah Sejak 1986 - Jawa Pos",
+   "media": "Jawa Pos",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solobalapan.jawapos.com/solo-raya/2609030009/tpa-putri-cempo-solo-terbakar-ternyata-sudah-jadi-tempat-pembuangan-sampah-sejak-1986",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Laman Pemprov Jateng juga pernah menyebut produksi sampah Kota Solo mencapai sekitar 200 ton per hari.",
+    "Pada 2017, Pemprov Jateng menyebut rencana tersebut akan memanfaatkan sampah lama yang telah menumpuk selama puluhan tahun."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Solo, KLH Dorong Pengendalian Gas Metana dan Pemilahan Sampah - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/03/153457778/kebakaran-tpa-putri-cempo-solo-klh-dorong-pengendalian-gas-metana-dan?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Deputi Pengendalian Pencemaran dan Kerusakan Lingkungan KLH, Noer Adi Wardojo menjelaskan, gas metana yang terperangkap di bawah tumpukan sampah, berpadu dengan material kering seperti plastik, tekstil, serta kondisi cuaca kemarau ekstrem diidentifikasi sebagai pemicu utama kobar",
+    "Baca juga: TPA Putri Cempo Masih Terbakar, Wali Kota Solo: Warning Alam Semesta\nIa menyebut, gas metana merupakan bahan yang sangat mudah terbakar.",
+    "Baca juga: Kebakaran TPA Putri Cempo Solo Diprediksi Baru Padam Sepekan, Api Menjalar ke 3 Blok\nGuna mendukung pengolahan sampah agar gas metana tidak berubah menjadi bencana kebakaran, KLH menegaskan kembali pentingnya pengetatan pemilahan sampah dari sumbernya.",
+    "Sebelumnya, Kepala Dinas Lingkungan Hidup (DLH) Solo, Herwin Tri Nugroho, menjelaskan produksi gas metana menyebabkan api yang membakar gunungan sampah TPA Putri Cempo belum sepenuhnya padam."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kementerian LH: Butuh Sepekan untuk Pemadaman Kebakaran di TPA Putri Cempo Solo - Espos.id",
+   "media": "Espos.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solopos.espos.id/kementerian-lh-butuh-sepekan-untuk-pemadaman-kebakaran-di-tpa-putri-cempo-solo-2247615",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Relawan Bakti BUMN 2026, BRI Ajak Relawan Memberdayakan Desa BRILiaN Sanur Kaja\nStaf Ahli Bidang Kelestarian Sumber Daya Keanekaragaman Hayati dan Sosial Budaya KLH, Noer Adi Wardojo, menjelaskan timnya sedang bertugas di Jogja, Rabu (2/9/2026) lalu, saat mendapatkan kabar kebaka"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penanganan Kebakaran TPA Putri Cempo Ditargetkan Tuntas dalam Seminggu - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/surakarta/regional/2705323/penanganan-kebakaran-tpa-putri-cempo-ditargetkan-tuntas-dalam-seminggu",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Gas Metana Jadi Salah Satu Penyebab Kebakaran TPA Putri Cempo - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/KXyCWLAw-gas-metana-jadi-salah-satu-penyebab-kebakaran-tpa-putri-cempo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "KLH menyebut gas metana menjadi salah satu faktor penyebab kebakaran."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Solo Meluas, KLH Sarankan Bantuan BNPB - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/929238/kebakaran-tpa-putri-cempo-solo-meluas-klh-sarankan-bantuan-bnpb",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Deputi Pengendalian Pencemaran dan Kerusakan Lingkungan Kementerian Lingkungan Hidup (KLH), Noer Ali Wardaya, menegaskan perlu langkah antisipasi lebih lanjut jika api sulit dijinakkan.",
+    "\"Kementerian LH sudah menyurati kepala daerah di seluruh Indonesia agar mewaspadai kondisi panas ini guna mengurangi risiko kebakaran dan memastikan pengendalian terbaik,\""
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Solo Terbakar, Pemerintah Belum Tetap Status Tanggap Darurat - Espos.id",
+   "media": "Espos.id",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solopos.espos.id/tpa-putri-cempo-solo-terbakar-pemerintah-belum-tetap-status-tanggap-darurat-2247635",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Deputi Pengendalian Pencemaran dan Kerusakan Lingkungan Kementerian Lingkungan Hidup (KLH), Noer Adi Wardojo, mengatakan kementeriannya belum sampai pada keputusan penetapan situasi tanggapan darurat terkait bencana kebakaran di TPA Putri Cempo.",
+    "Dia menjelaskan KLH juga siap berkoordinasi dengan Badan Nasional Penanggulangan Bencana maupun para pemangku kepentingan lainnya untuk membantu Pemkot Solo dalam memadamkan api di TPA Putri Cempo.",
+    "Sekda Solo Budi Murtono, yang mendampingi Noer Adi Wardojo, menjelaskan Pemkot Solo dibantu pemda di Soloraya dalam memadamkan api di TPA Putri Cempo.",
+    "Sebelumnya, Wali Kota Solo, Respati Ardi, juga memastikan telah membuka layanan posko darurat dan mengevakuasi warga terdampak ke lokasi yang lebih layak dan aman dari paparan asap."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH Sebut Gas Metana Diduga Picu Kebakaran TPA Putri Cempo Solo - detikcom",
+   "media": "detikcom",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/jateng/berita/d-8646414/klh-sebut-gas-metana-diduga-picu-kebakaran-tpa-putri-cempo-solo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "KLH menyebut salah satu faktor yang diduga memicu kebakaran karena adanya gas metana di tumpukan gunungan sampah.",
+    "kata Deputi Pengendalian Pencemaran dan Kerusakan Lingkungan Kementerian Lingkungan Hidup (KLH), Noer Adi Wardojo, ditemui di TPA Putri Cempo, Kamis (3/9/2026).",
+    "Noer menegaskan bahwa KLH mendorong pengendalian gas metana di TPA Putri Cempo.",
+    "Kepala Dinas Lingkungan Hidup (DLH), Herwin Tri Nugroho, mengatakan api merembet dengan cepat karena faktor angin."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penanganan Kebakaran TPA Putri Cempo Solo Diperkirakan Butuh Waktu Seminggu - Tribunsolo.com",
+   "media": "Tribunsolo.com",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solo.tribunnews.com/solo/349242/penanganan-kebakaran-tpa-putri-cempo-solo-diperkirakan-butuh-waktu-seminggu",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Meluas, 6 Hektare Terbakar dan Butuh Sepekan untuk Padam - Radar Solo",
+   "media": "Radar Solo",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radarsolo.jawapos.com/solo/2609030051/kebakaran-tpa-putri-cempo-meluas-6-hektare-terbakar-dan-butuh-sepekan-untuk-padam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Lingkungan Hidup (DLH) Kota Solo Herwin Tri Nugroho mengatakan, api kini telah merambah Blok B, C, dan D.",
+    "Deputi Bidang Pengendalian Pencemaran dan Kerusakan Lingkungan KLH Noer Adi Wardojo mengatakan, kementerian memang tengah memantau kondisi TPA di berbagai daerah selama musim kemarau."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Makin Ganas! 6 Hektar Hangus Terbakar, Butuh Waktu Sepekan Guna Pemadaman - Jawa Pos",
+   "media": "Jawa Pos",
+   "tanggal": "03 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://solobalapan.jawapos.com/solo-raya/2609030035/kebakaran-tpa-putri-cempo-makin-ganas-6-hektar-hangus-terbakar-butuh-waktu-sepekan-guna-pemadaman",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Terbakar Lagi, Warga Jadi Korban Buruknya Tata Kelola Sampah - NU Online",
+   "media": "NU Online",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "walhi \"putri cempo\"",
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://nu.or.id/daerah/tpa-putri-cempo-terbakar-lagi-warga-jadi-korban-buruknya-tata-kelola-sampah-yVefq",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Dinas Lingkungan Hidup (DLH) Surakarta sebelumnya menyatakan bahwa praktik open dumping di TPA Putri Cempo menghasilkan emisi metana yang berpotensi memicu kebakaran, terutama pada musim kemarau."
+   ],
+   "kalimat_walhi": [
+    "Deputi Direktur Wahana Lingkungan Hidup Indonesia (Walhi) Jawa Tengah Nur Cholis menilai bahwa kebakaran tidak semestinya selalu dikaitkan dengan suhu tinggi dan musim kemarau.",
+    "Senada, Pengampanye Urban Berkeadilan Walhi Nasional Wahyu Eka Styawan mengungkapkan, hasil simulasi emisi metana menggunakan metode First Order Decay (FOD) dari IPCC menunjukkan tingkat akurasi sekitar 75 persen dengan tingkat kepercayaan "
+   ]
+  },
+  {
+   "judul": "Update Pemadaman Kebakaran TPA Putri Cempo Solo, Progres Mencapai 40 Persen pada Hari Ketiga - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/04/133752578/update-pemadaman-kebakaran-tpa-putri-cempo-solo-progres-mencapai-40-persen",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala Dinas Pemadam Kebakaran (Damkar) Solo, Indradi mengatakan, fokus pemadaman dilakukan di zona Blok B dan D pada Kamis (3/9/2026) malam."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "3 Hektare Lahan TPA Putri Cempo Solo Hangus Terbakar - Lingkar",
+   "media": "Lingkar",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lingkar.co/berita/3-hektare-lahan-tpa-putri-cempo-solo-hangus-terbakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Belum Terkendali, Pemkot Solo Tetapkan Status Tanggap Darurat Bencana 14 Hari - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/04/104119178/kebakaran-tpa-putri-cempo-belum-terkendali-pemkot-solo-tetapkan-status",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Solo Kebakaran, KLH Pantau Kualitas Udara di Sekitar Lokasi - detikNews",
+   "media": "detikNews",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar",
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://news.detik.com/berita/d-8647717/tpa-putri-cempo-solo-kebakaran-klh-pantau-kualitas-udara-di-sekitar-lokasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Lingkungan Hidup (Wamen LH) Diaz Hendropriyono mengatakan alat pemantau kualitas udara milik KLH yang saat ini berada di sekitar Solo mencatat angka 51 mikrogram per meter kubik (µg/m³).",
+    "Diaz mengatakan upaya pemadaman telah dilakukan oleh UPTD setempat bersama Dinas Pemadam Kebakaran (Damkar) Surakarta.",
+    "Wali Kota Solo, Respati Ardi, mengatakan bahwa penetapan status darurat ini diputuskan setelah pihaknya melakukan evaluasi menyeluruh terhadap kajian di lapangan, fakta-fakta risiko, serta perkembangan penanganan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo, Helikopter \"Water Bombing\" Berkapasitas 500 Liter Air Mulai Diterjunkan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/04/113052978/kebakaran-tpa-putri-cempo-helikopter-water-bombing-berkapasitas-500-liter",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kepala BPBD Solo, Ari Dwi Daryatmo mengatakan, helikopter yang digunakan untuk pemadaman membawa water bombing berasal dari Polda DIY."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "VIDEO - TPA Putri Cempo Solo Terbakar, Helikopter Dikerahkan untuk Water Bombing - Serambinews.com",
+   "media": "Serambinews.com",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "KLH Ungkap Open Dumping Bikin Kebakaran TPA Putri Cempo Solo Sulit Dipadamkan - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping",
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.tv/regional/689044/klh-ungkap-open-dumping-bikin-kebakaran-tpa-putri-cempo-solo-sulit-dipadamkan?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Penanganan Sampah KLH Melda Mardalina mengatakan, tumpukan sampah di TPA Putri Cempo menyimpan gas metan dalam jumlah besar."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Ungkap Pemicu TPA Putri Cempo Solo Kebakaran karena Praktik 'Open Dumping' - VIVA.co.id",
+   "media": "VIVA.co.id",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Open Dumping Salah Satu Penyebab Kebakaran TPA Putri Cempo - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping",
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/929963/open-dumping-salah-satu-penyebab-kebakaran-tpa-putri-cempo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Penanganan Sampah KLH, Melda Mardalina, menjelaskan bahwa akumulasi gas metana di bawah tumpukan sampah terbuka menciptakan bahan bakar yang sangat sensitif terhadap letupan api."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH: El Nino memperparah kebakaran TPA Putri Cempo - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping",
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo, KLH Sebut El Nino Persulit Pemadaman - Bisnis.com",
+   "media": "Bisnis.com",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping",
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Dampak El Nino Perparah Kebakaran TPA Putri Cempo Surakarta - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping",
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/929958/dampak-el-nino-perparah-kebakaran-tpa-putri-cempo-surakarta",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Penanganan Sampah KLH, Melda Mardalina, menjelaskan bahwa dari total luas area TPA Putri Cempo yang mencapai 17 hektare, sekitar 2,4 hektare di antaranya telah hangus terbakar.",
+    "Merespons potensi bencana akibat cuaca panas ekstrem, pemerintah telah menerbitkan Surat Edaran (SE) Menteri Lingkungan Hidup/Kepala Badan Pengendalian Lingkungan Hidup (BPLH) Nomor 11 Tahun 2026."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH: Open dumping salah satu penyebab kebakaran TPA Putri Cempo - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5726256/klh-open-dumping-salah-satu-penyebab-kebakaran-tpa-putri-cempo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Direktur Penanganan Sampah KLH Melda Mardalina dalam diskusi bersama media di Jakarta, Jumat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH Ungkap Damkar Sulit Capai Titik Api di TPA Putri Cempo Solo - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tirto.id/klh-ungkap-damkar-sulit-capai-titik-api-di-tpa-putri-cempo-solo-hCoz",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Pengelolaan Limbah B3 dan Non-B3 KLH, Amsor, mengatakan api masih menyala di TPA Putri Cempo hingga saat ini.",
+    "KLH, kata Amsor, mempertimbangkan penggunaan helikopter untuk membantu proses pemadaman.",
+    "Amsor mengatakan KLH juga akan menyelidiki penyebab kebakaran di TPA Putri Cempo.",
+    "Amsor mengatakan KLH terus berkoordinasi dengan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengenai kondisi El Nino."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kementerian LH Pantau Langsung Kebakaran TPA Putri Cempo Solo - detikcom",
+   "media": "detikcom",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/jateng/berita/d-8647459/kementerian-lh-pantau-langsung-kebakaran-tpa-putri-cempo-solo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pihak KLH memantau langsung ke lapangan dan menyebut salah satu penyebab kebakaran di sana adalah gas metana.",
+    "Deputi Pengendalian Pencemaran dan Kerusakan Lingkungan Kementerian Lingkungan Hidup (KLH), Noer Adi Wardojo yang berada di TPA Putri Cempo menyebut gas metana di tumpukan sampah itu mudah tersulut.",
+    "Noer menegaskan KLH mendorong pengendalian gas metana di TPA Putri Cempo.",
+    "73 Warga Mengungsi\nKepala Dinas Lingkungan Hidup (DLH), Herwin Tri Nugroho mengatakan saat ini ada sekira 73 warga yang mengungsi ke kelurahan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH Sebut Kebakaran TPA Putri Cempo karena Gas Metana - MerahPutih",
+   "media": "MerahPutih",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.merahputih.com/post/read/klh-sebut-kebakaran-tpa-putri-cempo-karena-gas-metana-belum-tetapkan-status-klb",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "KLH Ungkap El Nino Perparah Kebakaran TPA Putri Cempo Solo hingga 2,4 Hektare - Kompas.tv",
+   "media": "Kompas.tv",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.tv/regional/689054/klh-ungkap-el-nino-perparah-kebakaran-tpa-putri-cempo-solo-hingga-2-4-hektare?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Penanganan Sampah KLH Melda Mardalina mengatakan, dari total luas TPA Putri Cempo yang mencapai 17 hektare, area yang terbakar kini mencapai sekitar 2,4 hektare.",
+    "KLH sebelumnya juga menyebut opsi water bombing menggunakan helikopter tengah dipertimbangkan untuk membantu pemadaman."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "El Nino Perparah Kebakaran TPA Putri Cempo Solo - MetroTVNews.com",
+   "media": "MetroTVNews.com",
+   "tanggal": "04 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.metrotvnews.com/read/kWDCz15x-el-nino-perparah-kebakaran-tpa-putri-cempo-solo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ANTARA FOTO/Mohammad Ayudha/YU\nEl Nino Perparah Kebakaran TPA Putri Cempo Solo\nSilvana Febiari • 4 September 2026 21:29\n                        Solo: Kementerian Lingkungan Hidup (KLH) mengatakan fenomena El Nino menyebabkan kekeringan berkepanjangan.",
+    "kata Direktur Penanganan Sampah KLH Melda Mardalina, seperti dilansir Antara, Jumat, 4 September 2026."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Surakarta Kembali Terbakar, Walhi: Bukan Sekadar Dampak Musim Kemarau - NU Online Jateng",
+   "media": "NU Online Jateng",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "walhi \"putri cempo\"",
+    "\"putri cempo\" terbakar",
+    "\"putri cempo\" open dumping"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://jateng.nu.or.id/regional/tpa-putri-cempo-surakarta-kembali-terbakar-walhi-bukan-sekadar-dampak-musim-kemarau-yVefq",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Dinas Lingkungan Hidup (DLH) Surakarta sebelumnya menyebut praktik open dumping di TPA Putri Cempo menghasilkan emisi metana yang berpotensi memicu kebakaran, terutama ketika musim kemarau."
+   ],
+   "kalimat_walhi": [
+    "TPA Putri Cempo Surakarta Kembali Terbakar, Walhi: Bukan Sekadar Dampak Musim Kemarau\nSabtu, 5 September 2026 | 07:00 WIB\nSemarang, NU Online Jateng\nKebakaran kembali melanda Tempat Pemrosesan Akhir (TPA) Putri Cempo, Kota Surakarta, Kamis ",
+    "Deputi Direktur Wahana Lingkungan Hidup Indonesia (Walhi) Jawa Tengah, Nur Cholis, mengatakan kebakaran tidak semestinya selalu dikaitkan dengan tingginya suhu dan musim kemarau."
+   ]
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo dan Dampaknya bagi Warga Sekitar - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/luthfiah2915/6a9bce9aed64155f7b580e35/kebakaran-tpa-putri-cempo-dan-dampaknya-bagi-warga-sekitar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Soal Kebakaran di TPA Putri Cempo Solo, Gubernur Jateng Minta Water Bombing 2.000 Liter ke TNI AU - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "05 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/05/151135378/soal-kebakaran-di-tpa-putri-cempo-solo-gubernur-jateng-minta-water-bombing",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hari Ketiga Kebakaran TPA Putri Cempo Surakarta, Warga Mulai Keluhkan Gangguan Pernapasan - NU Online Jateng",
+   "media": "NU Online Jateng",
+   "tanggal": "06 Sep 2026",
+   "kueri": [
+    "walhi \"putri cempo\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://jateng.nu.or.id/pemerintahan/hari-ketiga-kebakaran-tpa-putri-cempo-surakarta-warga-mulai-keluhkan-gangguan-pernapasan-bF7IU",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "“Begitu wali kota atau bupati itu menyatakan siaga bencana, maka secara otomatis provinsi dan semuanya akan terjun langsung.",
+    "Merespons kondisi tersebut, Pemprov Jateng menerjunkan Layanan Dokter Spesialis Keliling (Speling) di Kelurahan Mojosongo, Sabtu (5/9/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Solo, BNPB Tak Andalkan Bantuan \"Water Bombing\" Imbas Abu Anak Krakatau - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/07/173744778/kebakaran-tpa-putri-cempo-solo-bnpb-tak-andalkan-bantuan-water-bombing",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Dukungan Sumber Daya Darurat BNPB, Agus Riyanto, mengatakan bahwa penanganan kebakaran TPA Putri Cempo harus dilakukan secara masif agar dampaknya tidak meluas."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Respati Akan Rombak Total dan Larang \"Open Dumping\" di TPA Putri Cempo Solo - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/07/182428478/respati-akan-rombak-total-dan-larang-open-dumping-di-tpa-putri-cempo-solo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI: Kebakaran TPA yang Berulang Jadi Bukti Buruknya Tata Kelola Sampah - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "walhi \"putri cempo\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/931131/walhi-kebakaran-tpa-yang-berulang-jadi-bukti-buruknya-tata-kelola-sampah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "RENTETAN kebakaran tempat pemrosesan akhir (TPA) sampah yang terjadi sepanjang 2026 mendapat sorotan dari Wahana Lingkungan Hidup Indonesia (WALHI).",
+    "Pengampanye Urban Berkeadilan WALHI Nasional, Wahyu Eka Styawan mengatakan bahwa kebakaran yang berulang tidak semestinya hanya dipandang sebagai bencana musiman atau akibat meningkatnya suhu udara."
+   ]
+  },
+  {
+   "judul": "Penanganan Kebakaran TPA Putri Cempo Terus Dioptimalkan, Api di Blok C dan D Berhasil Dikendalikan - BNPB",
+   "media": "BNPB",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bnpb.go.id/berita/penanganan-kebakaran-tpa-putri-cempo-terus-dioptimalkan-api-di-blok-c-dan-d-berhasil-dikendalikan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Solo: Blok C \"Clear\", Pemadaman Lanjut ke Blok B - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/08/195400778/kebakaran-tpa-putri-cempo-solo-blok-c-clear-pemadaman-lanjut-ke-blok-b",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Blok B TPA Putri Cempo Masih Terbakar, 105 Warga Mengungsi - CNN Indonesia",
+   "media": "CNN Indonesia",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cnnindonesia.com/nasional/20260908145054-20-1401526/blok-b-tpa-putri-cempo-masih-terbakar-105-warga-mengungsi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "TPA Putri Cempo Masih Darurat Kebakaran, Pengangkutan Sampah Warga Solo Dibatasi - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/08/122250278/tpa-putri-cempo-masih-darurat-kebakaran-pengangkutan-sampah-warga-solo",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ketua DPRD Solo Budi Prasetyo mengatakan, secara teknis pengaturan sampah di TPA Putri Cempo telah dikoordinasikan Dinas Lingkungan Hidup (DLH).",
+    "Secara terpisah, Kepala DLH Solo Herwin Tri Nugroho mengatakan, saat ini pihaknya masih fokus dalam penanganan kebakaran."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hari Ketujuh Kebakaran TPA Putri Cempo, Petugas Masih Berjuang Padamkan Blok B - detikcom",
+   "media": "detikcom",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.detik.com/jateng/berita/d-8653696/hari-ketujuh-kebakaran-tpa-putri-cempo-petugas-masih-berjuang-padamkan-blok-b",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Kepala Dinas Pemadam Kebakaran Kota Solo, Indradi, Selasa (8/9/2026).",
+    "Ari mengatakan, Dinas Pemadam Kebakaran (Damkar) bersama Dinas Lingkungan Hidup (DLH) terus bersinergi melakukan pembasahan di titik-titik tersisa dengan bantuan dua unit ekskavator."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Banyak TPA Masih Terbakar Selama El Niño dan Musim Kemarau, Meski Praktik Open Dumping Dilarang - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" open dumping"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lestari.kompas.com/read/2026/09/08/103000586/banyak-tpa-masih-terbakar-selama-el-ni-o-dan-musim-kemarau-meski-praktik",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH Minta Dukungan BNPB untuk Padamkan Kebakaran TPA Putri Cempo dengan Waterbombing - Bisnis.com",
+   "media": "Bisnis.com",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://hijau.bisnis.com/read/20260908/651/2002203/klh-minta-dukungan-bnpb-untuk-padamkan-kebakaran-tpa-putri-cempo-dengan-waterbombing",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Kebakaran TPA Jadi Ancaman Nasional, KLH Minta Pemda Tingkatkan Kesiapsiagaan - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/931167/kebakaran-tpa-jadi-ancaman-nasional-klh-minta-pemda-tingkatkan-kesiapsiagaan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Wakil Menteri Lingkungan Hidup/Wakil Kepala BPLH, Diaz Hendropriyono, menegaskan bahwa pemerintah daerah harus memberikan perhatian serius terhadap penjagaan dan pengelolaan TPA."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH Ungkap Penyebab Kebakaran TPA Putri Cempo dan Galuga - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/931288/klh-ungkap-penyebab-kebakaran-tpa-putri-cempo-dan-galuga",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Meski faktor umum telah dipetakan, KLH menyatakan bahwa penyebab spesifik kebakaran di tiap lokasi masih dalam tahap investigasi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "KLH Minta Pemda Siaga Kebakaran TPA Akibat Cuaca Panas Ekstrem - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" KLH"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/humaniora/931289/klh-minta-pemda-siaga-kebakaran-tpa-akibat-cuaca-panas-ekstrem",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Deputi Bidang Pengelolaan Sampah, Limbah, dan Bahan Berbahaya dan Beracun (PSLB3) KLH, Vinda Damayanti, menegaskan bahwa pemerintah daerah wajib mematuhi Surat Edaran (SE) Nomor 11 Tahun 2026.",
+    "| \nTerkait kemungkinan pemberian sanksi bagi pemerintah daerah yang TPA-nya mengalami kebakaran, KLH menyatakan masih melakukan pendalaman lebih lanjut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "15 TPA Terbakar, WALHI Ingatkan Ancaman Metana - Tempo.co",
+   "media": "Tempo.co",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "walhi \"putri cempo\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.tempo.co/lingkungan/15-tpa-terbakar-walhi-ingatkan-ancaman-metana-2286540",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Walhi: TPA RI Hasilkan Ratusan Ribu Ton Metana, Bahan Bakar Kebakaran - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "walhi \"putri cempo\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6aa24c57d2545/walhi-tpa-ri-hasilkan-ratusan-ribu-ton-metana-bahan-bakar-kebakaran",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Direktur Penanganan Sampah KLH Melda Mardalina menjelaskan, pihaknya sudah memerintahkan Pemerintah Daerah untuk mengambil langkah pencegahan atau mitigasi risiko, kesiapsiagaan, dan penanganan darurat kebakaran TPA."
+   ],
+   "kalimat_walhi": [
+    "Walhi: TPA RI Hasilkan Ratusan Ribu Ton Metana, Bahan Bakar Kebakaran\nWahana Lingkungan Hidup Indonesia (Walhi) memperkirakan Tempat Pemrosesan Akhir (TPA) sampah di Indonesia menghasilkan sekitar 334 ribu ton emisi metana atau setara 9 jut",
+    "kata Pengkampanye Urban Berkeadilan Walhi Nasional, Wahyu Eka Styawan, dikutip dari keterangan resmi, Kamis (10/9)."
+   ]
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo Lumpuhkan 70 Persen Pengelolaan Sampah Solo, Pakar Ingatkan 3 Potensi Masalah Baru - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.com/tren/read/2026/09/10/203000365/kebakaran-tpa-putri-cempo-lumpuhkan-70-persen-pengelolaan-sampah-solo-pakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemadaman Kebakaran TPA Putri Cempo Solo Habiskan 5,2 Juta Liter Air, Petugas Fokus Blok B - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/11/071908078/pemadaman-kebakaran-tpa-putri-cempo-solo-habiskan-52-juta-liter-air-petugas?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Penanganan Kebakaran TPA Putri Cempo Solo Capai 95 Persen, Dipastikan Padam dan Pendinginan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/13/194451878/penanganan-kebakaran-tpa-putri-cempo-solo-capai-95-persen-dipastikan-padam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Baca juga: Penanganan Kebakaran TPA Putri Cempo Solo, Blok C dan D Terkendali, Blok B Capai 11 Persen\nTerpisah, Kepala Bidang Penyelamatan Dinas Pemadam Kebakaran (Damkar) Solo, Muhammad Usman, mengatakan bahwa total air yang telah digunakan selama penanganan kebakaran TPA Putri "
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kebakaran TPA Putri Cempo 95 Persen Terkendali, Damkar Solo Tetap Siaga 24 Jam - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "\"putri cempo\" terbakar"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://regional.kompas.com/read/2026/09/14/085820378/kebakaran-tpa-putri-cempo-95-persen-terkendali-damkar-solo-tetap-siaga-24",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "id": "R28probe",
+ "tanggal": "2026-10-01",
+ "rentang": [
+  "2026-09-30",
+  "2026-11-02"
+ ],
+ "kueri": [
+  "walhi Musdalifah",
+  "\"Musdalifah Jamal\"",
+  "walhi PTAR offset",
+  "walhi Martabe orangutan"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 12,
+ "berita": [
+  {
+   "judul": "Dikritik, Kebijakan Buka Hutan di Tengah Kebakaran Hutan - Betahita",
+   "media": "Betahita",
+   "tanggal": "02 Oct 2026",
+   "kueri": [
+    "walhi Musdalifah"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12451/dikritik-kebijakan-buka-hutan-di-tengah-kebakaran-hutan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Umi Ma’rufah",
+    "Faisal Ratuela"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Direktur Jenderal Pengelolaan Hutan Lestari Kementerian Kehutanan, Laksmi Wijayanti, dalam Sosialisasi PAPH 2026 di Makassar, September lalu.",
+    "Umi Ma’rufah, pengkampanye hutan dan kebun Walhi mengatakan, kebijakan pemerintah tersebut menunjukkan bahwa pemerintahan Presiden Prabowo Subianto tidak memiliki “sense of crisis”."
+   ],
+   "kalimat_walhi": [
+    "Jumat, 02 Oktober 2026\nBETAHITA.ID - Walhi kembali mengkritisi kebijakan pemerintah yang berpotensi membuka hutan untuk proyek energi hingga perizinan berusaha di tengah bencana kebakaran hutan dan lahan di berbagai wilayah.",
+    "Umi Ma’rufah, pengkampanye hutan dan kebun Walhi mengatakan, kebijakan pemerintah tersebut menunjukkan bahwa pemerintahan Presiden Prabowo Subianto tidak memiliki “sense of crisis”."
+   ]
+  },
+  {
+   "judul": "Konversi Jutaan Hektare Hutan untuk Proyek Pangan dan Energi, WALHI: Tak Punya Sense of Crisis - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "02 Oct 2026",
+   "kueri": [
+    "walhi Musdalifah"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://prohealth.id/konversi-jutaan-hektare-hutan-untuk-proyek-pangan-dan-energi-walhi-tak-punya-sense-of-crisis/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Umi Ma’rufah",
+    "Faisal Ratuela"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Musdalifah, Pengkampanye Pangan dan Ekosistem Esensial WALHI, menyatakan sudah melihat bagaimana pembangunan food estate atau kebun pangan skala besar di Kalimantan Tengah dari era Presiden Soeharto hingga Jokowi meninggalkan jejak kerusakan lingkungan pada ekosistem gambut akiba"
+   ],
+   "kalimat_walhi": [
+    "Musdalifah, Pengkampanye Pangan dan Ekosistem Esensial WALHI, menyatakan sudah melihat bagaimana pembangunan food estate atau kebun pangan skala besar di Kalimantan Tengah dari era Presiden Soeharto hingga Jokowi meninggalkan jejak kerusaka",
+    "WALHI sebelumnya mendokumentasikan rencana pelepasan kawasan hutan seluas 486.939 hektare untuk mendukung kawasan pangan, energi, dan air di Merauke."
+   ]
+  },
+  {
+   "judul": "Bencana Berulang di Sumbar, Walhi Soroti Gagalnya Tata Kelola SDA dan Mitigasi - Langgam.id",
+   "media": "Langgam.id",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "walhi Musdalifah",
+    "\"Musdalifah Jamal\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://langgam.id/bencana-berulang-di-sumbar-walhi-soroti-gagalnya-tata-kelola-sda-dan-mitigasi/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI: Galodo Solok Diperparah Kerusakan Hulu dan Lemahnya Mitigasi - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "walhi Musdalifah",
+    "\"Musdalifah Jamal\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://mediaindonesia.com/humaniora/941148/walhi-galodo-solok-diperparah-kerusakan-hulu-dan-lemahnya-mitigasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Bayangkan saja, bupati itu berkantor tidak jauh dari lokasi ini, tetapi abai dan lalai memastikan keselamatan rakyatnya,\"",
+    "WALHI meminta Polri menelusuri pemilik manfaat (beneficial owner) dan keterlibatan pihak asing dalam kasus karhutla guna memastikan pertanggungjawaban hukum."
+   ],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (WALHI) menilai, bencana galodo atau banjir bandang yang menerjang Kabupaten Solok, Sumatera Barat, pada 21 September 2026 tidak dapat semata-mata dikaitkan dengan tingginya curah hujan.",
+    "Direktur Eksekutif Daerah WALHI Sumatra Barat Tommy Adam mengatakan, kerentanan kawasan Gunung Talang sebenarnya telah diketahui sejak lama."
+   ]
+  },
+  {
+   "judul": "Jutaan Hektare Hutan Dibuka, Ancaman Bencana Ekologis Menganga - NU Online",
+   "media": "NU Online",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi Musdalifah"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://islam.nu.or.id/nasional/jutaan-hektare-hutan-dibuka-ancaman-bencana-ekologis-menganga-EtQ4t",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Jutaan Hektare Hutan Dibuka, Ancaman Bencana Ekologis Menganga\nNU Online · Rabu, 7 Oktober 2026 | 21:30 WIB\nPengkampanye Pangan dan Ekosistem Esensial Wahana Lingkungan Hidup Indonesia (Walhi) Musdalifah dalam Konferensi Pers Bencana Berula",
+    "Pengkampanye Pangan dan Ekosistem Esensial Wahana Lingkungan Hidup Indonesia (Walhi) Musdalifah mengatakan, proyek pangan dan energi berskala besar di berbagai wilayah Indonesia tidak dapat hanya dilihat dari status legal formal suatu bidan"
+   ]
+  },
+  {
+   "judul": "WALHI: Stop Cetak Sawah di Hutan Sebatas Pernyataan - kabarbisnis.com",
+   "media": "kabarbisnis.com",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi Musdalifah",
+    "\"Musdalifah Jamal\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kabarbisnis.com/read/28137354/walhi-stop-cetak-sawah-di-hutan-sebatas-pernyataan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Hal itu merespons pernyataan Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo dalam Indonesia International Sustainability Forum (ISF) 2026, Selasa (6/10/2026)."
+   ],
+   "kalimat_walhi": [
+    "WALHI: Stop Cetak Sawah di Hutan Sebatas Pernyataan\nJAKARTA, kabarbisnis.com: Wahana Lingkungan Hidup Indonesia (WALHI) menilai janji pemerintah untuk menghentikan pembukaan kawasan hutan untuk cetak sawah masih kontradiktif dengan kebijaka",
+    "Menanggapi itu, Pengampanye Ekosistem Esensial dan Pangan WALHI Nasional, Musdalifah Jamal menegaskan komitmen harus dituangkan dalam regulasi, bukan sekadar pernyataan di forum internasional."
+   ]
+  },
+  {
+   "judul": "Rencana Setop Cetak Sawah Harus Diikuti Koreksi Kebijakan Pangan - Betahita",
+   "media": "Betahita",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi Musdalifah",
+    "\"Musdalifah Jamal\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12476/rencana-setop-cetak-sawah-harus-diikuti-koreksi-kebijakan-pangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Menurut Musdalifah Jamal, pengampanye ekosistem esensial dan pangan Walhi Nasional, salah satunya adalah alokasi 5,7 juta hektare hutan untuk proyek pangan dan energi yang baru diumumkan Kementerian Kehutanan beberapa waktu lalu.",
+    "Sepanjang 2025, Walhi mencatat Indonesia kehilangan 283.803 hektare hutan."
+   ]
+  },
+  {
+   "judul": "Hashim Ingin Setop Cetak Sawah di Hutan, Walhi Soroti Kontradiksi Kebijakan - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi Musdalifah",
+    "\"Musdalifah Jamal\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ac6f62707e41/hashim-ingin-setop-cetak-sawah-di-hutan-walhi-soroti-kontradiksi-kebijakan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Hashim Ingin Setop Cetak Sawah di Hutan, Walhi Soroti Kontradiksi Kebijakan\nWahana Lingkungan Hidup Indonesia (Walhi) menilai pernyataan Hashim Djojohadikusumo soal menyetop cetak sawah di kawasan hutan kontradiktif dengan realita kebijakan",
+    "Walhi pun mendesak pemerintah menyusun kebijakan partisipatif untuk lindungi hutan dari proyek pangan dan energi skala besar."
+   ]
+  },
+  {
+   "judul": "Jelang COP17 Biodiversitas, WALHI Pertanyakan Komitmen Pemerintah Dengan Hadirnya Offset PTAR - Kedai Pena",
+   "media": "Kedai Pena",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "walhi PTAR offset"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kedaipena.com/jelang-cop17-biodiversitas-walhi-pertanyakan-komitmen-pemerintah-dengan-hadirnya-offset-ptar/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Dana Prima Tarigan"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "KedaiPena.com – Menjelang COP17 Konvensi Keanekaragaman Hayati (CBD) di Armenia, Wahana Lingkungan Hidup Indonesia (WALHI) mempertanyakan skema biodiversity offset PT Agincourt Resources (PTAR) yang diklaim mengimbangi dampak tambang melalu",
+    "Koordinator Pengkampanye WALHI Nasional, Uli Arta Siagian menyatakan bahwa pertanyaan mendasarnya adalah bisakah kerusakan habitat Orangutan Tapanuli dibenarkan dengan membeli atau menyewa tanah warga di tempat lain?."
+   ]
+  },
+  {
+   "judul": "WALHI Soroti Risiko Offset PTAR: Habitat Orangutan Tapanuli Terancam, Tanah Warga Jadi Areal Offset - Berita Moneter",
+   "media": "Berita Moneter",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "walhi PTAR offset"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://beritamoneter.com/jelang-cop17-biodiversitas-walhi-soroti-risiko-offset-ptar-habitat-orangutan-terancam-tanah-warga-jadi-areal-offset/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI mempertanyakan skema biodiversity offset PT Agincourt Resources (PTAR) yang diklaim mengimbangi dampak tambang melalui perlindungan kawasan lain.",
+    "Uli Arta Siagian, Koordinator Pengkampanye WALHI Nasional menyatakan bahwa pertanyaan mendasarnya adalah bisakah kerusakan habitat Orangutan Tapanuli dibenarkan dengan membeli atau menyewa tanah warga di tempat lain?."
+   ]
+  },
+  {
+   "judul": "WALHI: Habitat Orangutan Tapanuli Tak Bisa Diganti dengan Kompensasi Tambang - AFU.id",
+   "media": "AFU.id",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "walhi PTAR offset"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://afu.id/nasional/walhi-habitat-orangutan-tapanuli-tak-bisa-diganti-dengan-kompensasi-tambang",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JAKARTA, AFU.ID — Menjelang COP17 Konvensi Keanekaragaman Hayati (CBD) di Armenia, Wahana Lingkungan Hidup Indonesia (WALHI) mempertanyakan skema biodiversity offset yang dijalankan PT Agincourt Resources (PTAR) di kawasan Batang Toru, Suma",
+    "WALHI menilai perlindungan kawasan lain tidak dapat menggantikan potensi hilangnya habitat Orangutan Tapanuli, spesies orangutan paling langka di dunia yang berstatus kritis."
+   ]
+  },
+  {
+   "judul": "WALHI: Tambang Emas Martabe, Habitat Terakhir Orangutan Tapanuli, dan Kekeliruan Biodiversity Offset - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "walhi PTAR offset",
+    "walhi Martabe orangutan"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://prohealth.id/walhi-tambang-emas-martabe-habitat-terakhir-orangutan-tapanuli-dan-kekeliruan-biodiversity-offset/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Karena itu WALHI dan organisasi lingkungan lain berpendapat kawasan ini seharusnya menjadi zona perlindungan (no-go) bagi kegiatan ekstraktif.",
+    "Sejak awal penerbitan kontrak karya tambang Martabe, WALHI telah mengingatkan pemerintah agar kawasan Harangan Tapanuli tidak dijadikan wilayah eksploitasi."
+   ]
+  }
+ ]
+}

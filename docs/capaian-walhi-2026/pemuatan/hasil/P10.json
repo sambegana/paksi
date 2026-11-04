@@ -1,0 +1,212 @@
+{
+ "id": "P10",
+ "tanggal": "2026-10-19",
+ "rentang": [
+  "2026-10-18",
+  "2026-11-03"
+ ],
+ "kueri": [
+  "walhi PTAR offset",
+  "walhi Martabe orangutan",
+  "PTAR offset biodiversitas",
+  "Martabe orangutan Tapanuli",
+  "Agincourt Martabe offset"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 11,
+ "berita": [
+  {
+   "judul": "WALHI: Habitat Orangutan Tapanuli Tak Bisa Diganti dengan Kompensasi Tambang - AFU.id",
+   "media": "AFU.id",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "walhi PTAR offset"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "WALHI Soroti Risiko Offset PTAR: Habitat Orangutan Tapanuli Terancam, Tanah Warga Jadi Areal Offset - Berita Moneter",
+   "media": "Berita Moneter",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "PTAR offset biodiversitas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://beritamoneter.com/jelang-cop17-biodiversitas-walhi-soroti-risiko-offset-ptar-habitat-orangutan-terancam-tanah-warga-jadi-areal-offset/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 2,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI mempertanyakan skema biodiversity offset PT Agincourt Resources (PTAR) yang diklaim mengimbangi dampak tambang melalui perlindungan kawasan lain.",
+    "Uli Arta Siagian, Koordinator Pengkampanye WALHI Nasional menyatakan bahwa pertanyaan mendasarnya adalah bisakah kerusakan habitat Orangutan Tapanuli dibenarkan dengan membeli atau menyewa tanah warga di tempat lain?."
+   ]
+  },
+  {
+   "judul": "COP CBD 17: Satya Bumi Bawa Isu Orangutan Tapanuli, Bencana Sumatera, dan Karhutla - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "Martabe orangutan Tapanuli"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://prohealth.id/cop-cbd-17-satya-bumi-bawa-isu-orangutan-tapanuli-bencana-sumatera-dan-karhutla/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kisah Al Finsih, Penerima KIP Kuliah yang Jadi Wisudawan Terbaik FEB UNJ - HARIAN MISTAR",
+   "media": "HARIAN MISTAR",
+   "tanggal": "21 Oct 2026",
+   "kueri": [
+    "PTAR offset biodiversitas"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mistar.id/news/edukasi/kisah-al-finsih-penerima-kip-kuliah-yang-jadi-wisudawan-terbaik-feb-unj",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI: Tambang Emas Martabe, Habitat Terakhir Orangutan Tapanuli, dan Kekeliruan Biodiversity Offset - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "walhi PTAR offset",
+    "walhi Martabe orangutan",
+    "Martabe orangutan Tapanuli"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://prohealth.id/walhi-tambang-emas-martabe-habitat-terakhir-orangutan-tapanuli-dan-kekeliruan-biodiversity-offset/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Karena itu WALHI dan organisasi lingkungan lain berpendapat kawasan ini seharusnya menjadi zona perlindungan (no-go) bagi kegiatan ekstraktif.",
+    "Sejak awal penerbitan kontrak karya tambang Martabe, WALHI telah mengingatkan pemerintah agar kawasan Harangan Tapanuli tidak dijadikan wilayah eksploitasi."
+   ]
+  },
+  {
+   "judul": "Tuntutan kepada Pemerintah Indonesia di KTT Biodiversitas COP17 - Betahita",
+   "media": "Betahita",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "Martabe orangutan Tapanuli"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12530/tuntutan-kepada-pemerintah-indonesia-di-ktt-biodiversitas-cop17",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kode Merah bagi Orangutan di Indonesia - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "Martabe orangutan Tapanuli"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/kode-merah-bagi-orangutan-di-indonesia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kode Merah Orangutan Tapanuli: Dari Armenia Mendesak Penyelamatan Kera Besar Terlangka - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "24 Oct 2026",
+   "kueri": [
+    "Martabe orangutan Tapanuli"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://prohealth.id/kode-merah-orangutan-tapanuli-dari-armenia-mendesak-penyelamatan-kera-besar-terlangka/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ujian Terberat di Habitat Terakhir Orangutan Tapanuli - InvestorTrust",
+   "media": "InvestorTrust",
+   "tanggal": "25 Oct 2026",
+   "kueri": [
+    "PTAR offset biodiversitas",
+    "Martabe orangutan Tapanuli"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://investortrust.id/esg/120559/ujian-terberat-di-habitat-terakhir-orangutan-tapanuli",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kode Merah untuk Orangutan Tapanuli - Betahita",
+   "media": "Betahita",
+   "tanggal": "25 Oct 2026",
+   "kueri": [
+    "Martabe orangutan Tapanuli"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12553/kode-merah-untuk-orangutan-tapanuli",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Dari Tapanuli ke Istanbul, Penari Binaan Tambang Martabe Tampil di Turki - IDN Times Sumut",
+   "media": "IDN Times Sumut",
+   "tanggal": "30 Oct 2026",
+   "kueri": [
+    "Martabe orangutan Tapanuli"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sumut.idntimes.com/news/sumatra-utara/dari-tapanuli-ke-istanbul-penari-binaan-tambang-martabe-tampil-di-tur-00-fj96j-569pg1",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": "P01",
+ "tanggal": "2026-08-05",
+ "rentang": [
+  "2026-08-04",
+  "2026-08-20"
+ ],
+ "kueri": [
+  "walhi nikel liputan jurnalis",
+  "liputan tambang nikel jurnalis",
+  "SIEJ nikel",
+  "JATAM nikel"
+ ],
+ "jejaring": [
+  "JATAM",
+  "SIEJ"
+ ],
+ "jumlah_berita": 10,
+ "berita": [
+  {
+   "judul": "JATAM Sulteng Gugat Gubernur soal Limbah B3 Nikel PT QMB dan Berkah Morowali Sejahtera - gNews",
+   "media": "gNews",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://gnews.co.id/jatam-sulteng-gugat-gubernur-soal-limbah-b3-nikel-pt-qmb-dan-berkah-morowali-sejahtera/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "JATAM"
+   ],
+   "kalimat_pemerintah": [
+    "Taufik, melalui tim kuasa hukumnya, menegaskan bahwa Gubernur Sulteng telah lalai menjalankan kewajiban hukum (ex officio) dalam melindungi warga dan lingkungan.",
+    "Namun, meskipun laporan serta verifikasi lapangan telah mengonfirmasi adanya pelanggaran dan jatuhnya korban jiwa, Pemprov Sulteng justru bungkam dan tidak mengambil tindakan tegas,”",
+    "Sebelum melayangkan gugatan ke PTUN Palu, JATAM Sulteng telah menyampaikan notifikasi tertulis pada 4 Mei 2026 dan memberikan tenggat waktu 60 hari kepada Gubernur Sulteng untuk merespons.",
+    "Menyatakan tindakan pembiaran Gubernur Sulteng sebagai Perbuatan Melanggar Hukum oleh Pejabat Pemerintahan;\n2."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "JATAM gugat Gubernur Sulteng terkait limbah tailing di PTUN - ANTARA News Sulteng",
+   "media": "ANTARA News Sulteng",
+   "tanggal": "06 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sulteng.antaranews.com/berita/389299/jatam-gugat-gubernur-sulteng-terkait-limbah-tailing-di-ptun",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "JATAM"
+   ],
+   "kalimat_pemerintah": [
+    "Dalam petitumnya, JATAM meminta majelis hakim menyatakan tindakan gubernur sebagai perbuatan melanggar hukum oleh pejabat pemerintahan, memerintahkan penghentian sementara kegiatan pengelolaan limbah tailing hingga persyaratan teknis dipenuhi, serta memerintahkan audit lingkungan"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Soroti Pengelolaan Limbah Nikel di Morowali, Jatam Gugat Gubernur Sulteng ke PTUN - Harian Sulteng",
+   "media": "Harian Sulteng",
+   "tanggal": "07 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://hariansulteng.com/soroti-pengelolaan-limbah-nikel-di-morowali-jatam-gugat-gubernur-sulteng-ke-ptun/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "JATAM"
+   ],
+   "kalimat_pemerintah": [
+    "Jatam menyebut Gubernur Sulteng, Anwar Hafid gagal menjalankan kewajiban hukum untuk melindungi warga serta ekosistem.",
+    "Melalui siaran pers, Pemprov Sulteng menyatakan siap menghadapi gugatan yang dilayangkan Jatam atas dugaan pelanggaran lingkungan hidup."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Gara-gara Limbah B3 dari Smelter Nikel China, Jatam Sulteng Gugat Gubernur Anwar - Inilah.com",
+   "media": "Inilah.com",
+   "tanggal": "10 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.inilah.com/gara-gara-limbah-b3-dari-smelter-nikel-china-jatam-sulteng-gugat-gubernur-anwar",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Gubernur Sulteng Digugat Gara-Gara Limbah B3 dari Smelter Nikel - Betahita",
+   "media": "Betahita",
+   "tanggal": "10 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "'NoneType' object has no attribute 'group'",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "SETARA Institute Rilis Skor Audit HAM 5 Raksasa Nikel di Maluku Utara - porostimur.com",
+   "media": "porostimur.com",
+   "tanggal": "15 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://porostimur.com/setara-institute-rilis-skor-audit-ham-5-raksasa-nikel-di-maluku-utara/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ketua Komisi XI DPR RI: Bursa Mineral di Bawah OJK, Regulasi Turunan sedang Disiapkan - Media Nikel Indonesia",
+   "media": "Media Nikel Indonesia",
+   "tanggal": "18 Aug 2026",
+   "kueri": [
+    "liputan tambang nikel jurnalis"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nikel.co.id/2026/08/18/ketua-komisi-xi-dpr-ri-bursa-mineral-di-bawah-ojk-regulasi-turunan-sedang-disiapkan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kaki Gunung Tompotika di Banggai Terancam Tambang Nikel - Harian Sulteng",
+   "media": "Harian Sulteng",
+   "tanggal": "18 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://hariansulteng.com/kaki-gunung-tompotika-di-banggai-terancam-tambang-nikel/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "JATAM"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Bom waktu limbah tambang Nikel beracun - Selamatkan Hutan Hujan",
+   "media": "Selamatkan Hutan Hujan",
+   "tanggal": "19 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.hutanhujan.org/updates/16036/bom-waktu-limbah-tambang-nikel-beracun",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "JATAM"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jaringan Advokasi Tambang serukan penghentian IUP tambang - ANTARA News Sulteng",
+   "media": "ANTARA News Sulteng",
+   "tanggal": "19 Aug 2026",
+   "kueri": [
+    "JATAM nikel"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sulteng.antaranews.com/berita/390336/jaringan-advokasi-tambang-serukan-penghentian-iup-tambang",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "JATAM"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

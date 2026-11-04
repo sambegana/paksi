@@ -1,0 +1,507 @@
+{
+ "id": "R23",
+ "tanggal": "2026-10-08",
+ "rentang": [
+  "2026-10-07",
+  "2026-10-23"
+ ],
+ "kueri": [
+  "walhi \"transisi energi\" ESDM warga jawa",
+  "walhi geotermal warga ESDM",
+  "aksi warga ESDM panas bumi",
+  "geotermal ESDM demo warga Jawa",
+  "walhi ESDM aksi"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 28,
+ "berita": [
+  {
+   "judul": "Wacana Pemanfaatan Geothermal Rinjani Mengemuka, Dinas ESDM NTB Sebut Belum Pasti - Lombok Post",
+   "media": "Lombok Post",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi geotermal warga ESDM",
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://lombokpost.jawapos.com/ntb/2610070030/wacana-pemanfaatan-geothermal-rinjani-mengemuka-dinas-esdm-ntb-sebut-belum-pasti",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "tegas Sekretaris Dinas Energi dan Sumber Daya Mineral (ESDM) Provinsi NTB Niken Arumdati, Selasa (6/10)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Flores Menolak Jadi Pulau Panas Bumi, Koalisi Ajukan Amicus Curiae ke MA - Askara.co",
+   "media": "Askara.co",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.askara.co/read/2026/10/08/69308/flores-menolak-jadi-pulau-panas-bumi-koalisi-ajukan-amicus-curiae-ke-ma",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Flores Menolak Jadi “Pulau Panas Bumi”: Koalisi Ajukan Amicus Curiae ke Mahkamah Agung - YLBHI",
+   "media": "YLBHI",
+   "tanggal": "09 Oct 2026",
+   "kueri": [
+    "walhi geotermal warga ESDM",
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://ylbhi.or.id/informasi/siaran-pers/flores-menolak-jadi-pulau-panas-bumi-koalisi-ajukan-amicus-curiae-ke-mahkamah-agung/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kata Faizal Ratuela dari WALHI\nBerdasarkan hal tersebut di atas, koalisi menuntut:\n- Mencabut Keputusan Menteri ESDM Nomor 0539/K/30/MEM/2012 tentang Wilayah Kerja Panas Bumi Sokoria, Ende."
+   ],
+   "kalimat_walhi": [
+    "Koalisi ini terdiri dari YLBHI, Walhi Nasional, Trend Asia, Greenpeace, Amman Flobamora, Kommas Ngada, ELSAM, HuMA, dan Formmada NTT.",
+    "Alasan mendasar WALHI memandang perlu mendukung penuh perjuangan warga NTT dengan memasukkan amicus curae bersama koalisi ini, karena kami memandang Keputusan Menteri Energi dan Sumber Daya Mineral yang menetapkan Flores, Mataloko dan Ende "
+   ]
+  },
+  {
+   "judul": "Pemerintah Diminta Setop Eksploitasi atas Nama Transisi Energi - Betahita",
+   "media": "Betahita",
+   "tanggal": "10 Oct 2026",
+   "kueri": [
+    "walhi \"transisi energi\" ESDM warga jawa",
+    "aksi warga ESDM panas bumi",
+    "walhi ESDM aksi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12483/pemerintah-diminta-setop-eksploitasi-atas-nama-transisi-energi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 7,
+   "penutur_walhi": [
+    "Faisal Ratuela"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Berita\nPemerintah Diminta Setop Eksploitasi atas Nama Transisi Energi\nWalhi bersama Rhizoma Indonesia dan masyarakat terdampak mendesak pemerintah untuk menghentikan pembangunan pembangkit fosil baru, serta mengevaluasi\nSabtu, 10 Oktober 20",
+    "Wahana Lingkungan Hidup Indonesia (Walhi) menilai Pulau Jawa masih menjadi pusat sistem ketenagalistrikan nasional."
+   ]
+  },
+  {
+   "judul": "Uden Dida: Lelang Panas Bumi Kewenangan Pusat, Dampaknya Dirasakan Warga Jabar - Tribunjabar.id",
+   "media": "Tribunjabar.id",
+   "tanggal": "10 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jabar.tribunnews.com/adikarya-parlemen/1186694/uden-dida-lelang-panas-bumi-kewenangan-pusat-dampaknya-dirasakan-warga-jabar",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Uden Dida Minta Kementerian ESDM Buka Data Lelang Panas Bumi Gunung Ciremai - Tribunjabar.id",
+   "media": "Tribunjabar.id",
+   "tanggal": "10 Oct 2026",
+   "kueri": [
+    "geotermal ESDM demo warga Jawa"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jabar.tribunnews.com/adikarya-parlemen/1186693/uden-dida-minta-kementerian-esdm-buka-data-lelang-panas-bumi-gunung-ciremai",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Gugat Menteri ESDM ke PTUN, Nelayan Bangka Melawan Perpanjangan IUP di Teluk Kelabat Dalam - Wow Babel - Wow Babel",
+   "media": "Wow Babel",
+   "tanggal": "12 Oct 2026",
+   "kueri": [
+    "walhi ESDM aksi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.wowbabel.com/nasional/59817752611/gugat-menteri-esdm-ke-ptun-nelayan-bangka-melawan-perpanjangan-iup-di-teluk-kelabat-dalam",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "​Proyek Geothermal Gunung Galunggung Tuai Gelombang Kritik, Dinilai Minim Transparansi dan Ancam Ekosistem - Harapan Rakyat",
+   "media": "Harapan Rakyat",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "walhi geotermal warga ESDM"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Menolak “Pulau Panas Bumi”, Saat Altar dan Rumah Adat Bersatu Melawan Geothermal Flores - Nusantara News",
+   "media": "Nusantara News",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nusantaranews.co/menolak-pulau-panas-bumi-saat-altar-dan-rumah-adat-bersatu-melawan-geothermal-flores",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Polemik Geothermal Kuningan, Bupati Minta Kejelasan KESDM - Listrik Indonesia",
+   "media": "Listrik Indonesia",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://listrikindonesia.com/detail/21466/polemik-geothermal-kuningan-bupati-minta-kejelasan-kesdm",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Dian mengatakan, Pemerintah Kabupaten Kuningan belum menerima surat resmi dari Kementerian ESDM mengenai perkembangan rencana tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Dinas ESDM Jateng Luruskan Isu dan Kekhawatiran Warga Terkait Pengembangan PLTP Ungaran - KuasaKata.com",
+   "media": "KuasaKata.com",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kuasakata.com/read/berita/131552-dinas-esdm-jateng-luruskan-isu-dan-kekhawatiran-warga-terkait-pengembangan-pltp-ungaran",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Geothermal Kuningan Jadi Sorotan, ESDM Akui Belum Kirim Surat Resmi - Fajar Cirebon",
+   "media": "Fajar Cirebon",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://fajarcirebon.com/geothermal-kuningan-jadi-sorotan-esdm-akui-belum-kirim-surat-resmi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Bupati Dian mengatakan, hingga pertemuan berlangsung, Pemkab Kuningan belum menerima surat pemberitahuan resmi maupun penjelasan teknis dari Kementerian ESDM mengenai perkembangan rencana tersebut.",
+    "Sementara itu, Direktur Jenderal EBTKE, Eniya Listiani Dewi, menjelaskan bahwa Kabupaten Kuningan termasuk dalam daftar 14 lokasi yang diumumkan untuk penjajakan pengembangan panas bumi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Buntut Isu Geothermal Gunung Ciremai, Pemkab dan Tokoh Kuningan Suarakan Soal Ini ke ESDM RI - Pikiran Rakyat Kuningan",
+   "media": "Pikiran Rakyat Kuningan",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi",
+    "geotermal ESDM demo warga Jawa"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Geothermal Kuningan Jadi Sorotan, Bupati Dian Temui Kementerian ESDM untuk Minta Kejelasan - radarcirebon.disway.id - Radar Cirebon",
+   "media": "Radar Cirebon",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "geotermal ESDM demo warga Jawa"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radarcirebon.disway.id/kuningan/read/233103/geothermal-kuningan-jadi-sorotan-bupati-dian-temui-kementerian-esdm-untuk-minta-kejelasan/15",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ESDM: Kuningan Masuk Daftar 14 Lokasi Penjajakan Geothermal\nDalam audiensi tersebut, Direktur Jenderal EBTKE Kementerian ESDM, Eniya Listiani Dewi, menjelaskan posisi Kabupaten Kuningan dalam rencana pengembangan energi panas bumi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Iming-iming Investasi Rp4 Triliun, DPD Yakin Geotermal Ungaran Mampu Dongkrak Ekonomi Jateng - republika.co.id",
+   "media": "republika.co.id",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "geotermal ESDM demo warga Jawa"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rejogja.republika.co.id/berita/tmulm5282/imingiming-investasi-rp4-triliun-dpd-yakin-geotermal-ungaran-mampu-dongkrak-ekonomi-jateng",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Abdul seusai melakukan pertemuan dengan perwakilan Dinas ESDM serta Dinas Lingkungan Hidup dan Kehutanan Provinsi Jateng di Kota Semarang, Selasa (13/10/2026).",
+    "Abdul mengatakan, Dinas ESDM Jateng sudah menjelaskan proyek geotermal di Gunung Ungaran tidak akan mengusik atau merusak situs-situs yang telah menjadi kearifan lokal."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pencuri Infrastruktur BTS Telkomsel di Taput Berhasil Diamankan Polisi Bersama Warga - Jawa Pos",
+   "media": "Jawa Pos",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://metrodaily.jawapos.com/hukum-dan-kriminal/2610140022/pencuri-infrastruktur-bts-telkomsel-di-taput-berhasil-diamankan-polisi-bersama-warga",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pakar Undip Nilai Pengembangan PLTP di Gunung Ungaran Berdampak Positif, Walhi Mempertanyakan Urgensinya - https://voxindonews.com/",
+   "media": "https://voxindonews.com/",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "walhi \"transisi energi\" ESDM warga jawa"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://voxindonews.com/read/news/2026-10-15-pakar-undip-nilai-pengembangan-pltp-di-gunung-ungaran-berdampak-positif-walhi-mempertanyakan-urgensinya",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Pada forum yang sama, Direktur Eksekutif Wahana Lingkungan Hidup Indonesia (Walhi) Jawa Tengah, Fahmi Bastian turut memberikan pendapatnya.",
+    "Berdasarkan riset Walhi, pasokan listrik di Jawa Tengah disebut telah mengalami surplus."
+   ]
+  },
+  {
+   "judul": "Gugat Kebijakan Panas Bumi Flores, Keuskupan Agung Ende Soroti Hak Warga - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "15 Oct 2026",
+   "kueri": [
+    "walhi geotermal warga ESDM"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/short-article/2026/10/gugat-kebijakan-panas-bumi-flores-keuskupan-agung-ende-soroti-hak-warga/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Walhi dan Trend Asia turut menegaskan bahwa label energi terbarukan tidak otomatis menjamin keadilan."
+   ]
+  },
+  {
+   "judul": "Keuskupan Agung Ende Layangkan Gugatan Atas Penetapan Flores ‘Pulau Panas Bumi’ - Magdalene.co",
+   "media": "Magdalene.co",
+   "tanggal": "16 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://magdalene.co/story/gugatan-keuskupan-endep-atas-proyek-panas-bumi/",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tolak Geotermal Gunung Ungaran, Barisan Massa Kabupaten Semarang Desak Presiden Copot Menteri ESDM - rasika 105.6 fm",
+   "media": "rasika 105.6 fm",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rasikafm.com/tolak-geotermal-gunung-ungaran-barisan-massa-kabupaten-semarang-desak-presiden-copot-menteri-esdm/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ketua DPRD Kabupaten Semarang, Bondan Marutohening, mengatakan pihaknya akan meneruskan aspirasi tersebut kepada pemerintah pusat.",
+    "Terkait ketidakhadiran Bupati Semarang Ngesti Nugraha dalam audiensi, Bondan menyebut bupati telah mengutus Asisten II dan Kepala Satuan Polisi Pamong Praja (Satpol PP) untuk mewakilinya.",
+    "Sementara itu, Pelaksana Tugas (Plt) Kepala Badan Kesatuan Bangsa dan Politik (Kesbangpol) Kabupaten Semarang, Budi Rahardjo, menjelaskan kewenangan terkait pengembangan panas bumi berada di pemerintah pusat melalui Kementerian ESDM, dengan penugasan kepada PLN."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ratusan Warga Demo di DPRD Kabupaten Semarang, Tolak Proyek Geotermal Gunung Ungaran dan Telomoyo - LINGKAR.news",
+   "media": "LINGKAR.news",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi",
+    "geotermal ESDM demo warga Jawa"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lingkar.news/jateng/ratusan-warga-demo-di-dprd-kabupaten-semarang-tolak-proyek-geotermal-gunung-ungaran-dan-telomoyo/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Selain tuntutan tersebut, massa meminta Bupati Semarang segera menemui masyarakat dan menyatakan penolakan terhadap proyek PLTP di Gunung Ungaran dan Gunung Telomoyo."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ratusan Massa Gelar Aksi Tolak Proyek Geotermal Ungaran-Telomoyo di DPRD Kabupaten Semarang - HARIAN 7",
+   "media": "HARIAN 7",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi",
+    "geotermal ESDM demo warga Jawa"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Tolak Proyek Geotermal Gunung Ungaran, Puluhan Massa Barmas Gedor DPRD Kabupaten Semarang - Suara Merdeka - Suara Merdeka",
+   "media": "Suara Merdeka",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suaramerdeka.com/semarang-raya/0417783985/tolak-proyek-geotermal-gunung-ungaran-puluhan-massa-barmas-gedor-dprd-kabupaten-semarang",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Massa Barmas Geruduk DPRD Kabupaten Semarang, Tolak Geotermal Gunung Ungaran - Suara Pantura",
+   "media": "Suara Pantura",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.suarapantura.com/jateng-pantura/17042/massa-barmas-geruduk-dprd-kabupaten-semarang-tolak-geotermal-gunung-ungaran",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sudah seharusnya Bupati dan Ketua DPRD mendengarkan dan berpihak kepada suara warga, kata Kus Aprianto."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Tolak Geotermal Gunung Ungaran, Barmas Desak SK Menteri Dicabut - Radar Semarang",
+   "media": "Radar Semarang",
+   "tanggal": "19 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radarsemarang.jawapos.com/ungaran/2610190033/tolak-geotermal-gunung-ungaran-barmas-desak-sk-menteri-dicabut",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Koordinator aksi, Mbah Rahman, mengatakan pihaknya meminta DPRD membuat surat resmi penolakan geotermal yang ditujukan hingga ke tingkat nasional, termasuk pencabutan SK Menteri Nomor 134.",
+    "Ia menyebut aksi ini akan terus berlanjut hingga audiensi langsung dengan Bupati Semarang.",
+    "Menanggapi tuntutan tersebut, Ketua DPRD Kabupaten Semarang, Bondan Marutohening, mengatakan pihaknya akan meneruskan aspirasi warga ke presiden.",
+    "Bondan menegaskan, hingga saat ini belum ada satu lembar dokumen pun terkait proyek geotermal Gunung Ungaran yang masuk ke DPRD secara resmi.",
+    "Ia menjelaskan, kewenangan geotermal berada di Kementerian ESDM dengan penugasan ke PLN."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Riau Ancam Ruang Hidup, Warga Riau dan Kepri Desak Pemerintah Cabut Izin Tambang Serta PSN - Porospro.com",
+   "media": "Porospro.com",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "walhi ESDM aksi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://porospro.com/news/cetak/16551/walhi-riau-ancam-ruang-hidup-warga-riau-dan-kepri-desak-pemerintah-cabut-izin-tambang-serta-psn",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Faisal Ratuela"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Rezki Andika, Manajer Kajian dan Kampanye WALHI Riau menjelaskan bahwa konflik di Riau dan Kepri ini mempertegas pola keberpihakan negara pada investasi skala besar, termasuk dalam pemaksaan perluasan PSN Kawasan Ekonomi Khusus (KEK) Galang",
+    "Faisal Ratuela, Pengkampanye Anti Tambang dan Energi Berkeadilan WALHI menegaskan bahwa pembiaran terhadap industri ekstraktif yang merusak lingkungan merupakan bentuk pelanggaran Hak Asasi Manusia (HAM) yang terstruktur."
+   ]
+  },
+  {
+   "judul": "Wahana Lingkungan Hidup Indonesia WALHI Riau Ancam Ruang Hidup, Warga Riau dan Kepri Desak Pemerintah Cabut Izin Tambang Serta PSN - Kilasriau.com",
+   "media": "Kilasriau.com",
+   "tanggal": "20 Oct 2026",
+   "kueri": [
+    "walhi ESDM aksi"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kilasriau.com/news/cetak/30445/wahana-lingkungan-hidup-indonesia-walhi-riau-ancam-ruang-hidup-warga-riau-dan-kepri-desak-pemerintah-cabut-izin-tambang-serta-psn",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Warga Geruduk DPRD Sumedang: Menolak Geotermal Gunung Tampomas Demi Masa Depan Anak Cucu - BandungBergerak.id",
+   "media": "BandungBergerak.id",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "aksi warga ESDM panas bumi"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://bandungbergerak.id/article/detail/1546038551/warga-geruduk-dprd-sumedang-menolak-geotermal-gunung-tampomas-demi-masa-depan-anak-cucu",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "ujar Ikang Nurherdi, tokoh masyarakat Gunung Tampomas, saat berorasi dalam aksi penolakan geothermal di depan Gedung DPRD Kabupaten Sumedang, Selasa, 21 Oktober 2026.",
+    "Dalam audiensi tersebut, warga menyebut Gunung Tampomas sedang dalam proses lelang untuk proyek panas bumi berdasarkan pengajuan Bupati Sumedang.",
+    "Susan, perwakilan Majelis Adat Sumedang Larang, mengatakan pihaknya telah meminta keterbukaan informasi hingga akhirnya memperoleh jawaban dari Kementerian Energi dan Sumber Daya Mineral (ESDM).",
+    "Setelah melakukan audiensi, warga Tampomas dan Majelis Adat Sumedang Larang bersama Anggota Dewan DPRD Kabupaten Sumedang menandatangani dan menyimpulkan sebagai berikut:\n- Atas nama masyarakat Kabupaten Sumedang, Kami menyatakan menolak rencana pemanfaatan panas bumi (Geothermal",
+    "DPRD Sumedang Akan Bahas Penolakan Eksplorasi Panas Bumi Gunung Tampomas\nWakil Ketua DPRD Sumedang Atang Suherman menyebut akan menindaklanjuti aspirasi warga yang menolak rencana eksplorasi panas bumi di Gunung Tampomas melalui rapat pimpinanan dan koordinasi dengan pemerintah d"
+   ],
+   "kalimat_walhi": []
+  }
+ ]
+}

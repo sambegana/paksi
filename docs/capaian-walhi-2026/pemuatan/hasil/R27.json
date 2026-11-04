@@ -1,0 +1,658 @@
+{
+ "id": "R27",
+ "tanggal": "2026-10-07",
+ "rentang": [
+  "2026-10-06",
+  "2026-10-22"
+ ],
+ "kueri": [
+  "walhi hashim sawah hutan",
+  "walhi \"cetak sawah\"",
+  "hashim hutan sawah",
+  "Pusaka \"cetak sawah\"",
+  "\"cetak sawah\" hutan Kementan",
+  "food estate hashim hutan"
+ ],
+ "jejaring": [
+  "Pusaka",
+  "Yayasan Pusaka Bentala Rakyat"
+ ],
+ "jumlah_berita": 33,
+ "berita": [
+  {
+   "judul": "Hashim Sebut Pemerintah Setop Cetak Sawah Baru di Kawasan Hutan - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah",
+    "\"cetak sawah\" hutan Kementan",
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tirto.id/hashim-sebut-pemerintah-setop-cetak-sawah-baru-di-kawasan-hutan-hDzk",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "tirto.id - Utusan Khusus Presiden Bidang Energi dan Iklim, Hashim Djojohadikusumo, mengatakan pemerintah tidak akan lagi melakukan ekspansi budidaya padi di kawasan hutan.",
+    "Ia mengatakan pemerintah, termasuk Kementerian Pertanian, tidak lagi memandang perlu pembukaan lahan sawah baru dengan mengorbankan kawasan hutan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Indonesia Sukses Swasembada Beras, Hashim Sebut Perluasan Sawah di Kawasan Hutan tak Lagi Diperlukan - Ecobiz Asia",
+   "media": "Ecobiz Asia",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah",
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ecobiz.asia/indonesia-sukses-swasembada-beras-hashim-sebut-perluasan-sawah-di-kawasan-hutan-tak-lagi-diperlukan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Ecobiz.asia — Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo mengatakan tercapainya swasembada beras membuat pemerintah tidak lagi melihat kebutuhan untuk memperluas budidaya padi di kawasan hutan.",
+    "Saat menyampaikan pidatonya pada Indonesia International Sustainability Forum (ISF) 2026, Hashim mengatakan target swasembada beras yang dicanangkan Presiden Prabowo Subianto pada 2029 telah tercapai tiga tahun lebih cepat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hashim Pastikan Pemerintah Tak Lagi Buka Lahan Hutan untuk Sawah - kumparan.com - Kumparan.com",
+   "media": "Kumparan.com",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kumparan.com/kumparanbisnis/hashim-pastikan-pemerintah-tak-lagi-buka-lahan-hutan-untuk-sawah-28K3qsLLxKR",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Hashim Sebut Indonesia tak Lagi Perlu Buka Hutan untuk Perluasan Sawah - republika.co.id",
+   "media": "republika.co.id",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah",
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ekonomi.republika.co.id/berita/tmhadv349/hashim-sebut-indonesia-tak-lagi-perlu-buka-hutan-untuk-perluasan-sawah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "REPUBLIKA.CO.ID, JAKARTA -- Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo menyebut Indonesia tidak lagi perlu membuka kawasan hutan untuk memperluas lahan budidaya padi.",
+    "kata adik kandung Presiden Prabowo Subianto dalam International Indonesia Sustainability Forum (ISF), di Jakarta, Selasa (6/10/2026)."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Tak Akan Alihfungsikan Hutan Jadi Sawah Baru - Validnews",
+   "media": "Validnews",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://validnews.id/nasional/2026/10/06/pemerintah-tak-akan-alihfungsikan-hutan-jadi-sawah-baru-154100502",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Klaim Swasembada Setelah 42 Tahun, Pemerintah Stop Ekspansi Sawah di Hutan - kabarbisnis.com",
+   "media": "kabarbisnis.com",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah",
+    "\"cetak sawah\" hutan Kementan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kabarbisnis.com/read/28137312/klaim-swasembada-setelah-42-tahun-pemerintah-stop-ekspansi-sawah-di-hutan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Tak Akan Perluas Lahan Sawah di Kawasan Hutan - Liputan6.com",
+   "media": "Liputan6.com",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah",
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.liputan6.com/bisnis/read/8307147/pemerintah-tak-akan-perluas-lahan-sawah-di-kawasan-hutan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo mengatakan, pemerintah tidak lagi melihat kebutuhan untuk membuka kawasan hutan sebagai lahan sawah karena produksi beras nasional telah mencukupi kebutuhan pangan masyarakat.",
+    "Advertisement\nHashim mengatakan, pemerintah telah mencapai target swasembada beras yang sebelumnya ditetapkan Presiden Prabowo Subianto untuk 2029."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Verify to continue - Katadata.co.id - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6ac4ccfb0a7ab/hashim-pemerintah-setop-rencana-cetak-sawah-di-kawasan-hutan-stok-beras-cukup",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo mengatakan bahwa keputusan ini seiring tercapainya swasembada beras Indonesia setelah 42 tahun.",
+    "Lahan Terdegradasi untuk Tanaman Energi dan Pangan\nUtusan Khusus Presiden Bidang Perdagangan Internasional dan Kerja Sama Multilateral Mari Elka Pangestu mengatakan, Indonesia memiliki lebih dari 12 juta hektare lahan terdegradasi."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah nyatakan tak akan perluas pembukaan lahan untuk sawah - ANTARA News",
+   "media": "ANTARA News",
+   "tanggal": "06 Oct 2026",
+   "kueri": [
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.antaranews.com/berita/5773149/pemerintah-nyatakan-tak-akan-perluas-pembukaan-lahan-untuk-sawah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Pengumuman ini yang ingin saya tegaskan lagi bahwa pemerintah tidak merasa perlu perluasan lahan sawah di kawasan hutan\nJakarta (ANTARA) - Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo menyatakan pemerintah memandang tidak perlu memperluas bukaan lahan unt"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Rencana Bioetanol 2 Hektare Dikritik, WALHI Sebut Pemerintah Tanpa Sense of Crisis - Dunia Energi",
+   "media": "Dunia Energi",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi \"cetak sawah\"",
+    "\"cetak sawah\" hutan Kementan"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.dunia-energi.com/rencana-bioetanol-2-hektare-dikritik-walhi-sebut-pemerintah-tanpa-sense-of-crisis/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Umi Ma’rufah",
+    "Faisal Ratuela"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (WALHI) menilai hal ini menunjukkan bahwa pemerintah sama sekali tidak belajar dari pengalaman membuka food estate dari era Orde Baru hingga era Jokowi yang selalu gagal dan menimbulkan kerusakan ekologis.",
+    "Menurut WALHI, pengalaman proyek pangan dan energi skala besar di berbagai wilayah di Indonesia menunjukkan bahwa persoalan tidak berhenti pada status legal formal suatu bidang tanah."
+   ]
+  },
+  {
+   "judul": "Jutaan Hektare Hutan Dibuka, Ancaman Bencana Ekologis Menganga - NU Online",
+   "media": "NU Online",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "walhi \"cetak sawah\"",
+    "\"cetak sawah\" hutan Kementan"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.nu.or.id/nasional/jutaan-hektare-hutan-dibuka-ancaman-bencana-ekologis-menganga-EtQ4t",
+   "teks_terbaca": true,
+   "walhi_di_isi": 5,
+   "penutur_walhi": [
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Jutaan Hektare Hutan Dibuka, Ancaman Bencana Ekologis Menganga\nNU Online · Rabu, 7 Oktober 2026 | 21:30 WIB\nPengkampanye Pangan dan Ekosistem Esensial Wahana Lingkungan Hidup Indonesia (Walhi) Musdalifah dalam Konferensi Pers Bencana Berula",
+    "Pengkampanye Pangan dan Ekosistem Esensial Wahana Lingkungan Hidup Indonesia (Walhi) Musdalifah mengatakan, proyek pangan dan energi berskala besar di berbagai wilayah Indonesia tidak dapat hanya dilihat dari status legal formal suatu bidan"
+   ]
+  },
+  {
+   "judul": "Pemerintah Berencana Setop Buka Hutan untuk Cetak Sawah di Papua - Betahita",
+   "media": "Betahita",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah",
+    "Pusaka \"cetak sawah\"",
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12470/pemerintah-berencana-setop-buka-hutan-untuk-cetak-sawah-di-papua",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pusaka",
+    "Yayasan Pusaka Bentala Rakyat"
+   ],
+   "kalimat_pemerintah": [
+    "Dalam dua pengumuman yang disampaikan di Indonesian Sustainability Forum di Jakarta, Selasa (6/10), Utusan Khusus Presiden Untuk Iklim dan Energi Hashim Djodjohadikusumo, serta Utusan Khusus Presiden untuk Multilateralisme dan Perdagangan Internasional, Mari Pangestu, menyatakan ",
+    "Sementara itu pendiri sekaligus CEO Mighty Earth Glenn Hurowitz menyebut pengumuman tersebut sebagai kemenangan yang sangat berarti secara global bagi alam, iklim, dan masyarakat lokal Indonesia."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Dunia Sempat Khawatir RI Babat 3 Juta Hektare Hutan Demi Swasembada Pangan - Liputan6.com",
+   "media": "Liputan6.com",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah",
+    "\"cetak sawah\" hutan Kementan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.liputan6.com/bisnis/read/8308315/dunia-sempat-khawatir-ri-babat-3-juta-hektare-hutan-demi-swasembada-pangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Adik kandung Presiden Prabowo Subianto ini menjelaskan bahwa Indonesia berhasil mencapai swasembada pangan sekaligus menepis kecemasan global tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "BPBD Buol ingatkan masyarakat tingkatkan kewaspadaan terhadap karhutla - ANTARA News Sulteng",
+   "media": "ANTARA News Sulteng",
+   "tanggal": "07 Oct 2026",
+   "kueri": [
+    "\"cetak sawah\" hutan Kementan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sulteng.antaranews.com/berita/395362/bpbd-buol-ingatkan-masyarakat-tingkatkan-kewaspadaan-terhadap-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI: Stop Cetak Sawah di Hutan Sebatas Pernyataan - kabarbisnis.com",
+   "media": "kabarbisnis.com",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi hashim sawah hutan",
+    "walhi \"cetak sawah\"",
+    "hashim hutan sawah",
+    "\"cetak sawah\" hutan Kementan"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.kabarbisnis.com/read/28137354/walhi-stop-cetak-sawah-di-hutan-sebatas-pernyataan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 9,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Hal itu merespons pernyataan Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo dalam Indonesia International Sustainability Forum (ISF) 2026, Selasa (6/10/2026)."
+   ],
+   "kalimat_walhi": [
+    "WALHI: Stop Cetak Sawah di Hutan Sebatas Pernyataan\nJAKARTA, kabarbisnis.com: Wahana Lingkungan Hidup Indonesia (WALHI) menilai janji pemerintah untuk menghentikan pembukaan kawasan hutan untuk cetak sawah masih kontradiktif dengan kebijaka",
+    "Menanggapi itu, Pengampanye Ekosistem Esensial dan Pangan WALHI Nasional, Musdalifah Jamal menegaskan komitmen harus dituangkan dalam regulasi, bukan sekadar pernyataan di forum internasional."
+   ]
+  },
+  {
+   "judul": "Rencana Setop Cetak Sawah Harus Diikuti Koreksi Kebijakan Pangan - Betahita",
+   "media": "Betahita",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi hashim sawah hutan",
+    "walhi \"cetak sawah\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12476/rencana-setop-cetak-sawah-harus-diikuti-koreksi-kebijakan-pangan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Menurut Musdalifah Jamal, pengampanye ekosistem esensial dan pangan Walhi Nasional, salah satunya adalah alokasi 5,7 juta hektare hutan untuk proyek pangan dan energi yang baru diumumkan Kementerian Kehutanan beberapa waktu lalu.",
+    "Sepanjang 2025, Walhi mencatat Indonesia kehilangan 283.803 hektare hutan."
+   ]
+  },
+  {
+   "judul": "Hashim Ingin Setop Cetak Sawah di Hutan, Walhi Soroti Kontradiksi Kebijakan - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "walhi hashim sawah hutan",
+    "walhi \"cetak sawah\"",
+    "hashim hutan sawah",
+    "\"cetak sawah\" hutan Kementan"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ac6f62707e41/hashim-ingin-setop-cetak-sawah-di-hutan-walhi-soroti-kontradiksi-kebijakan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Hashim Ingin Setop Cetak Sawah di Hutan, Walhi Soroti Kontradiksi Kebijakan\nWahana Lingkungan Hidup Indonesia (Walhi) menilai pernyataan Hashim Djojohadikusumo soal menyetop cetak sawah di kawasan hutan kontradiktif dengan realita kebijakan",
+    "Walhi pun mendesak pemerintah menyusun kebijakan partisipatif untuk lindungi hutan dari proyek pangan dan energi skala besar."
+   ]
+  },
+  {
+   "judul": "Swasembada Pangan Indonesia Tanpa Babat 3 Juta Hektare Hutan, Dunia Beri Apresiasi - Waspada.id",
+   "media": "Waspada.id",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.waspada.id/berita/swasembada-pangan-indonesia-tanpa-babat-3-juta-hektare-hutan-dunia-beri-apresiasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Siaran Pers Solidaritas Merauke: Pengumuman Hashim Jauh Panggang dari Api tanpa Penghentian PSN Papua Selatan - Yayasan Pusaka Bentala Rakyat",
+   "media": "Yayasan Pusaka Bentala Rakyat",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "Pusaka \"cetak sawah\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://pusaka.or.id/news/siaran-pers-solidaritas-merauke-pengumuman-hashim-jauh-panggang-dari-api-tanpa-penghentian-psn-papua-selatan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pusaka"
+   ],
+   "kalimat_pemerintah": [
+    "Bernardus Bofitwos Baru O.S.A\nJumat, 1 Agustus 2025 | 1 tahun yang lalu\nTren dan Pendorong Pembukaan Lahan di Papua 2024-2025\nSelasa, 15 Juli 2025 | 1 tahun yang lalu\nTindakan dan Intensi Penghancuran Sumber Kehidupan Masyarakat Adat dan Penyiksaan Fisik maupun Psikis dalam PSN M",
+    "Selasa, 28 Juni 2022 | 4 tahun yang lalu\nSOS untuk Tanah Papua: Presiden Segera Batalkan Kebijakan DOB Papua\nMinggu, 5 Juni 2022 | 4 tahun yang lalu\nKoalisi OMS Menolak Skema Sertifikasi dipromosikan dalam Peraturan Anti Deforestasi Uni Eropa\nMinggu, 5 Juni 2022 | 4 tahun yang la"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Solidaritas Merauke Sebut Pengumuman Hashim “Jauh Panggang dari Api” Tanpa Penghentian PSN Papua Selatan - sasagupapua.com",
+   "media": "sasagupapua.com",
+   "tanggal": "08 Oct 2026",
+   "kueri": [
+    "Pusaka \"cetak sawah\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sasagupapua.com/solidaritas-merauke-sebut-pengumuman-hashim-jauh-panggang-dari-api-tanpa-penghentian-psn-papua-selatan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pernyataan Hashim Djojohadikusumo Jauh dari Realitas - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "09 Oct 2026",
+   "kueri": [
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://prohealth.id/pernyataan-hashim-djojohadikusumo-jauh-dari-realitas/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pusaka",
+    "Yayasan Pusaka Bentala Rakyat"
+   ],
+   "kalimat_pemerintah": [
+    "Franky mengatakan, pernyataan pemerintah seharusnya diikuti dengan tindakan menerbitkan kebijakan putusan presiden untuk menghentikan PSN Papua Selatan dan mengambil langkah hukum untuk menertibkan aktivitas perusahaan di lapangan agar tidak lagi beraktivitas.",
+    "Adik Presiden Prabowo Subianto ini mengatakan, salah satu indikatornya adalah tingginya stok beras pemerintah pada saat ini yang mencapai 5,3 juta ton."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Hashim Djojohadikusumo: Indonesia Manfaatkan 12,7 Juta Ha Hutan Terdegradasi untuk Sumber B50-B100 - Sawit Indonesia",
+   "media": "Sawit Indonesia",
+   "tanggal": "09 Oct 2026",
+   "kueri": [
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sawitindonesia.com/hashim-djojohadikusumo-indonesia-manfaatkan-12-7-juta-ha-hutan-terdegradasi-untuk-sumber-b50-b100",
+   "galat": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1035)>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Ekonomi Tanpa Ekspansi Hutan, Kolaborasi Jadi Kunci - Katadata Green",
+   "media": "Katadata Green",
+   "tanggal": "09 Oct 2026",
+   "kueri": [
+    "food estate hashim hutan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://green.katadata.co.id/berita/6ac8cb88043e6/ekonomi-tanpa-ekspansi-hutan-kolaborasi-jadi-kunci",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Utusan Khusus Presiden Hashim Djojohadikusumo menyatakan, capaian tersebut menjadi salah satu pertimbangan pemerintah untuk tidak lagi memperluas budidaya padi ke kawasan hutan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jerat Jebak Mengintai Satwa Liar, Luka Beruang di Kalimantan Membuka Borok Perlindungan Hutan Indonesia - Selingkar Wilis - Selingkar Wilis",
+   "media": "Selingkar Wilis",
+   "tanggal": "10 Oct 2026",
+   "kueri": [
+    "walhi \"cetak sawah\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.selingkarwilis.com/nasional/85017745562/jerat-jebak-mengintai-satwa-liar-luka-beruang-di-kalimantan-membuka-borok-perlindungan-hutan-indonesia",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Mengenal Kucing Kuwuk, Penjaga Hutan Tropis Indonesia yang Rumahnya Terus Dirusak Manusia - Selingkar Wilis - Selingkar Wilis",
+   "media": "Selingkar Wilis",
+   "tanggal": "11 Oct 2026",
+   "kueri": [
+    "walhi \"cetak sawah\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.selingkarwilis.com/nasional/85017747335/mengenal-kucing-kuwuk-penjaga-hutan-tropis-indonesia-yang-rumahnya-terus-dirusak-manusia",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Hashim Sebut Pemerintah Tak Akan Alihkan Kawasan Hutan Jadi Sawah, Komitmen Dipertanyakan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "12 Oct 2026",
+   "kueri": [
+    "walhi hashim sawah hutan",
+    "hashim hutan sawah"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://lestari.kompas.com/read/2026/10/12/170000686/hashim-sebut-pemerintah-tak-akan-alihkan-kawasan-hutan-jadi-sawah-komitmen?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Musdalifah Jamal"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "JAKARTA, KOMPAS.com - Utusan Khusus Presiden Bidang Iklim dan Energi, Hashim Djojohadikusumo mengklaim, pemerintah tidak akan memperluas atau membuka lahan sawah baru di kawasan hutan.",
+    "Target swasembada beras yang awalnya dipatok Presiden Prabowo Subianto untuk dicapai pada 2029, Hashim mengklaim, kini sudah berhasil direalisasikan tiga tahun lebih awal."
+   ],
+   "kalimat_walhi": [
+    "Baca juga: Konflik Bersenjata Hancurkan Lahan Pertanian Global, Ancam Potensi Pangan Dunia\nTerpisah, Pengampanye Ekosistem Esensial dan Pangan WALHI Nasional, Musdalifah Jamal menganggap, pernyataan Hashim terkait pemerintah tidak lagi memb",
+    "WALHI mencatat sepanjang tahun 2025 Indonesia masih kehilangan 283.803 hektare hutan."
+   ]
+  },
+  {
+   "judul": "Hashim: Pembukaan Hutan untuk Sawah Baru Tak lagi Diperlukan - RRI.co.id",
+   "media": "RRI.co.id",
+   "tanggal": "12 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://rri.co.id/nasional/2806267/hashim-pembukaan-hutan-untuk-sawah-baru-tak-lagi-diperlukan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Solidaritas Merauke: Masih Terjadi Deforestasi di Papua Akibat PSN - Teras.id",
+   "media": "Teras.id",
+   "tanggal": "12 Oct 2026",
+   "kueri": [
+    "Pusaka \"cetak sawah\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.teras.id/jubi-id/rubrik/berita-daerah/solidaritas-merauke-masih-terjadi-deforestasi-di-papua-akibat-psn-2299410",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Membantah klaim dua Utusan Khusus Presiden, Hashim Djojohadikusumo dan Mari Elka Pangestu."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Foto : Hashim Sebut Pemerintah Tak Akan Alihkan Kawasan Hutan Jadi Sawah, Komitmen Dipertanyakan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah",
+    "\"cetak sawah\" hutan Kementan"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lestari.kompas.com/image/2026/10/12/170000686/hashim-sebut-pemerintah-tak-akan-alihkan-kawasan-hutan-jadi-sawah-komitmen",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Swasembada Beras, Pemerintah Batalkan Cetak 2-3 Juta Sawah Baru - BeritaSatu.com",
+   "media": "BeritaSatu.com",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "hashim hutan sawah"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.beritasatu.com/ekonomi/3033527/swasembada-beras-pemerintah-batalkan-cetak-2-3-juta-sawah-baru",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Dia menyebut program yang dijalankan Kementerian Pertanian di bawah Menteri Pertanian Amran Sulaiman berhasil mencapai target produksi beras lebih cepat daripada jadwal semula.",
+    "Dia menyebut Kementerian Kehutanan memiliki data sekitar 12,7 juta hektare hutan rusak atau degraded forest di Indonesia."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Satya Bumi Desak Kebijakan Mengikat dan Pemulihan Hak Masyarakat Adat - Prohealth.id",
+   "media": "Prohealth.id",
+   "tanggal": "13 Oct 2026",
+   "kueri": [
+    "Pusaka \"cetak sawah\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://prohealth.id/satya-bumi-desak-kebijakan-mengikat-dan-pemulihan-hak-masyarakat-adat/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pusaka"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Janji Pemerintah Setop Deforestasi Demi Food Estate Papua Ditagih - Betahita",
+   "media": "Betahita",
+   "tanggal": "14 Oct 2026",
+   "kueri": [
+    "Pusaka \"cetak sawah\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12495/janji-pemerintah-setop-deforestasi-demi-food-estate-papua-ditagih",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [
+    "Pusaka"
+   ],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "COP17 Biodiversitas: Perlu Ada Reformasi Insentif Fiskal - Betahita",
+   "media": "Betahita",
+   "tanggal": "22 Oct 2026",
+   "kueri": [
+    "Pusaka \"cetak sawah\""
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.betahita.id/berita/12532/cop17-biodiversitas-perlu-ada-reformasi-insentif-fiskal",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  }
+ ]
+}

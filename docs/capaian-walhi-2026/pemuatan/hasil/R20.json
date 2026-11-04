@@ -1,0 +1,1038 @@
+{
+ "id": "R20",
+ "tanggal": "2026-09-08",
+ "rentang": [
+  "2026-09-07",
+  "2026-09-23"
+ ],
+ "kueri": [
+  "walhi \"FOLU Net Sink\"",
+  "karhutla emisi \"FOLU\"",
+  "\"FOLU Net Sink\" karhutla terancam",
+  "\"FOLU Net Sink\" Kemenhut",
+  "emisi karhutla 2026 juta ton"
+ ],
+ "jejaring": [],
+ "jumlah_berita": 54,
+ "berita": [
+  {
+   "judul": "Diplomasi Asap: Ujian Kredibilitas Indonesia di Mata Dunia - Nusantara News",
+   "media": "Nusantara News",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nusantaranews.co/diplomasi-asap-ujian-kredibilitas-indonesia-di-mata-dunia",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Selain Malaysia & Singapura, Asap Kebakaran Hutan Indonesia Menyerbu 2 Negara Ini - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://internasional.kontan.co.id/news/selain-malaysia-singapura-asap-kebakaran-hutan-indonesia-menyerbu-2-negara-ini",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menanggapi sorotan internasional dan dampak regional tersebut, Juru Bicara Kementerian Luar Negeri RI, Vahd Nabyl Achmad Mulachela, menyatakan bahwa Indonesia tengah intensif berkomunikasi dengan negara-negara tetangga di kawasan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Menhaj Dorong Penerbangan Langsung Indonesia ke Uzbekistan - NU Online",
+   "media": "NU Online",
+   "tanggal": "07 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.nu.or.id/nasional/menhaj-dorong-penerbangan-langsung-indonesia-ke-uzbekistan-ebNMG",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla 2026 Lepaskan Jutaan Ton Emisi CO₂, Target FOLU Net Sink 2030 Terancam - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "walhi \"FOLU Net Sink\"",
+    "karhutla emisi \"FOLU\"",
+    "\"FOLU Net Sink\" karhutla terancam",
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/karhutla-2026-lepaskan-jutaan-ton-emisi-co2-target-folu-net-sink-2030-terancam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 12,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Perhitungan yang dilakukan Wahana Lingkungan Hidup Indonesia (Walhi) memperkirakan emisi karhutla 2026 berada dalam rentang 26 juta-44 juta ton karbon dioksida (CO₂), dengan angka tengah sekitar 31,36 juta ton CO₂.",
+    "Angka emisi CO₂ yang dihitung Walhi tahun 2026 ini setara dengan sekitar 55 persen dari emisi karhutla yang tercatat pada 2025, yang mencapai 56,2 juta ton CO₂."
+   ]
+  },
+  {
+   "judul": "Karhutla 2026 Lepas Jutaan Ton Emisi, Target FOLU Net Sink Indonesia Terancam Gagal - harian.disway.id - HARIAN DISWAY",
+   "media": "HARIAN DISWAY",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "walhi \"FOLU Net Sink\"",
+    "karhutla emisi \"FOLU\"",
+    "\"FOLU Net Sink\" karhutla terancam",
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://harian.disway.id/read/967322/karhutla-2026-lepas-jutaan-ton-emisi-target-folu-net-sink-indonesia-terancam-gagal",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Karhutla 2026 Lepas Jutaan Ton Emisi, Target FOLU Net Sink Indonesia Terancam Gagal\nKepulan asap yang membumbung tinggi akibat kebakaran hutan di provinsi Kalimatan Tengah akhir Agustus lalu -Walhi -\nJAKARTA, HARIAN DISWAY-Kebakaran hutan d",
+    "Berdasarkan perhitungan Wahana Lingkungan Hidup Indonesia (WALHI), estimasi emisi dari vegetasi yang terbakar dari Januari hingga awal September 2026 mencapai sekitar 31 juta ton CO2."
+   ]
+  },
+  {
+   "judul": "2026 Forest and Forestry Release Millions of Tons of CO2 Emissions, 2030 FOLU Net Sink Target Threatened - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "walhi \"FOLU Net Sink\""
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/forest-and-land-fires-2026-release-millions-tons-of-co2-emissions-target-folu-net-sink-2030-threatened",
+   "teks_terbaca": true,
+   "walhi_di_isi": 12,
+   "penutur_walhi": [
+    "Uli Arta Siagian"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Calculations conducted by the Indonesian Forum for the Environment (Walhi) estimate that emissions from forest and land fires in 2026 will range from 26 million to 44 million tons of carbon dioxide (CO2), with a midpoint of approximately 31",
+    "The CO2 emission figures calculated by Walhi for the year 2026 are equivalent to approximately 55 percent of the forest and land fire emissions recorded in 2025, which reached 56.2 million tons of CO2."
+   ]
+  },
+  {
+   "judul": "Karhutla RI Lepas Puluhan hingga Ratusan Juta Ton Karbon, FOLU Net Sink Terancam - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "walhi \"FOLU Net Sink\"",
+    "karhutla emisi \"FOLU\"",
+    "\"FOLU Net Sink\" karhutla terancam",
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6a9fc45d7bab5/karhutla-ri-lepas-puluhan-hingga-ratusan-juta-ton-karbon-folu-net-sink-terancam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Lembaga non-pemerintah di bidang lingkungan Wahana Lingkungan Hidup (Walhi) memperkirakan karhutla melepas 31 juta ton emisi CO2 sepanjang Januari hingga awal September.",
+    "Pengkampanye Iklim dan Isu Global Walhi Patria Rizky Ananda mempertanyakan bagaimana pemerintah mencapai targetnya: sektor kehutanan dan penggunaan lahan lainnya (FOLU) menyerap lebih besar emisi daripada melepasnya pada 2030 alias FOLU Net"
+   ]
+  },
+  {
+   "judul": "Dapat Dukungan Kemenhut, Riau Mantap Masuk Pasar Karbon Yurisdiksi ART-TREES - Ecobiz Asia",
+   "media": "Ecobiz Asia",
+   "tanggal": "08 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://ecobiz.asia/dapat-dukungan-kemenhut-riau-mantap-masuk-pasar-karbon-yurisdiksi-art-trees/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara itu Staf Ahli Menteri Kehutanan Bidang Perubahan Iklim Haruni Krisnawati mengatakan Kementerian Kehutanan mengapresiasi kemajuan Riau dalam mengembangkan REDD+ berbasis yurisdiksi.",
+    "Kementerian Kehutanan, kata dia, siap memfasilitasi penelaahan lebih lanjut terhadap Concept Note Green for Riau dan proses berikutnya sesuai standar internasional serta ketentuan nasional."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Indonesia Lepaskan Jutaan Ton Emisi CO2 - Validnews",
+   "media": "Validnews",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "karhutla emisi \"FOLU\"",
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://validnews.id/nasional/karhutla-lepaskan-jutaan-ton-emisi-co2-1788919366",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "AHY Dinilai Sadar Potensi Dampingi Prabowo di Pilpres 2029 Kecil - Kedai Pena",
+   "media": "Kedai Pena",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" karhutla terancam"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kedaipena.com/ahy-dinilai-sadar-potensi-dampingi-prabowo-di-pilpres-2029-kecil/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Emisi Kebakaran Hutan Indonesia Melonjak, Jadi yang Tertinggi di Dunia - kontan.co.id",
+   "media": "kontan.co.id",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kontan.co.id/news/emisi-kebakaran-hutan-indonesia-melonjak-jadi-yang-tertinggi-di-dunia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Lingkungan Hidup menyatakan kepada Reuters bahwa pemerintah memandang kondisi kualitas udara berbahaya di Kalimantan dan sejumlah wilayah lainnya dengan serius.",
+    "kondisi kualitas udara berbahaya di Kalimantan dan wilayah lainnya, kata kementerian tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Akibat karhutla, emisi Indonesia jadi yang tertinggi di dunia - CNA.id",
+   "media": "CNA.id",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cna.id/indonesia/indonesia-emisi-kebakaran-hutan-el-nino-50536",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Lingkungan Hidup mengatakan kepada Reuters dalam sebuah pernyataan bahwa pihaknya memandang \"dengan prihatin\""
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ranking 6 Global, Emisi Gas Rumah Kaca RI Melonjak Paling Tajam - Green - Bloomberg Technoz",
+   "media": "Bloomberg Technoz",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.bloombergtechnoz.com/detail-news/121074/ranking-6-global-emisi-gas-rumah-kaca-ri-melonjak-paling-tajam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "VIDEO: Indonesia Sumbang Emisi Karbon Tertinggi - CNN Indonesia",
+   "media": "CNN Indonesia",
+   "tanggal": "09 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.cnnindonesia.com/tv/20260909153644-404-1401990/video-indonesia-sumbang-emisi-karbon-tertinggi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI: Folu Net Sink 2030 Terancam Gagal akibat Karhutla - IDN Times",
+   "media": "IDN Times",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "walhi \"FOLU Net Sink\"",
+    "karhutla emisi \"FOLU\"",
+    "\"FOLU Net Sink\" karhutla terancam",
+    "\"FOLU Net Sink\" Kemenhut",
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": true,
+   "url": "https://www.idntimes.com/news/indonesia/walhi-folu-net-sink-2030-terancam-gagal-akibat-karhutla-00-7lwyz-h12jht",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WALHI: Folu Net Sink 2030 Terancam Gagal akibat Karhutla\n- WALHI memperkirakan emisi karhutla Januari–awal September 2026 mencapai 31 juta ton CO2; berdasarkan deteksi Copernicus, angkanya mencapai sekitar 239 juta ton CO2.",
+    "- WALHI menilai emisi kebakaran yang berulang mengancam target FOLU Net Sink 2030, karena hutan dan gambut yang seharusnya menyimpan karbon justru terus melepaskannya."
+   ]
+  },
+  {
+   "judul": "Inpres Larangan Bakar Hutan, Walhi Sorot Risiko Masyarakat Jadi Kambing Hitam - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" karhutla terancam"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6aa2a78b4b31e/inpres-larangan-bakar-hutan-walhi-sorot-risiko-masyarakat-jadi-kambing-hitam",
+   "teks_terbaca": true,
+   "walhi_di_isi": 6,
+   "penutur_walhi": [
+    "Umi Ma’rufah"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Inpres Larangan Bakar Hutan, Walhi Sorot Risiko Masyarakat Jadi Kambing Hitam\nWalhi menilai Instruksi Presiden (Inpres) Nomor 11 Tahun 2026 tentang Penguatan Penegakan Larangan Pembukaan Lahan dengan Cara Membakar dan Pengendalian Kebakaran",
+    "Menurut Walhi, Inpres tersebut cenderung menempatkan masyarakat sebagai pihak yang bertanggung jawab atas pembukaan lahan dengan cara membakar."
+   ]
+  },
+  {
+   "judul": "Ratusan Orang Tersangka Karhutla, Bagaimana Penegakan Hukum Korporasi? - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/09/10/ratusan-orang-tersangka-karhutla-bagaimana-penegakan-hukum-korporasi/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "- Dwi Januanto Nugroho Direktur Jenderal Penegakan Hukum (Gakkum) Kementerian Kehutanan mengatakan, lakukan pengawasan terhadap 32 perizinan berusaha pemanfaatan hutan.",
+    "Pipit Subiyanto, Kasubdit III Dittipidter Bareskrim Polri mengatakan, dalam penegakan hukum mengacu pada UU Kehutanan, UU Perlindungan dan Pengelolaan Lingkungan Hidup (PPLH), UU Perkebunan, UU Konservasi Sumber Daya Alam (KSDA), hingga KUHP.",
+    "Brigjen Pol Mohammad Irhamni, Direktur Tipidter Bareskrim Polri mengatakan, dugaan para tersangka sengaja membakar lahan untuk menghemat biaya operasional pembukaan lahan.",
+    "KLH menyatakan, sudah menyegel 21 badan usaha di tujuh provinsi di Sumatera dan Kalimantan yang berkaitan dengan kejahatan lingkungan ini.",
+    "Jumhur Hidayat, Menteri LH mengatakan, penyegelan merupakan proses sebelum pemberian sanksi.",
+    "Hingga kini, kata Jumhur, dari hasil verifikasi lapangan, KLH menemukan 335 perusahaan terindikasi sengaja melakukan pembakaran."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Emisi Karbon Karhutla Indonesia Tembus 19,7 Juta Ton, Tertinggi di Dunia - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.com/tren/read/2026/09/10/111500365/emisi-karbon-karhutla-indonesia-tembus-19-7-juta-ton-tertinggi-di-dunia?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Kementerian Lingkungan Hidup dan Kehutanan menyatakan bahwa pihaknya memandang pembacaan kualitas udara yang berbahaya di Kalimantan dan wilayah lainnya \"dengan keprihatinan\"."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Emisi Karhutla di Indonesia Berada di Level Tertinggi Dunia - Tirto.id",
+   "media": "Tirto.id",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://tirto.id/emisi-karhutla-di-indonesia-berada-di-level-tertinggi-dunia-hCJu",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Sementara itu, Kementerian Lingkungan Hidup (KLH) dilaporkan telah merespons data yang Fire Emission Watch.",
+    "Kepada Reuters, KLH menyatakan bahwa mereka prihatin dengan situasi yang terjadi.",
+    "Akan tetapi, KLH menyebut data yang dirilis Copernicus tersebut “tidak secara langsung mencerminkan kondisi kualitas udara di wilayah tertentu”.",
+    "KLH juga menyatakan ada faktor-faktor lain yang perlu dipertimbangkan untuk melihat data tersebut."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "BNPB Sambut Positif Tawaran Bantuan dari Malaysia untuk Tangani Karhutla - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://nasional.kompas.com/read/2026/09/10/12473051/bnpb-sambut-positif-tawaran-bantuan-dari-malaysia-untuk-tangani-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Baca juga: Emisi Karbon Karhutla Indonesia Tembus 19,7 Juta Ton, Tertinggi di Dunia\nMeski sangat menyambut tawaran tersebut, Berton menegaskan bahwa keputusan untuk menerima tetap harus dikoordinasikan terlebih dahulu dengan kementerian/lembaga.",
+    "Sebelumnya diberitakan, Menteri Sumber Daya Alam dan Kelestarian Lingkungan Malaysia, Datuk Seri Arthur Joseph Kurup, menyatakan kesiapan membantu tangani karhutla sekaligus menekan risiko kabut asap lintas batas."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "WALHI Nilai Pemerintah Gagal Atasi Karhutla dan Kebakaran TPA - VOI.ID",
+   "media": "VOI.ID",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://voi.id/berita/593581/walhi-nilai-pemerintah-gagal-atasi-karhutla-dan-kebakaran-tpa",
+   "teks_terbaca": true,
+   "walhi_di_isi": 11,
+   "penutur_walhi": [
+    "Wahyu Eka"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JAKARTA – Wahana Lingkungan Hidup Indonesia (WALHI) menilai pemerintah gagal mengatasi kebakaran hutan dan lahan (karhutla) serta mencegah kebakaran berulang di tempat pemrosesan akhir (TPA) sampah.",
+    "Pengampanye Urban Berkeadilan WALHI Nasional Wahyu Eka Styawan mengatakan Indonesia saat ini menghadapi krisis lingkungan yang semakin serius."
+   ]
+  },
+  {
+   "judul": "SIG Catatkan Penjualan Sebanyak 18,28 Juta Ton pada Semester I Tahun 2026 - Olenka",
+   "media": "Olenka",
+   "tanggal": "10 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://olenka.id/sig-catatkan-penjualan-sebanyak-1828-juta-ton-pada-semester-i-tahun-2026",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Project R&P Balongan Edukasi Mahasiswa Pentingnya Jaga Keseimbangan Operasional Kilang dan Kelestarian Alam - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "11 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lestari.kompas.com/read/2026/09/11/201340786/project-rp-balongan-edukasi-mahasiswa-pentingnya-jaga-keseimbangan?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Baca juga: Wakil Ketua DPR Sebut PSN Blok Masela Bakal Dongkrak Ekonomi Nasional\nSelain menjelaskan peran Project R&P dalam operasional Kilang Balongan, seminar tersebut juga bertujuan menunjukkan komitmen Pertamina terhadap kelestarian alam, kesehatan masyarakat, serta lingkunga"
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Dari Bantaran Sungai untuk Masa Depan, Korhudas Tanam Aren 2 Hektare - Waspada.id",
+   "media": "Waspada.id",
+   "tanggal": "12 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.waspada.id/berita/dari-bantaran-sungai-untuk-masa-depan-korhudas-tanam-aren-2-hektare",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pulihkan Bantaran Sungai Uning-Lukup Badak, Korhudas Tanam Ratusan Bibit Aren - lintas gayo",
+   "media": "lintas gayo",
+   "tanggal": "12 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://lintasgayo.co/2026/09/12/pulihkan-bantaran-sungai-uning-lukup-badak-korhudas-tanam-ratusan-bibit-aren/",
+   "galat": "The read operation timed out",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Indonesia Jadi Penghasil Emisi Karhutla Terbesar di Dunia Sepekan Terakhir - Bisnis.com",
+   "media": "Bisnis.com",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://hijau.bisnis.com/read/20260913/651/2003660/indonesia-jadi-penghasil-emisi-karhutla-terbesar-di-dunia-sepekan-terakhir",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "PM Malaysia Anwar Ibrahim Bahas Karhutla Saat Bertemu Prabowo di Sela KTT BRICS, Apa Katanya? - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.com/tren/read/2026/09/13/120327665/pm-malaysia-anwar-ibrahim-bahas-karhutla-saat-bertemu-prabowo-di-sela-ktt",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "B50 di Tengah Karhutla: Hijau di Mesin, Abu di Lahan? - Kompasiana.com",
+   "media": "Kompasiana.com",
+   "tanggal": "13 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompasiana.com/kangenaulia0877/6aa58ff034777c054a5b2ec3/b50-ditengah-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla 2026 Lepaskan Jutaan Ton Karbon, Apa Dampaknya bagi Target Iklim Indonesia? - Suara.com",
+   "media": "Suara.com",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "walhi \"FOLU Net Sink\"",
+    "karhutla emisi \"FOLU\"",
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://www.suara.com/news/2026/09/14/112951/karhutla-2026-lepaskan-jutaan-ton-karbon-apa-dampaknya-bagi-target-iklim-indonesia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 8,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Temuan Wahana Lingkungan Hidup Indonesia (WALHI) ini memperbesar keraguan atas kemampuan pemerintah mencapai target FOLU Net Sink 2030, komitmen iklim yang mengharuskan sektor kehutanan dan penggunaan lahan menyerap emisi lebih besar dari y",
+    "Angka 239 juta metrik ton CO2 tersebut dihitung WALHI berdasarkan deteksi titik panas satelit Copernicus, setara 65,18 megaton karbon."
+   ]
+  },
+  {
+   "judul": "Emisi Karhutla Indonesia Tertinggi di Dunia, Lampaui Rusia - detikInet",
+   "media": "detikInet",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://inet.detik.com/science/d-8661612/emisi-karhutla-indonesia-tertinggi-di-dunia-lampaui-rusia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap, Emisi, dan September Bisa Lebih Membara - Kompas.id",
+   "media": "Kompas.id",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.id/artikel/asap-emisi-dan-september-bisa-lebih-membara",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "Bagi Wahana Lingkungan Hidup Indonesia (Walhi), kondisi ini memperlihatkan kesenjangan antara narasi ketahanan yang dibawa ke forum internasional dan kebutuhan membangun ketahanan ekologis di dalam negeri.",
+    "ujar pengampanye iklim dan isu global Walhi, Patria Rizky Ananda."
+   ]
+  },
+  {
+   "judul": "Karhutla Kalsel Capai 21 Ribu Hektare Ekosistem Gambut Rusak Parah - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/933214/karhutla-kalsel-capai-21-ribu-hektare-ekosistem-gambut-rusak-parah",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (Walhi) memperkirakan emisi akibat kebakaran hutan dan lahan (karhutla) pada 2026 mencapai 31 juta hingga 239 juta ton CO2 ekuivalen."
+   ]
+  },
+  {
+   "judul": "GBCI Dorong Bangunan Rendah Karbon Lewat Integrasi Material Hijau - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/ekonomi/933153/gbci-dorong-bangunan-rendah-karbon-lewat-integrasi-material-hijau",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "(P-4)\nWALHI mendorong pemerintah mengembangkan skema pendanaan iklim yang dapat disalurkan langsung kepada masyarakat, terutama kelompok yang berperan menjaga hutan\nperguruan tinggi didorong tidak hanya menghasilkan pengetahuan dan solusi p"
+   ]
+  },
+  {
+   "judul": "Imbas Karhutla, Emisi Karbon Indonesia Tertinggi di Dunia - Radar Jogja",
+   "media": "Radar Jogja",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://radarjogja.jawapos.com/nusantara/2609140019/imbas-karhutla-emisi-karbon-indonesia-tertinggi-di-dunia",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Indonesia Peringkat 1 Dunia sebagai Penyumbang Emisi Karbon Terbesar akibat Kebakaran Hutan - Tribunnews.com",
+   "media": "Tribunnews.com",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.tribunnews.com/nasional/7882187/indonesia-peringkat-1-dunia-sebagai-penyumbang-emisi-karbon-terbesar-akibat-kebakaran-hutan",
+   "galat": "HTTP Error 403: Forbidden",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Emisi Karhutla Indonesia Tertinggi di Dunia, Tembus 19,7 Juta Metrik Ton - KuatBaca",
+   "media": "KuatBaca",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kuatbaca.com/umum/emisi-karhutla-indonesia-tertinggi-di-dunia-tembus-juta-metrik-ton-17893580185583-1393749",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Emisi Karhutla Indonesia Melonjak Hingga Tertinggi di Dunia - pdiperjuanganbali.id",
+   "media": "pdiperjuanganbali.id",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Emisi Karbon Kebakaran Hutan Indonesia Melonjak Jadi yang Tertinggi di Dunia - SuaraGarut.ID",
+   "media": "SuaraGarut.ID",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://suaragarut.id/emisi-karbon-kebakaran-hutan-indonesia-melonjak-tertinggi-dunia",
+   "galat": "HTTP Error 520: <none>",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Emisi Karbon Kebakaran Hutan Indonesia Melonjak Jadi yang Tertinggi di Dunia - Peradaban.id",
+   "media": "Peradaban.id",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "galat": "HTTP Error 503: Service Unavailable",
+   "teks_terbaca": false
+  },
+  {
+   "judul": "Emisi Karhutla Indonesia Tembus Tertinggi di Dunia, Lampaui Rusia - KuatBaca",
+   "media": "KuatBaca",
+   "tanggal": "14 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://kuatbaca.com/ekonomi/emisi-karhutla-indonesia-tembus-tertinggi-di-dunia-lampaui-rusia-17893579316465-1393748",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Ritual Karhutla: Terbakar, Padam, Ulangi Tanpa Inovasi - harian.disway.id - HARIAN DISWAY",
+   "media": "HARIAN DISWAY",
+   "tanggal": "15 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" karhutla terancam"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://harian.disway.id/read/968500/ritual-karhutla-terbakar-padam-ulangi-tanpa-inovasi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Indonesia Hasilkan 19,7 Juta Ton Emisi, Apa Penyebabnya? Ini Kata Pakar - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.com/tren/read/2026/09/17/083000165/karhutla-indonesia-hasilkan-19-7-juta-ton-emisi-apa-penyebabnya-ini-kata?page=all",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Asap Karhutla Indonesia Disorot Dunia, 12,5 Juta Warga Terpapar - Cyrustimes.com",
+   "media": "Cyrustimes.com",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://cyrustimes.com/krisis-asap-karhutla-indonesia-sorotan-internasional/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Kebut Biofuel, B50-B60 Disiapkan untuk Tekan Impor Energi - Sawit Indonesia",
+   "media": "Sawit Indonesia",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://sawitindonesia.com/pemerintah-kebut-biofuel-b50-b60-disiapkan-untuk-tekan-impor-energi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Lahan Gambut di Kalsel Terus Terbakar - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "17 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/934513/lahan-gambut-di-kalsel-terus-terbakar",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Gubernur."
+   ],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (Walhi) memperkirakan emisi akibat kebakaran hutan dan lahan (karhutla) pada 2026 mencapai 31 juta hingga 239 juta ton CO2 ekuivalen."
+   ]
+  },
+  {
+   "judul": "DPR Susun RUU Perubahan Iklim, Akankah Memuat Aturan soal Karhutla? - Katadata.co.id",
+   "media": "Katadata.co.id",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "karhutla emisi \"FOLU\"",
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6aad120f5bc38/dpr-susun-ruu-perubahan-iklim-akankah-memuat-aturan-soal-karhutla",
+   "teks_terbaca": true,
+   "walhi_di_isi": 3,
+   "penutur_walhi": [
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Merepons pertanyaan ini, Anggota Komisi XII DPR Eddy Soeparno menjelaskan bahwa RUU tersebut akan menjadi payung hukum yang mengatur kebijakan perubahan iklim secara umum."
+   ],
+   "kalimat_walhi": [
+    "Wahana Lingkungan Hidup Indonesia (Walhi) memperkirakan emisi dari vegetasi yang terbakar sepanjang Januari hingga awal September 2026 mencapai sekitar 31 juta ton CO2.",
+    "Estimasi tersebut sekitar delapan kali lebih besar dibandingkan perhitungan Walhi."
+   ]
+  },
+  {
+   "judul": "Panen Ketiga Sipakatau: Saat Kebun Warga Maccini Parang Kota Makassar Mulai Dilirik hingga Nunukan - Mitra Indonesia",
+   "media": "Mitra Indonesia",
+   "tanggal": "18 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.mitraindonesia.id/2026/09/panen-ketiga-sipakatau-saat-kebun-warga.html",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Kemenhut ajak warga Jambi manfaatkan bibit gratis untuk tingkatkan RHL - ANTARA News Jambi",
+   "media": "ANTARA News Jambi",
+   "tanggal": "19 Sep 2026",
+   "kueri": [
+    "\"FOLU Net Sink\" Kemenhut"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://jambi.antaranews.com/berita/667589/kemenhut-ajak-warga-jambi-manfaatkan-bibit-gratis-untuk-tingkatkan-rhl",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Direktur Penghijauan dan Perbenihan Tanaman Hutan Kemenhut Bagus Novianto melalui keterangan di Jambi, Jumat."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Lonjakan Tajam Kebakaran Ancam Target Tekan Emisi Hutan dan Lahan - Mongabay.co.id",
+   "media": "Mongabay.co.id",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "walhi \"FOLU Net Sink\"",
+    "karhutla emisi \"FOLU\"",
+    "\"FOLU Net Sink\" karhutla terancam",
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": true,
+   "walhi_di_judul": false,
+   "url": "https://mongabay.co.id/2026/09/20/lonjakan-tajam-kebakaran-ancam-target-tekan-emisi-hutan-dan-lahan/",
+   "teks_terbaca": true,
+   "walhi_di_isi": 10,
+   "penutur_walhi": [
+    "Uli Arta Siagian",
+    "Patria Rizky"
+   ],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Selain itu, Kementerian Lingkungan Hidup perlu menggunakan kewenangannya untuk menuntut ganti rugi dan pemulihan lingkungan, menjatuhkan sanksi administratif hingga pencabutan izin, serta memastikan korporasi memenuhi kewajiban pemulihan."
+   ],
+   "kalimat_walhi": [
+    "WALHI memperkirakan karhutla Januari–awal September 2026 melepaskan sekitar 31 juta ton CO2, sementara estimasi Copernicus mencapai 239 juta ton CO2.",
+    "WALHI menyebut dugaan keterlibatan 262 entitas perusahaan dalam karhutla di delapan provinsi."
+   ]
+  },
+  {
+   "judul": "Dapat Izin Prabowo, Malaysia Segera Kerahkan Personel untuk Padamkan Karhutla Kalimantan - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://www.kompas.com/tren/read/2026/09/20/081500665/dapat-izin-prabowo-malaysia-segera-kerahkan-personel-untuk-padamkan",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "kata Wakil Perdana Menteri Malaysia Datuk Seri Ahmad Zahid Hamidi dalam konferensi pers di Jakarta.",
+    "Bantuan yang disiapkan meliputi:\nAhmad Zahid, yang juga menjabat sebagai Ketua Komite Pengurusan Bencana Pusat Malaysia, menjelaskan bahwa Menteri Luar Negeri Malaysia Datuk Seri Mohamad Hasan telah ditugaskan untuk mengoordinasikan bantuan teknis ini bersama NADMA, APMM, Departe",
+    "Saya berharap Kementerian Luar Negeri, dalam menjalankan koordinasi ini, akan memastikan bahwa semua pihak yang terlibat dalam operasi dapat bekerja secara terpadu,\""
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Karhutla Samboja, Tim Gabungan Padamkan 5 Hektare Lahan di Kawasan Obvitnas - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "20 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/nusantara/935496/karhutla-samboja-tim-gabungan-padamkan-5-hektare-lahan-di-kawasan-obvitnas",
+   "teks_terbaca": true,
+   "walhi_di_isi": 1,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "WAHANA Lingkungan Hidup Indonesia (Walhi) memperkirakan emisi akibat kebakaran hutan dan lahan (karhutla) pada 2026 mencapai 31 juta hingga 239 juta ton CO2 ekuivalen."
+   ]
+  },
+  {
+   "judul": "Dokter Jelaskan Seberapa Bahaya Asap Karhutla bagi Anak-anak - Kompas.com",
+   "media": "Kompas.com",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://amp.kompas.com/tren/read/2026/09/21/200100665/dokter-jelaskan-seberapa-bahaya-asap-karhutla-bagi-anak-anak",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Pemerintah Siapkan 2 Juta Hektare Lahan Tebu, Singkong, dan Jagung untuk Kemandirian Energi - Media Indonesia",
+   "media": "Media Indonesia",
+   "tanggal": "21 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": false,
+   "url": "https://mediaindonesia.com/ekonomi/935660/pemerintah-siapkan-2-juta-hektare-lahan-tebu-singkong-dan-jagung-untuk-kemandirian-energi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 0,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [
+    "Menteri Pertanian (Mentan) Andi Amran Sulaiman mengatakan pengembangan bioetanol tidak cukup hanya dengan membangun pabrik.",
+    "ujar Mentan Amran usai memimpin Rapat Program Khusus Pengembangan Bioetanol bersama 44 bupati dari sejumlah daerah di Jakarta, Senin (21/9).",
+    "Dalam tahap awal, Kementan akan memperkuat pengembangan jagung melalui percontohan di daerah yang menyatakan kesiapan."
+   ],
+   "kalimat_walhi": []
+  },
+  {
+   "judul": "Jawa Timur Kehilangan 110 Ribu Hektare Tutupan Pohon, WALHI: 24 Daerah Terancam Kekeringan dan Bencana Ekologi - MalangTIMES",
+   "media": "MalangTIMES",
+   "tanggal": "22 Sep 2026",
+   "kueri": [
+    "emisi karhutla 2026 juta ton"
+   ],
+   "indeks_walhi": false,
+   "walhi_di_judul": true,
+   "url": "https://malangtimes.com/baca/3331350690/20260922/100400/jawa-timur-kehilangan-110-ribu-hektare-tutupan-pohon-walhi-24-daerah-terancam-kekeringan-dan-bencana-ekologi",
+   "teks_terbaca": true,
+   "walhi_di_isi": 4,
+   "penutur_walhi": [],
+   "jejaring_di_isi": [],
+   "kalimat_pemerintah": [],
+   "kalimat_walhi": [
+    "JATIMTIMES – Wahana Lingkungan Hidup Indonesia (WALHI) Jawa Timur menyoroti makin parahnya ancaman krisis ekologis yang mengepung wilayah Jawa Timur dalam momentum peringatan Hari Keadilan Ekologis Nasional, Minggu (20/9/2026).",
+    "Berdasarkan data analisis WALHI Jatim, ekspansi pembangunan dan alih fungsi lahan tanpa memerdulikan daya dukung lingkungan telah memicu bencana hidrometeorologi basah maupun kering di berbagai kabupaten dan kota."
+   ]
+  }
+ ]
+}
