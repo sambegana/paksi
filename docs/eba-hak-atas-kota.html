@@ -1,0 +1,365 @@
+<title>Hak atas Kota Jawa</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: laporan kerja dua kolom (daftar isi lengket + isi), satu kolom di ponsel. Palet: lumpur pesisir, mangrove, air pasang. */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --ink:#1c2422; --muted:#5a6662; --line:#d9dfdb;
+  --mangrove:#1e6b55; --mangrove-soft:#e3efe9; --tide:#245c86; --tide-soft:#e4edf5;
+  --silt:#9a6a1f; --silt-soft:#f5ecdc; --risk:#a63a2b; --risk-soft:#f7e6e2;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--tide);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--tide);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:13.5px}
+nav.toc p{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{color:var(--muted);text-decoration:none;display:flex;gap:8px}
+nav.toc a::before{content:counter(t,decimal-leading-zero);font-family:var(--mono);font-size:11px;padding-top:2px;color:var(--line)}
+nav.toc a:hover{color:var(--ink)}
+main{min-width:0}
+header.top{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:8px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--mangrove)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,4.6vw,46px);line-height:1.08;margin:10px 0 14px;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(23px,2.8vw,30px);line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--body);font-weight:600;font-size:16.5px;margin:26px 0 8px}
+h4{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px}
+p{margin:0 0 12px;max-width:72ch}
+.lede{font-size:17.5px;color:var(--muted);max-width:68ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12.5px;color:var(--muted);margin-top:16px}
+section{padding-block:40px 8px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sub{color:var(--muted);margin-bottom:20px;max-width:70ch}
+ul.tight{margin:0 0 12px;padding-left:20px;max-width:74ch}
+ul.tight li{margin-bottom:6px}
+.pill{display:inline-block;font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.03em;padding:2px 8px;border-radius:3px;white-space:nowrap}
+.p-go{background:var(--mangrove-soft);color:var(--mangrove)}
+.p-warn{background:var(--silt-soft);color:var(--silt)}
+.p-risk{background:var(--risk-soft);color:var(--risk)}
+.p-info{background:var(--tide-soft);color:var(--tide)}
+
+.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:22px 24px;margin:24px 0 8px;display:grid;gap:10px}
+.verdict .big{font-family:var(--display);font-size:24px;font-weight:600;line-height:1.25}
+.countdown{display:flex;flex-wrap:wrap;gap:24px;margin-top:6px}
+.countdown div{display:grid}
+.countdown b{font-family:var(--display);font-size:34px;line-height:1;font-weight:600;font-variant-numeric:tabular-nums}
+.countdown span{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+.challenge{display:grid;gap:14px;margin-top:14px}
+.challenge article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.challenge h4{margin:0 0 4px}
+.challenge p{margin:0;font-size:14.5px}
+.challenge .you h4{color:var(--silt)}
+.challenge .me h4{color:var(--mangrove)}
+
+.tbl{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td small,li small{color:var(--muted)}
+.doi{font-family:var(--mono);font-size:12px;word-break:break-all}
+
+.weights{display:grid;gap:8px;margin:14px 0 18px;max-width:640px}
+.wrow{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr) 44px;gap:12px;align-items:center;font-size:14px}
+.bar{height:12px;background:var(--line);position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--mangrove)}
+.wrow .num{font-family:var(--mono);text-align:right}
+
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:12px 0}
+.card{background:var(--surface);border:1px solid var(--line);padding:16px 18px;min-width:0}
+.card h4{margin-top:0}
+.swot .card{border-top:3px solid var(--line)}
+.swot .s{border-top-color:var(--mangrove)}.swot .w{border-top-color:var(--silt)}
+.swot .o{border-top-color:var(--tide)}.swot .t{border-top-color:var(--risk)}
+.swot .s h4{color:var(--mangrove)}.swot .w h4{color:var(--silt)}.swot .o h4{color:var(--tide)}.swot .t h4{color:var(--risk)}
+.swot ul{margin:0;padding-left:18px;font-size:14.2px}
+.swot li{margin-bottom:6px}
+
+.score{display:inline-flex;gap:3px;vertical-align:middle}
+.score i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.score i.on{background:var(--mangrove)}
+
+.toc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.toc-flow .step{background:var(--surface);border:1px solid var(--line);padding:12px 14px;font-size:13.8px;min-width:0}
+.toc-flow .step b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:500}
+.toc-flow .imp{grid-column:1/-1;background:var(--mangrove-soft);border-color:transparent}
+.outputs{display:grid;gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove)}
+.outputs ol{margin:6px 0 0;padding-left:20px;font-size:14.2px}
+.callout{background:var(--silt-soft);padding:14px 18px;margin:14px 0;max-width:78ch;font-size:14.6px}
+.callout.blue{background:var(--tide-soft)}
+.callout.red{background:var(--risk-soft)}
+.callout p:last-child{margin:0}
+footer{font-size:13px;color:var(--muted);padding-top:28px}
+ol.src{font-size:13px;padding-left:20px;display:grid;gap:4px;max-width:90ch}
+ol.src li{word-break:break-word}
+
+@media (max-width:900px){
+  .wrap{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:24px 60px}
+  nav.toc{position:static;border:1px solid var(--line);background:var(--surface);padding:14px 16px}
+  nav.toc ol{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc-flow{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .grid2,.challenge article{grid-template-columns:minmax(0,1fr)}
+  nav.toc ol{grid-template-columns:minmax(0,1fr)}
+  .toc-flow{grid-template-columns:minmax(0,1fr)}
+  .wrow{grid-template-columns:minmax(0,1fr) 44px}.wrow .bar{grid-column:1/-1;grid-row:2}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+<style>
+.map{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:14px 0}
+.map .card h4{margin-top:0}
+.map .mid{background:var(--mangrove-soft);border-color:transparent}
+.layers{display:grid;gap:8px;margin:14px 0;max-width:820px}
+.layer{display:grid;grid-template-columns:minmax(0,170px) minmax(0,1fr);gap:14px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);font-size:14.4px}
+.layer b{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:500}
+.layer.bio b{color:var(--mangrove)}.layer.soc b{color:var(--silt)}.layer.ins b{color:var(--tide)}
+.layer.hidden{border-left:4px solid var(--risk)}
+.idea{background:var(--surface);border:1px solid var(--line);padding:18px 20px;margin:14px 0;display:grid;gap:8px}
+.idea h3{margin:0;font-family:var(--display);font-size:21px;font-weight:600}
+.idea .tag{font-family:var(--mono);font-size:11.5px;color:var(--muted);letter-spacing:.04em}
+.idea dl{display:grid;grid-template-columns:minmax(0,170px) minmax(0,1fr);gap:6px 16px;margin:4px 0 0;font-size:14.3px}
+.idea dt{font-family:var(--mono);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+.idea dd{margin:0}
+.idea .pc{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:12px;margin-top:4px}
+.idea .pc div{font-size:14px;padding:10px 12px}
+.idea .plus{background:var(--mangrove-soft)}.idea .minus{background:var(--risk-soft)}
+.idea .pc b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;margin-bottom:3px;font-weight:500}
+.rec{border-left:4px solid var(--mangrove)}
+blockquote{margin:10px 0;padding:8px 16px;border-left:3px solid var(--tide);color:var(--muted);font-size:14.6px;max-width:74ch}
+@media (max-width:900px){.map{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:620px){.layer,.idea dl,.idea .pc{grid-template-columns:minmax(0,1fr)}}
+</style>
+
+<div class="wrap">
+<nav class="toc" aria-label="Daftar isi">
+  <p>Isi</p>
+  <ol>
+    <li><a href="#subsiden">Subsidensi masih masuk?</a></li>
+    <li><a href="#hak">Hak atas kota</a></li>
+    <li><a href="#ekosistem">Apa itu ekosistem kota</a></li>
+    <li><a href="#sambung">Menyambungkan keduanya</a></li>
+    <li><a href="#kota">Kota-kota di Jawa</a></li>
+    <li><a href="#ide">Ide proposal urban</a></li>
+    <li><a href="#usul">Usulan dan catatan kritis</a></li>
+    <li><a href="#baca">Bacaan</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <div class="eyebrow">Lanjutan diskusi Global EbA Fund · Arah urban</div>
+  <h1>Hak atas kota, ekosistem kota, dan tempat subsidensi di dalamnya</h1>
+  <p class="lede">Halaman ini memakai titik mulai dari atasan: hak atas kota, lalu ekosistem kota. Dari dua konsep itu saya turunkan masalah dan ide proposal yang tetap berada dalam kerangka Topik 2, SO1, dan Pilar 1 dan 2.</p>
+  <div class="meta"><span>4 November 2026</span><span>Tenggat submit: 16 November 2026</span></div>
+</header>
+
+<section id="subsiden">
+  <h2>Subsidensi masih masuk dengan arahan atasan?</h2>
+  <p><b>Masih masuk, tapi perannya berubah.</b> Tadinya subsidensi adalah prinsip yang mengatur seluruh proposal. Sekarang ia menjadi salah satu bukti dan salah satu lensa masalah. Dengan bingkai urban, posisinya malah lebih kuat. Akuifer (lapisan air tanah) adalah bagian ekosistem kota, sehingga subsidensi bisa dibaca sebagai <em>kerusakan ekosistem kota</em>, bukan sekadar persoalan geologi.</p>
+  <div class="tbl"><table>
+    <tr><th>Unsur arahan</th><th>Cara subsidensi masuk</th></tr>
+    <tr><td>Topik 2 (keamanan manusia)</td><td>Kampung tenggelam, sumur asin, rumah ditinggal, tanah hilang. Ada ketimpangan yang jelas: yang memompa air tanah (hotel, mal, industri) bukan yang tenggelam. Relokasi atau proyek tanggul bisa memicu konflik baru.</td></tr>
+    <tr><td>SO1 (kesadaran, pengetahuan, kapasitas)</td><td>Ini kecocokan terkuat. Survei Takagi et al. 2021 menunjukkan warga pesisir Jakarta belum mengaitkan banjir dengan subsidensi dan pengambilan air tanah. Celah kesadaran semacam ini persis sasaran SO1: "awareness and understanding of the critical role of natural assets". Akuifer adalah natural asset.</td></tr>
+    <tr><td>Pilar 2 (data dan sains)</td><td>Data InSAR yang sudah ada dipadukan dengan survei sumur oleh warga: siapa memompa, siapa tenggelam.</td></tr>
+    <tr><td>Pilar 1 (satu sub-opsi)</td><td>Kalau memilih Policy: zonasi air tanah dan perlindungan kawasan resapan. Kalau memilih Capacity building: kapasitas pemkot dan warga membaca dan mengelola risiko subsidensi.</td></tr>
+  </table></div>
+  <div class="callout red"><p><b>Satu jebakan.</b> Mengatur izin air tanah sendiri <em>bukan</em> EbA, dan reviewer bisa menilainya "not ecosystem-based" (bobot kriteria EbA 40%). Subsidensi harus disambungkan ke ekosistemnya: perlindungan kawasan resapan (misalnya Kawasan Bandung Utara), situ dan rawa sebagai tampungan dan resapan, koridor sungai, dan mangrove di tepi pantai. Regulasi pemompaan diposisikan sebagai <em>kondisi pemungkin</em> agar EbA itu berhasil.</p></div>
+</section>
+
+<section id="hak">
+  <h2>Mulai dari hak atas kota</h2>
+  <p>Gagasan <b>hak atas kota</b> (<i>le droit à la ville</i>) dicetuskan Henri Lefebvre pada 1968. David Harvey (2008) merumuskannya ulang sebagai hak kolektif untuk ikut membentuk kota, bukan sekadar hak individual untuk mengakses apa yang sudah ada:</p>
+  <blockquote>"The right to the city is far more than the individual liberty to access urban resources: it is a right to change ourselves by changing the city." (Harvey 2008)</blockquote>
+  <p>Kalau diturunkan ke bahasa kerja, ada empat unsur:</p>
+  <ul class="tight">
+    <li><b>Hak untuk tinggal dan tidak tergusur</b>, termasuk tidak tergusur oleh proyek yang mengatasnamakan adaptasi.</li>
+    <li><b>Hak atas milik bersama kota (urban commons):</b> air tanah, sungai dan sempadannya, situ, pantai, ruang hijau.</li>
+    <li><b>Hak ikut memutuskan</b> bentuk kota: tata ruang, anggaran, proyek infrastruktur.</li>
+    <li><b>Fungsi sosial ruang</b>, artinya ruang kota tidak semata komoditas.</li>
+  </ul>
+
+  <h3>Pijakan formalnya</h3>
+  <div class="tbl"><table>
+    <tr><th>Tingkat</th><th>Rujukan</th><th>Catatan</th></tr>
+    <tr><td>Global</td><td>New Urban Agenda (Habitat III, 2016), paragraf 11: "cities for all"</td><td>Istilah "right to the city" diperdebatkan saat negosiasi. Banyak negara menolak menyebutnya sebagai hak. Cek teks final sebelum mengutip kata per kata.</td></tr>
+    <tr><td>Global</td><td>SDG 11 (kota inklusif, aman, tangguh)</td><td>Bisa dipilih di formulir sebagai salah satu SDG.</td></tr>
+    <tr><td>Preseden hukum</td><td>Brasil, Estatuto da Cidade (2001)</td><td>Contoh hak atas kota yang dijadikan undang-undang, termasuk fungsi sosial properti.</td></tr>
+    <tr><td>Indonesia</td><td>UUD 1945 Pasal 28H: hak bertempat tinggal dan atas lingkungan hidup yang baik dan sehat</td><td>Dasar konstitusional terkuat.</td></tr>
+    <tr><td>Indonesia</td><td>UU 26/2007 tentang Penataan Ruang: hak masyarakat dalam penataan ruang, RTH 30%</td><td>Kewajiban RTH jarang terpenuhi, jadi bisa dipakai sebagai indikator.</td></tr>
+    <tr><td>Indonesia</td><td>Kampung Improvement Program Jakarta (sejak 1969)</td><td>Bukti bahwa memperbaiki kampung tanpa menggusur pernah menjadi kebijakan resmi.</td></tr>
+  </table></div>
+  <p><b>Mitra potensial yang sudah bekerja dengan bingkai ini:</b> Rujak Center for Urban Studies, Urban Poor Consortium dan JRMK, Arkom Indonesia (arsitek komunitas), LBH Jakarta untuk data penggusuran, serta kampus (UI SKSG, ITB, Undip, UGM). Mereka bisa memenuhi syarat ≥25% mitra lokal.</p>
+  <div class="callout"><p><b>Catatan kritis.</b> Hak atas kota adalah konsep teori politik dengan akar Marxis. Untuk diskusi internal ia kompas yang bagus. Tapi reviewer IUCN/UNEP menilai pertama-tama soal <em>ekosistem dan risiko iklim</em> (40%). Di proposal, terjemahkan menjadi "rights-based / just urban EbA" dan sandarkan pada New Urban Agenda, SDG 11, dan kriteria FEBA 1.5 (equitable governance). Hak atas kota menjawab <em>untuk siapa</em>. Ekosistem kota menjawab <em>apa yang dikerjakan</em>. Keduanya harus ada, dan yang kedua harus tampil lebih dulu di dokumen.</p></div>
+</section>
+
+<section id="ekosistem">
+  <h2>Apa itu ekosistem kota</h2>
+  <p>Dalam ekologi perkotaan, kota dipahami sebagai sistem sosial-ekologis-teknologis (McPhearson et al. 2016). Alam, manusia, dan infrastruktur saling membentuk, sehingga kota bukan "bukan-alam". Untuk kebutuhan proposal EbA, ada tiga lapisan:</p>
+  <div class="layers">
+    <div class="layer bio"><b>Biofisik, terlihat</b><span>Sungai dan sempadan, situ, rawa, embung, mangrove dan dataran lumpur pesisir, pohon dan ruang hijau kota, tanah</span></div>
+    <div class="layer bio hidden"><b>Biofisik, tak terlihat</b><span><b>Akuifer dan kawasan resapannya</b> (misalnya Kawasan Bandung Utara, lereng Merapi untuk Yogyakarta). Ini lapisan yang paling menentukan nasib kota-kota Jawa, dan yang paling jarang dihitung sebagai ekosistem.</span></div>
+    <div class="layer soc"><b>Sosial</b><span>Kampung kota, komunitas tepi sungai dan pesisir, ekonomi informal, pengetahuan lokal (contohnya komunitas Ciliwung Condet di jurnal UI)</span></div>
+    <div class="layer ins"><b>Kelembagaan dan infrastruktur</b><span>RTRW, izin air tanah, PDAM, drainase, tanggul, anggaran kota</span></div>
+  </div>
+  <h3>Jasa ekosistem kota yang relevan untuk risiko iklim</h3>
+  <p>Mengikuti klasifikasi Gómez-Baggethun &amp; Barton (2013):</p>
+  <div class="tbl"><table>
+    <tr><th>Jasa ekosistem</th><th>Dari ekosistem apa</th><th>Risiko iklim yang diredam</th></tr>
+    <tr><td>Pengaturan aliran dan banjir</td><td>Situ, rawa, sempadan sungai, ruang hijau yang meresapkan air</td><td>Banjir, genangan</td></tr>
+    <tr><td>Penyediaan dan pengisian air tanah</td><td>Akuifer, kawasan resapan</td><td>Kekeringan, krisis air, subsidensi</td></tr>
+    <tr><td>Perlindungan pantai</td><td>Mangrove, dataran lumpur</td><td>Rob, abrasi</td></tr>
+    <tr><td>Pendinginan iklim mikro</td><td>Pohon, taman, badan air</td><td>Panas ekstrem</td></tr>
+    <tr><td>Pangan dan penghidupan</td><td>Tambak dan perikanan pesisir, kebun kota</td><td>Guncangan ekonomi</td></tr>
+  </table></div>
+</section>
+
+<section id="sambung">
+  <h2>Menyambungkan keduanya: siapa yang berhak atas jasa ekosistem kota?</h2>
+  <div class="map">
+    <div class="card"><h4>Hak atas kota</h4><p>Siapa boleh tinggal, siapa mengakses milik bersama, siapa ikut memutuskan.</p></div>
+    <div class="card mid"><h4>Titik temu</h4><p>Jasa ekosistem kota dibagi tidak adil. Adaptasi bisa menggusur. Kerusakan ekosistem ditanggung yang paling lemah.</p></div>
+    <div class="card"><h4>Ekosistem kota</h4><p>Akuifer, sungai, situ, mangrove, pohon, beserta jasa pengaman iklimnya.</p></div>
+  </div>
+  <p>Literatur sudah menamai titik temu ini. Anguelovski et al. (2016) meneliti delapan kota, <b>termasuk Jakarta</b>, dan menemukan dua bentuk ketidakadilan dalam adaptasi kota:</p>
+  <ul class="tight">
+    <li><b>Acts of commission:</b> proyek adaptasi seperti normalisasi sungai, tanggul, atau kawasan lindung baru yang menggusur atau membebani kelompok rentan.</li>
+    <li><b>Acts of omission:</b> rencana adaptasi yang melindungi kawasan bernilai ekonomi tinggi dan melewatkan kampung miskin.</li>
+  </ul>
+  <p>Inilah jembatan langsung ke Topik 2. Call menyebut "climate action can also contribute to insecurity by changing power dynamics". Hak atas kota memberi bahasa normatifnya. Anguelovski memberi bukti empirisnya. Ekosistem kota memberi objek kerjanya.</p>
+</section>
+
+<section id="kota">
+  <h2>Kota-kota di Jawa dari lensa ini</h2>
+  <p class="sub">Keempat ibu kota provinsi prioritas kebetulan punya kasus yang khas. Jakarta tetap jadi rujukan, bukan lokasi utama.</p>
+  <div class="tbl"><table>
+    <tr><th>Kota</th><th>Ekosistem kunci</th><th>Risiko iklim</th><th>Konflik hak atas kota</th></tr>
+    <tr><td><b>Semarang</b> (Jateng)</td><td>Akuifer pesisir, mangrove Tugurejo dan Mangunharjo, sungai</td><td>Subsidensi hingga ~14 cm/th, rob</td><td>Kampung nelayan Tambak Lorok dan pesisir vs. tol-tanggul Semarang–Demak. Industri memompa air tanah, kampung yang tenggelam.</td></tr>
+    <tr><td><b>Bandung</b> (Jabar)</td><td>Kawasan Bandung Utara sebagai resapan (diatur Perda Jabar 2/2016), Cikapundung, Citarum hulu</td><td>Banjir Dayeuhkolot dan Baleendah, subsidensi cekungan, panas</td><td>Vila dan perumahan di kawasan resapan vs. warga hilir. Kampung tepi Cikapundung. Industri tekstil memompa air tanah.</td></tr>
+    <tr><td><b>Yogyakarta</b> (DIY)</td><td>Akuifer Merapi, sungai Code, Winongo, dan Gajah Wong</td><td>Krisis air tanah, banjir lahar dingin di sungai kota</td><td><b>Jogja Asat (2014):</b> sumur warga Miliran kering setelah hotel beroperasi. Izin air tanah hotel dicabut 1 September 2014, dan menurut warga sumur berair lagi delapan hari kemudian. Kampung tepi Code.</td></tr>
+    <tr><td><b>Surabaya</b> (Jatim)</td><td>Mangrove Pamurbaya dan Wonorejo, muara</td><td>Rob, banjir pasang</td><td>Reklamasi Surabaya Waterfront Land vs. nelayan dan mangrove</td></tr>
+    <tr><td>Jakarta (rujukan)</td><td>Akuifer, Ciliwung, mangrove Muara Angke</td><td>Subsidensi, rob, banjir</td><td>Penggusuran untuk normalisasi (misalnya Kampung Pulo), Kampung Akuarium, Tanggul Laut segmen 3.3</td></tr>
+  </table></div>
+  <p><small>Kasus Jogja Asat bersumber dari pemberitaan dan skripsi. Tanggung jawab hotel tidak pernah diputus pengadilan, dan pihak hotel membantah. Pakai sebagai ilustrasi konflik, bukan bukti hidrologis.</small></p>
+</section>
+
+<section id="ide">
+  <h2>Ide proposal urban</h2>
+  <p class="sub">Semua ide tetap dalam kerangka Topik 2, SO1, dan Pilar 1 dan 2.</p>
+
+  <article class="idea">
+    <span class="tag">U1 · Air tanah · Semarang, Bandung, Yogyakarta</span>
+    <h3>Akuifer sebagai milik bersama kota: siapa memompa, siapa tenggelam</h3>
+    <dl>
+      <dt>Inti</dt><dd>Memperlakukan akuifer dan kawasan resapan sebagai ekosistem kota dan milik bersama. Basis bukti dibangun dengan memadukan InSAR dan survei sumur oleh warga, lalu dipakai untuk memperkuat perlindungan resapan (situ, sempadan, KBU) dan zonasi air tanah.</dd>
+      <dt>Keamanan manusia</dt><dd>Krisis air, kampung tenggelam, ketimpangan pengguna air</dd>
+      <dt>SO1</dt><dd>Menutup celah kesadaran publik dan pemkot bahwa akuifer adalah aset alam</dd>
+      <dt>Pilar 2 / Pilar 1</dt><dd>Peta "pompa vs. tenggelam" / Policy: zonasi air tanah dan resapan</dd>
+      <dt>Subsidensi</dt><dd>Inti ide ini</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Paling baru di portofolio fund. Datanya kuat. Satu narasi menyatukan tiga kota.</div>
+      <div class="minus"><b>Kelemahan</b>Rawan dinilai "bukan EbA" kalau komponen ekosistem resapannya tipis. Butuh mitra sains yang kuat.</div></div>
+  </article>
+
+  <article class="idea">
+    <span class="tag">U2 · Lintas kota · Alat</span>
+    <h3>Adaptasi tanpa gusur: alat uji keadilan untuk proyek adaptasi kota</h3>
+    <dl>
+      <dt>Inti</dt><dd>Versi urban dari ide "Do No Harm". Alat penapisan berbasis kerangka commission/omission (Anguelovski 2016) dan kriteria FEBA, untuk proyek normalisasi sungai, tanggul, kolam retensi, dan taman mangrove. Diuji pada 3–4 proyek nyata.</dd>
+      <dt>Keamanan manusia</dt><dd>Penggusuran atas nama adaptasi, green gentrification</dd>
+      <dt>SO1</dt><dd>Kapasitas pemkot dan penyusun AMDAL/KLHS untuk melihat dampak sosial adaptasi</dd>
+      <dt>Pilar 2 / Pilar 1</dt><dd>Uji alat dan studi kasus / Policy: masuk ke pedoman KLHS atau RTRW kota</dd>
+      <dt>Subsidensi</dt><dd>Masuk sebagai salah satu kriteria: apakah proyek ini mengatasi penyebab atau hanya gejala</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Paling dekat dengan bunyi Topik 2. Sangat khas WALHI dan mitra hak atas kota. Mudah direplikasi.</div>
+      <div class="minus"><b>Kelemahan</b>Bisa terbaca terlalu advokatif. Sisi ekosistemnya harus dibuat eksplisit.</div></div>
+  </article>
+
+  <article class="idea">
+    <span class="tag">U3 · Sungai · Yogyakarta, Bandung, (Jakarta)</span>
+    <h3>Kampung sebagai infrastruktur ekologis: kelola bersama sempadan sungai</h3>
+    <dl>
+      <dt>Inti</dt><dd>Mendokumentasikan dan mengukur EbA riparian yang dikelola kampung (Code, Cikapundung, Ciliwung Condet). Dari situ disusun model perjanjian kelola bersama sempadan sebagai alternatif penggusuran.</dd>
+      <dt>Keamanan manusia</dt><dd>Hak tinggal, banjir</dd>
+      <dt>SO1</dt><dd>Bukti bahwa warga adalah pengelola ekosistem, bukan "penghalang normalisasi"</dd>
+      <dt>Pilar 2 / Pilar 1</dt><dd>Pengukuran hasil (banjir, kualitas air, tutupan) / Policy: Perwal kelola bersama</dd>
+      <dt>Subsidensi</dt><dd>Tidak langsung</dd>
+    </dl>
+    <div class="pc"><div class="plus"><b>Kelebihan</b>Positif dan konstruktif, sehingga pemkot mudah diajak. Jurnal UI (CUDJ) mendapat tempat yang pas.</div>
+      <div class="minus"><b>Kelemahan</b>Bukti efektivitasnya masih lemah dan harus dibangun dari nol. Skala tiap kasus kecil.</div></div>
+  </article>
+
+  <article class="idea">
+    <span class="tag">U4 · Panas · Semarang, Surabaya</span>
+    <h3>Hak atas keteduhan: panas kota dan pekerja informal</h3>
+    <dl>
+      <dt>Inti</dt><dd>Memetakan paparan panas pada kampung padat dan pekerja informal, lalu mendorong penanaman pohon dan perluasan ruang hijau yang memprioritaskan mereka.</dd>
+      <dt>Catatan</dt><dd>Masukkan sebagai komponen kecil saja, bukan ide utama. Bukti lokal minim, sisi keamanannya lemah, dan banyak pihak lain sudah bekerja di isu ini.</dd>
+    </dl>
+  </article>
+</section>
+
+<section id="usul">
+  <h2>Usulan dan catatan kritis</h2>
+  <div class="idea rec">
+    <span class="tag">Kombinasi U2 + U1, diuji di dua kota</span>
+    <h3>Just Urban EbA for Java: hak atas kota dan ekosistem kota yang tenggelam</h3>
+    <p>U2 (alat uji keadilan) menjadi mesin inovasinya. U1 (akuifer sebagai milik bersama) menjadi basis bukti dan tempat subsidensi bekerja. Lokasinya <b>Semarang</b> (kota pesisir yang tenggelam, Jateng) dan <b>Bandung</b> (kota cekungan dengan kawasan resapan yang diperebutkan, Jabar). Yogyakarta, Surabaya, dan Jakarta ikut lewat pertukaran pengetahuan.</p>
+    <p>Pilihan dua kota ini sekaligus menjawab prioritas awal: Jabar dan Jateng di depan, dan Jakarta sebagai rujukan, bukan lokasi utama.</p>
+  </div>
+  <h3>Hal yang perlu dipertimbangkan sebelum mengunci arah urban</h3>
+  <ul class="tight">
+    <li><b>Urban EbA bukan hal baru di fund ini.</b> Portofolionya sudah punya klaster urban (UN-Habitat dan lain-lain). Kebaruan WALHI harus datang dari dua hal: hak atas kota (keadilan) dan akuifer sebagai ekosistem (subsidensi). Jangan menjual "taman kota" atau "ruang hijau".</li>
+    <li><b>Kota itu padat donor.</b> Semarang pernah masuk jaringan 100 Resilient Cities dan punya strategi ketahanan kota, dan Jakarta dipenuhi proyek besar. Bagian "sinergi" di proposal harus menyebut semuanya.</li>
+    <li><b>Ekosistem dulu, hak kemudian di dokumen.</b> Untuk berpikir, mulai dari hak atas kota, sesuai saran atasan. Untuk menulis, buka dengan risiko iklim dan ekosistem, karena bobot penilaiannya ada di sana.</li>
+    <li><b>Waktu.</b> Pindah ke arah urban berarti konsep ditulis ulang. Keputusan arah tetap perlu dikunci paling lambat Jumat, 6 November.</li>
+  </ul>
+  <h3>Pertanyaan untuk atasan</h3>
+  <ol class="tight">
+    <li>Apakah fokusnya sepenuhnya urban, atau urban digabung dengan pesisir dan hulu dari halaman sebelumnya?</li>
+    <li>Apakah WALHI Jabar dan Jateng punya basis kerja di kampung kota Bandung dan Semarang? Kalau belum, mitra hak atas kota mana yang bisa menjadi pintu masuk?</li>
+    <li>Sub-opsi Pilar 1: Policy atau Capacity building?</li>
+  </ol>
+</section>
+
+<section id="baca">
+  <h2>Bacaan</h2>
+  <ol class="src">
+    <li>Lefebvre, H. (1968). <i>Le Droit à la ville</i>. Paris: Anthropos.</li>
+    <li>Harvey, D. (2008). The Right to the City. <i>New Left Review</i> 53.</li>
+    <li><a href="https://journals.sagepub.com/doi/abs/10.1177/0739456x16645166">Anguelovski, I. et al. (2016). Equity Impacts of Urban Land Use Planning for Climate Adaptation. <i>J. Planning Education and Research</i> 36(3): 333–348</a></li>
+    <li>Gómez-Baggethun, E. &amp; Barton, D. N. (2013). Classifying and valuing ecosystem services for urban planning. <i>Ecological Economics</i> 86.</li>
+    <li>McPhearson, T. et al. (2016). Advancing urban ecology toward a science of cities. <i>BioScience</i> 66(3).</li>
+    <li><a href="https://doi.org/10.1016/j.ocecoaman.2021.105753">Takagi, H. et al. (2021). People's perception of land subsidence, floods, and their connection. <i>Ocean &amp; Coastal Management</i> 211</a></li>
+    <li><a href="https://habitat3.org/programme/right-to-the-city-and-cities-for-all/">Habitat III: Right to the City and Cities for All</a> · <a href="https://unhabitat.org/sites/default/files/2017/05/GA-Resolution-A-RES-71-256-New-Urban-Agenda.pdf">New Urban Agenda (A/RES/71/256)</a> · <a href="https://hic-net.org/?p=9530">HIC: debat "right to the city" di NUA</a></li>
+    <li><a href="https://peraturan.bpk.go.id/Download/169179/33_Perda%20No%202%20Tahun%202016.pdf">Perda Jabar 2/2016 tentang Pengendalian Kawasan Bandung Utara</a></li>
+    <li><a href="https://www.thejakartapost.com/news/2014/08/07/new-hotels-blamed-dwindling-well-water-supply.html">Jakarta Post (2014): hotel dan sumur kering di Yogyakarta</a> · <a href="https://mongabay.co.id/2022/03/27/berebut-air-dari-bumi-yogyakarta/">Mongabay (2022): berebut air Yogyakarta</a></li>
+    <li><a href="https://scholarhub.ui.ac.id/cudj/vol2/iss2/3">Aminullah &amp; Sari (2024), CUDJ: Ciliwung Condet</a></li>
+  </ol>
+  <footer>Rujukan tanpa tautan (Lefebvre, Harvey, Gómez-Baggethun &amp; Barton, McPhearson) dikutip dari pengetahuan umum dan belum dicek ulang di sesi ini. Status 100 Resilient Cities Semarang dan KIP Jakarta juga dari pengetahuan umum. Verifikasi sebelum dikutip di proposal.</footer>
+</section>
+</main>
+</div>
