@@ -31,13 +31,18 @@ ORANG = {  # nama: (bidang, [varian kueri], [varian untuk pencocokan isi])
 }
 
 
+KUERI_GAGAL = []  # kueri yang tetap gagal setelah diulang; WAJIB dilaporkan, bukan dianggap 0 hasil
+
+
 def rss(q, a, b):
     u = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": f"{q} after:{a} before:{b}", "hl": "id", "gl": "ID", "ceid": "ID:id"})
-    for _ in range(3):
+    for tunggu in (5, 20, 60, 120):
         try:
             return list(ET.fromstring(urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30).read()).iter("item"))
         except Exception:
-            time.sleep(3)
+            time.sleep(tunggu)  # 503/429 = dibatasi Google; tunggu makin lama
+    KUERI_GAGAL.append(f"{q} | {a}..{b}")
+    print("PERINGATAN: kueri gagal:", q, a, b, flush=True)
     return []
 
 
@@ -87,8 +92,8 @@ def main(out):
                     it["nama_di_isi"][nama] = {"tertulis": m[0], "kemiripan": m[1]}
             it["walhi_di_isi"] = len(re.findall("walhi", txt.lower()))
         time.sleep(0.5)
-    json.dump({"orang": {k: v[0] for k, v in ORANG.items()}, "berita": list(items.values())}, open(out, "w"), ensure_ascii=False, indent=1)
-    print("total berita:", len(items), "| terbaca:", sum(i["teks_terbaca"] for i in items.values()))
+    json.dump({"orang": {k: v[0] for k, v in ORANG.items()}, "kueri_gagal": KUERI_GAGAL, "berita": list(items.values())}, open(out, "w"), ensure_ascii=False, indent=1)
+    print("total berita:", len(items), "| terbaca:", sum(i["teks_terbaca"] for i in items.values()), "| kueri gagal:", len(KUERI_GAGAL))
 
 
 if __name__ == "__main__":

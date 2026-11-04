@@ -31,13 +31,18 @@ PEMERINTAH = (r"\b(presiden|istana|wapres|menteri|menko|wamen|dirjen|direktur je
 VERBA = r"\b(kata|ujar|ucap|tegas|menegaskan|menyatakan|mengatakan|menjelaskan|menyebut|membantah|menanggapi|merespons|menjawab|berjanji|memastikan|mengklaim)\b"
 
 
+KUERI_GAGAL = []  # kueri yang tetap gagal setelah diulang; WAJIB dilaporkan, bukan dianggap 0 hasil
+
+
 def rss(q, a, b):
     u = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": f"{q} after:{a} before:{b}", "hl": "id", "gl": "ID", "ceid": "ID:id"})
-    for _ in range(3):
+    for tunggu in (5, 20, 60, 120):
         try:
             return list(ET.fromstring(urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30).read()).iter("item"))
         except Exception:
-            time.sleep(3)
+            time.sleep(tunggu)  # 503/429 = dibatasi Google; tunggu makin lama
+    KUERI_GAGAL.append(f"{q} | {a}..{b}")
+    print("PERINGATAN: kueri gagal:", q, a, b, flush=True)
     return []
 
 
@@ -78,7 +83,7 @@ def main():
             it["kalimat_walhi"] = [k.strip()[:240] for k in kal if "walhi" in k.lower()][:2]
         it.pop("link", None)
         time.sleep(0.6)
-    res = {"id": a.id, "tanggal": a.tanggal, "rentang": [str(A), str(B)], "kueri": a.kueri, "jejaring": a.jejaring,
+    res = {"id": a.id, "tanggal": a.tanggal, "kueri_gagal": KUERI_GAGAL, "rentang": [str(A), str(B)], "kueri": a.kueri, "jejaring": a.jejaring,
            "jumlah_berita": len(items), "berita": sorted(items.values(), key=lambda x: x["tanggal"])}
     os.makedirs(os.path.dirname(os.path.abspath(a.out)), exist_ok=True)
     json.dump(res, open(a.out, "w"), ensure_ascii=False, indent=1)
