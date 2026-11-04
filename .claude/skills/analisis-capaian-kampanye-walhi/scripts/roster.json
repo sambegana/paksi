@@ -1,0 +1,15 @@
+{
+  "Mida Saragih": {"bidang": "Pesisir & Laut", "peran": "pengkampanye", "kueri": ["\"Mida Saragih\"", "\"Mida Saragi\"", "Mida walhi pesisir"], "cocok": ["mida saragih"]},
+  "Umi Ma'rufah": {"bidang": "Hutan & Kebun", "peran": "pengkampanye", "kueri": ["\"Umi Ma'rufah\"", "\"Umi Marufah\"", "\"Umi Ma’rufah\""], "cocok": ["umi ma'rufah", "umi marufah"]},
+  "Wahyu Eka Styawan": {"bidang": "Urban", "peran": "pengkampanye", "kueri": ["\"Wahyu Eka Styawan\"", "\"Wahyu Eka Setyawan\"", "\"Wahyu Eka Setiawan\"", "\"Wahyu Eka\" walhi"], "cocok": ["wahyu eka styawan", "wahyu eka setyawan"]},
+  "Musdalifah Jamal": {"bidang": "Pangan & Ekosistem Esensial", "peran": "pengkampanye", "kueri": ["\"Musdalifah Jamal\"", "\"Musdalifa Jamal\"", "Musdalifah walhi"], "cocok": ["musdalifah jamal"]},
+  "Patria Rizky Ananda": {"bidang": "Iklim & Isu Global", "peran": "pengkampanye", "kueri": ["\"Patria Rizky\"", "\"Patria Rizki\"", "Patria walhi iklim"], "cocok": ["patria rizky ananda", "patria rizky"]},
+  "Faisal Ratuela": {"bidang": "Tambang & Energi", "peran": "pengkampanye", "kueri": ["\"Faisal Ratuela\"", "\"Faizal Ratuela\"", "Ratuela walhi"], "cocok": ["faisal ratuela"]},
+  "Uli Arta Siagian": {"bidang": "", "peran": "Kepala Divisi Kampanye", "kueri": ["\"Uli Arta Siagian\"", "\"Uli Artha Siagian\"", "\"Uli Siagian\" walhi"], "cocok": ["uli arta siagian", "uli siagian"]},
+  "Boy Jerry Even Sembiring": {"bidang": "", "peran": "Direktur Eksekutif", "kueri": ["\"Boy Jerry Even Sembiring\"", "\"Boy Even Sembiring\"", "\"Boy Sembiring\" walhi"], "cocok": ["boy jerry even sembiring", "boy even sembiring"]},
+  "Dana Prima Tarigan": {"bidang": "", "peran": "Kepala Departemen Komunikasi", "kueri": ["\"Dana Prima Tarigan\"", "\"Dana Tarigan\" walhi"], "cocok": ["dana prima tarigan"]},
+  "Teo Reffelsen": {"bidang": "", "peran": "Manajer Hukum & Pembelaan", "kueri": ["\"Teo Reffelsen\"", "\"Teo Refelsen\"", "Reffelsen walhi"], "cocok": ["teo reffelsen"]},
+  "Christine Constanta": {"bidang": "", "peran": "Hukum (respons cepat)", "kueri": ["\"Christine Constanta\"", "\"Christin Constanta\""], "cocok": ["christine constanta"]},
+  "Melva Harahap": {"bidang": "", "peran": "Manajer Penanganan Bencana", "kueri": ["\"Melva Harahap\" walhi"], "cocok": ["melva harahap"]},
+  "Tubagus Soleh Ahmadi": {"bidang": "", "peran": "Kepala Departemen Keorganisasian", "kueri": ["\"Tubagus Soleh Ahmadi\""], "cocok": ["tubagus soleh ahmadi"]}
+}
