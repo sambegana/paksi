@@ -3,7 +3,7 @@ import collections, csv, json, os
 HERE = os.path.dirname(os.path.abspath(__file__))
 base = {r["id"]: r for r in csv.DictReader(open(os.path.join(HERE, "rilis_base.csv")))}
 fin = list(csv.DictReader(open(os.path.join(HERE, "respons_final.csv"))))
-PJ = {"Hutan & Kebun": "Umi Ma'rufah", "Pesisir & Laut": "Mida Saragih", "Urban": "Wahyu Eka Setyawan",
+PJ = {"Hutan & Kebun": "Umi Ma'rufah", "Pesisir & Laut": "Mida Saragih", "Urban": "Wahyu Eka Styawan",
       "Pangan & Ekosistem Esensial": "Musdalifah Jamal", "Iklim & Isu Global": "Patria Rizky Ananda", "Tambang & Energi": "Faisal Ratuela"}
 prod = {}
 for isu, pj in PJ.items():

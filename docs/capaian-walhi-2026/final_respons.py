@@ -105,7 +105,7 @@ for rid, b in base.items():
     if kel == "pengkampanye (dari isi berita)":  # aturan rekap tim: rilis masuk bidang pengkampanye yang dikutip
         for nama, bid in KAMPANYE.items():
             if any(nama in n or n in nama for n in (k or {}).get("penutur_terdeteksi", [])):
-                isu, pj = bid, {"Wahyu Eka": "Wahyu Eka Setyawan", "Patria Rizky": "Patria Rizky Ananda", "Umi Ma’rufah": "Umi Ma'rufah"}.get(nama, nama)
+                isu, pj = bid, {"Wahyu Eka": "Wahyu Eka Styawan", "Patria Rizky": "Patria Rizky Ananda", "Umi Ma’rufah": "Umi Ma'rufah"}.get(nama, nama)
                 break
     rows.append({
         "id": rid, "tanggal": b["tanggal"], "judul": b["judul_singkat"], "isu": isu, "penutur": kel,
