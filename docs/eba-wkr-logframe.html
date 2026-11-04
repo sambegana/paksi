@@ -1,0 +1,412 @@
+<title>Logframe EbA WKR</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: laporan kerja dua kolom (daftar isi lengket + isi), satu kolom di ponsel. Palet: lumpur pesisir, mangrove, air pasang. */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --ink:#1c2422; --muted:#5a6662; --line:#d9dfdb;
+  --mangrove:#1e6b55; --mangrove-soft:#e3efe9; --tide:#245c86; --tide-soft:#e4edf5;
+  --silt:#9a6a1f; --silt-soft:#f5ecdc; --risk:#a63a2b; --risk-soft:#f7e6e2;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--tide);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--tide);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:13.5px}
+nav.toc p{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{color:var(--muted);text-decoration:none;display:flex;gap:8px}
+nav.toc a::before{content:counter(t,decimal-leading-zero);font-family:var(--mono);font-size:11px;padding-top:2px;color:var(--line)}
+nav.toc a:hover{color:var(--ink)}
+main{min-width:0}
+header.top{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:8px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--mangrove)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,4.6vw,46px);line-height:1.08;margin:10px 0 14px;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(23px,2.8vw,30px);line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--body);font-weight:600;font-size:16.5px;margin:26px 0 8px}
+h4{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px}
+p{margin:0 0 12px;max-width:72ch}
+.lede{font-size:17.5px;color:var(--muted);max-width:68ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12.5px;color:var(--muted);margin-top:16px}
+section{padding-block:40px 8px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sub{color:var(--muted);margin-bottom:20px;max-width:70ch}
+ul.tight{margin:0 0 12px;padding-left:20px;max-width:74ch}
+ul.tight li{margin-bottom:6px}
+.pill{display:inline-block;font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.03em;padding:2px 8px;border-radius:3px;white-space:nowrap}
+.p-go{background:var(--mangrove-soft);color:var(--mangrove)}
+.p-warn{background:var(--silt-soft);color:var(--silt)}
+.p-risk{background:var(--risk-soft);color:var(--risk)}
+.p-info{background:var(--tide-soft);color:var(--tide)}
+
+.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:22px 24px;margin:24px 0 8px;display:grid;gap:10px}
+.verdict .big{font-family:var(--display);font-size:24px;font-weight:600;line-height:1.25}
+.countdown{display:flex;flex-wrap:wrap;gap:24px;margin-top:6px}
+.countdown div{display:grid}
+.countdown b{font-family:var(--display);font-size:34px;line-height:1;font-weight:600;font-variant-numeric:tabular-nums}
+.countdown span{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+.challenge{display:grid;gap:14px;margin-top:14px}
+.challenge article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.challenge h4{margin:0 0 4px}
+.challenge p{margin:0;font-size:14.5px}
+.challenge .you h4{color:var(--silt)}
+.challenge .me h4{color:var(--mangrove)}
+
+.tbl{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td small,li small{color:var(--muted)}
+.doi{font-family:var(--mono);font-size:12px;word-break:break-all}
+
+.weights{display:grid;gap:8px;margin:14px 0 18px;max-width:640px}
+.wrow{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr) 44px;gap:12px;align-items:center;font-size:14px}
+.bar{height:12px;background:var(--line);position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--mangrove)}
+.wrow .num{font-family:var(--mono);text-align:right}
+
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:12px 0}
+.card{background:var(--surface);border:1px solid var(--line);padding:16px 18px;min-width:0}
+.card h4{margin-top:0}
+.swot .card{border-top:3px solid var(--line)}
+.swot .s{border-top-color:var(--mangrove)}.swot .w{border-top-color:var(--silt)}
+.swot .o{border-top-color:var(--tide)}.swot .t{border-top-color:var(--risk)}
+.swot .s h4{color:var(--mangrove)}.swot .w h4{color:var(--silt)}.swot .o h4{color:var(--tide)}.swot .t h4{color:var(--risk)}
+.swot ul{margin:0;padding-left:18px;font-size:14.2px}
+.swot li{margin-bottom:6px}
+
+.score{display:inline-flex;gap:3px;vertical-align:middle}
+.score i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.score i.on{background:var(--mangrove)}
+
+.toc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.toc-flow .step{background:var(--surface);border:1px solid var(--line);padding:12px 14px;font-size:13.8px;min-width:0}
+.toc-flow .step b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:500}
+.toc-flow .imp{grid-column:1/-1;background:var(--mangrove-soft);border-color:transparent}
+.outputs{display:grid;gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove)}
+.outputs ol{margin:6px 0 0;padding-left:20px;font-size:14.2px}
+.callout{background:var(--silt-soft);padding:14px 18px;margin:14px 0;max-width:78ch;font-size:14.6px}
+.callout.blue{background:var(--tide-soft)}
+.callout.red{background:var(--risk-soft)}
+.callout p:last-child{margin:0}
+footer{font-size:13px;color:var(--muted);padding-top:28px}
+ol.src{font-size:13px;padding-left:20px;display:grid;gap:4px;max-width:90ch}
+ol.src li{word-break:break-word}
+
+@media (max-width:900px){
+  .wrap{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:24px 60px}
+  nav.toc{position:static;border:1px solid var(--line);background:var(--surface);padding:14px 16px}
+  nav.toc ol{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc-flow{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .grid2,.challenge article{grid-template-columns:minmax(0,1fr)}
+  nav.toc ol{grid-template-columns:minmax(0,1fr)}
+  .toc-flow{grid-template-columns:minmax(0,1fr)}
+  .wrow{grid-template-columns:minmax(0,1fr) 44px}.wrow .bar{grid-column:1/-1;grid-row:2}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+<style>
+.tree{display:grid;gap:10px;margin:16px 0}
+.tree .row{display:grid;gap:10px}
+.tree .r3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.tree .r5{grid-template-columns:repeat(5,minmax(0,1fr))}
+.tree .node{background:var(--surface);border:1px solid var(--line);padding:10px 12px;font-size:13.6px;min-width:0}
+.tree .node b{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500;margin-bottom:3px}
+.tree .core{background:var(--risk-soft);border-color:transparent;font-size:15px;padding:14px 16px}
+.tree .core b{color:var(--risk)}
+.tree .core.obj{background:var(--mangrove-soft)}
+.tree .core.obj b{color:var(--mangrove)}
+.tree .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:center}
+.tree .hz{border-top:3px solid var(--tide)}
+.tree .ef{border-top:3px solid var(--silt)}
+.tree .cs{border-top:3px solid var(--risk)}
+.tree .ok{border-top:3px solid var(--mangrove)}
+.lf td:first-child{width:28%}
+.lf .lv{font-family:var(--mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--mangrove);display:block;margin-bottom:2px}
+.ph{font-family:var(--mono);font-size:12.5px;background:var(--silt-soft);color:var(--silt);padding:0 4px;border-radius:2px;white-space:nowrap}
+.titles{display:grid;gap:8px;margin:12px 0}
+.titles div{background:var(--surface);border:1px solid var(--line);padding:12px 16px;font-family:var(--display);font-size:18px;font-weight:600;line-height:1.35}
+.titles div small{display:block;font-family:var(--body);font-size:13px;font-weight:400;color:var(--muted);margin-top:4px}
+.horizon{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:12px 0}
+.horizon .card h4{margin-top:0}
+.horizon .now{border-top:3px solid var(--mangrove)}
+.horizon .later{border-top:3px solid var(--line);opacity:.92}
+@media (max-width:900px){.tree .r5{grid-template-columns:repeat(2,minmax(0,1fr))}.tree .r3,.horizon{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:620px){.tree .r5{grid-template-columns:minmax(0,1fr)}}
+</style>
+
+<div class="wrap">
+<nav class="toc" aria-label="Daftar isi">
+  <p>Isi</p>
+  <ol>
+    <li><a href="#ide">Membaca ide atasan</a></li>
+    <li><a href="#judul">Judul dan istilah</a></li>
+    <li><a href="#pohon">Pohon masalah</a></li>
+    <li><a href="#tujuan">Pohon tujuan</a></li>
+    <li><a href="#toc">Theory of Change</a></li>
+    <li><a href="#logframe">Logical framework</a></li>
+    <li><a href="#aktivitas">Tabel aktivitas</a></li>
+    <li><a href="#indikator">Core Indicators</a></li>
+    <li><a href="#asumsi">Asumsi &amp; risiko</a></li>
+    <li><a href="#cakrawala">Roadmap panjang</a></li>
+    <li><a href="#putusan">Keputusan yang dibutuhkan</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <div class="eyebrow">Global EbA Fund · Arah baru: desa dan Wilayah Kelola Rakyat</div>
+  <h1>EbA berbasis Wilayah Kelola Rakyat: peta masalah dan logical framework</h1>
+  <p class="lede">Draf kerja untuk ide "Integrated EbA national–local policy based on WKR". Isinya: pohon masalah, pohon tujuan, theory of change, dan logframe sesuai format fund (1 outcome, maksimal 4 output, maksimal 5 aktivitas per output). Angka target masih placeholder dan perlu diisi bersama tim.</p>
+  <div class="meta"><span>4 November 2026</span><span>Tenggat submit: 16 November 2026</span><span>Kerangka atasan: Topik 2 · SO1 · Pilar 1 &amp; 2</span></div>
+</header>
+
+<section id="ide">
+  <h2>Membaca ide atasan</h2>
+  <p>Arah ini lebih kuat daripada arah urban. Ada tiga alasan:</p>
+  <ul class="tight">
+    <li><b>WKR adalah "existing work" WALHI yang paling otentik.</b> Syarat fund "built off existing work" terpenuhi tanpa perlu dipaksakan.</li>
+    <li><b>"Local–global policy" sama dengan "vertical integration".</b> Rumusan SO1 menyebut "mainstreaming EbA into national plans and policy frameworks and <i>vertical integration</i>". Ide atasan pas sekali dengan SO1.</li>
+    <li><b>Perhutanan sosial punya instrumen kebijakan yang konkret.</b> Ada Rencana Kelola Perhutanan Sosial (RKPS), Perpres 28/2023 dengan target 7,38 juta ha sampai 2030, Pokja Percepatan Perhutanan Sosial di pusat dan daerah, serta RPJMDes dan Dana Desa. Semua ini bisa disisipi muatan adaptasi.</li>
+  </ul>
+
+  <div class="callout"><p><b>Satu ketegangan yang perlu dibahas dengan atasan.</b> Ide "integrated national–local policy" sebenarnya adalah bahasa <b>Topik 3</b> (policy coherence, subnational leadership), bukan Topik 2. Topik 2 tetap bisa dipakai, tapi dengan syarat: ketidakamanan tenurial dan konflik ruang kelola harus menjadi inti masalah, bukan sekadar latar. Logframe di bawah sengaja disusun agar cocok untuk keduanya. Keselarasan dengan topik bersifat opsional ("welcomed but not required").</p></div>
+
+  <h3>Mirip Sampan dan Delta Kapuas: di mana bedanya</h3>
+  <p>Menurut pemberitaan RRI (Mei 2026), Delta Kapuas Project adalah kolaborasi SAMPAN Kalimantan sebagai fasilitator, LPHD sebagai pemegang izin, dan <b>investor swasta</b> (PT Belantara Sejahtera Mandiri). Targetnya restorasi 5.000 ha di 25 hutan desa di Kubu Raya dan Kayong Utara. Basisnya sama dengan ide ini, yaitu hutan desa. Proposal WALHI perlu tegas berbeda di tiga hal:</p>
+  <div class="tbl"><table>
+    <tr><th>Aspek</th><th>Delta Kapuas (menurut pemberitaan)</th><th>Proposal WALHI</th></tr>
+    <tr><td>Pembiayaan</td><td>Investor swasta</td><td>Non-pasar: anggaran publik, Dana Desa, dan jalur Pasal 6.8 di jangka panjang</td></tr>
+    <tr><td>Fokus kerja</td><td>Restorasi lapangan (target hektar)</td><td>Bukti, kapasitas, dan pengakuan kebijakan (enabling environment)</td></tr>
+    <tr><td>Sudut pandang</td><td>Ekosistem dan penghidupan</td><td>Hak, tenurial, dan keamanan manusia, ditambah ekosistem</td></tr>
+    <tr><td>Skala</td><td>Satu bentang (Kalbar)</td><td>Jaringan WKR lintas wilayah, dihubungkan ke kebijakan nasional dan global</td></tr>
+  </table></div>
+  <p><small>Keterangan Delta Kapuas hanya dari satu artikel berita. Jangan menulis tentang proyek orang lain di proposal tanpa sumber resmi.</small></p>
+</section>
+
+<section id="judul">
+  <h2>Judul dan istilah</h2>
+  <p>Draf judul atasan menangkap substansinya dengan benar. Bahasa Inggrisnya perlu dirapikan, karena reviewer membaca judul sebagai sinyal mutu pertama. Tiga catatan:</p>
+  <ul class="tight">
+    <li><b>"Ecosystem-based Solution" bukan istilah baku.</b> Fund memakai <i>Ecosystem-based Adaptation (EbA)</i>. Istilah payungnya <i>Nature-based Solutions</i>. Pakai EbA agar langsung dikenali.</li>
+    <li>"Communities Lead" → <b>"community-led"</b>. "Ecosystem base" → <b>"ecosystem-based"</b>.</li>
+    <li>Sebutkan <b>WKR dengan penjelasannya</b> pada pemakaian pertama, karena reviewer internasional tidak mengenal istilah ini: <i>Wilayah Kelola Rakyat (people-managed territories)</i>.</li>
+  </ul>
+  <div class="titles">
+    <div>From Village Forests to Climate Policy: Scaling Community-led Ecosystem-based Adaptation in People-Managed Territories (WKR)<small>Paling jelas alurnya dari lokal ke kebijakan. Cocok untuk Topik 3 maupun Topik 2.</small></div>
+    <div>Community-led EbA in Wilayah Kelola Rakyat: Linking Local Practice to National and Global Adaptation Policy<small>Paling dekat dengan draf atasan.</small></div>
+    <div>Secure Territories, Resilient Communities: Rights-based EbA through Social Forestry in Indonesia<small>Kalau Topik 2 dipertahankan. Menonjolkan tenurial sebagai keamanan.</small></div>
+  </div>
+</section>
+
+<section id="pohon">
+  <h2>Pohon masalah</h2>
+  <p class="sub">Masalah di draf ("climate crisis and its implications for affected communities") masih terlalu umum. Kriteria berbobot 40% meminta proposal "clearly identifies the climate impacts it is aiming to address". Pohon di bawah memecahnya: bahaya iklim apa, dampaknya apa, dan masalah inti yang bisa diubah proyek.</p>
+
+  <div class="tree">
+    <div class="lbl">Akibat</div>
+    <div class="row r3">
+      <div class="node ef"><b>Akibat 1</b>Adaptasi warga tidak tercatat dalam pelaporan nasional (NAP, NDC), sehingga tidak mendapat dukungan anggaran</div>
+      <div class="node ef"><b>Akibat 2</b>Perhutanan sosial dibelokkan ke skema karbon dan pasar yang memagari ruang kelola rakyat</div>
+      <div class="node ef"><b>Akibat 3</b>Kerentanan meningkat: gagal panen, krisis air, kebakaran, longsor, konflik</div>
+    </div>
+    <div class="node core"><b>Masalah inti</b>Praktik EbA yang dijalankan komunitas di WKR dan perhutanan sosial terbukti meredam risiko iklim di lapangan, tetapi <b>tidak diakui, tidak diukur, dan tidak diintegrasikan</b> sebagai solusi adaptasi dalam kebijakan lokal, nasional, dan global.</div>
+    <div class="lbl">Penyebab</div>
+    <div class="row r5">
+      <div class="node cs"><b>C1 · Bukti</b>Manfaat adaptasi WKR belum terdokumentasi dan terukur. Tidak ada sistem pemantauan.</div>
+      <div class="node cs"><b>C2 · Kebijakan</b>Kebijakan perhutanan sosial berfokus pada akses, usaha (KUPS), dan karbon. RKPS tidak memuat risiko iklim. NAP tidak punya jalur pelaksanaan lewat perhutanan sosial.</div>
+      <div class="node cs"><b>C3 · Kapasitas</b>LPHD, KUPS, dan pendamping belum dibekali analisis risiko iklim dan perencanaan adaptasi.</div>
+      <div class="node cs"><b>C4 · Tenurial</b>Klaim tumpang tindih, konflik (misalnya pasca-KHDPK di Jawa), kriminalisasi warga pengelola.</div>
+      <div class="node cs"><b>C5 · Pembiayaan</b>Dana yang tersedia didominasi pasar karbon. Belum ada jalur non-pasar untuk adaptasi.</div>
+    </div>
+    <div class="lbl">Pemicu iklim</div>
+    <div class="row r3">
+      <div class="node hz"><b>Bahaya iklim</b>Kemarau lebih panjang, curah hujan ekstrem, kenaikan suhu (sesuaikan per situs)</div>
+      <div class="node hz"><b>Dampak fisik</b>Kekeringan mata air, banjir bandang dan longsor, kebakaran hutan dan lahan, abrasi dan rob di hutan desa pesisir</div>
+      <div class="node hz"><b>Dampak sosial</b>Pangan dan air tidak aman, pendapatan turun, migrasi pemuda, beban perempuan bertambah</div>
+    </div>
+  </div>
+  <p><small>C5 sengaja ditaruh di pohon masalah tapi <b>tidak</b> dijadikan output utama, sesuai pesan untuk tidak terjebak di narasi Pasal 6.8. C5 dijawab lewat satu aktivitas berupa roadmap (lihat bagian roadmap panjang).</small></p>
+</section>
+
+<section id="tujuan">
+  <h2>Pohon tujuan</h2>
+  <p class="sub">Setiap penyebab dibalik menjadi kondisi yang ingin dicapai. Empat di antaranya menjadi output.</p>
+  <div class="tree">
+    <div class="node core obj"><b>Outcome</b>EbA berbasis komunitas di WKR dan perhutanan sosial <b>diakui dan diintegrasikan</b> ke dalam instrumen perencanaan dan kebijakan adaptasi di tingkat desa, daerah, dan nasional, serta disuarakan di forum global, berdasarkan bukti yang dihasilkan komunitas.</div>
+    <div class="row r5">
+      <div class="node ok"><b>C1 → Output 1</b>Bukti manfaat adaptasi WKR tersedia dan dipantau oleh komunitas</div>
+      <div class="node ok"><b>C3 → Output 2</b>Lembaga pengelola WKR dan pendamping mampu merencanakan adaptasi</div>
+      <div class="node ok"><b>C2 → Output 3</b>Muatan EbA masuk RKPS, Perdes/RPJMDes, dan instrumen daerah/nasional</div>
+      <div class="node ok"><b>C4 → Output 4</b>Forum lintas tingkat terlembaga. Isu tenurial dan konflik ditangani di dalamnya. Suara komunitas sampai ke forum global.</div>
+      <div class="node"><b>C5 → aktivitas 4.5</b>Roadmap pembiayaan adaptasi non-pasar</div>
+    </div>
+  </div>
+</section>
+
+<section id="toc">
+  <h2>Theory of Change (narasi singkat)</h2>
+  <p><b>Jika</b> komunitas di WKR memiliki bukti terukur bahwa pengelolaan ekosistem mereka meredam risiko iklim (Output 1), <b>dan</b> lembaga pengelolanya mampu menerjemahkan bukti itu ke dalam rencana kelola dan rencana desa (Output 2), <b>dan</b> ada usulan konkret untuk menyisipkan EbA ke instrumen yang sudah ada seperti RKPS, RPJMDes, pedoman perhutanan sosial, dan pelaksanaan NAP (Output 3), <b>dan</b> ada forum yang menghubungkan desa, daerah, nasional, dan forum global serta menangani konflik tenurial (Output 4),</p>
+  <p><b>maka</b> pemerintah desa, daerah, dan nasional akan mengakui WKR sebagai jalur pelaksanaan adaptasi dan mengalokasikan dukungan publik.</p>
+  <p><b>Karena</b> NAP 2026–2030 sudah menetapkan EbA sebagai "core implementation model", dan Perpres 28/2023 mewajibkan perencanaan terpadu perhutanan sosial lintas kementerian dan daerah. Yang belum ada adalah jembatan dan buktinya.</p>
+  <p><b>Dampak jangka panjang:</b> kerentanan komunitas dan ekosistem di WKR terhadap kekeringan, banjir, longsor, dan kebakaran menurun, dan model ini direplikasi ke wilayah perhutanan sosial lain di Indonesia.</p>
+</section>
+
+<section id="logframe">
+  <h2>Logical framework (draf)</h2>
+  <p class="sub">Mengikuti format formulir ToC &amp; Logframe fund. <span class="ph">[angka]</span> adalah placeholder yang harus diisi berdasarkan data situs. Milestone dibuat per 6 bulan (M1 = bulan 6, M4 = bulan 24).</p>
+  <div class="tbl lf"><table>
+    <tr><th>Tingkat</th><th>Indikator (baseline → target)</th><th>Sumber verifikasi</th></tr>
+    <tr><td><span class="lv">Outcome</span>EbA berbasis WKR diakui dan diintegrasikan ke instrumen kebijakan adaptasi desa, daerah, dan nasional</td>
+      <td>
+        <p>a) Jumlah instrumen kebijakan yang memuat EbA berbasis WKR, dari 0 → <span class="ph">[≥6]</span>: <span class="ph">[4]</span> RKPS atau Perdes, <span class="ph">[1]</span> instrumen daerah, <span class="ph">[1]</span> masukan resmi ke pedoman nasional. <i>(Core Indicator 1)</i></p>
+        <p>b) Luas WKR yang rencana kelolanya memuat adaptasi, dari 0 → <span class="ph">[X ha]</span>. <i>(Core Indicator 9, lewat rencana)</i></p>
+      </td>
+      <td>Dokumen RKPS dan Perdes yang telah direvisi, surat pengajuan resmi, notulen</td></tr>
+    <tr><td><span class="lv">Output 1</span>Bukti manfaat adaptasi WKR dihasilkan dan dipantau oleh komunitas</td>
+      <td>
+        <p>a) Asesmen risiko iklim partisipatif selesai di <span class="ph">[4]</span> situs</p>
+        <p>b) Sistem pemantauan komunitas berjalan dan dipelihara oleh LPHD: 0 → <span class="ph">[1 sistem, 4 situs]</span>. <i>(Core Indicator 3)</i></p>
+        <p>c) Satu laporan sintesis "WKR sebagai EbA" berbasis kriteria FEBA</p>
+      </td>
+      <td>Laporan asesmen, basis data pemantauan, laporan sintesis</td></tr>
+    <tr><td><span class="lv">Output 2</span>Lembaga pengelola WKR dan pendamping mampu merencanakan dan mengelola adaptasi</td>
+      <td>
+        <p>a) Anggota komunitas yang kapasitasnya meningkat (hadir ≥80%): 0 → <span class="ph">[≥400]</span>, ≥40% perempuan, dengan data pemuda dicatat. <i>(Core Indicator 4)</i></p>
+        <p>b) Pendamping perhutanan sosial yang dilatih: <span class="ph">[≥30]</span></p>
+      </td>
+      <td>Daftar hadir, uji sebelum dan sesudah pelatihan, laporan pelatihan</td></tr>
+    <tr><td><span class="lv">Output 3</span>Usulan muatan EbA masuk ke instrumen kebijakan lokal hingga nasional</td>
+      <td>
+        <p>a) Kajian kesenjangan kebijakan selesai (Perpres 28/2023, Permen LHK 9/2021, NAP, SNDC, IBSAP, LDN)</p>
+        <p>b) Usulan revisi RKPS dan Perdes diajukan resmi di <span class="ph">[4]</span> situs</p>
+        <p>c) Masukan tertulis ke pedoman RKPS nasional dan pelaksanaan NAP diterima kementerian</p>
+      </td>
+      <td>Dokumen kajian, surat pengajuan, tanda terima kementerian</td></tr>
+    <tr><td><span class="lv">Output 4</span>Forum lintas tingkat terlembaga dan suara komunitas sampai ke forum global</td>
+      <td>
+        <p>a) Satu forum atau kelompok kerja adaptasi WKR yang terlembaga (SK atau kesepakatan formal). <i>(Core Indicator 2)</i></p>
+        <p>b) <span class="ph">[≥2]</span> kasus tenurial dibahas dan ada tindak lanjutnya di forum</p>
+        <p>c) <span class="ph">[≥2]</span> submisi atau intervensi di forum global (UNFCCC/CBD)</p>
+      </td>
+      <td>SK forum, notulen, dokumen submisi</td></tr>
+  </table></div>
+
+  <h3>Milestone outcome per 6 bulan</h3>
+  <div class="tbl"><table>
+    <tr><th>Milestone</th><th>Isi</th><th>Bulan</th></tr>
+    <tr><td>M1</td><td>Baseline dan asesmen risiko selesai di semua situs. Kajian kesenjangan kebijakan selesai.</td><td class="num">6</td></tr>
+    <tr><td>M2</td><td>Sistem pemantauan berjalan. Forum terbentuk. Draf usulan revisi RKPS tersedia.</td><td class="num">12</td></tr>
+    <tr><td>M3</td><td>Usulan RKPS dan Perdes diajukan resmi. Masukan nasional disampaikan.</td><td class="num">18</td></tr>
+    <tr><td>M4</td><td>Instrumen diadopsi atau dalam proses resmi. Sintesis bukti diluncurkan. Exit strategy berjalan.</td><td class="num">24</td></tr>
+  </table></div>
+</section>
+
+<section id="aktivitas">
+  <h2>Tabel aktivitas (maksimal 5 per output)</h2>
+  <div class="tbl"><table>
+    <tr><th>No.</th><th>Aktivitas</th><th>Deliverable</th><th>Bulan</th></tr>
+    <tr><td colspan="4"><b>Output 1 · Bukti (Pilar 2)</b></td></tr>
+    <tr><td>1.1</td><td>Asesmen risiko dan kerentanan iklim partisipatif per situs (mengacu GIZ/EURAC/UNU 2018)</td><td>4 laporan asesmen</td><td class="num">1–6</td></tr>
+    <tr><td>1.2</td><td>Merancang dan menjalankan pemantauan komunitas: mata air, kebakaran, panen, longsor, tutupan</td><td>Protokol dan basis data</td><td class="num">4–24</td></tr>
+    <tr><td>1.3</td><td>Dokumentasi pengetahuan lokal tentang adaptasi, dengan FPIC dan kesepakatan pembagian manfaat</td><td>Katalog pengetahuan</td><td class="num">3–12</td></tr>
+    <tr><td>1.4</td><td>Valuasi sederhana jasa ekosistem WKR (air, pangan, pengurangan risiko)</td><td>Laporan valuasi</td><td class="num">8–16</td></tr>
+    <tr><td>1.5</td><td>Sintesis "WKR sebagai EbA" berbasis kriteria FEBA</td><td>Laporan dan policy brief</td><td class="num">16–22</td></tr>
+    <tr><td colspan="4"><b>Output 2 · Kapasitas (Pilar 1, Education &amp; capacity building)</b></td></tr>
+    <tr><td>2.1</td><td>Menyusun kurikulum "Adaptasi berbasis WKR" untuk LPHD, KUPS, dan pendamping</td><td>Modul</td><td class="num">3–7</td></tr>
+    <tr><td>2.2</td><td>Pelatihan dan pendampingan perencanaan adaptasi di tiap situs</td><td>Laporan pelatihan, hasil uji</td><td class="num">6–18</td></tr>
+    <tr><td>2.3</td><td>Program kepemimpinan perempuan dan pemuda dalam pengelolaan WKR</td><td>Rencana aksi kelompok</td><td class="num">6–20</td></tr>
+    <tr><td>2.4</td><td>Pertukaran belajar antarkomunitas WKR</td><td>Dokumentasi pertukaran</td><td class="num">10–20</td></tr>
+    <tr><td>2.5</td><td>Pelatihan untuk pelatih (ToT) bagi ED WALHI dan pendamping perhutanan sosial</td><td>Daftar pelatih bersertifikat</td><td class="num">12–18</td></tr>
+    <tr><td colspan="4"><b>Output 3 · Kebijakan lokal ke nasional</b></td></tr>
+    <tr><td>3.1</td><td>Kajian kesenjangan kebijakan: perhutanan sosial × adaptasi (Perpres 28/2023, Permen LHK 9/2021, NAP, SNDC, IBSAP, LDN)</td><td>Laporan kajian</td><td class="num">1–5</td></tr>
+    <tr><td>3.2</td><td>Merevisi RKPS dan rencana kerja tahunan bersama LPHD agar memuat risiko iklim dan aksi EbA</td><td>Draf RKPS revisi</td><td class="num">8–18</td></tr>
+    <tr><td>3.3</td><td>Integrasi ke RPJMDes, Perdes, dan menu Dana Desa untuk EbA</td><td>Draf Perdes dan dokumen RKPDes</td><td class="num">10–20</td></tr>
+    <tr><td>3.4</td><td>Masukan ke Pokja Percepatan Perhutanan Sosial daerah dan RAD-API</td><td>Surat masukan, notulen</td><td class="num">12–22</td></tr>
+    <tr><td>3.5</td><td>Dialog kebijakan nasional dengan KLH (pemilik NAP) dan Kemenhut (Ditjen Perhutanan Sosial)</td><td>Masukan tertulis untuk pedoman</td><td class="num">14–24</td></tr>
+    <tr><td colspan="4"><b>Output 4 · Forum dan suara global (Topik 2 atau 3)</b></td></tr>
+    <tr><td>4.1</td><td>Membentuk dan melembagakan forum adaptasi WKR lintas tingkat</td><td>SK atau kesepakatan forum</td><td class="num">6–12</td></tr>
+    <tr><td>4.2</td><td>Pemetaan dan penanganan kasus tenurial dan konflik di situs, terhubung ke forum</td><td>Peta konflik, catatan tindak lanjut</td><td class="num">3–20</td></tr>
+    <tr><td>4.3</td><td>Submisi ke proses UNFCCC (NAP, Global Goal on Adaptation) dan CBD (KMGBF)</td><td>Dokumen submisi</td><td class="num">12–24</td></tr>
+    <tr><td>4.4</td><td>Acara berbagi di forum nasional dan konferensi iklim (COP)</td><td>Laporan acara</td><td class="num">12 dan 24</td></tr>
+    <tr><td>4.5</td><td>Roadmap pembiayaan adaptasi non-pasar untuk WKR (sekaligus exit strategy)</td><td>Dokumen roadmap</td><td class="num">18–24</td></tr>
+  </table></div>
+  <p><small>Komponen lapangan (asesmen, pemantauan, pendampingan) harus dijelaskan di pertanyaan formulir "Does the project involve a field component?". Alasannya: bukti dan kapasitas komunitas adalah syarat agar perubahan kebijakan terjadi dan bertahan. Tidak ada penanaman atau hibah ke kelompok.</small></p>
+</section>
+
+<section id="indikator">
+  <h2>Core Indicators yang dipakai</h2>
+  <div class="tbl"><table>
+    <tr><th>Core Indicator</th><th>Dari mana</th><th>Catatan</th></tr>
+    <tr><td>1 · Kebijakan atau instrumen</td><td>Outcome, Output 3</td><td>Setiap RKPS atau Perdes dilaporkan sebagai entri terpisah, sesuai aturan fund</td></tr>
+    <tr><td>2 · Mekanisme koordinasi</td><td>Output 4</td><td>Harus terlembaga. Konsultasi sesekali tidak dihitung.</td></tr>
+    <tr><td>3 · Instrumen MEL</td><td>Output 1</td><td>Wajib dijelaskan siapa memelihara dan dengan sumber daya apa setelah proyek</td></tr>
+    <tr><td>4 · Penerima manfaat</td><td>Output 2</td><td>Kehadiran ≥80%, data terpilah gender dan Masyarakat Adat</td></tr>
+    <tr><td>9 · Luas ekosistem</td><td>Outcome</td><td>Luas WKR yang rencana kelolanya memuat adaptasi (jalur "policies or plans", tanpa penanaman)</td></tr>
+  </table></div>
+</section>
+
+<section id="asumsi">
+  <h2>Asumsi dan risiko</h2>
+  <div class="tbl"><table>
+    <tr><th>Asumsi</th><th>Risiko jika salah</th><th>Mitigasi</th></tr>
+    <tr><td>Kemenhut dan pemda mau membuka revisi RKPS dan pedoman</td><td>Output 3 tertahan</td><td>Mulai dari tingkat desa (Perdes, RKPS) yang dikendalikan komunitas sendiri. Gunakan jalur KLH lewat NAP sebagai pintu kedua.</td></tr>
+    <tr><td>Situs WKR memiliki izin perhutanan sosial yang aktif</td><td>Revisi RKPS tidak mungkin dilakukan</td><td>Pilih situs berizin. Situs yang masih berkonflik masuk lewat Output 4.</td></tr>
+    <tr><td>Konflik tenurial tidak memburuk selama proyek</td><td>Keamanan warga dan staf</td><td>Protokol keselamatan, pelindungan lewat Permen LHK 10/2024, dan analisis konflik sejak awal</td></tr>
+    <tr><td>Situs tidak sedang didekati proyek karbon</td><td>Komunitas terbelah</td><td>Pemetaan awal. Jelaskan posisi non-pasar secara terbuka kepada komunitas.</td></tr>
+    <tr><td>Indikator pemantauan bisa berubah dalam 24 bulan</td><td>Bukti terlihat lemah</td><td>Pilih indikator yang cepat merespons: debit mata air musiman, titik api, panen, kejadian longsor</td></tr>
+  </table></div>
+</section>
+
+<section id="cakrawala">
+  <h2>Roadmap panjang, tanpa terjebak narasinya</h2>
+  <p>Arahnya ke pendekatan non-pasar (Pasal 6.8 Perjanjian Paris) tetap disimpan sebagai cakrawala. Di proposal ini cukup muncul sebagai satu aktivitas (4.5) dan satu paragraf di exit strategy.</p>
+  <div class="horizon">
+    <div class="card now"><h4>Tahap 1 · Proyek ini (2027–2028)</h4><p>Bukti, kapasitas, dan pengakuan kebijakan. Roadmap pembiayaan non-pasar disusun sebagai keluaran akhir.</p></div>
+    <div class="card later"><h4>Tahap 2 · Pembiayaan publik</h4><p>Dana Desa, APBD, dan transfer fiskal ekologis untuk WKR. Concept note ke Adaptation Fund atau GCF lewat entitas terakreditasi.</p></div>
+    <div class="card later"><h4>Tahap 3 · Global</h4><p>WKR diajukan sebagai contoh pendekatan non-pasar di platform Pasal 6.8 UNFCCC, dan sebagai kontribusi pada target KMGBF tentang hak komunitas.</p></div>
+  </div>
+</section>
+
+<section id="putusan">
+  <h2>Keputusan yang dibutuhkan</h2>
+  <ol class="tight">
+    <li><b>Topik 2 atau Topik 3?</b> Ide "local–global policy" lebih alami di Topik 3. Kalau tetap Topik 2, ketidakamanan tenurial harus menjadi inti masalah, dan judul ketiga lebih cocok.</li>
+    <li><b>Geografi.</b> Pilihannya:
+      <ul class="tight">
+        <li>(A) Tetap di Jawa. Pintu masuknya KHDPK dan kemitraan dengan Perhutani. Ini baru bagi fund, tapi skema hutan desa di Jawa masih terbatas.</li>
+        <li>(B) Situs WKR WALHI terkuat di luar Jawa. Basis hutan desa lebih matang, tapi fund sudah punya proyek di Kalimantan dan posisinya dekat dengan Delta Kapuas.</li>
+        <li>(C) Campuran, misalnya 2 situs di Jawa dan 2 di luar Jawa. Sekaligus membuktikan model bisa direplikasi.</li>
+      </ul>
+      Pilih berdasarkan di mana data WKR WALHI paling kuat.</li>
+    <li><b>Jumlah situs.</b> Draf memakai 4. Dengan $500 ribu, 3–5 situs masih masuk akal.</li>
+    <li><b>Data WKR yang tersedia.</b> Minta dari Eknas: daftar situs WKR yang berizin perhutanan sosial, luasnya, LPHD-nya, dan bahaya iklim utamanya. Tanpa data ini, placeholder di logframe tidak bisa diisi.</li>
+  </ol>
+  <footer>Sumber utama: <a href="https://globalebafund.org/wp-content/uploads/2026/08/Global-EbA-Fund_Medium-size-grants-Call-for-Proposals.pdf">Call for Proposals</a> · <a href="https://globalebafund.org/wp-content/uploads/2026/08/Global-EbA-Fund-Grants-Procedure-Manual.pdf">Grants Procedure Manual</a> · <a href="https://globalebafund.org/wp-content/uploads/2026/08/Global-EbA-Fund-Core-Indicator-Framework_August-2026.pdf">Core Indicator Framework</a> · <a href="https://peraturan.bpk.go.id/Details/249826/perpres-no-28-tahun-2023">Perpres 28/2023 (BPK)</a> · <a href="https://rri.co.id/pontianak/features/2411773/menyulap-lahan-bekas-terbakar-jadi-pusat-agroforestry">RRI (Mei 2026): Delta Kapuas Project</a> · <a href="https://unfccc.int/sites/default/files/resource/NAP_Indonesia__2025__.pdf">NAP Indonesia 2026–2030</a> · <a href="https://www.cgiar.org/news-events/news/cgiar-scientists-contribute-final-list-approved-indicators-gga-cop30">CGIAR: indikator GGA disahkan di COP30</a>. Permen LHK 9/2021 tentang Pengelolaan Perhutanan Sosial dan nama unit Kemenhut pasca-2024 dikutip dari pengetahuan umum. Cek ulang sebelum dikutip di proposal.</footer>
+</section>
+</main>
+</div>
