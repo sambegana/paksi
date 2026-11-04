@@ -18,7 +18,13 @@ def load(path):
                 own += 1; continue
             if t not in seen: seen[t] = i
     return list(seen.values()), own
+def bersih(t, src=None):
+    """Buang akhiran ' - Nama Media' dari judul Google News."""
+    if src and t.endswith(' - ' + src):
+        return t[: -len(src) - 3]
+    return t.rsplit(' - ', 1)[0] if ' - ' in t else t
 def tag(t):
+    t = bersih(t)
     return [k for k, p in ISU.items() if re.search(p, t, re.I)]
 if __name__ == "__main__":
     items, own = load("korpus_walhi_raw.json")

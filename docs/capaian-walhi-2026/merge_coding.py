@@ -66,7 +66,7 @@ RINGKAS = {  # label_pendek -> (lembaga, respons ringkas)
  "Status bencana nasional": ("Presiden", "Menko Polkam: belum berencana menetapkan."),
  "Pemulihan lahan terbakar": ("KLH, Kemenhut", "Tidak ditemukan."),
  "Gugatan Pasal 72": ("Menhut", "Belum ada (baru 7 hari)."),
- "Tindak tambang emas ilegal": ("Polda Sumbar", "2 operator ekskavator tersangka; pemodal belum disentuh."),
+ "Tindak tambang emas ilegal": ("Polda Sumbar", "Penindakan Juli (di luar periode); tak ada tindakan baru Agu–Okt."),
  "Tolak PLTP Gunung Ungaran": ("ESDM", "ESDM: proyek tetap berjalan bertahap (2 Sep)."),
  "Batalkan tambang LTJ Mamuju": ("Presiden, Pemprov Sulbar", "Tidak ditemukan."),
  "Transisi energi berkeadilan": ("Pemerintah pusat", "Tidak ditemukan."),
@@ -87,6 +87,9 @@ RINGKAS = {  # label_pendek -> (lembaga, respons ringkas)
  "Evaluasi food estate Papua": ("Kemenko Pangan", "Wamenko Pangan janji perketat pengawasan."),
  "Evaluasi tambang DAS Kapuas": ("ESDM, KLH, pemda", "Tidak ditemukan."),
  "Tumpang tindih DAS Aia Dingin": ("ATR/BPN, Kemenhut", "Tidak ditemukan."),
+ "Kaji ulang Giant Sea Wall": ("Pemerintah pusat, BOPPJ", "Tidak ditemukan; proyek tetap berjalan."),
+ "Koreksi RUU Daerah Kepulauan": ("DPR, Kemendagri", "Tidak ditemukan; DPR hanya mempercepat pembahasan."),
+ "FOLU Net Sink terancam": ("KLH, Kemenhut", "Tidak ditemukan."),
 }
 for x in out:
     x["lembaga_ringkas"], x["respons_ringkas"] = RINGKAS[x["label_pendek"]]

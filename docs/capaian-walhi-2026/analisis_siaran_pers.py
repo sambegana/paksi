@@ -38,7 +38,7 @@ ISU_RE["Pesisir & Laut"] = ISU_RE["Pesisir & Laut"] + "|" + PESISIR_LOKUS
 def match_kw(kw, title):
     if not kw:
         return False
-    t = title.lower()
+    t = classify.bersih(title).lower()
     for alt in kw.split("|"):
         if all(re.search(part.strip(), t) for part in alt.split("+")):
             return True
@@ -97,7 +97,7 @@ with open(os.path.join(HERE, "pemuatan_siaran_pers.csv"), "w", newline="") as f:
 
 # --- isu per berita: lama (kata kunci isu saja, judul memuat WALHI) vs baru ---
 def isu_baru(m):
-    s = {k for k, p in ISU_RE.items() if re.search(p, m["title"], re.I)}
+    s = {k for k, p in ISU_RE.items() if re.search(p, classify.bersih(m["title"], m["src"]), re.I)}
     r = m.get("rilis")
     if r:
         for c in (r["isu_utama"], r["isu_kedua"]):
@@ -111,7 +111,7 @@ lama = Counter(k for i in lama_items for k in classify.tag(i["title"]))
 baru_judul = Counter(); baru_semua = Counter(); irisan = Counter(); media_isu = defaultdict(set)
 for m in media:
     s = isu_baru(m)
-    in_title = bool(re.search("walhi", m["title"], re.I))
+    in_title = bool(re.search("walhi", classify.bersih(m["title"], m["src"]), re.I))
     for k in s:
         baru_semua[k] += 1; media_isu[k].add(m["src"])
         if in_title:
