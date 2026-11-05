@@ -83,6 +83,10 @@ Lengkapi dengan sapuan nama pengkampanye (menangkap wawancara/talkshow di luar r
 python3 -I scripts/sapu_nama.py --roster scripts/roster.json --mulai 2026-11-01 --selesai 2026-11-30 --out sapu_nama.json
 ```
 
+Kalau tim bidang memberi kliping manual (spreadsheet), gabungkan dengan hasil otomatis untuk bidang itu tanpa duplikat dan
+tandai di gambar (lihat `references/metode.md` bagian 2). Unduh Google Sheet yang dibagikan dengan
+`https://docs.google.com/spreadsheets/d/<ID>/export?format=xlsx`.
+
 Kode sikap tiap berita: memuat pesan WALHI/jejaring, kontra-narasi (mis. "aktivis" pro-proyek), atau konteks.
 Kontra-narasi bukan respons resmi; catat terpisah.
 

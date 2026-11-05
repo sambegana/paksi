@@ -20,3 +20,7 @@
 12. **Periode berbeda.** Angka korpus lama (mis. 879 judul) mencakup Juni–November; pastikan semua angka satu periode.
 13. **Klaim kausal.** Korelasi pemberitaan–respons ada, tetapi isu besar (karhutla) mendorong keduanya. Jangan menulis sebab-akibat.
 14. **Respons pemerintah asing** (mis. Singapura) bukan respons pemerintah Indonesia; catat terpisah.
+15. **Kliping tim berisi baris ganda dan berita di luar periode.** Spreadsheet PELA: 66 baris → 60 tautan unik, 8 bertanggal Juli.
+    Hitung ulang sebelum memakai angka "total" dari tim, lalu sampaikan selisihnya dengan sopan.
+16. **Metode otomatis melewatkan media alternatif/daerah** yang tidak terindeks Google News (Jaring Nusa, Ekuatorial, Limawaktu,
+    iVoox, Media Justitia). Minta kliping tim untuk bidang yang angkanya dipersoalkan.

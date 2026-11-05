@@ -23,7 +23,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 PIMPINAN = {"Boy Jerry Even Sembiring", "Uli Arta Siagian", "Dana Prima Tarigan", "Teo Reffelsen", "Christine Constanta", "Melva Harahap", "Tubagus Soleh Ahmadi"}
 KAMPANYE = {"Mida Saragih": "Pesisir & Laut", "Umi Ma'rufah": "Hutan & Kebun", "Umi Ma’rufah": "Hutan & Kebun", "Wahyu Eka": "Urban",
             "Musdalifah Jamal": "Pangan & Ekosistem Esensial", "Patria Rizky": "Iklim & Isu Global", "Faisal Ratuela": "Tambang & Energi"}
-KECOCOKAN = {"R02": "sebagian", "R05": "sebagian", "R07": "inti", "R09": "sebagian", "P07": "inti", "P08": "generik", "R21": "inti",
+KECOCOKAN = {"R29": "sebagian", "R02": "sebagian", "R05": "sebagian", "R07": "inti", "R09": "sebagian", "P07": "inti", "P08": "generik", "R21": "inti",
              "R25": "inti", "R35": "inti", "P09": "sebagian", "R20": "generik"}
 TINDAKAN = [  # outcome unik -> rilis yang tuntutannya disentuh
     ("T1", "2026-09-03", "Kemenhut", "Membekukan izin 5 PBPH di Kalbar (371.560 ha), termasuk Mayawana", "pembekuan izin", "R05;R07",
@@ -40,6 +40,8 @@ TINDAKAN = [  # outcome unik -> rilis yang tuntutannya disentuh
      "https://nasional.kontan.co.id/news/walhi-desak-penegakan-hukum-karhutla-sasar-pemilik-manfaat-korporasi", "searah kajian Siapa di Balik Api"),
     ("T7", "2026-10-15", "Polda Kalsel", "Menaikkan laporan WALHI Kalsel ke penyidikan; 4 korporasi ditetapkan tersangka (20 Okt)", "penyidikan/penetapan tersangka", "R21",
      "", "langsung ke WALHI (Kapolda menyebut laporan WALHI Kalsel)"),
+    ("T9", "2026-10-22", "DPRD Provinsi Babel", "Menjalankan revisi Perda RZWP3K agar Batu Beriga keluar dari zona tambang (hapus Pasal 24 huruf d): berita acara bersama warga dan WALHI (21 Sep), audiensi bersama ke KKP (9 Okt), seluruh fraksi mendukung (22 Okt); paripurna ditargetkan 20 Nov. IUP PT Timah belum dicabut, KKP belum menjawab", "revisi regulasi daerah", "R29",
+     "https://www.faktaberita.co.id/dprd-babel-dorong-batu-beriga-jadi-zona-zero-mining-minta-dukungan-kkp/", "langsung ke WALHI (DPRD meneken tuntutan bersama WALHI dan nelayan)"),
     ("T8", "2026-09-01", "Pemprov Kalteng, Pemkot Palangka Raya", "Membuka rumah oksigen gratis (2 lokasi provinsi; 43 titik kota) dan bus oksigen gratis bagi korban asap", "layanan kesehatan", "R09",
      "https://infopublik.id/kategori/prioritas-nasional-2026/985772/kabut-asap-mencekam-rumah-oksigen-dibuka-palangka-raya", "konvergensi; tanpa evakuasi dan jaminan pengobatan menyeluruh"),
 ]
@@ -48,11 +50,14 @@ JENIS = {0: "tidak ada respons", 1: "ditolak", 2: "diakui/dijanjikan", 3: "tinda
 base = {r["id"]: r for r in csv.DictReader(open(os.path.join(HERE, "rilis_base.csv")))}
 raw = json.load(open(os.path.join(HERE, "pengodean", "respons_rilis_agu_okt_mentah.json")))
 kode = {}
+SKOR_PENYUNTING = {"R29": (3, "Dinaikkan 2→3 oleh penyunting setelah konfirmasi tim PELA dan bukti berita: DPRD Babel menjalankan revisi Perda RZWP3K, meneken berita acara bersama WALHI (21 Sep), audiensi bersama ke KKP (9 Okt), seluruh fraksi mendukung (22 Okt). IUP belum dicabut; KKP belum menjawab.")}
 for g in raw:
     ver = {x["id"]: x for x in g["verifikasi"]["rilis"]}
     for k in g["kode"]["rilis"]:
         v = ver[k["id"]]
         k["skor_final"] = v["skor_final"]; k["alasan_verifikasi"] = v["alasan"]; k["keyakinan_final"] = v["keyakinan"]
+        if k["id"] in SKOR_PENYUNTING:
+            k["skor_final"], k["alasan_verifikasi"] = SKOR_PENYUNTING[k["id"]][0], SKOR_PENYUNTING[k["id"]][1] + " " + v["alasan"]
         k["respons"] = k["respons"] + v["respons_tambahan"]
         kode[k["id"]] = k
 p14 = json.load(open(os.path.join(HERE, "pemuatan", "hasil", "P14.json")))

@@ -36,15 +36,17 @@
   "penutur_tidak_diketahui": 0,
   "ada_respons": 5,
   "ditolak": 1,
-  "dijanjikan": 4,
-  "tindakan_parsial": 0,
+  "dijanjikan": 3,
+  "tindakan_parsial": 1,
   "dipenuhi": 0,
-  "tindakan_nyata": 0,
+  "tindakan_nyata": 1,
   "tindakan_generik": 0,
   "pct_ada_respons": 56,
-  "pct_tindakan_nyata": 0,
+  "pct_tindakan_nyata": 11,
   "median_hari_ke_respons": 7,
-  "tindakan_unik": [],
+  "tindakan_unik": [
+   "T9"
+  ],
   "berita_kasus": 107,
   "berita_kontra": 15,
   "berita_memuat_walhi": 41,
@@ -144,10 +146,10 @@
  "_total": {
   "rilis": 33,
   "ada_respons": 26,
-  "tindakan_nyata": 7,
+  "tindakan_nyata": 8,
   "pct_ada_respons": 79,
-  "pct_tindakan_nyata": 21,
-  "tindakan_unik": 8,
+  "pct_tindakan_nyata": 24,
+  "tindakan_unik": 9,
   "catatan": {
    "catatan: di luar daftar divisi": 10,
    "tidak dihitung: DRAFT": 1,
@@ -161,15 +163,15 @@
   "median_walhi_per_skor": {
    "0": 4,
    "1": 7.0,
-   "2": 6.0,
-   "3": 17.0,
+   "2": 6,
+   "3": 16,
    "4": 0
   },
   "n_per_skor": {
    "0": 7,
    "1": 6,
-   "2": 12,
-   "3": 8,
+   "2": 11,
+   "3": 9,
    "4": 0
   }
  }

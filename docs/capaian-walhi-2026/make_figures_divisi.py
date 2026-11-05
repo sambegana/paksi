@@ -72,11 +72,13 @@ y = np.arange(len(order3))
 ax.barh(y, [semua[k] for k in order3], color=LIGHT, edgecolor=INK, linewidth=0.4, label="WALHI disebut di judul atau isi")
 ax.barh(y, [judul[k] for k in order3], height=0.45, color=ACCENT, label="WALHI disebut di judul")
 for yi, k in zip(y, order3):
-    ax.text(semua[k] + 8, yi, f"{semua[k]} berita · {media[k]} media", va="center", fontsize=8.3)
+    ax.text(semua[k] + 8, yi, f"{semua[k]} berita · {media[k]} media" + (" *" if k == "Pesisir & Laut" and PB.get("catatan_pesisir") else ""), va="center", fontsize=8.3)
 ax.set_yticks(y); ax.set_yticklabels([ISU[k] for k in order3], fontsize=9)
 ax.set_xlim(0, max(semua.values()) * 1.35)
 ax.set_xlabel(f"Jumlah berita, 1 Agu – 31 Okt 2026 (n = {PB['unik_judul_walhi']} judul memuat WALHI; satu berita bisa masuk >1 isu)", fontsize=8.5)
 ax.legend(fontsize=8, loc="lower right")
+if PB.get("catatan_pesisir"):
+    fig.text(0.01, -0.06, "* " + PB["catatan_pesisir"] + "; isu lain hanya metode otomatis.", fontsize=7.5, color="#444444")
 save(fig, "gambar-3-pemberitaan-per-isu")
 
 # Gambar 4: respons tertinggi per bidang

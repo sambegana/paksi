@@ -22,6 +22,10 @@
    yang tidak menyentuh tuntutan). Generik tidak dihitung sebagai tindakan nyata isu itu.
 8. Kontra-narasi pihak ketiga: catat di `berita_kontra`, jangan diberi skor.
 9. Jangan mengarang. Tidak ditemukan → skor 0, tulis "Tidak ditemukan".
+10. Lembaga daerah (mis. DPRD) yang meneken tuntutan bersama WALHI/warga, menjalankan proses revisi regulasi (pansus, revisi perda),
+    atau menyampaikan tuntutan itu secara resmi ke kementerian = **tindakan parsial (3)**, bukan sekadar janji. Contoh: DPRD Babel
+    untuk Batu Beriga (berita acara 21 Sep, audiensi ke KKP 9 Okt, seluruh fraksi mendukung 22 Okt). Tetap catat bahwa lembaga
+    pusat (KKP/ESDM) belum menjawab. Konfirmasi dengan tim bidang; mereka sering tahu perkembangan yang belum diberitakan.
 
 ## Bentuk respons (kolom `bentuk`)
 

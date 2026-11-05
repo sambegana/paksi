@@ -30,6 +30,10 @@ Dua lapis, jangan dicampur:
   kasus pesisir dari rilis (Batu Beriga, Pantura, Rempang, Kawasi, BOPPJ, Batam) → Pesisir & Laut.
   Multi-label diperbolehkan; laporkan irisan (mis. tambang × pesisir).
 - Laporkan: berita (judul atau isi), berita dengan WALHI di judul, jumlah media berbeda.
+- **Kliping manual tim bidang** (mis. spreadsheet tim PELA) digabung dengan hasil otomatis untuk bidang itu, tanpa duplikat
+  (cocokkan judul ≥ 0,75 dan URL), hanya untuk berita dalam periode. Bersihkan dulu baris ganda dan berita di luar periode.
+  Beri tanda di gambar bahwa bidang itu memakai gabungan, karena bidang lain hanya metode otomatis. Laporkan juga recall
+  metode otomatis terhadap kliping (Agu–Okt 2026: 27 dari 43 berita PELA tertangkap korpus, 21 terklasifikasi Pesisir).
 
 **b. Pemberitaan per rilis** (jangkauan kampanye)
 - Rentang H-1 s.d. H+14 dari tanggal rilis.

@@ -67,16 +67,17 @@ NEW[295] = body(295, "Oktober menjadi puncak dengan 18 rilis. Rilis Hutan & Kebu
                 "dan pidato BRICS. Pangan kosong di September.")
 NEW[296] = body(296, "Bukan hanya itu, WALHI juga menjadi pusat pemberitaan pada media-media mainstream. Sepanjang Agustus–Oktober 2026, "
                 "WALHI disebut dalam 1.267 berita di Google News, 843 di antaranya memuat WALHI di judul. Isu Hutan dan Kebun mendominasi "
-                "dengan 661 berita dari 259 media, terutama karena momentum karhutla. Isu Pesisir dan Laut tercatat 72 berita dari 49 media, "
+                "dengan 661 berita dari 259 media, terutama karena momentum karhutla. Isu Pesisir dan Laut tercatat 94 berita dari 64 media "
+                "(gabungan pemantauan otomatis dan kliping tim PELA), "
                 "termasuk berita tambang, PSN, dan data center yang berlokasi di laut, pesisir, atau pulau kecil. Dari sisi respons "
-                "pemerintah, 79% rilis kampanye yang memuat tuntutan spesifik mendapat respons, tetapi hanya 21% yang berujung tindakan nyata.")
+                "pemerintah, 79% rilis kampanye yang memuat tuntutan spesifik mendapat respons, tetapi hanya 24% yang berujung tindakan nyata.")
 NEW[297] = body(297, "Temuan ini didasarkan pada pengodean 33 rilis yang memuat tuntutan spesifik kepada pemerintah; rilis momen lembaga, "
                 "rilis berstatus draf, dan desakan kepada pemerintah Singapura tidak dihitung. Respons dicari dari tanggal rilis sampai "
                 "2 November 2026, termasuk respons kepada jejaring yang membawa tuntutan yang sama, lalu diperiksa ulang. Hutan & Kebun "
                 "mencatat capaian tertinggi: seluruh 10 rilis direspons dan 6 berujung tindakan nyata. Urban direspons di seluruh 5 rilis, "
-                "tetapi responsnya berupa penolakan atau janji. Pesisir & Laut direspons di 5 dari 9 rilis (56%), seluruhnya masih berupa "
-                "penolakan atau janji, misalnya KKP tetap menjalankan PSN tambak Pantura dan DPRD Babel baru berjanji merevisi zonasi Batu "
-                "Beriga. Pangan & Ekosistem Esensial direspons di 4 dari 5 rilis dengan satu tindakan nyata, sedangkan Iklim & Isu Global "
+                "tetapi responsnya berupa penolakan atau janji. Pesisir & Laut direspons di 5 dari 9 rilis (56%) dengan satu tindakan nyata: "
+                "DPRD Babel berpihak pada warga nelayan dan WALHI serta menjalankan revisi Perda RZWP3K agar Batu Beriga keluar dari zona "
+                "tambang. Respons lain masih berupa penolakan atau janji, misalnya KKP tetap menjalankan PSN tambak Pantura. Pangan & Ekosistem Esensial direspons di 4 dari 5 rilis dengan satu tindakan nyata, sedangkan Iklim & Isu Global "
                 "(1 dari 3 rilis) dan Tambang & Energi (1 rilis, ditolak) paling rendah. Hal ini menunjukkan bahwa tingginya respons "
                 "pemerintah terhadap narasi dan advokasi WALHI belum sepenuhnya berbanding lurus dengan tindakan konkret dalam penyelesaian "
                 "persoalan lingkungan hidup.")
@@ -88,9 +89,12 @@ TINDAKAN = [
     "4) 21 September – Kemenhut mencabut izin 5 perusahaan; 4 di antaranya ada di daftar laporan WALHI.",
     "5) 15–20 Oktober – Polda Kalsel menaikkan laporan WALHI Kalsel ke penyidikan; 4 korporasi ditetapkan tersangka.",
     "6) 21 Oktober – Kemenhut membekukan izin 6 PBPH lagi disertai paksaan pemulihan.",
-    "7) 23 Oktober – Kementerian Hukum menyerahkan data pemilik manfaat korporasi terduga karhutla kepada aparat penegak hukum.",
-    "8) 14–29 Oktober – Bareskrim menetapkan 20 korporasi tersangka karhutla (4 PMA) dan mengusulkan pencabutan 23 izin.",
-    "Dua tindakan (nomor 4 dan 5) terkait langsung dengan WALHI. Tindakan lain searah dengan tuntutan WALHI tetapi tidak menyebut WALHI, "
+    "7) 9–22 Oktober – DPRD Babel bersama warga nelayan dan WALHI menuntut KKP merevisi zonasi agar Batu Beriga dan perairan "
+    "sekitarnya keluar dari zona tambang (penghapusan Pasal 24 huruf d); seluruh fraksi mendukung revisi Perda RZWP3K, paripurna "
+    "ditargetkan 20 November. IUP PT Timah belum dicabut.",
+    "8) 23 Oktober – Kementerian Hukum menyerahkan data pemilik manfaat korporasi terduga karhutla kepada aparat penegak hukum.",
+    "9) 14–29 Oktober – Bareskrim menetapkan 20 korporasi tersangka karhutla (4 PMA) dan mengusulkan pencabutan 23 izin.",
+    "Tiga tindakan (nomor 4, 5, dan 7) terkait langsung dengan WALHI. Tindakan lain searah dengan tuntutan WALHI tetapi tidak menyebut WALHI, "
     "dan sebagian menyusul arahan Presiden pada 16 September. Tidak ada tuntutan yang dipenuhi penuh.",
 ]
 p297 = ORIG[297]; r297 = rprs(p297)[0]
@@ -105,8 +109,9 @@ NEW[302] = para(p_open(p), ppr(p), [
     run("Hutan & Kebun menyumbang lebih dari separuh pemberitaan WALHI (661 berita), terutama bersamaan dengan karhutla. Tambang & Energi "
         "(198) dan Urban & Tata Ruang (187) menyusul; sebagian besar pemberitaan tambang berasal dari WALHI daerah. ", r),
     m_start,
-    run("Pesisir & Laut tercatat 72 berita dari 49 media, karena berita tambang, PSN, dan data center di laut, pesisir, dan pulau kecil "
-        "ikut dihitung.", r),
+    run("Pesisir & Laut tercatat 94 berita dari 64 media: gabungan pemantauan otomatis (72 berita) dan kliping tim PELA (22 berita "
+        "tambahan, kebanyakan media alternatif dan daerah yang tidak terindeks Google News). Angka ini sudah mencakup berita tambang, "
+        "PSN, dan data center di laut, pesisir, dan pulau kecil.", r),
     m_end, m_ref,
     run(" Berita yang terkait langsung dengan rilis Divisi Kampanye (dicari per rilis, 1 hari sebelum sampai 14 hari sesudah rilis) "
         "tercatat 382 berita yang memuat WALHI: Hutan & Kebun 183, Urban 84, Pesisir & Laut 46, Pangan 41, Iklim 19, dan Tambang & Energi 3.", r),
@@ -146,5 +151,14 @@ def fix_xfrm(doc):
         out.append(doc[pos:m.start()]); out.append(blk2); pos = m.end()
     out.append(doc[pos:]); return "".join(out)
 x = fix_xfrm(x)
+# baris sumber di bawah Gambar 3: tambahkan kliping tim PELA
+_ps = re.findall(r"<w:p[ >].*?</w:p>", x, re.S)
+_t = lambda q: "".join(re.findall(r"<w:t[^>]*>([^<]*)</w:t>", q))
+_i = [i for i, q in enumerate(_ps) if _t(q).startswith("Gambar 3.")][0]
+_src = _ps[_i + 1]
+if _t(_src).startswith("Sumber:") and "PELA" not in _t(_src):
+    _m = list(re.finditer(r"(<w:t)[^>]*(>)\.(</w:t>)", _src))[-1]
+    _new = _src[:_m.start()] + '<w:t xml:space="preserve">; kliping tim PELA (Pesisir &amp; Laut).</w:t>' + _src[_m.end():]
+    x = x.replace(_src, _new, 1)
 open(P, "w", encoding="utf8").write(x)
 print("paragraf diubah:", sorted(NEW))
