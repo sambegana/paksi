@@ -20,7 +20,11 @@
 12. **Periode berbeda.** Angka korpus lama (mis. 879 judul) mencakup Juni–November; pastikan semua angka satu periode.
 13. **Klaim kausal.** Korelasi pemberitaan–respons ada, tetapi isu besar (karhutla) mendorong keduanya. Jangan menulis sebab-akibat.
 14. **Respons pemerintah asing** (mis. Singapura) bukan respons pemerintah Indonesia; catat terpisah.
-15. **Kliping tim berisi baris ganda dan berita di luar periode.** Spreadsheet PELA: 66 baris → 60 tautan unik, 8 bertanggal Juli.
-    Hitung ulang sebelum memakai angka "total" dari tim, lalu sampaikan selisihnya dengan sopan.
+15. **Kliping tim berisi baris ganda dan berita di luar periode.** Spreadsheet PELA: 65 baris → 59 tautan unik; 14 tautan Juli
+    (6 di antaranya tanpa tanggal di judul, tanggal dicari di indeks Google News); kolom "No" berulang. Hitung ulang sebelum
+    memakai angka "total" dari tim, lalu sampaikan selisihnya dengan sopan.
 16. **Metode otomatis melewatkan media alternatif/daerah** yang tidak terindeks Google News (Jaring Nusa, Ekuatorial, Limawaktu,
     iVoox, Media Justitia). Minta kliping tim untuk bidang yang angkanya dipersoalkan.
+17. **Google mencocokkan "walhi" di tautan samping halaman.** Kueri "walhi …" bisa mengembalikan berita yang isinya tidak menyebut
+    WALHI (nama hanya ada di daftar "berita terkait"). Agu–Okt 2026: 5 dari 51 berita Pesisir tambahan begitu. Baca isi
+    (trafilatura) dan tandai "perlu cek" bila sebutan di teks berita = 0.
