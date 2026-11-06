@@ -508,3 +508,6 @@ Lebih dari 100 negara mendukung target pengurangan produksi plastik dalam trakta
 - Beberapa halaman tidak dapat dibuka: Bisnis.com (403), Investortrust (429), Tempo (403), PNA (domain diblokir di sesi ini), EUR-Lex (konten kosong), dan peraturan.bpk.go.id (403). Butir dari halaman-halaman itu berlabel [SECONDARY] dan bersandar pada ringkasan hasil pencarian.
 - Angka PPWR diambil dari panduan EUROPEN (Agu 2025), bukan teks EUR-Lex. Cek pasal sebelum kutipan langsung.
 - Status [NOT FOUND] per 6 Nov 2026 tidak berarti instrumen itu pasti tidak ada. Penetapan yang belum diberitakan mungkin terjadi. **Wajib cek ulang JDIH KLH/BPLH, JDIH Setneg, dan kemenlh.go.id pada hari rilis**, terutama untuk Permen pengganti P.75 yang ditargetkan November 2026.
+
+
+> **Koreksi (6 Nov 2026, verifikasi_rilis_november.md):** Teks Perpres 109/2025 tidak memuat "denda" bagi pemda. Yang ada: Ps. 4(1)a pasokan minimal 1.000 t/hari; Ps. 17(2)e perjanjian kerja sama wajib memuat **kompensasi** bila pasokan tidak terpenuhi. Kata "denda" hanya ucapan Menteri Jumhur (Katadata, 16 Jul 2026). Angka 842/386/79/28 bersumber primer dari berita KLH 6 Okt 2026.
