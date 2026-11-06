@@ -34,6 +34,10 @@ Dua lapis, jangan dicampur:
   (cocokkan judul ≥ 0,75 dan URL), hanya untuk berita dalam periode. Bersihkan dulu baris ganda dan berita di luar periode.
   Beri tanda di gambar bahwa bidang itu memakai gabungan, karena bidang lain hanya metode otomatis. Laporkan juga recall
   metode otomatis terhadap kliping (Agu–Okt 2026: 27 dari 43 berita PELA tertangkap korpus, 21 terklasifikasi Pesisir).
+- **Bila tim bidang meminta angka bidangnya hanya dari kliping mereka** (laporan Agu–Okt 2026: Pesisir & Laut = kliping PELA saja,
+  45 berita unik dari 30 media), pakai kliping itu: buang baris ganda (tautan sama) dan berita di luar periode (cek tanggal yang
+  tidak tertulis di judul lewat indeks Google News), tandai di gambar, dan keluarkan bidang itu dari angka pemberitaan per rilis
+  agar tidak ada dua sumber yang bertentangan. Berita otomatis yang tidak ada di kliping diserahkan ke tim sebagai daftar usulan.
 
 **b. Pemberitaan per rilis** (jangkauan kampanye)
 - Rentang H-1 s.d. H+14 dari tanggal rilis.

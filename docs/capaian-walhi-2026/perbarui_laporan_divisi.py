@@ -67,8 +67,8 @@ NEW[295] = body(295, "Oktober menjadi puncak dengan 18 rilis. Rilis Hutan & Kebu
                 "dan pidato BRICS. Pangan kosong di September.")
 NEW[296] = body(296, "Bukan hanya itu, WALHI juga menjadi pusat pemberitaan pada media-media mainstream. Sepanjang Agustus–Oktober 2026, "
                 "WALHI disebut dalam 1.267 berita di Google News, 843 di antaranya memuat WALHI di judul. Isu Hutan dan Kebun mendominasi "
-                "dengan 661 berita dari 259 media, terutama karena momentum karhutla. Isu Pesisir dan Laut tercatat 94 berita dari 64 media "
-                "(gabungan pemantauan otomatis dan kliping tim PELA), "
+                "dengan 661 berita dari 259 media, terutama karena momentum karhutla. Isu Pesisir dan Laut tercatat 45 berita dari 30 media "
+                "berdasarkan kliping tim PELA, "
                 "termasuk berita tambang, PSN, dan data center yang berlokasi di laut, pesisir, atau pulau kecil. Dari sisi respons "
                 "pemerintah, 79% rilis kampanye yang memuat tuntutan spesifik mendapat respons, tetapi hanya 24% yang berujung tindakan nyata.")
 NEW[297] = body(297, "Temuan ini didasarkan pada pengodean 33 rilis yang memuat tuntutan spesifik kepada pemerintah; rilis momen lembaga, "
@@ -109,12 +109,13 @@ NEW[302] = para(p_open(p), ppr(p), [
     run("Hutan & Kebun menyumbang lebih dari separuh pemberitaan WALHI (661 berita), terutama bersamaan dengan karhutla. Tambang & Energi "
         "(198) dan Urban & Tata Ruang (187) menyusul; sebagian besar pemberitaan tambang berasal dari WALHI daerah. ", r),
     m_start,
-    run("Pesisir & Laut tercatat 94 berita dari 64 media: gabungan pemantauan otomatis (72 berita) dan kliping tim PELA (22 berita "
-        "tambahan, kebanyakan media alternatif dan daerah yang tidak terindeks Google News). Angka ini sudah mencakup berita tambang, "
-        "PSN, dan data center di laut, pesisir, dan pulau kecil.", r),
+    run("Pesisir & Laut tercatat 45 berita dari 30 media, dihitung dari kliping tim PELA (Agustus–Oktober; baris ganda dan berita "
+        "Juli tidak dihitung). Sebagian besar berasal dari media alternatif dan daerah, dengan isu utama PSN tambak Pantura, Giant Sea "
+        "Wall, RUU Daerah Kepulauan, dan data center di pulau kecil.", r),
     m_end, m_ref,
     run(" Berita yang terkait langsung dengan rilis Divisi Kampanye (dicari per rilis, 1 hari sebelum sampai 14 hari sesudah rilis) "
-        "tercatat 382 berita yang memuat WALHI: Hutan & Kebun 183, Urban 84, Pesisir & Laut 46, Pangan 41, Iklim 19, dan Tambang & Energi 3.", r),
+        "tercatat 336 berita yang memuat WALHI untuk bidang selain Pesisir & Laut: Hutan & Kebun 183, Urban 84, Pangan 41, Iklim 19, "
+        "dan Tambang & Energi 3. Pemberitaan Pesisir & Laut mengikuti kliping tim PELA di atas.", r),
 ])
 NEW[304] = caption(304, 4, "Respons tertinggi pemerintah atas rilis WALHI per bidang kampanye")
 NEW[307] = body(307, "Analisa data pemberitaan ini juga mencakup pemberitaan WALHI secara umum, sehingga beberapa pemberitaan isu daerah juga "

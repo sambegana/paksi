@@ -4,7 +4,7 @@
   "Perkotaan & Tata Ruang": 127,
   "Ekosistem Esensial & Pangan": 109,
   "Tambang & Energi": 103,
-  "Pesisir & Laut": 36,
+  "Pesisir & Laut": 17,
   "Iklim & Global": 50
  },
  "semua_aguokt": {
@@ -12,7 +12,7 @@
   "Perkotaan & Tata Ruang": 187,
   "Ekosistem Esensial & Pangan": 153,
   "Tambang & Energi": 198,
-  "Pesisir & Laut": 94,
+  "Pesisir & Laut": 45,
   "Iklim & Global": 91
  },
  "media": {
@@ -20,7 +20,7 @@
   "Perkotaan & Tata Ruang": 116,
   "Ekosistem Esensial & Pangan": 94,
   "Tambang & Energi": 126,
-  "Pesisir & Laut": 64,
+  "Pesisir & Laut": 30,
   "Iklim & Global": 64
  },
  "unik_judul_walhi": 843,
@@ -42,5 +42,6 @@
   "Tambang & Energi": 18,
   "Urban": 221
  },
- "catatan_pesisir": "Pesisir & Laut = gabungan metode otomatis (72) dan kliping tim PELA (+22), tanpa duplikat"
+ "catatan_pesisir": "Pesisir & Laut memakai kliping tim PELA (45 berita unik Agu–Okt; baris ganda dan berita Juli dibuang)",
+ "sumber_pesisir": "Google Sheet PELA 1vJ1UDJhUSNLcXMkrVqmiUQ14P1fTztzOnN8r9IUUthQ, diunduh 6 Nov 2026: 65 baris, 59 tautan unik, 14 Juli, 45 Agu-Okt"
 }
