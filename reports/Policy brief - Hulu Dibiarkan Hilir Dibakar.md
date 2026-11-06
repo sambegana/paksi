@@ -36,8 +36,6 @@ Hasilnya terukur. Per Oktober 2026, dari 842 produsen yang dibina, 386 terdaftar
 
 Penegakan justru bergerak ke arah sebaliknya. Pada kuartal I 2025, KLH mengidentifikasi 343 TPA *open dumping* dan memperingatkan 306 kepala daerah dengan ancaman pemotongan Dana Alokasi Khusus (DAK) [5]. Sejak Februari 2026, 44 TPA diselidiki secara pidana [6]. Mantan Kepala DLHK Bali didakwa di PN Denpasar pada 1 Oktober 2026 [7]. Mantan Kepala Dinas LH DKI menjadi tersangka setelah longsor Bantargebang menewaskan tujuh orang [8]. Semua ini menimpa pemda yang rata-rata hanya membelanjakan 0,53% APBD untuk sampah [9].
 
-[MENUNGGU VERIFIKASI: kalimat tentang TPA di lahan gambut dan risiko kebakaran — isi hanya jika terbukti; jangan kaitkan dengan pembakaran oleh warga]
-
 > **[GAMBAR 2: Asimetri penegakan 2025–2026]**
 > *Keterangan:* Negara menindak pemda dan pejabatnya berlapis-lapis, sementara produsen kemasan tidak tersentuh satu tindakan pun.
 > *Data:* Kolom kiri, terhadap pemda: 343 TPA diidentifikasi *open dumping* dan 306 kepala daerah diperingatkan (kuartal I 2025) [5]; 44 TPA diselidiki pidana (Februari 2026) [6]; mantan kepala dinas didakwa (Bali, 1 Oktober 2026) [7] dan menjadi tersangka (DKI, 21 April 2026) [8]. Kolom kanan, terhadap produsen kemasan: 0 tindakan yang ditemukan berdasarkan UU 18/2008 Pasal 15 atau P.75/2019.
