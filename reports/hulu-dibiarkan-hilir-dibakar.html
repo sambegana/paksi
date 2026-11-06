@@ -1,0 +1,504 @@
+<title>Hulu Dibiarkan, Hilir Dibakar</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: satu kolom bacaan ~68ch, figur melebar sampai 980px; rantai hulu→hilir sebagai tulang punggung visual */
+:root{
+  --bg:#F2F3EE; --paper:#FBFBF8; --ink:#1B211E; --ink-2:#47504B; --muted:#6F7872; --rule:#D6DAD3;
+  --hulu:#0A7F5A; --hilir:#C2551A; --track:#DCE0D9;
+  --kosong:#A3262A; --lemah:#8A6100; --masalah:#B24A12;
+  --kosong-bg:#F6E3E1; --lemah-bg:#F5ECD6; --masalah-bg:#F7E4D8;
+  --display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#141816; --paper:#1B201D; --ink:#E7EAE5; --ink-2:#B9C0BA; --muted:#8E978F; --rule:#2F3631;
+  --hulu:#2FA67E; --hilir:#D9692E; --track:#2C332E;
+  --kosong:#F08A86; --lemah:#E2B64F; --masalah:#F09A62;
+  --kosong-bg:#3A1F1F; --lemah-bg:#352C17; --masalah-bg:#3A2619; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141816; --paper:#1B201D; --ink:#E7EAE5; --ink-2:#B9C0BA; --muted:#8E978F; --rule:#2F3631;
+  --hulu:#2FA67E; --hilir:#D9692E; --track:#2C332E;
+  --kosong:#F08A86; --lemah:#E2B64F; --masalah:#F09A62;
+  --kosong-bg:#3A1F1F; --lemah-bg:#352C17; --masalah-bg:#3A2619; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 64px}
+.wrap{max-width:980px;margin:0 auto}
+.prose{max-width:68ch}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;line-height:1.12;margin:0}
+h1{font-size:clamp(2.3rem,6vw,4rem);font-weight:800;letter-spacing:-.02em}
+h2{font-size:clamp(1.5rem,3.2vw,2.1rem);font-weight:800;letter-spacing:-.01em}
+h3{font-size:1.15rem;font-weight:700}
+p{margin:0}
+a{color:var(--hulu);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--hulu);outline-offset:2px}
+.eyebrow{font-family:var(--mono);font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.tag{font-family:var(--mono);font-size:.7rem;letter-spacing:.04em;color:var(--muted);border:1px solid var(--rule);border-radius:3px;padding:0 5px;white-space:nowrap}
+.num{font-variant-numeric:tabular-nums}
+
+/* hero */
+header.hero{padding-block:56px 36px;display:grid;gap:20px;border-bottom:1px solid var(--rule)}
+.hero .lede{font-size:1.15rem;color:var(--ink-2);max-width:62ch}
+.hero h1 .hl{color:var(--hulu)} .hero h1 .hh{color:var(--hilir)}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:6px;overflow:hidden;margin-top:8px}
+.stat{background:var(--paper);padding:16px 16px 14px;display:grid;gap:4px;align-content:start}
+.stat b{font-family:var(--display);font-size:2.1rem;font-weight:800;line-height:1;font-variant-numeric:tabular-nums}
+.stat span{font-size:.86rem;color:var(--ink-2);line-height:1.4}
+.stat small{font-family:var(--mono);font-size:.68rem;color:var(--muted)}
+.stat.alarm b{color:var(--hilir)}
+@media (max-width:760px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+section{padding-block:48px 8px;display:grid;gap:18px}
+section > .prose{display:grid;gap:14px}
+.secnum{font-family:var(--mono);font-size:.78rem;color:var(--hilir);letter-spacing:.08em}
+
+figure{margin:8px 0 0;background:var(--paper);border:1px solid var(--rule);border-radius:6px;padding:20px;display:grid;gap:14px;min-width:0}
+figcaption{display:grid;gap:4px}
+figcaption .ft{font-family:var(--display);font-weight:700;font-size:1.02rem}
+figcaption .fs{font-size:.84rem;color:var(--muted)}
+.src{font-size:.76rem;color:var(--muted);border-top:1px dashed var(--rule);padding-top:10px}
+.src a{color:var(--muted)}
+
+/* chain */
+.chain{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.stage{border:1px solid var(--rule);border-radius:5px;padding:12px;display:grid;gap:8px;align-content:start;background:var(--bg);position:relative;min-width:0}
+.stage .sn{font-family:var(--mono);font-size:.68rem;color:var(--muted)}
+.stage h4{margin:0;font-family:var(--display);font-size:1rem}
+.stage .d{font-size:.82rem;line-height:1.45}
+.stage dl{margin:0;display:grid;gap:4px;font-size:.76rem}
+.stage dt{font-family:var(--mono);font-size:.64rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.stage dd{margin:0 0 4px}
+.stage.up{border-top:4px solid var(--hulu)} .stage.down{border-top:4px solid var(--hilir)}
+.chainlegend{display:flex;flex-wrap:wrap;gap:16px;font-size:.8rem;color:var(--ink-2)}
+.sw{display:inline-block;width:12px;height:12px;border-radius:2px;vertical-align:-1px;margin-right:6px}
+@media (max-width:820px){.chain{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:460px){.chain{grid-template-columns:1fr}}
+
+/* bullet / bars */
+.rows{display:grid;gap:14px}
+.row{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:12px;align-items:center}
+.row .lab{font-size:.88rem;line-height:1.35}
+.row .lab small{display:block;color:var(--muted);font-size:.74rem}
+.track{position:relative;height:26px;background:var(--track);border-radius:0 4px 4px 0}
+.fill{position:absolute;left:0;top:5px;bottom:5px;background:var(--hilir);border-radius:0 4px 4px 0}
+.fill.g{background:var(--hulu)}
+.tick{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--ink)}
+.val{position:absolute;top:50%;transform:translateY(-50%);font-family:var(--mono);font-size:.76rem;white-space:nowrap}
+.axis{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:12px}
+.axis .sc{position:relative;height:16px;font-family:var(--mono);font-size:.66rem;color:var(--muted)}
+.axis .sc span{position:absolute;transform:translateX(-50%)}
+.axis .sc span:first-child{transform:none}
+.axis .sc span:last-child{transform:translateX(-100%)}
+.keyrow{display:flex;flex-wrap:wrap;gap:16px;font-size:.8rem;color:var(--ink-2)}
+.keytick{display:inline-block;width:2px;height:14px;background:var(--ink);vertical-align:-2px;margin-right:6px}
+@media (max-width:620px){.row,.axis{grid-template-columns:1fr}.axis .sp{display:none}}
+
+/* funnel */
+.funnel{display:grid;gap:8px}
+.fstep{display:grid;grid-template-columns:5.5rem minmax(0,1fr);gap:12px;align-items:center}
+.fstep b{font-family:var(--display);font-size:1.5rem;font-weight:800;text-align:right;font-variant-numeric:tabular-nums}
+.fbar{height:30px;background:var(--hulu);border-radius:0 4px 4px 0;display:flex;align-items:center;padding-left:10px;color:#fff;font-size:.8rem;white-space:nowrap;min-width:2px}
+.fbar.dim{background:var(--track);color:var(--ink)}
+.fstep .ftxt{font-size:.82rem;color:var(--ink-2)}
+.fstep.last .fbar{background:var(--hilir)}
+
+/* asym */
+.asym{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:5px;overflow:hidden}
+.asym > div{background:var(--bg);padding:16px;display:grid;gap:10px;align-content:start}
+.asym h4{margin:0;font-family:var(--display);font-size:1.05rem}
+.asym ul{margin:0;padding:0;list-style:none;display:grid;gap:8px}
+.asym li{display:grid;grid-template-columns:4.2rem minmax(0,1fr);gap:10px;align-items:baseline;font-size:.86rem}
+.asym li b{font-family:var(--display);font-size:1.45rem;text-align:right;font-variant-numeric:tabular-nums}
+.asym .pemda b{color:var(--hilir)} .asym .prod b{color:var(--hulu)}
+.zero{font-family:var(--display);font-weight:800;font-size:4.5rem;line-height:1;color:var(--hulu)}
+@media (max-width:620px){.asym{grid-template-columns:1fr}}
+
+/* line chart */
+.chart svg{width:100%;height:auto;display:block;overflow:visible}
+.chart text{font-family:var(--mono);font-size:11px;fill:var(--muted)}
+.chart .lbl{fill:var(--ink);font-size:12px}
+.chart .grid{stroke:var(--rule);stroke-width:1}
+.chart .ln{stroke:var(--hilir);stroke-width:2;fill:none}
+.chart .pt{fill:var(--hilir);stroke:var(--paper);stroke-width:2}
+.chart .tgt{stroke:var(--hulu);stroke-width:1.5;stroke-dasharray:4 4}
+.chart .tgtl{fill:var(--hulu)}
+
+/* stacked composition */
+.stack{display:flex;height:40px;border-radius:4px;overflow:hidden;gap:2px;background:var(--paper)}
+.stack div{display:flex;align-items:center;padding-left:10px;font-size:.8rem;white-space:nowrap;overflow:hidden;color:#fff}
+.stack .a{background:var(--hilir)} .stack .b{background:var(--hulu)} .stack .c{background:var(--track);color:var(--ink)}
+
+/* gap matrix */
+.matrix{display:grid;gap:6px}
+.mrow{display:grid;grid-template-columns:minmax(0,13rem) 7.5rem minmax(0,1fr);gap:12px;align-items:start;padding:8px 0;border-bottom:1px solid var(--rule);font-size:.86rem}
+.mrow:last-child{border-bottom:0}
+.mrow .area{font-weight:600}
+.chip{display:inline-flex;align-items:center;gap:5px;font-family:var(--mono);font-size:.68rem;letter-spacing:.06em;padding:2px 7px;border-radius:3px;font-weight:500;white-space:nowrap}
+.chip.k{background:var(--kosong-bg);color:var(--kosong)} .chip.k::before{content:"○"}
+.chip.l{background:var(--lemah-bg);color:var(--lemah)} .chip.l::before{content:"◐"}
+.chip.m{background:var(--masalah-bg);color:var(--masalah)} .chip.m::before{content:"△"}
+.mrow .gap{color:var(--ink-2)}
+.mcount{display:flex;flex-wrap:wrap;gap:10px;font-size:.84rem}
+@media (max-width:660px){.mrow{grid-template-columns:1fr auto}.mrow .gap{grid-column:1 / -1}}
+
+/* empat tata */
+.tata{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.tcell{border:1px solid var(--rule);border-radius:5px;padding:14px;display:grid;gap:8px;align-content:start;background:var(--bg)}
+.tcell h4{margin:0;font-family:var(--display);font-size:1.05rem}
+.tcell .meter{height:8px;background:var(--track);border-radius:4px;overflow:hidden}
+.tcell .meter i{display:block;height:100%;background:var(--hilir)}
+.tcell p{font-size:.82rem;color:var(--ink-2)}
+.tcell .verdict{font-family:var(--mono);font-size:.7rem;color:var(--muted)}
+@media (max-width:820px){.tata{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:460px){.tata{grid-template-columns:1fr}}
+
+/* scenario cards */
+.scen{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:12px}
+.scard{border:1px solid var(--rule);border-radius:5px;padding:16px;background:var(--bg);display:grid;gap:8px;align-content:start}
+.scard .big{font-family:var(--display);font-size:2rem;font-weight:800;line-height:1;color:var(--hilir);font-variant-numeric:tabular-nums}
+.scard p{font-size:.86rem;color:var(--ink-2)}
+.verdictbar{border-left:3px solid var(--hilir);padding:8px 12px;font-size:.9rem;background:var(--bg)}
+@media (max-width:620px){.scen{grid-template-columns:1fr}}
+
+/* timeline */
+.tl{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;border-top:2px solid var(--ink);margin-top:10px}
+.ph{padding:12px 12px 4px 0;display:grid;gap:6px;position:relative;align-content:start}
+.ph::before{content:"";position:absolute;top:-7px;left:0;width:12px;height:12px;border-radius:50%;background:var(--paper);border:2px solid var(--ink)}
+.ph.now::before{background:var(--hilir);border-color:var(--hilir)}
+.ph .yr{font-family:var(--mono);font-size:.74rem;color:var(--muted);padding-left:18px}
+.ph h4{margin:0;font-family:var(--display);font-size:.98rem}
+.ph p{font-size:.8rem;color:var(--ink-2)}
+@media (max-width:760px){.tl{grid-template-columns:1fr 1fr;row-gap:18px}}
+@media (max-width:440px){.tl{grid-template-columns:1fr}}
+
+/* critique, tables */
+.crit{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.citem{border:1px solid var(--rule);border-radius:5px;padding:14px;background:var(--paper);display:grid;gap:6px;align-content:start}
+.citem .n{font-family:var(--mono);font-size:.7rem;color:var(--hilir)}
+.citem h4{margin:0;font-family:var(--display);font-size:1rem}
+.citem p{font-size:.85rem;color:var(--ink-2)}
+@media (max-width:660px){.crit{grid-template-columns:1fr}}
+.tblwrap{overflow-x:auto;border:1px solid var(--rule);border-radius:6px;background:var(--paper)}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:.85rem}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--rule)}
+th{font-family:var(--mono);font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:500;background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.pri{font-family:var(--display);font-weight:800;font-size:1.3rem;color:var(--hilir);text-align:center}
+blockquote{margin:0;padding:18px 20px;border-left:4px solid var(--hulu);background:var(--paper);font-size:1.05rem;line-height:1.55;border-radius:0 6px 6px 0}
+.note{font-size:.84rem;color:var(--muted)}
+.defs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.defs > div{border-top:3px solid var(--hulu);padding-top:10px;display:grid;gap:4px}
+.defs b{font-family:var(--display)}
+.defs span{font-size:.84rem;color:var(--ink-2)}
+@media (max-width:660px){.defs{grid-template-columns:1fr}}
+
+/* tooltip */
+#tip{position:fixed;pointer-events:none;z-index:20;background:var(--ink);color:var(--paper);font-size:.78rem;padding:6px 9px;border-radius:4px;max-width:260px;line-height:1.4}
+[data-tip]{cursor:default}
+footer{margin-top:56px;padding-top:16px;border-top:1px solid var(--rule);font-size:.8rem;color:var(--muted);display:grid;gap:6px}
+@media (prefers-reduced-motion:no-preference){.fill,.fbar,.meter i{transition:width .6s ease}}
+</style>
+
+<div class="wrap">
+
+<header class="hero">
+  <div class="eyebrow">Bahan diskusi advokasi · isu sampah Indonesia · per 6 November 2026</div>
+  <h1>Hulu <span class="hl">dibiarkan</span>,<br>hilir <span class="hh">dibakar</span></h1>
+  <p class="lede">Krisis sampah Indonesia terutama adalah krisis pembagian tanggung jawab. Kewajiban bersanksi menumpuk di hilir dan jatuh ke pemda, warga, dan pemulung. Kewajiban produsen yang tertulis sejak UU 18/2008 Pasal 15 masih berupa peta jalan tanpa sanksi.</p>
+  <div class="stats">
+    <div class="stat alarm"><b>±25%</b><span>sampah nasional yang terkelola</span><small>KLH, Sep 2026</small></div>
+    <div class="stat alarm"><b>70%</b><span>dari 522 TPA masih <i>open dumping</i></span><small>KLH, Sep 2026</small></div>
+    <div class="stat"><b>28<span style="font-size:1rem;color:var(--muted)"> / 842</span></b><span>produsen yang melaksanakan dan melaporkan peta jalan P.75</span><small>Ecobiz Asia, Okt 2026</small></div>
+    <div class="stat"><b>0</b><span>tindakan penegakan terhadap produsen yang ditemukan</span><small>hasil penelusuran riset</small></div>
+  </div>
+</header>
+
+<section id="rantai">
+  <div class="prose">
+    <div class="secnum">01 · RANTAI MATERIAL</div>
+    <h2>Yang memutuskan dan yang menanggung hampir tidak pernah sama</h2>
+    <p>Setiap tahap punya pengambil keputusan sendiri. Keputusan paling menentukan, yaitu format dan bahan kemasan, diambil di hulu oleh produsen. Bebannya jatuh di hilir: APBD, pemulung, warga sekitar TPA, dan desa pengimpor sampah.</p>
+  </div>
+  <figure>
+    <figcaption><span class="ft">Gambar 1. Rantai sampah dari kemasan sampai kebocoran</span><span class="fs">Data kunci, pengambil keputusan, dan penanggung beban per tahap</span></figcaption>
+    <div class="chainlegend"><span><i class="sw" style="background:var(--hulu)"></i>Hulu: keputusan produksi dan konsumsi</span><span><i class="sw" style="background:var(--hilir)"></i>Hilir: tempat beban menumpuk</span></div>
+    <div class="chain">
+      <div class="stage up"><span class="sn">TAHAP 1</span><h4>Produksi & kemasan</h4><p class="d">Sampah plastik ±6,8 juta t/thn, tumbuh ±5%/thn. ≥41% item Wings dalam audit Sungai Watch 2024 berupa saset.</p><dl><dt>Memutuskan</dt><dd>Produsen FMCG, Kemenperin</dd><dt>Menanggung</dt><dd>Pemda, pemulung, warga</dd></dl></div>
+      <div class="stage up"><span class="sn">TAHAP 2</span><h4>Konsumsi</h4><p class="d">Sisa makanan ±40%, plastik ±19,5% (SIPSN 2024). Rumah tangga 46–57% timbulan.</p><dl><dt>Memutuskan</dt><dd>Rumah tangga, dalam pilihan yang disediakan pasar dan layanan</dd><dt>Menanggung</dt><dd>Rumah tangga (retribusi, kewajiban pilah)</dd></dl></div>
+      <div class="stage down"><span class="sn">TAHAP 3</span><h4>Pengumpulan</h4><p class="d">Anggaran persampahan rata-rata 0,53% APBD. Pembakaran terbuka ±14% polusi udara Jakarta.</p><dl><dt>Memutuskan</dt><dd>Pemda (DLH)</dd><dt>Menanggung</dt><dd>Warga tanpa layanan</dd></dl></div>
+      <div class="stage down"><span class="sn">TAHAP 4</span><h4>Daur ulang</h4><p class="d">±10% plastik didaur ulang. 3,3–5 juta pemulung tanpa status hukum.</p><dl><dt>Memutuskan</dt><dd>Pasar skrap, industri daur ulang</dd><dt>Menanggung</dt><dd>Pemulung</dd></dl></div>
+      <div class="stage down"><span class="sn">TAHAP 5</span><h4>TPA</h4><p class="d">Longsor Bantargebang 8 Mar 2026: 7 tewas. 15–23 TPA terbakar sepanjang 2026.</p><dl><dt>Memutuskan</dt><dd>Pemda, KLH, PU</dd><dt>Menanggung</dt><dd>Warga sekitar TPA, pemulung</dd></dl></div>
+      <div class="stage down"><span class="sn">TAHAP 6</span><h4>PSEL & RDF</h4><p class="d">30 lokasi di 61 kab/kota; ±33.000 t/hari. Tarif US$0,20/kWh selama 30 tahun.</p><dl><dt>Memutuskan</dt><dd>Danantara, PLN, ESDM, KLH</dd><dt>Menanggung</dt><dd>Pembayar pajak, warga sekitar cerobong</dd></dl></div>
+      <div class="stage down"><span class="sn">TAHAP 7</span><h4>Kebocoran</h4><p class="d">0,27–1,29 juta t/thn plastik ke laut (rentang antarstudi). Target pengurangan 70% hanya tercapai 41,68%.</p><dl><dt>Memutuskan</dt><dd>Pemda (celah layanan), produsen (format)</dd><dt>Menanggung</dt><dd>Sungai, laut, nelayan</dd></dl></div>
+      <div class="stage down"><span class="sn">TAHAP 8</span><h4>Impor sampah</h4><p class="d">Toleransi kontaminan 2%; ECOTON menemukan sampai 35%. Dioksin telur Tropodo ±80× batas BPOM.</p><dl><dt>Memutuskan</dt><dd>Pabrik kertas, Kemendag, Bea Cukai</dd><dt>Menanggung</dt><dd>Warga desa pemilah</dd></dl></div>
+    </div>
+    <p class="src">Sumber: SIPSN; GPAP/NPAP; Sungai Watch via Liputan6; KLH (8 Sep 2026); Mongabay; Katadata; ANTARA; Heinrich Böll; Republika. Rincian di laporan lengkap.</p>
+  </figure>
+
+  <figure>
+    <figcaption><span class="ft">Gambar 2. Komposisi sampah memisahkan dua rantai tanggung jawab</span><span class="fs">Persentase timbulan nasional menurut jenis, SIPSN 2024 (nilai tengah rentang)</span></figcaption>
+    <div class="stack" role="img" aria-label="Sisa makanan 39,6 persen, plastik 19,5 persen, lainnya 40,9 persen">
+      <div class="a" style="width:39.6%" data-tip="Sisa makanan ±39,6% (rentang 39,4–39,9%). Pengungkit utama: layanan publik (angkut terpilah, kompos) dan penghasil komersial besar.">Sisa makanan ±39,6%</div>
+      <div class="b" style="width:19.5%" data-tip="Plastik ±19,5% (rentang 19,3–19,6%). Pengungkit utama: produsen, karena format saset multilapis tak bernilai bagi pemulung.">Plastik ±19,5%</div>
+      <div class="c" style="width:40.9%" data-tip="Lainnya ±40,9%: kertas, kayu/ranting, logam, kaca, kain, dll.">Lainnya ±40,9%</div>
+    </div>
+    <div class="defs">
+      <div><b>Organik → negara</b><span>Metana, kebakaran, dan longsor TPA dikendalikan lewat layanan publik: angkut terpilah, rumah kompos, larangan organik ke TPA <i>setelah</i> fasilitas ada.</span></div>
+      <div><b>Plastik → produsen</b><span>Rumah tangga tidak bisa "memilah" saset multilapis menjadi barang yang bisa didaur ulang. Keputusan ada di desain produk.</span></div>
+      <div><b>Warga → pelengkap</b><span>Kerangka push–pull–enabler TLH WALHI 2026: regulasi dulu, lalu infrastruktur, baru norma warga.</span></div>
+    </div>
+    <p class="src">Sumber: SIPSN 2024 via GoodStats dan ANTARA; WALHI, Tinjauan Lingkungan Hidup 2026, hlm. 122–123.</p>
+  </figure>
+</section>
+
+<section id="kebijakan">
+  <div class="prose">
+    <div class="secnum">02 · KEBIJAKAN & PENEGAKAN</div>
+    <h2>Target meleset, angka "terkelola" berayun, produsen tak tersentuh</h2>
+    <p>Semua target nasional 2025 meleset. Angka "terkelola" turun dari 39% ke 25% bukan karena kinerja memburuk, tetapi karena sampah yang masuk TPA <i>open dumping</i> tidak lagi dihitung terkelola. Definisi "terkelola" sendiri harus menjadi sasaran advokasi.</p>
+  </div>
+
+  <figure>
+    <figcaption><span class="ft">Gambar 3. Target 2025 dan capaiannya</span><span class="fs">Persen; garis hitam = target</span></figcaption>
+    <div class="keyrow"><span><i class="sw" style="background:var(--hilir)"></i>Capaian</span><span><i class="keytick"></i>Target 2025</span></div>
+    <div class="rows">
+      <div class="row"><div class="lab">Pengurangan sampah<small>Jakstranas, Perpres 97/2017</small></div>
+        <div class="track" data-tip="Target 30% · capaian 19,7% (April 2025)"><div class="fill" style="width:19.7%"></div><div class="tick" style="left:30%"></div><span class="val" style="left:calc(19.7% + 6px)">19,7%</span></div></div>
+      <div class="row"><div class="lab">Penanganan sampah<small>Jakstranas, Perpres 97/2017</small></div>
+        <div class="track" data-tip="Target 70% · capaian 50,1% (April 2025)"><div class="fill" style="width:50.1%"></div><div class="tick" style="left:70%"></div><span class="val" style="left:calc(50.1% + 6px)">50,1%</span></div></div>
+      <div class="row"><div class="lab">Pengurangan sampah laut<small>Perpres 83/2018</small></div>
+        <div class="track" data-tip="Target 70% · capaian 41,68%"><div class="fill" style="width:41.68%"></div><div class="tick" style="left:70%"></div><span class="val" style="left:calc(41.68% + 6px)">41,68%</span></div></div>
+    </div>
+    <div class="axis"><span class="sp"></span><div class="sc"><span style="left:0">0</span><span style="left:25%">25</span><span style="left:50%">50</span><span style="left:75%">75</span><span style="left:100%">100%</span></div></div>
+    <p class="src">Sumber: Waste4Change (data April 2025); Kompas Lestari (2 Okt 2025).</p>
+  </figure>
+
+  <figure class="chart">
+    <figcaption><span class="ft">Gambar 4. Persentase sampah "terkelola" menurut pemerintah, 2025–2026</span><span class="fs">Angka bergerak karena definisi dan verifikasi, bukan karena kinerja</span></figcaption>
+    <svg viewBox="0 0 640 250" role="img" aria-label="Terkelola: Maret 2025 39,01 persen; Juni 2025 9 sampai 10 persen; Januari 2026 24,95 persen; September 2026 sekitar 25 persen; target 2029 100 persen">
+      <g>
+        <line class="grid" x1="56" x2="610" y1="210" y2="210"/><text x="46" y="214" text-anchor="end">0%</text>
+        <line class="grid" x1="56" x2="610" y1="146" y2="146"/><text x="46" y="150" text-anchor="end">20%</text>
+        <line class="grid" x1="56" x2="610" y1="82" y2="82"/><text x="46" y="86" text-anchor="end">40%</text>
+        <line class="grid" x1="56" x2="610" y1="18" y2="18"/><text x="46" y="22" text-anchor="end">60%</text>
+      </g>
+      <polyline class="ln" points="80,85.2 172,179.6 387,130.2 600,130"/>
+      <g data-tip="Maret 2025: 39,01% (SIPSN, sebelum verifikasi)"><circle class="pt" cx="80" cy="85.2" r="6"/><text class="lbl" x="80" y="70" text-anchor="middle">39,01%</text></g>
+      <g data-tip="Juni 2025: 9–10% menurut Menteri LH setelah verifikasi sepuluh TPA"><circle class="pt" cx="172" cy="179.6" r="6"/><text class="lbl" x="172" y="200" text-anchor="middle">9–10%</text></g>
+      <g data-tip="Januari 2026: 24,95% setelah evaluasi 472 kab/kota"><circle class="pt" cx="387" cy="130.2" r="6"/><text class="lbl" x="387" y="115" text-anchor="middle">24,95%</text></g>
+      <g data-tip="September 2026: ±25% (KLH)"><circle class="pt" cx="600" cy="130" r="6"/><text class="lbl" x="600" y="115" text-anchor="end">±25%</text></g>
+      <text x="80" y="236" text-anchor="middle">Mar 2025</text><text x="172" y="236" text-anchor="middle">Jun 2025</text><text x="387" y="236" text-anchor="middle">Jan 2026</text><text x="600" y="236" text-anchor="end">Sep 2026</text>
+      <text x="610" y="12" text-anchor="end" class="tgtl">Target RPJMN 2029: 100% (di luar skala)</text>
+    </svg>
+    <p class="src">Sumber: Liputan6 (Jun 2025); Antara Jogja (Jan 2026); KLH (8 Sep 2026). Jarak sumbu-x sebanding dengan waktu.</p>
+  </figure>
+
+  <figure>
+    <figcaption><span class="ft">Gambar 5. Corong kepatuhan produsen terhadap Permen LHK P.75/2019</span><span class="fs">Jumlah produsen per Oktober 2026; panjang batang sebanding dengan jumlah</span></figcaption>
+    <div class="funnel">
+      <div class="fstep"><b>842</b><div class="fbar dim" style="width:100%" data-tip="842 produsen dibina KLH">dibina</div></div>
+      <div class="fstep"><b>386</b><div class="fbar dim" style="width:45.8%" data-tip="386 produsen terdaftar (45,8% dari yang dibina)">terdaftar</div></div>
+      <div class="fstep"><b>79</b><div class="fbar dim" style="width:9.4%" data-tip="79 menyerahkan peta jalan (9,4%)"></div></div>
+      <div class="fstep last"><b>28</b><div class="fbar" style="width:3.3%" data-tip="28 melaksanakan dan melapor (3,3%)"></div></div>
+    </div>
+    <p class="note">79 menyerahkan peta jalan · <b style="color:var(--hilir)">28 melaksanakan dan melapor</b>. Pengurangan yang dilaporkan ±242 ribu ton (2025), atau sekitar <b>0,46%</b> dari timbulan nasional versi KLH <span class="tag">hitungan penulis</span>. EPR penuh baru direncanakan berlaku 2028.</p>
+    <p class="src">Sumber: Ecobiz Asia (Okt 2026); KLH (8 Sep 2026).</p>
+  </figure>
+
+  <figure>
+    <figcaption><span class="ft">Gambar 6. Asimetri penegakan: negara menghukum dirinya sendiri</span><span class="fs">Tindakan penegakan UU 18/2008, 2025–2026</span></figcaption>
+    <div class="asym">
+      <div class="pemda"><h4>Terhadap pemda pengelola TPA</h4>
+        <ul>
+          <li><b>343</b><span>TPA diidentifikasi <i>open dumping</i> (kuartal I 2025)</span></li>
+          <li><b>306</b><span>kepala daerah diperingatkan, dengan ancaman potongan DAK</span></li>
+          <li><b>44</b><span>TPA masuk penyelidikan pidana</span></li>
+          <li><b>1</b><span>mantan Kadis LH Bali tersangka (TPA Suwung, 16 Mar 2026)</span></li>
+        </ul>
+        <p class="note">Jumlah sanksi administratif berbeda antarsumber: 273, 314, atau 485 <span class="tag">konflik data</span></p>
+      </div>
+      <div class="prod"><h4>Terhadap produsen kemasan</h4>
+        <div class="zero">0</div>
+        <p class="note">Tidak ditemukan satu pun tindakan berdasarkan UU 18/2008 Pasal 15 atau P.75/2019. P.75 tidak bersanksi, cukai plastik ditunda tiap tahun, dan janji menteri 2025 untuk "menuntut tanggung jawab brand" tidak disertai mekanisme.</p>
+      </div>
+    </div>
+    <p class="src">Sumber: Republika ESGNow; ANTARA; Kompas (25 Feb 2026); Mongabay (14 Apr 2026); Liputan6; Kompas Lestari (Agt 2024).</p>
+  </figure>
+</section>
+
+<section id="psel">
+  <div class="prose">
+    <div class="secnum">03 · PSEL</div>
+    <h2>Pembakaran yang dijamin negara selama 30 tahun</h2>
+    <p>Perpres 109/2025 memindahkan logika pengelolaan sampah ke logika proyek energi. PLN wajib membeli listrik US$0,20/kWh selama 30 tahun tanpa eskalasi. Pemda wajib menjamin pasokan minimal 1.000 ton/hari dan meminjamkan lahan gratis. Persetujuan lingkungan dianggap disetujui otomatis setelah dua bulan.</p>
+  </div>
+  <figure>
+    <figcaption><span class="ft">Gambar 7. Dua skenario fiskal PSEL, dan keduanya merugikan publik</span><span class="fs">Cara menyajikan argumen fiskal tanpa bisa dituduh memilih asumsi</span></figcaption>
+    <div class="scen">
+      <div class="scard"><span class="eyebrow">Faktor kapasitas rendah · 18%</span><div class="big">±30 tahun</div><p>Masa balik modal PSEL 20 MW. Pendapatan hanya ±Rp101 miliar/tahun dari investasi ±Rp3 triliun. Proyek bergantung pada subsidi, jaminan pemerintah, atau penugasan khusus.</p><span class="tag">WALHI, TLH 2026, hlm. 120</span></div>
+      <div class="scard"><span class="eyebrow">Faktor kapasitas tinggi · 80%</span><div class="big">Rp13,6 T</div><p>Beban selisih harga ke PLN untuk satu PSEL 36 MW selama 30 tahun (±Rp454 miliar/tahun). Tarif ±Rp3.300/kWh dibanding biaya pokok ±Rp1.500/kWh. Sekitar 4,5× investasi fisiknya.</p><span class="tag">rilis WALHI 28 Sep 2026 · angka advokasi</span></div>
+    </div>
+    <p class="verdictbar">Jika operasinya buruk, proyek gagal dan butuh subsidi. Jika operasinya bagus, PLN dan APBN menanggung selisih harga. Untuk menjaga operasi tetap tinggi, pasokan sampah harus terus besar, sehingga kebijakan terkunci pada produksi sampah.</p>
+    <p class="src">Sumber: Justisio; ANTARA (Apr 2026); WALHI TLH 2026; siaran pers WALHI 28 Sep 2026 (dokumen asli).</p>
+  </figure>
+</section>
+
+<section id="celah">
+  <div class="prose">
+    <div class="secnum">04 · MATRIKS CELAH</div>
+    <h2>Delapan belas bidang masalah, tidak satu pun memadai</h2>
+    <p>Setiap bidang dinilai dengan empat status. <b>Kosong</b>: tidak ada norma yang mengikat. <b>Lemah</b>: ada norma tetapi tanpa sanksi atau penegakan. <b>Bermasalah</b>: regulasi ada tetapi longgar, saling bertentangan, atau memberi insentif keliru. Tidak ada yang berstatus <b>Cukup</b>. Penilaian ini analitis, bukan kajian hukum formal.</p>
+  </div>
+  <figure>
+    <figcaption><span class="ft">Gambar 8. Status regulasi per bidang masalah, November 2026</span><span class="fs">Diurutkan dari hulu ke hilir</span></figcaption>
+    <div class="mcount"><span class="chip k">KOSONG</span><span class="chip l">LEMAH</span><span class="chip m">BERMASALAH</span><span class="note">Bidang dengan dua status diberi label status terberat untuk instrumen utamanya.</span></div>
+    <div class="matrix">
+      <div class="mrow"><span class="area">Saset & multilapis</span><span class="chip k">KOSONG</span><span class="gap">Tidak ada larangan atau <i>phase-out</i> mengikat. Batang tubuh P.75 tidak menyebut saset.</span></div>
+      <div class="mrow"><span class="area">Kandungan daur ulang & desain</span><span class="chip k">KOSONG</span><span class="gap">Kriteria yang dimandatkan P.75 Ps.18 sejak 2019 tidak pernah ditetapkan.</span></div>
+      <div class="mrow"><span class="area">Sistem deposit kemasan</span><span class="chip k">KOSONG</span><span class="gap">Tidak ada; rancangan EPR tidak disebut memuatnya.</span></div>
+      <div class="mrow"><span class="area">Klaim "biodegradable"/oxo</span><span class="chip k">KOSONG</span><span class="gap">Hanya ekolabel sukarela; tidak ada aturan klaim hijau.</span></div>
+      <div class="mrow"><span class="area">B3 rumah tangga, e-waste, tekstil, popok</span><span class="chip k">KOSONG</span><span class="gap">Peta jalan menteri amanat PP 27/2020 tak terbit enam tahun kemudian.</span></div>
+      <div class="mrow"><span class="area">Sisa pangan (FLW)</span><span class="chip k">KOSONG</span><span class="gap">Perpres susut dan sisa pangan mandek sejak 2024.</span></div>
+      <div class="mrow"><span class="area">Organik ke TPA</span><span class="chip l">LEMAH</span><span class="gap">Larangan berjalan lewat sanksi ke pemda, diteruskan ke warga, tanpa fasilitas pengganti.</span></div>
+      <div class="mrow"><span class="area">Pemulung</span><span class="chip k">KOSONG</span><span class="gap">Tanpa status hukum; tidak masuk desain PRO maupun PSEL.</span></div>
+      <div class="mrow"><span class="area">Pembakaran terbuka</span><span class="chip l">LEMAH</span><span class="gap">Larangan tanpa layanan pengganti.</span></div>
+      <div class="mrow"><span class="area">Data & transparansi</span><span class="chip l">LEMAH</span><span class="gap">SIPSN wajib tanpa sanksi; peta jalan produsen tidak wajib dibuka.</span></div>
+      <div class="mrow"><span class="area">Pembiayaan</span><span class="chip m">BERMASALAH</span><span class="gap">0,53% APBD vs anjuran 3%; membakar jadi lebih murah bagi pemda daripada mengurangi.</span></div>
+      <div class="mrow"><span class="area">Emisi insinerator & izin kilat</span><span class="chip m">BERMASALAH</span><span class="gap">CEMS tidak mencakup dioksin/furan; Amdal otomatis setelah 2 bulan.</span></div>
+      <div class="mrow"><span class="area">RDF & co-firing</span><span class="chip k">KOSONG</span><span class="gap">Tidak ada standar mutu RDF/SRF yang berlaku.</span></div>
+      <div class="mrow"><span class="area">Metana, lindi, kebakaran TPA</span><span class="chip m">BERMASALAH</span><span class="gap">Tidak ada kewajiban memantau atau menangkap metana; penegakan datang setelah bencana.</span></div>
+      <div class="mrow"><span class="area">Mikroplastik</span><span class="chip k">KOSONG</span><span class="gap">Tidak ada baku mutu air, pangan, maupun efluen.</span></div>
+      <div class="mrow"><span class="area">Sampah laut & produsen</span><span class="chip l">LEMAH</span><span class="gap">Tidak ada kewajiban produsen atas kebocoran.</span></div>
+      <div class="mrow"><span class="area">Impor sampah</span><span class="chip m">BERMASALAH</span><span class="gap">Ambang 2% tak pernah diturunkan ke 0,5% seperti dijanjikan; penegakan hanya re-ekspor.</span></div>
+      <div class="mrow"><span class="area">Kelembagaan & partisipasi</span><span class="chip m">BERMASALAH</span><span class="gap">Delapan pusat kewenangan tanpa <i>leading sector</i>; partisipasi Amdal dipersempit.</span></div>
+    </div>
+    <p class="src">Sumber: matriks celah dalam catatan riset (pasal.id, BPK, KLH, ChemLinked, Enviliance, Mongabay, dll.). Rincian dan label verifikasi di laporan lengkap.</p>
+  </figure>
+</section>
+
+<section id="kerangka">
+  <div class="prose">
+    <div class="secnum">05 · KERANGKA</div>
+    <h2>Keadilan ekologis dan Empat Tata WALHI</h2>
+    <p>Pada Hari Keadilan Ekologis, 21 September 2026, Direktur Eksekutif Nasional WALHI Boy J.E. Sembiring merumuskan keadilan ekologis sebagai keadilan "yang memastikan pengakuan dan penghormatan atas hak-hak alam, pemenuhan hak setiap orang atas lingkungan hidup yang baik dan sehat, serta terwujudnya keadilan antargenerasi."</p>
+  </div>
+  <div class="defs">
+    <div><b>Hak alam</b><span>Sungai dan laut tidak lagi menjadi tempat buangan; baku mutu mikroplastik; kewajiban produsen atas kebocoran.</span></div>
+    <div><b>Hak atas lingkungan yang baik dan sehat</b><span>Biaya kemasan dibayar pembuatnya; layanan sampah sebagai hak dasar yang dibiayai negara.</span></div>
+    <div><b>Keadilan antargenerasi</b><span>Tolak kontrak pasok 30 tahun yang mengunci produksi sampah; target metana sektor limbah.</span></div>
+  </div>
+  <figure>
+    <figcaption><span class="ft">Gambar 9. Di tata mana negara bekerja?</span><span class="fs">Empat Tata WALHI dipakai sebagai peta hulu–hilir. Batang = penilaian kualitatif penulis atas kepadatan instrumen bersanksi, bukan ukuran kuantitatif</span></figcaption>
+    <div class="tata">
+      <div class="tcell"><h4>Tata Produksi</h4><div class="meter" data-tip="Instrumen bersanksi: hampir tidak ada"><i style="width:6%"></i></div><p>Desain kemasan, saset, ekspansi petrokimia, EPR.</p><span class="verdict">Hampir tanpa instrumen bersanksi</span></div>
+      <div class="tcell"><h4>Tata Konsumsi</h4><div class="meter" data-tip="Instrumen bersanksi: sedikit, dan jatuh ke warga"><i style="width:22%"></i></div><p>Guna ulang, isi ulang, pangan. Bergantung pada pilihan yang disediakan produsen dan negara.</p><span class="verdict">Beban ke warga lewat retribusi dan kewajiban pilah</span></div>
+      <div class="tcell"><h4>Tata Kelola</h4><div class="meter" data-tip="Instrumen bersanksi: paling padat"><i style="width:90%"></i></div><p>TPA, pengangkutan, PSEL, RDF.</p><span class="verdict">Tempat hampir semua sanksi dan proyek menumpuk</span></div>
+      <div class="tcell"><h4>Tata Kuasa</h4><div class="meter" data-tip="Menjelaskan mengapa hilir dipilih"><i style="width:0%"></i></div><p>Danantara, status PSN, PLN, delegasi traktat yang memuat wakil industri, Amdal otomatis.</p><span class="verdict">Menjelaskan mengapa hilir yang dipilih</span></div>
+    </div>
+    <p class="src">Sumber: Empat Tata disebut dalam rilis diskusi WALHI, Pekanbaru, 21 Agt 2026 (dokumen asli). Penerapannya ke isu sampah adalah analisis penulis.</p>
+  </figure>
+</section>
+
+<section id="walhi">
+  <div class="prose">
+    <div class="secnum">06 · POSISI WALHI</div>
+    <h2>Empat belas tahun, satu garis: tolak solusi palsu</h2>
+    <p>Sedikitnya 139 dokumen WALHI tentang sampah sejak 2012. Tuntutan intinya stabil: tolak pembakaran sebagai solusi palsu, jalankan mandat pengurangan UU 18/2008, wajibkan EPR, hentikan <i>open dumping</i>, buka dokumen proyek. Pembingkaiannya struktural: warga diposisikan sebagai korban dan pemegang hak.</p>
+  </div>
+  <figure>
+    <figcaption><span class="ft">Gambar 10. Empat fase advokasi sampah WALHI</span><span class="fs">Dari inventaris 139 dokumen, 2012–November 2026</span></figcaption>
+    <div class="tl">
+      <div class="ph"><span class="yr">2012–2018</span><h4>Legal-teknokratis</h4><p>Uji materi membatalkan Perpres 18/2016 (MA, 2016), lalu dinetralkan oleh Perpres 35/2018.</p></div>
+      <div class="ph"><span class="yr">2019–2021</span><h4>Impor & plastik sekali pakai</h4><p>Dioksin Tropodo; desakan cabut izin importir; gugatan warga Pekanbaru menang (262/Pdt.G/2021).</p></div>
+      <div class="ph"><span class="yr">2022–2024</span><h4>Produsen & traktat</h4><p>Audit merek menyebut Unilever, Indofood, Mayora; kritik delegasi RI di INC-5.</p></div>
+      <div class="ph now"><span class="yr">2025–2026</span><h4>PSEL sebagai PSN</h4><p>Argumen fiskal dan tata kelola: "layanan publik, bukan proyek bisnis". ±32 dokumen pada 2026 saja.</p></div>
+    </div>
+    <p class="src">Sumber: inventaris siaran pers dalam catatan riset; ±25 rilis nasional hanya terbaca lewat cuplikan karena situs WALHI menolak akses otomatis.</p>
+  </figure>
+  <div class="prose">
+    <p>Rilis 6 Agustus 2026 memuat daftar kekosongan kebijakan menurut WALHI sendiri: belum ada Perpres pembatasan plastik, belum ada Permen sampah organik, revisi P.75 dan Jakstranas berjalan tertutup. Daftar ini cocok dengan matriks celah independen di atas.</p>
+  </div>
+</section>
+
+<section id="kritik">
+  <div class="prose">
+    <div class="secnum">07 · KRITIK KONSTRUKTIF</div>
+    <h2>Ketajaman hilang saat analisis dibawa ke meja menteri</h2>
+    <p>Analisis terkuat WALHI ada di <i>Tinjauan Lingkungan Hidup 2026</i>, tuntutan terkerasnya di siaran pers. Brief "Kompas Memuliakan Keadilan Ekologis" untuk menteri justru paling lunak dan paling miskin data. Ini masalah penerjemahan dan konsistensi, dan bisa diperbaiki.</p>
+  </div>
+  <div class="crit">
+    <div class="citem"><span class="n">ANGKA</span><h4>67,8 juta ton tanpa sumber</h4><p>TLH memakai SIPSN 56,63 juta ton (2023). Angka resmi KLH (25% terkelola, 70% TPA <i>open dumping</i>) sudah cukup memberatkan, dan lebih kuat karena dari pemerintah sendiri.</p></div>
+    <div class="citem"><span class="n">DATA LAPANGAN</span><h4>Grafik survei internal tanpa satuan</h4><p>Data lapangan WALHI adalah aset langka. Tanpa satuan, periode, dan metode, nilai pembuktiannya hilang.</p></div>
+    <div class="citem"><span class="n">EPR</span><h4>Tuntutan lebih kabur dari draf pemerintah</h4><p>Draf KLH sudah memuat iuran PRO, sanksi, dan pengumuman publik. Kompas hanya meminta produsen "mengalokasi sejumlah uang".</p></div>
+    <div class="citem"><span class="n">PSEL</span><h4>Dari "hentikan" menjadi "evaluasi"</h4><p>Perbedaan register yang tidak dijelaskan bisa dibaca sebagai sinyal bahwa tuntutan bisa ditawar.</p></div>
+    <div class="citem"><span class="n">ISU ABSEN</span><h4>Pemulung, impor, saset hilang dari brief</h4><p>Padahal sudah digarap di TLH dan rilis Putri Cempo. Ini argumen terkuat di dimensi keadilan.</p></div>
+    <div class="citem"><span class="n">ASUMSI</span><h4>Faktor kapasitas 18% vs 80%</h4><p>Masing-masing sah, tetapi tanpa penjelasan mudah dituduh <i>cherry-picking</i>. Sajikan sebagai dua skenario (Gambar 7).</p></div>
+  </div>
+</section>
+
+<section id="kontra">
+  <div class="prose">
+    <div class="secnum">08 · KONTRA-ARGUMEN</div>
+    <h2>Keberatan terkuat dan jawaban yang tahan uji</h2>
+  </div>
+  <div class="tblwrap">
+    <table>
+      <thead><tr><th>Keberatan</th><th>Yang benar di dalamnya</th><th>Jawaban</th></tr></thead>
+      <tbody>
+        <tr><td><b>"40% sampah adalah sisa makanan rumah tangga; korporasi tak bisa disalahkan."</b></td><td>Benar secara tonase.</td><td>Untuk organik, pengemban utamanya negara sebagai penyedia layanan, lalu penghasil komersial besar. Untuk plastik, warga tidak bisa memilah saset menjadi barang daur ulang; keputusan ada di produsen.</td></tr>
+        <tr><td><b>"Audit merek tidak representatif."</b></td><td>Audit adalah bukti atribusi, bukan neraca massa.</td><td>Balik beban pembuktian: buka data penjualan kemasan per format sebagai bagian EPR. Pencemar teratas didominasi konglomerat domestik.</td></tr>
+        <tr><td><b>"Saset membuat produk terjangkau."</b></td><td>Saset melayani daya beli rendah.</td><td>Biaya eksternalnya jatuh ke kelompok miskin yang sama. Jawabannya iuran EPR termodulasi, <i>phase-out</i> bertahap, dan sistem isi ulang di ritel.</td></tr>
+        <tr><td><b>"Larangan plastik mengancam pemulung."</b></td><td>Pemulung bergantung pada PET dan HDPE.</td><td>Pembatasan menyasar fraksi tak bernilai. Ancaman terbesar justru PSEL/RDF yang memperebutkan fraksi berkalori tinggi.</td></tr>
+        <tr><td><b>"Insinerator modern aman."</b></td><td>Bisa, dalam rezim pengawasan ketat.</td><td>Rezim Indonesia tidak ketat: CEMS tanpa dioksin, uji dioksin disebut lima tahunan. Wajibkan pemantauan dioksin kontinu dan data publik sebelum operasi.</td></tr>
+        <tr><td><b>"Krisisnya darurat; pengurangan terlalu lambat."</b></td><td>Argumen terkuat: longsor dan kebakaran nyata.</td><td>PSEL bukan jawaban cepat (proyek Perpres 35/2018 hampir tak ada yang beroperasi). Yang tercepat: pisahkan organik dan tutup sel TPA secara sanitary.</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section id="advokasi">
+  <div class="prose">
+    <div class="secnum">09 · PINTU MASUK</div>
+    <h2>Prioritas advokasi menurut jendela waktu</h2>
+  </div>
+  <div class="tblwrap">
+    <table>
+      <thead><tr><th>Prioritas</th><th>Sasaran</th><th>Jendela</th><th>Tuntutan inti</th></tr></thead>
+      <tbody>
+        <tr><td class="pri">1</td><td><b>Permen pengganti P.75</b> (EPR)</td><td>Sekarang–Mei 2027</td><td>Target pengurangan dan guna ulang; iuran PRO termodulasi, tertinggi untuk saset; <i>phase-out</i> saset bertanggal; peta jalan per merek wajib dibuka; sanksi sampai pencabutan izin edar; kursi CSO dan pemulung di PRO; proses revisi dibuka.</td></tr>
+        <tr><td class="pri">1</td><td><b>Perpres Jakstranas baru</b></td><td>2026–2027</td><td>Pisahkan indikator pengurangan dari penanganan; pembakaran tidak dihitung pengurangan; larangan organik hanya setelah fasilitas tersedia.</td></tr>
+        <tr><td class="pri">1</td><td><b>PSEL</b> (Perpres 109/2025)</td><td>Berjalan</td><td>Permohonan informasi serentak (model Benowo); uji materi Ps.18 dan jaminan pasok; revisi P.70 (CEMS dioksin, data waktu nyata); audit BPK atas kompensasi PLN.</td></tr>
+        <tr><td class="pri">2</td><td><b>Pemulung</b></td><td>Bersama Permen EPR</td><td>Pengakuan hukum; akses material sebelum pembakaran; transisi adil saat TPA ditutup; perlindungan sosial berbasis regulasi.</td></tr>
+        <tr><td class="pri">2</td><td><b>Organik & metana</b></td><td>Perpres FLW mandek</td><td>Permen pengurangan dan pengolahan organik; kewajiban pencegahan sisa pangan bagi ritel, hotel, restoran; pemantauan metana per TPA.</td></tr>
+        <tr><td class="pri">2</td><td><b>Pembiayaan</b></td><td>Siklus APBD 2027</td><td>Porsi minimum APBD; alihkan kompensasi PLN ke TPS3R dan kompos; cukai plastik sebagai pengendali.</td></tr>
+        <tr><td class="pri">3</td><td><b>Impor, petrokimia, klaim hijau</b></td><td>Jangka menengah</td><td>Ambang impor 0,5%; dukung pembatasan produksi di traktat plastik; aturan klaim hijau dan larangan oxo.</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <blockquote>"Indonesia tidak kekurangan tempat membuang atau membakar sampah. Indonesia kekurangan kemauan politik untuk menagih tanggung jawab mereka yang memproduksinya. Negara memidana pejabat daerah dan menjamin pasokan sampah ke pembakaran selama 30 tahun, sementara 814 dari 842 produsen yang dibina bahkan tidak melaporkan pelaksanaan peta jalan pengurangannya."</blockquote>
+  <p class="note">Usulan narasi inti dari laporan. Setiap klausanya bisa dipertahankan dengan data resmi pemerintah. Angka 814 = 842 − 28 <span class="tag">hitungan penulis</span></p>
+</section>
+
+<footer>
+  <span>Disarikan dari laporan riset "Hulu Dibiarkan, Hilir Dibakar: Membedah Kebijakan Sampah Indonesia" (6 November 2026). Laporan lengkap memuat semua tautan sumber dan label verifikasi: <i>sekunder</i>, <i>cuplikan</i>, <i>konflik data</i>, <i>angka advokasi</i>, <i>inferensi</i>.</span>
+  <span>Dokumen primer WALHI yang dibaca langsung: Tinjauan Lingkungan Hidup 2026; brief "Kompas Memuliakan Keadilan Ekologis & Pulihkan Indonesia!" (2026); siaran pers Agustus–Oktober 2026.</span>
+</footer>
+</div>
+<div id="tip" hidden></div>
+<script>
+(function(){
+  var tip=document.getElementById('tip');
+  function show(e){var t=e.currentTarget.getAttribute('data-tip');if(!t)return;tip.textContent=t;tip.hidden=false;move(e)}
+  function move(e){var x=e.clientX+14,y=e.clientY+14;var w=tip.offsetWidth,h=tip.offsetHeight;
+    if(x+w>window.innerWidth-8)x=e.clientX-w-14; if(y+h>window.innerHeight-8)y=e.clientY-h-14;
+    tip.style.left=x+'px';tip.style.top=y+'px'}
+  function hide(){tip.hidden=true}
+  document.querySelectorAll('[data-tip]').forEach(function(el){
+    el.addEventListener('pointerenter',show);el.addEventListener('pointermove',move);el.addEventListener('pointerleave',hide);
+  });
+})();
+</script>
