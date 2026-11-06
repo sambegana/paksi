@@ -1,0 +1,410 @@
+<title>Data Karhutla Sumatera</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: laporan kerja dua kolom (daftar isi lengket + isi), satu kolom di ponsel. Palet: lumpur pesisir, mangrove, air pasang. */
+:root{
+  --bg:#f6f7f4; --surface:#ffffff; --ink:#1c2422; --muted:#5a6662; --line:#d9dfdb;
+  --mangrove:#1e6b55; --mangrove-soft:#e3efe9; --tide:#245c86; --tide-soft:#e4edf5;
+  --silt:#9a6a1f; --silt-soft:#f5ecdc; --risk:#a63a2b; --risk-soft:#f7e6e2;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121816; --surface:#1a2220; --ink:#e4ebe8; --muted:#9aa8a3; --line:#2e3a37;
+  --mangrove:#6cc4a6; --mangrove-soft:#1d3a31; --tide:#7fb4dd; --tide-soft:#1b2d3c;
+  --silt:#d9a85a; --silt-soft:#3a2f1d; --risk:#ec8f80; --risk-soft:#3d221e; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--tide);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--tide);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:13.5px}
+nav.toc p{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:t}
+nav.toc li{counter-increment:t}
+nav.toc a{color:var(--muted);text-decoration:none;display:flex;gap:8px}
+nav.toc a::before{content:counter(t,decimal-leading-zero);font-family:var(--mono);font-size:11px;padding-top:2px;color:var(--line)}
+nav.toc a:hover{color:var(--ink)}
+main{min-width:0}
+header.top{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:8px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--mangrove)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,4.6vw,46px);line-height:1.08;margin:10px 0 14px;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(23px,2.8vw,30px);line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--body);font-weight:600;font-size:16.5px;margin:26px 0 8px}
+h4{font-family:var(--mono);font-weight:500;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px}
+p{margin:0 0 12px;max-width:72ch}
+.lede{font-size:17.5px;color:var(--muted);max-width:68ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12.5px;color:var(--muted);margin-top:16px}
+section{padding-block:40px 8px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sub{color:var(--muted);margin-bottom:20px;max-width:70ch}
+ul.tight{margin:0 0 12px;padding-left:20px;max-width:74ch}
+ul.tight li{margin-bottom:6px}
+.pill{display:inline-block;font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.03em;padding:2px 8px;border-radius:3px;white-space:nowrap}
+.p-go{background:var(--mangrove-soft);color:var(--mangrove)}
+.p-warn{background:var(--silt-soft);color:var(--silt)}
+.p-risk{background:var(--risk-soft);color:var(--risk)}
+.p-info{background:var(--tide-soft);color:var(--tide)}
+
+.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--mangrove);padding:22px 24px;margin:24px 0 8px;display:grid;gap:10px}
+.verdict .big{font-family:var(--display);font-size:24px;font-weight:600;line-height:1.25}
+.countdown{display:flex;flex-wrap:wrap;gap:24px;margin-top:6px}
+.countdown div{display:grid}
+.countdown b{font-family:var(--display);font-size:34px;line-height:1;font-weight:600;font-variant-numeric:tabular-nums}
+.countdown span{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+.challenge{display:grid;gap:14px;margin-top:14px}
+.challenge article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.challenge h4{margin:0 0 4px}
+.challenge p{margin:0;font-size:14.5px}
+.challenge .you h4{color:var(--silt)}
+.challenge .me h4{color:var(--mangrove)}
+
+.tbl{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:11.5px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td small,li small{color:var(--muted)}
+.doi{font-family:var(--mono);font-size:12px;word-break:break-all}
+
+.weights{display:grid;gap:8px;margin:14px 0 18px;max-width:640px}
+.wrow{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr) 44px;gap:12px;align-items:center;font-size:14px}
+.bar{height:12px;background:var(--line);position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--mangrove)}
+.wrow .num{font-family:var(--mono);text-align:right}
+
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:12px 0}
+.card{background:var(--surface);border:1px solid var(--line);padding:16px 18px;min-width:0}
+.card h4{margin-top:0}
+.swot .card{border-top:3px solid var(--line)}
+.swot .s{border-top-color:var(--mangrove)}.swot .w{border-top-color:var(--silt)}
+.swot .o{border-top-color:var(--tide)}.swot .t{border-top-color:var(--risk)}
+.swot .s h4{color:var(--mangrove)}.swot .w h4{color:var(--silt)}.swot .o h4{color:var(--tide)}.swot .t h4{color:var(--risk)}
+.swot ul{margin:0;padding-left:18px;font-size:14.2px}
+.swot li{margin-bottom:6px}
+
+.score{display:inline-flex;gap:3px;vertical-align:middle}
+.score i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.score i.on{background:var(--mangrove)}
+
+.toc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+.toc-flow .step{background:var(--surface);border:1px solid var(--line);padding:12px 14px;font-size:13.8px;min-width:0}
+.toc-flow .step b{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:500}
+.toc-flow .imp{grid-column:1/-1;background:var(--mangrove-soft);border-color:transparent}
+.outputs{display:grid;gap:12px;margin:12px 0}
+.outputs .card h4{color:var(--mangrove)}
+.outputs ol{margin:6px 0 0;padding-left:20px;font-size:14.2px}
+.callout{background:var(--silt-soft);padding:14px 18px;margin:14px 0;max-width:78ch;font-size:14.6px}
+.callout.blue{background:var(--tide-soft)}
+.callout.red{background:var(--risk-soft)}
+.callout p:last-child{margin:0}
+footer{font-size:13px;color:var(--muted);padding-top:28px}
+ol.src{font-size:13px;padding-left:20px;display:grid;gap:4px;max-width:90ch}
+ol.src li{word-break:break-word}
+
+@media (max-width:900px){
+  .wrap{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:24px 60px}
+  nav.toc{position:static;border:1px solid var(--line);background:var(--surface);padding:14px 16px}
+  nav.toc ol{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .toc-flow{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .grid2,.challenge article{grid-template-columns:minmax(0,1fr)}
+  nav.toc ol{grid-template-columns:minmax(0,1fr)}
+  .toc-flow{grid-template-columns:minmax(0,1fr)}
+  .wrow{grid-template-columns:minmax(0,1fr) 44px}.wrow .bar{grid-column:1/-1;grid-row:2}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+<style>
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:16px 0}
+.kpi{background:var(--surface);border:1px solid var(--line);padding:14px 16px;min-width:0}
+.kpi b{display:block;font-family:var(--display);font-size:28px;font-weight:600;line-height:1.1;font-variant-numeric:tabular-nums}
+.kpi span{display:block;font-size:13px;color:var(--muted);margin-top:4px}
+.kpi small{display:block;font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:6px}
+.tag{font-family:var(--mono);font-size:10.5px;padding:1px 5px;border-radius:2px;white-space:nowrap}
+.tV{background:var(--mangrove-soft);color:var(--mangrove)}
+.tS{background:var(--tide-soft);color:var(--tide)}
+.tU{background:var(--risk-soft);color:var(--risk)}
+.draft{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--tide);padding:16px 20px;margin:12px 0;font-size:14.8px;max-width:84ch}
+.draft h4{margin-top:0}
+.draft p:last-child{margin-bottom:0}
+.fix{display:grid;gap:10px;margin:12px 0}
+.fix article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:14px;background:var(--surface);border:1px solid var(--line);padding:14px 16px}
+.fix h4{margin:0 0 4px}
+.fix p{margin:0;font-size:14.2px}
+.fix .now h4{color:var(--silt)}.fix .to h4{color:var(--mangrove)}
+@media (max-width:900px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:620px){.kpis,.fix article{grid-template-columns:minmax(0,1fr)}}
+</style>
+
+<div class="wrap">
+<nav class="toc" aria-label="Daftar isi">
+  <p>Isi</p>
+  <ol>
+    <li><a href="#kunci">Angka kunci</a></li>
+    <li><a href="#hutan">(a) Hutan, gambut, karhutla</a></li>
+    <li><a href="#penduduk">(b) Penduduk sekitar hutan</a></li>
+    <li><a href="#hayati">(c) Keanekaragaman hayati</a></li>
+    <li><a href="#paragraf">Paragraf siap pakai</a></li>
+    <li><a href="#konsep">Catatan untuk konsep note</a></li>
+    <li><a href="#celah">Data yang masih harus dicek</a></li>
+    <li><a href="#sumber">Sumber</a></li>
+  </ol>
+</nav>
+
+<main>
+<header class="top">
+  <div class="eyebrow">Global EbA Fund · Konsep note karhutla · Sumsel, Jambi, Babel, Lampung</div>
+  <h1>Data pendukung konsep note: hutan, penduduk, dan keanekaragaman hayati</h1>
+  <p class="lede">Data untuk tiga kebutuhan konsep note: (a) luas kawasan hutan, (b) penduduk di sekitar hutan, dan (c) keanekaragaman hayati yang perlu dilindungi. Ditambah data gambut, karhutla, dan perhutanan sosial yang dibutuhkan untuk kriteria EbA, serta catatan perbaikan konsep note terhadap aturan fund.</p>
+  <div class="meta"><span>6 November 2026</span><span>Tenggat submit: 16 November 2026</span></div>
+  <p style="margin-top:14px;font-size:13.5px"><span class="tag tV">V</span> angka dilihat langsung di dokumen sumber · <span class="tag tS">S</span> dari sumber sekunder atau cuplikan pencarian · <span class="tag tU">cek</span> belum terverifikasi atau sumbernya saling bertentangan</p>
+</header>
+
+<section id="kunci">
+  <h2>Angka kunci empat provinsi</h2>
+  <div class="kpis">
+    <div class="kpi"><b>7,15 juta ha</b><span>kawasan hutan (31% dari kawasan hutan Sumatera)</span><small>Kemenhut 2024 · V</small></div>
+    <div class="kpi"><b>3,72 juta ha</b><span>kawasan hutan yang <i>tidak lagi berhutan</i> (52%)</span><small>Kemenhut 2024 · V, dihitung</small></div>
+    <div class="kpi"><b>433.715 ha</b><span>terbakar pada 2019, 81% dari luas terbakar di Sumatera</span><small>KLHK · V</small></div>
+    <div class="kpi"><b>23,8 juta</b><span>penduduk, 2,03 juta di antaranya miskin (Maret 2026)</span><small>BPS · S</small></div>
+  </div>
+  <p>Satu angka paling kuat untuk narasi: <b>lebih dari separuh kawasan hutan di empat provinsi ini sudah tidak berhutan</b>. Di Lampung angkanya 66%, termasuk di hutan konservasi dan hutan lindung. Ini menegaskan masalah tata kelola dan ruang kelola rakyat, bukan sekadar soal api.</p>
+  <p>Untuk urgensi: BMKG (Juli 2026) memperkirakan <b>El Niño 2026 bisa melampaui kategori kuat dan berlanjut hingga kuartal I 2027</b>, disertai IOD positif. Tahun-tahun puncak karhutla (2015, 2019, 2023) semuanya adalah tahun El Niño atau IOD positif. <span class="tag tS">S</span></p>
+</section>
+
+<section id="hutan">
+  <h2>(a) Kawasan hutan, tutupan hutan, gambut, dan karhutla</h2>
+  <div class="callout"><p><b>Jangan tertukar.</b> <i>Kawasan hutan</i> adalah status hukum. <i>Tutupan hutan</i> adalah yang benar-benar ada di lapangan. Di konsep note, pakai keduanya dan tunjukkan selisihnya, karena selisih itulah argumennya. Catatan lain: "hutan" dalam data Kemenhut termasuk hutan tanaman (misalnya akasia HTI), bukan hanya hutan alam.</p></div>
+
+  <h3>Kawasan hutan menurut fungsi (ha, 31 Desember 2024)</h3>
+  <div class="tbl"><table>
+    <tr><th>Provinsi</th><th>Konservasi</th><th>Lindung</th><th>Produksi terbatas</th><th>Produksi</th><th>Produksi konversi</th><th>Total</th><th>% luas daratan</th></tr>
+    <tr><td>Sumatera Selatan</td><td class="num">741.681</td><td class="num">578.279</td><td class="num">213.918</td><td class="num">1.712.819</td><td class="num">160.996</td><td class="num"><b>3.407.693</b></td><td class="num">37,2</td></tr>
+    <tr><td>Jambi</td><td class="num">685.471</td><td class="num">179.588</td><td class="num">258.285</td><td class="num">963.792</td><td class="num">11.399</td><td class="num"><b>2.098.535</b></td><td class="num">41,9</td></tr>
+    <tr><td>Kep. Bangka Belitung</td><td class="num">34.500</td><td class="num">166.371</td><td class="num">–</td><td class="num">442.051</td><td class="num">693</td><td class="num"><b>643.615</b></td><td class="num">39,2</td></tr>
+    <tr><td>Lampung</td><td class="num">462.030</td><td class="num">317.615</td><td class="num">33.358</td><td class="num">191.732</td><td class="num">–</td><td class="num"><b>1.004.735</b></td><td class="num">29,0</td></tr>
+    <tr><td><b>Empat provinsi</b></td><td colspan="5"></td><td class="num"><b>7.154.578</b></td><td></td></tr>
+    <tr><td>Sumatera (10 provinsi)</td><td colspan="5"></td><td class="num">22.814.667</td><td></td></tr>
+    <tr><td>Indonesia</td><td colspan="5"></td><td class="num">120.219.979</td><td class="num">62,8</td></tr>
+  </table></div>
+  <p><small>Sumber: Statistik Kementerian Kehutanan 2024, Tabel 1.15 <span class="tag tV">V</span>. Kawasan konservasi perairan tidak dihitung (Sumsel punya tambahan 49.104 ha). Dua catatan: angka Dishut Sumsel sedikit berbeda (3.385.046 ha), dan angka Lampung masih bersumber dari SK 256/Kpts-II/2000.</small></p>
+
+  <h3>Tutupan hutan aktual (ha, 2024)</h3>
+  <div class="tbl"><table>
+    <tr><th>Provinsi</th><th>Tutupan hutan total</th><th>Hutan di dalam kawasan hutan</th><th><b>Kawasan hutan tak berhutan</b></th><th>% kawasan yang masih berhutan</th><th>Deforestasi neto 2024</th></tr>
+    <tr><td>Sumatera Selatan</td><td class="num">1.553.628</td><td class="num">1.494.173</td><td class="num"><b>1.822.918</b></td><td class="num">43,8%</td><td class="num">4.027</td></tr>
+    <tr><td>Jambi</td><td class="num">1.464.937</td><td class="num">1.320.644</td><td class="num"><b>798.797</b></td><td class="num">62,9%</td><td class="num">8.291</td></tr>
+    <tr><td>Kep. Bangka Belitung</td><td class="num">227.923</td><td class="num">173.923</td><td class="num"><b>482.275</b></td><td class="num">27,0%</td><td class="num">5.664</td></tr>
+    <tr><td>Lampung</td><td class="num">328.935</td><td class="num">313.390</td><td class="num"><b>612.177</b></td><td class="num">31,2%</td><td class="num">213</td></tr>
+    <tr><td><b>Empat provinsi</b></td><td class="num"><b>3.575.422</b></td><td></td><td class="num"><b>3.716.167</b></td><td class="num">48%</td><td></td></tr>
+  </table></div>
+  <p><small>Sumber: Statistik Kemenhut 2024, Tabel 1.1 (rekalkulasi tutupan lahan, Landsat 8) dan Tabel 1.2 <span class="tag tV">V</span>. Kolom "hutan di dalam kawasan" dan "tak berhutan" dihitung dari tabel tersebut. Pembanding: Auriga mencatat deforestasi hutan alam nasional 261.575 ha (2024) dan 433.751 ha (2025), jauh di atas angka pemerintah, karena definisinya berbeda <span class="tag tV">V</span>.</small></p>
+
+  <h3>Gambut</h3>
+  <div class="tbl"><table>
+    <tr><th>Data</th><th>Nilai</th><th>Sumber</th><th></th></tr>
+    <tr><td>Luas gambut Indonesia / Sumatera</td><td class="num">13,43 juta ha / 5,85 juta ha</td><td>Peta BBSDLP 2019 (Anda et al. 2021, <i>Geoderma</i>)</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Luas Kesatuan Hidrologis Gambut (KHG) Indonesia / Sumatera</td><td class="num">24,67 juta ha / 9,60 juta ha</td><td>SOIFO 2020 (SK.129 &amp; 130/2017)</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>KHG Sumatera Selatan</td><td class="num">2,09 juta ha (36 KHG, 24% wilayah provinsi). OKI 1,03 juta ha, Banyuasin 0,56 juta ha</td><td>ICRAF factsheet 2021</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>KHG Jambi</td><td class="num">617.562 ha</td><td>Antara Jambi. Sumber lain menyebut 716 ribu–904 ribu ha "gambut".</td><td><span class="tag tU">cek</span></td></tr>
+    <tr><td>Gambut Lampung dan Babel</td><td>Kecil. Kebakaran di sini hampir seluruhnya di tanah mineral.</td><td>Statistik Kemenhut 2024, Tabel 6.3</td><td><span class="tag tV">V</span></td></tr>
+  </table></div>
+  <p><small>KHG bukan luas gambut. KHG adalah satuan hidrologis yang ikut memuat tanah mineral, karena itu angkanya jauh lebih besar.</small></p>
+
+  <h3>Luas karhutla (ha)</h3>
+  <div class="tbl"><table>
+    <tr><th>Provinsi</th><th>2015</th><th>2019</th><th>2023</th><th>2024</th><th>2025</th><th>Gambut vs mineral (2019)</th></tr>
+    <tr><td>Sumatera Selatan</td><td class="num">646.299 <span class="tag tS">S</span></td><td class="num">336.798</td><td class="num">132.083</td><td class="num">15.422</td><td class="num">5.940</td><td>136.875 / 199.923</td></tr>
+    <tr><td>Jambi</td><td class="num">belum ditemukan</td><td class="num">56.593</td><td class="num">6.540</td><td class="num">5.637</td><td>–</td><td>24.045 / 32.549</td></tr>
+    <tr><td>Lampung</td><td class="num">belum ditemukan</td><td class="num">35.546</td><td class="num">6.507</td><td class="num">13.242</td><td>–</td><td>2.695 / 32.851</td></tr>
+    <tr><td>Kep. Bangka Belitung</td><td class="num">belum ditemukan</td><td class="num">4.778</td><td class="num">4.753</td><td class="num">2.915</td><td>–</td><td>548 / 4.231</td></tr>
+    <tr><td><b>Empat provinsi</b></td><td></td><td class="num"><b>433.715</b></td><td class="num"><b>149.882</b></td><td class="num"><b>37.217</b></td><td></td><td></td></tr>
+    <tr><td>Indonesia</td><td class="num">2.611.411</td><td class="num">1.649.258</td><td class="num">1.161.193</td><td class="num">376.805</td><td class="num">359.619</td><td></td></tr>
+  </table></div>
+  <p><small>Sumber: Statistik KLHK 2022 (2019), Statistik Kemenhut 2024 (2023–2024), siaran pers KLH (Sumsel 2025), SOIFO 2020 (nasional 2015) <span class="tag tV">V</span>. Angka Sumsel 2015 dari Mongabay. Pada 2024, Lampung kehilangan 8.025 ha di hutan konservasi, kemungkinan besar TN Way Kambas. Untuk 2026 angkanya masih berjalan dan saling bertentangan: Jambi 42.455 ha (Kompas) vs 4.327 ha (BNPB), jadi jangan dikutip dulu.</small></p>
+
+  <h3>Perhutanan sosial (ha, kumulatif sampai Desember 2024)</h3>
+  <div class="tbl"><table>
+    <tr><th>Provinsi</th><th>Hutan Desa</th><th>HKm</th><th>HTR</th><th>Hutan Adat</th><th>Kemitraan</th><th>Total</th><th>Jumlah SK</th><th>Peta indikatif (PIAPS)</th></tr>
+    <tr><td>Sumatera Selatan</td><td class="num">35.610</td><td class="num">50.681</td><td class="num">23.266</td><td class="num">380</td><td class="num">30.569</td><td class="num"><b>140.506</b></td><td class="num">226</td><td class="num">411.401</td></tr>
+    <tr><td>Jambi</td><td class="num">103.722</td><td class="num">40.141</td><td class="num">37.731</td><td class="num">32.509</td><td class="num">32.773</td><td class="num"><b>246.876</b></td><td class="num">440</td><td class="num">349.630</td></tr>
+    <tr><td>Kep. Bangka Belitung</td><td class="num">12.351</td><td class="num">27.666</td><td class="num">9.503</td><td class="num">–</td><td class="num">322</td><td class="num"><b>49.841</b></td><td class="num">388</td><td class="num">126.771</td></tr>
+    <tr><td>Lampung</td><td class="num">2.015</td><td class="num">165.578</td><td class="num">20.159</td><td class="num">–</td><td class="num">46.956</td><td class="num"><b>234.708</b></td><td class="num">446</td><td class="num">366.836</td></tr>
+    <tr><td><b>Empat provinsi</b></td><td colspan="4"></td><td></td><td class="num"><b>671.930</b></td><td class="num"><b>1.500</b></td><td class="num">1.254.638</td></tr>
+  </table></div>
+  <p><small>Sumber: Statistik Kemenhut 2024, Tabel 5.1–5.8 <span class="tag tV">V</span>. Realisasi baru sekitar 54% dari peta indikatif. Celah ini bisa dipakai sebagai argumen kepastian tenurial.</small></p>
+</section>
+
+<section id="penduduk">
+  <h2>(b) Penduduk di sekitar kawasan hutan</h2>
+  <div class="callout"><p><b>Keterbatasan penting.</b> Situs BPS memblokir akses otomatis, jadi sebagian besar angka BPS di bawah berasal dari sumber sekunder. Jumlah desa di <i>tepi atau sekitar</i> hutan per provinsi, beserta penduduknya, hanya ada di buku <i>Statistik Potensi Desa Provinsi 2024</i>. Buku ini harus diunduh manual. Lihat daftar di bagian "Data yang masih harus dicek".</p></div>
+
+  <h3>Penduduk dan kemiskinan</h3>
+  <div class="tbl"><table>
+    <tr><th>Provinsi</th><th>Penduduk</th><th>Dasar</th><th>% miskin (Mar 2026)</th><th>Penduduk miskin</th><th>Miskin di perdesaan</th></tr>
+    <tr><td>Sumatera Selatan</td><td class="num">8,94 juta</td><td>SUPAS 2025</td><td class="num">9,50</td><td class="num">869.970</td><td class="num">572.730</td></tr>
+    <tr><td>Jambi</td><td class="num">3,77 juta</td><td>Proyeksi 2025 (SP2020)</td><td class="num">6,67</td><td class="num">253.730</td><td class="num">137.570</td></tr>
+    <tr><td>Kep. Bangka Belitung</td><td class="num">1,55 juta</td><td>SUPAS 2025</td><td class="num">4,75</td><td class="num">74.610</td><td class="num">41.530</td></tr>
+    <tr><td>Lampung</td><td class="num">9,53 juta</td><td>SUPAS 2025</td><td class="num">9,31</td><td class="num">831.890</td><td class="num">603.350</td></tr>
+    <tr><td><b>Empat provinsi</b></td><td class="num"><b>±23,8 juta</b></td><td>dasar campuran</td><td></td><td class="num"><b>±2,03 juta</b></td><td class="num">±1,36 juta</td></tr>
+    <tr><td>Indonesia</td><td class="num">284,67 juta</td><td>SUPAS 2025</td><td class="num">8,07</td><td class="num">22,93 juta</td><td></td></tr>
+  </table></div>
+  <p><small>Sumber: BPS via Antara, IDN Times, Databoks, GoodStats <span class="tag tS">S</span>. Unduh BRS asli BPS sebelum submit.</small></p>
+
+  <h3>Desa di dalam dan sekitar kawasan hutan</h3>
+  <div class="tbl"><table>
+    <tr><th>Data</th><th>Nilai</th><th>Sumber</th><th></th></tr>
+    <tr><td>Desa/kelurahan <b>di dalam</b> kawasan hutan: Sumsel / Jambi / Babel / Lampung</td><td class="num">17 / 7 / 22 / 5 (total 51)</td><td>PODES 2024</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Nasional: di dalam / di tepi atau sekitar hutan</td><td class="num">3.306 / 19.347 (dari 84.276)</td><td>PODES 2024</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Desa di dalam dan sekitar hutan, nasional; rumah tangga; <b>rumah tangga miskin</b></td><td class="num">25.863 desa; 9,2 juta RT; <b>1,7 juta RT miskin</b></td><td>KLHK, Programa Penyuluhan Kehutanan 2024 (tahun data tidak disebut)</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>Rumah tangga di sekitar kawasan hutan, nasional</td><td class="num">8.643.228</td><td>BPS, Survei Kehutanan 2014</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>Desa di dalam atau berbatasan langsung dengan hutan; penduduknya</td><td class="num">34.323 desa; ±72,28 juta jiwa</td><td>Menteri Desa di DPR, September 2026 (overlay spasial)</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Desa di tepi atau sekitar hutan per provinsi</td><td>belum ditemukan</td><td>Statistik Potensi Desa Provinsi 2024</td><td><span class="tag tU">cek</span></td></tr>
+  </table></div>
+  <p><small><b>Cara membaca:</b> PODES diisi sendiri oleh aparat desa, sedangkan angka Kemenhut dan Kemendes berasal dari tumpang susun peta. Karena itu angkanya jauh berbeda. Angka 72 juta mencakup seluruh penduduk desa yang menyentuh kawasan hutan, bukan jumlah orang yang bergantung pada hutan. Jumlah desa "di dalam" hutan di Jambi (7) hampir pasti terlalu kecil untuk menggambarkan keterpaparan, karena kebanyakan desa rawan api berada di tepi hutan atau di gambut di luar kawasan.</small></p>
+
+  <h3>Desa gambut dan karhutla</h3>
+  <ul class="tight">
+    <li>Desa langganan karhutla di Sumsel: <b>174 desa</b> (TRG Sumsel, sekitar 2018) <span class="tag tS">S</span></li>
+    <li>Desa Peduli Gambut nasional: 590 (Juli 2020). Desa Mandiri Peduli Gambut dan mangrove: 1.185 (Maret 2025) <span class="tag tS">S</span>. Data per provinsi yang mutakhir belum ditemukan. Babel dan Lampung tidak termasuk tujuh provinsi prioritas BRG.</li>
+  </ul>
+
+  <h3>Masyarakat adat</h3>
+  <div class="tbl"><table>
+    <tr><th>Data</th><th>Nilai</th><th>Sumber</th><th></th></tr>
+    <tr><td>Orang Rimba (Jambi)</td><td>±6.500 jiwa (pendataan 2023)</td><td>KKI Warsi via Mongabay 2026</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Wilayah adat terdaftar di BRWA: Sumatera</td><td>433 peta, 4.252.821 ha</td><td>BRWA, Agustus 2026</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>BRWA Jambi: terdaftar / ditetapkan</td><td>75 peta, 2.226.730 ha / 53 peta, 7.674 ha</td><td>BRWA, Agustus 2026</td><td><span class="tag tU">cek</span> angka total tampak terlalu besar, kemungkinan peta tumpang tindih</td></tr>
+    <tr><td>BRWA Sumsel: terdaftar / ditetapkan</td><td>16 peta, 217.821 ha / 2 peta, 380 ha</td><td>BRWA, Agustus 2026</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>BRWA Lampung: terdaftar / ditetapkan</td><td>4 peta, 32.913 ha / 0</td><td>BRWA, Agustus 2026</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>Suku Mapur/Lom (Bangka)</td><td>Komunitas kecil. Dusun Air Abik ±150 KK.</td><td>Mongabay 2021, 2023</td><td><span class="tag tS">S</span></td></tr>
+  </table></div>
+  <p><small>Selisih antara wilayah adat yang terdaftar dan yang sudah ditetapkan sangat besar. Ini data kuat untuk argumen kesenjangan keadilan dan tenurial.</small></p>
+
+  <h3>Dampak kabut asap terhadap kesehatan</h3>
+  <div class="tbl"><table>
+    <tr><th>Kejadian</th><th>Nilai</th><th>Sumber</th><th></th></tr>
+    <tr><td>2015, kasus ISPA selama masa kabut asap: Jambi / Sumsel</td><td class="num">151.839 / 115.484 (sampai ±7 Nov 2015)</td><td>BNPB via Jakarta Post</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>2026, Jambi</td><td>26.957 pasien ISPA (Sep). PM2,5 484 µg/m³ di Kota Jambi (9 Okt).</td><td>Mongabay, 15 Okt 2026</td><td><span class="tag tS">S</span></td></tr>
+  </table></div>
+  <p><small>Angka ISPA adalah seluruh kasus yang tercatat, bukan kasus tambahan akibat asap. Sumsel mencatat 331 ribu kasus pada Januari–Agustus 2025, tahun tanpa kabut asap besar. Tulis sebagai "kasus ISPA tercatat selama periode kabut asap".</small></p>
+</section>
+
+<section id="hayati">
+  <h2>(c) Keanekaragaman hayati yang perlu dilindungi</h2>
+  <h3>Kawasan lindung kunci</h3>
+  <div class="tbl"><table>
+    <tr><th>Kawasan</th><th>Provinsi</th><th>Fakta penting</th><th></th></tr>
+    <tr><td><b>TN Berbak-Sembilang</b></td><td>Jambi, Sumsel</td><td>Dua situs Ramsar: Berbak (situs Ramsar pertama Indonesia) dan Sembilang. Hamparan mangrove Sembilang 77.500 ha disebut "the largest mangrove area of the Indo-Malayan region", dengan peralihan utuh ke rawa gambut. Luas taman nasional berbeda antar-sumber.</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>TN Kerinci Seblat</td><td>Jambi dan 3 provinsi lain</td><td>±1,38 juta ha. Bagian dari Warisan Hutan Hujan Tropis Sumatra (UNESCO), <b>masuk daftar Warisan Dunia dalam Bahaya sejak 2011 dan dipertahankan di daftar itu pada 2025 dan 2026</b>. Harimau: 150–180 individu (2024).</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>TN Bukit Tigapuluh</td><td>Jambi, Riau</td><td>Lokasi reintroduksi orangutan Sumatera: 205 individu dilepasliarkan sejak 2003, 25 kelahiran tercatat.</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>TN Bukit Duabelas</td><td>Jambi</td><td>Ruang hidup Orang Rimba. 54.780 ha (SK 2014). Ekosistem sekitarnya menyusut dari 130.308 ha (1989) menjadi 48.796 ha (2021).</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Hutan Harapan</td><td>Jambi, Sumsel</td><td>Konsesi restorasi ekosistem 98.555 ha. Tercatat 307 jenis burung dan 64 jenis mamalia.</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>TN Way Kambas</td><td>Lampung</td><td>±125.621 ha. Suaka Badak Sumatera. Kebakaran berulang. Pada 2026, sekitar 21 kejadian dan ±7.000 ha terbakar (Januari–Oktober).</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>TN Bukit Barisan Selatan</td><td>Lampung, Bengkulu</td><td>±356.800 ha. Bagian dari Warisan Hutan Hujan Tropis Sumatra.</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>TN Gunung Maras</td><td>Bangka</td><td>16.807 ha, satu-satunya taman nasional di Bangka. Babel kehilangan 36% hutan tua dalam 2002–2024.</td><td><span class="tag tS">S</span> / <span class="tag tV">V</span></td></tr>
+  </table></div>
+
+  <h3>Spesies terancam</h3>
+  <div class="tbl"><table>
+    <tr><th>Spesies</th><th>Status IUCN</th><th>Fakta penting</th><th></th></tr>
+    <tr><td>Gajah Sumatera</td><td>CR</td><td><b>1.320–1.635 individu di 21 kantong</b> (rencana aksi Kemenhut 2026–2036). Turun 41–45% dari perkiraan 2007. Hanya 23% hidup di kawasan lindung.</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>Badak Sumatera</td><td>CR</td><td><b>34–47 individu di alam</b> (IUCN SSC/IRF 2025). Suaka di Way Kambas sudah melahirkan 5 anak.</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>Harimau Sumatera</td><td>CR</td><td>Perkiraan seluruh pulau sangat lebar (173–883). Data lokal: Kerinci Seblat 150–180, Berbak-Sembilang ±32. Kebakaran 2019 memicu sedikitnya 5 konflik manusia–harimau di Berbak-Sembilang.</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>Orangutan Sumatera (reintroduksi)</td><td>CR</td><td>Populasi Bukit Tigapuluh, di luar sebaran alaminya</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Itik serati (white-winged duck)</td><td><b>CR</b> (naik dari EN, 2024)</td><td>Penghuni Berbak. Turun 70–90% selama 1997–2023.</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Bangau storm (Storm's stork)</td><td>EN</td><td>Tercatat di Berbak. Populasi global 260–330 individu.</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Senggiring/buaya sinyulong (<i>Tomistoma</i>)</td><td><span class="tag tU">VU atau EN</span></td><td>Berbak adalah satu-satunya kawasan lindung di timur Sumatera dengan perkembangbiakan yang diketahui</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Tapir, beruang madu</td><td>EN, VU</td><td>Ada di Berbak-Sembilang dan Hutan Harapan</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>Burung pantai migran</td><td>beragam</td><td>Sembilang: 30 jenis burung pantai, persinggahan Jalur Terbang Asia Timur–Australasia</td><td><span class="tag tV">V</span></td></tr>
+    <tr><td>Kukang Bangka</td><td>CR</td><td>Endemik Bangka. Belum ada perkiraan populasi liar.</td><td><span class="tag tS">S</span></td></tr>
+    <tr><td>Ramin (<i>Gonystylus bancanus</i>)</td><td>CR</td><td>Pohon khas rawa gambut</td><td><span class="tag tS">S</span></td></tr>
+  </table></div>
+
+  <h3>Fakta tingkat ekosistem</h3>
+  <ul class="tight">
+    <li>Sumatera kehilangan <b>7,54 juta ha hutan primer</b> dalam 1990–2010. Hutan primer Jambi turun dari 2,65 menjadi 1,51 juta ha, Sumsel dari 2,28 menjadi 0,94 juta ha (Margono et al. 2012) <span class="tag tV">V</span>.</li>
+    <li>Pada 2015, hanya <b>6% hutan rawa gambut Sumatera yang masih utuh</b> (laporan misi Ramsar) <span class="tag tV">V</span>.</li>
+    <li>Survei burung akustik di Berbak menemukan hutan gambut primer memiliki <b>dua kali lebih banyak jenis burung berstatus perhatian konservasi</b> dibanding semak bekas terbakar <span class="tag tS">S</span>.</li>
+  </ul>
+
+  <h3>Jasa ekosistem yang terkait adaptasi</h3>
+  <p>Ini bagian terpenting untuk kriteria EbA berbobot 40%, karena keanekaragaman hayati saja belum menjawab "adaptasi bagi siapa". Laporan misi Ramsar untuk Berbak-Sembilang <span class="tag tV">V</span> menyebut:</p>
+  <ul class="tight">
+    <li>Pengeringan gambut menyebabkan amblesan yang <b>"creates more frequent and longer flood periods"</b> bagi lahan dan permukiman di sekitarnya.</li>
+    <li>Kubah gambut memasok air tawar ke sabuk mangrove Sembilang. Jika gambut ambles, aliran air bisa berbalik, sehingga air asin masuk dan mangrove hilang.</li>
+    <li>Mangrove Sembilang adalah daerah pemijahan dan asuhan ikan yang bernilai ekonomi "tremendous" bagi nelayan.</li>
+  </ul>
+</section>
+
+<section id="paragraf">
+  <h2>Paragraf siap pakai</h2>
+  <p class="sub">Formulir fund wajib berbahasa Inggris, jadi disediakan dua versi. Angka berlabel S harus dicek ulang sebelum dipakai.</p>
+  <div class="draft"><h4>Bahasa Indonesia</h4>
+    <p>Empat provinsi sasaran (Sumatera Selatan, Jambi, Kepulauan Bangka Belitung, Lampung) mencakup 7,15 juta ha kawasan hutan, atau 31% kawasan hutan Sumatera. Namun lebih dari separuhnya (3,72 juta ha) tidak lagi berhutan, dan di Lampung angkanya mencapai 66%. Wilayah ini menyumbang 81% luas karhutla Sumatera pada 2019 (433.715 ha), dengan Sumatera Selatan sendiri mencakup 20% dari kebakaran nasional tahun itu. Sekitar 23,8 juta orang tinggal di empat provinsi ini, dan 2,03 juta di antaranya hidup di bawah garis kemiskinan. Secara nasional, 1,7 juta rumah tangga miskin tinggal di dalam dan sekitar kawasan hutan.</p>
+    <p>Bentang alam ini menyimpan sebagian kekayaan hayati paling terancam di Sundaland: gajah Sumatera (1.320–1.635 individu tersisa), badak Sumatera (34–47 individu di alam), harimau Sumatera, serta TN Berbak-Sembilang dengan dua situs Ramsar dan hamparan mangrove terbesar di kawasan Indo-Malaya. Kebakaran berulang tidak hanya menghilangkan habitat. Kebakaran juga merusak fungsi hidrologis gambut yang melindungi warga dari banjir, intrusi air asin, dan hilangnya sumber penghidupan perikanan.</p>
+  </div>
+  <div class="draft"><h4>English (for the application form)</h4>
+    <p>The four target provinces (South Sumatra, Jambi, Bangka Belitung and Lampung) contain 7.15 million ha of designated forest estate, 31% of Sumatra's total. Yet more than half of it (3.72 million ha) no longer carries forest cover, rising to 66% in Lampung. These provinces accounted for 81% of Sumatra's burned area in 2019 (433,715 ha), with South Sumatra alone representing 20% of the national total. Some 23.8 million people live in the four provinces, 2.03 million of them below the poverty line; nationally, 1.7 million poor households live in and around the forest estate.</p>
+    <p>These landscapes hold some of Sundaland's most threatened biodiversity: the Sumatran elephant (1,320–1,635 remaining), the Sumatran rhino (34–47 in the wild), the Sumatran tiger, and Berbak-Sembilang National Park with two Ramsar sites and the largest mangrove area of the Indo-Malayan region. Recurrent fires destroy more than habitat: they degrade peat hydrology that protects communities from prolonged flooding, saltwater intrusion and the loss of fisheries-based livelihoods.</p>
+  </div>
+</section>
+
+<section id="konsep">
+  <h2>Catatan untuk konsep note</h2>
+  <p class="sub">Substansi konsepnya kuat. Bingkai "dari respons kebakaran ke pengelolaan risiko yang antisipatif" dan tiga kesenjangan (pendekatan, tata kelola, keadilan) sangat jelas. Ada beberapa hal yang akan bermasalah di format dan aturan fund.</p>
+  <div class="fix">
+    <article><div class="now"><h4>Sekarang</h4><p>Tiga outcome.</p></div><div class="to"><h4>Perlu diubah</h4><p>Fund hanya mengizinkan <b>satu outcome</b> dan maksimal empat output. Outcome 1 dan 2 lebih tepat menjadi <i>dampak jangka panjang</i>. Outcome tunggalnya bisa dari outcome 3 (tata kelola dan kebijakan), dan keempat workstream menjadi empat output.</p></div></article>
+    <article><div class="now"><h4>Sekarang</h4><p>Workstream 2: restorasi hutan dan gambut berbasis masyarakat.</p></div><div class="to"><h4>Perlu diubah</h4><p>Ini paling berisiko, karena fund tidak membiayai implementasi lapangan yang berdiri sendiri. Pertahankan keluarannya sebagai <b>model dan panduan</b>, dengan pilot kecil yang dijelaskan alasannya di pertanyaan "field component". Jangan ada target hektar penanaman.</p></div></article>
+    <article><div class="now"><h4>Sekarang</h4><p>Workstream 3: penghidupan tangguh iklim.</p></div><div class="to"><h4>Perlu diubah</h4><p>Hibah atau modal usaha ke kelompok dilarang (seed grant). Bentuknya harus berupa kapasitas, model usaha, dan akses ke skema publik.</p></div></article>
+    <article><div class="now"><h4>Sekarang</h4><p>Empat provinsi dengan bingkai "hutan dan gambut".</p></div><div class="to"><h4>Perlu diubah</h4><p>Data menunjukkan <b>kebakaran gambut terpusat di Sumsel dan Jambi</b>. Di Lampung dan Babel, kebakaran hampir seluruhnya di tanah mineral: Lampung karena perambahan dan Way Kambas, Babel karena lahan bekas tambang timah. Pilihannya: (1) fokus ke Sumsel dan Jambi, atau (2) tetap empat provinsi tapi akui dua tipologi berbeda. Saran saya pilihan 1, dengan Lampung dan Babel cukup lewat pertukaran pengetahuan, karena $500 ribu untuk empat provinsi terlalu tipis.</p></div></article>
+    <article><div class="now"><h4>Sekarang</h4><p>Karhutla disebut sebagai manifestasi kerentanan terhadap perubahan iklim.</p></div><div class="to"><h4>Perlu dipertajam</h4><p>Reviewer bisa membaca isu gambut sebagai isu emisi (mitigasi). Kunci bingkai adaptasinya: El Niño dan IOD positif memperpanjang kemarau dan memperbesar risiko, sedangkan dampaknya bagi warga berupa kesehatan, banjir akibat amblesan, intrusi air asin, dan kehilangan penghidupan. Prakiraan El Niño kuat 2026–2027 menjadi argumen urgensi.</p></div></article>
+    <article><div class="now"><h4>Sekarang</h4><p>Kerangka atasan: Topik 2, SO1, Pilar 1 dan 2.</p></div><div class="to"><h4>Cocok</h4><p>Di Sumatera, Topik 2 jauh lebih kuat daripada di Jawa. Ada konflik tenurial dengan konsesi, warga yang dikriminalisasi karena membakar ladang, dan konflik manusia–satwa yang dipicu kebakaran. Instrumen kebijakan yang bisa disasar: Rencana Perlindungan dan Pengelolaan Ekosistem Gambut (RPPEG) provinsi, RAD-API, Perda karhutla, dan NAP.</p></div></article>
+  </div>
+</section>
+
+<section id="celah">
+  <h2>Data yang masih harus dicek</h2>
+  <ol class="tight">
+    <li><b>Statistik Potensi Desa Provinsi 2024</b> untuk empat provinsi (bps.go.id, unduh manual). Isinya tabel "desa menurut lokasi terhadap kawasan hutan", satu-satunya sumber jumlah desa tepi hutan per provinsi.</li>
+    <li><b>BRS BPS</b>: kemiskinan Maret 2026 dan SUPAS 2025 per provinsi, untuk mengubah label S menjadi V. Data perempuan dan rumah tangga juga belum ada untuk Jambi dan Lampung.</li>
+    <li><b>Luas karhutla 2015</b> untuk Jambi, Lampung, Babel, dan 2025 untuk ketiganya, dari rekapitulasi SiPongi.</li>
+    <li><b>Luas gambut per provinsi</b> (peta BBSDLP 2019) serta pembagian KHG lindung dan budidaya (lampiran SK.130/2017).</li>
+    <li><b>Status IUCN Tomistoma</b> dan data kantong gajah di Jambi dan Sumsel.</li>
+    <li><b>Angka BRWA Jambi</b>: konfirmasi ke BRWA kenapa totalnya 2,2 juta ha.</li>
+    <li>Data dari ED WALHI Sumsel dan Jambi: situs WKR, desa dampingan, dan catatan kebakaran di wilayah kelola.</li>
+  </ol>
+</section>
+
+<section id="sumber">
+  <h2>Sumber utama</h2>
+  <ol class="src">
+    <li><a href="https://www.kehutanan.go.id/s/uploads/Buku_Statistik_2024_Pembaruan_191125_1_cb68f4d25d.pdf">Statistik Kementerian Kehutanan 2024 (revisi 19 Nov 2025)</a>: kawasan hutan, tutupan, karhutla 2023–2024, perhutanan sosial</li>
+    <li><a href="https://statistik.kehutanan.go.id/storage/publication/attachment/publication/buku-statistik-2022-kementerian-lingkungan-hidup-dan-kehutanan.pdf">Statistik KLHK 2022</a>: karhutla 2019 · <a href="https://statistik.kehutanan.go.id/storage/publication/attachment/publication/1767141562_state-of-indonesias-forest-soifo-2020.pdf">SOIFO 2020</a>: KHG, karhutla 2015</li>
+    <li><a href="https://kemenlh.go.id/news/detail/tren-karhutla-di-sumsel-menurun-pemerintah-tak-kendur-perkuat-mitigasi">KLH: tren karhutla Sumsel 2025</a> · <a href="https://apps.worldagroforestry.org/sites/all/modules/publication/data/softcopy/LE00282-21.pdf">ICRAF: factsheet KHG Sumsel</a> · <a href="https://auriga.or.id/press_release/detail/65/status-of-deforestation-in-indonesia-2025">Auriga: deforestasi 2025</a></li>
+    <li><a href="https://dataindonesia.id/varia/detail/data-sebaran-jumlah-desakelurahan-berdasarkan-lokasi-terhadap-kawasan-hutan-dan-laut-pada-2024">Dataindonesia: PODES 2024</a> · <a href="https://pusluh.bp2sdm.kehutanan.go.id/assets/images/kinerja/577750_programa-penyuluh-kehutanan-tingkat-nasional-tahun-2024_20240117155125.pdf">KLHK: Programa Penyuluhan 2024</a> · <a href="https://ppid.bps.go.id/upload/doc/LD06_Potret_Sosial_Ekonomi_Kawasan_Hutan_1647412931.pdf">BPS: Potret masyarakat sekitar kawasan hutan</a></li>
+    <li>Kemiskinan Maret 2026, Databoks: <a href="https://databoks.katadata.co.id/demografi/statistik/3f057ad4acd4bae/maret-2026-jumlah-penduduk-miskin-di-sumatera-selatan-869-97-ribu-jiwa">Sumsel</a> · <a href="https://databoks.katadata.co.id/demografi/statistik/fdb72f9859bfb16/maret-2026-jumlah-penduduk-miskin-di-jambi-253-73-ribu-jiwa">Jambi</a> · <a href="https://databoks.katadata.co.id/demografi/statistik/849c6cae1a49e70/bps-jumlah-penduduk-miskin-di-kep-bangka-belitung-turun-0-05-data-maret-2026">Babel</a> · <a href="https://databoks.katadata.co.id/demografi/statistik/1d18114bd668be2/maret-2026-jumlah-penduduk-miskin-di-lampung-831-89-ribu-jiwa">Lampung</a></li>
+    <li><a href="https://babel.antaranews.com/berita/561211/jumlah-penduduk-babel-2025-sebanyak-1552390-jiwa">Antara: penduduk Babel 2025</a> · <a href="https://lampung.idntimes.com/news/lampung/penduduk-lampung-9-53-juta-pertumbuhan-melambat-dan-ageing-population-00-jx8f8-t2bpjx">IDN Times: penduduk Lampung 2025</a></li>
+    <li><a href="https://v4.brwa.or.id/files/rujukan/rjk-brwa-infografis-status-pengakuan-wilayah-adat-edisi-agustus-2026_09agustus2026.pdf">BRWA: status pengakuan wilayah adat, Agustus 2026</a> · <a href="https://mongabay.co.id/2026/03/23/ketika-orang-rimba-menuntut-perlindungan-negara/">Mongabay: Orang Rimba</a> · <a href="https://mongabay.co.id/2026/10/15/gambut-jambi-terus-membara-derita-warga-terpapar-kabut-asap/">Mongabay: kabut asap Jambi 2026</a></li>
+    <li><a href="https://rsis.ramsar.org/RISapp/files/RAM/RAM_085_ID_en.pdf">Ramsar Advisory Mission 85: Berbak-Sembilang</a> · <a href="https://iopscience.iop.org/article/10.1088/1748-9326/7/3/034010">Margono et al. 2012</a></li>
+    <li><a href="https://news.mongabay.com/2026/08/only-1325-1648-wild-elephants-left-in-indonesia-government-says/">Mongabay: populasi gajah Sumatera 2026</a> · <a href="https://rockwoodconservation.com/wp-content/uploads/2025/10/State-Of-The-Rhino-Report-2025.pdf">State of the Rhino 2025</a> · <a href="https://en.antaranews.com/news/317904">Antara: harimau Kerinci Seblat</a> · <a href="https://news.mongabay.com/2020/06/as-fires-strangle-national-parks-indonesia-struggles-to-restore-peatlands/">Mongabay: kebakaran Berbak-Sembilang 2019</a></li>
+    <li><a href="https://www.cnbcindonesia.com/news/20260731145536-4-755514/">CNBC Indonesia: prakiraan El Niño BMKG, Juli 2026</a></li>
+  </ol>
+</section>
+</main>
+</div>
