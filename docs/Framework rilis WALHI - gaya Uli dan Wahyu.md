@@ -4,12 +4,21 @@
 >
 > Beberapa file berformat rusak dan isinya tidak terbaca utuh: Keadilan Ekologis Agustus, Karhutla Agustus, Pantura, Petambak. Framework ini pola yang teramati, bukan pedoman resmi WALHI. Konfirmasi ke Kak Uli atau tim media bila ada standar tertulis.
 
-## Aturan resmi dari senior (diteruskan Paksi, 9 Nov 2026)
+## Aturan dan masukan dari senior (diteruskan Paksi, 9 Nov 2026)
 
+**Dari Kak Ifa:**
 > "Secara umum, rilis WALHI maksimal 2 halaman dan tdk ada poin2 tuntutan. Tuntutannya di narasikan."
 
-- **Maksimal 2 halaman.** Dalam praktik sekitar 700–900 kata, tergantung format.
-- **Tidak ada daftar bernomor atau poin-poin tuntutan.** Tuntutan ditulis sebagai narasi.
+**Dari senior lain ("bang").** Paksi merangkum: "kuncinya itu di 2 baris max, kutipan langsung, lead yg 5W+1H langsung menjelaskan, ga ada tuntutan [poin-poin], fokus 1 isu spesifik". Jawabannya: "yaps", ditambah:
+> "Tuntutannya samar dalam pernyataan. Jadi diubah menjadi kalimat naratif tegas, misal 'Karena itu WALHI meminta kepada KLH untuk bla bla bla.' Kunci ada di lead dan hooknya."
+
+Aturan kerja yang diturunkan dari kedua masukan itu:
+1. **Maksimal 2 halaman** (sekitar 700–900 kata).
+2. **Tidak ada poin-poin tuntutan**, tetapi tuntutan tetap ada: ditulis sebagai **kalimat naratif tegas yang menyebut alamatnya**. Contoh: "Karena itu, WALHI meminta Kementerian Lingkungan Hidup untuk…". Hindari kata lunak seperti "semestinya", "perlu", "diharapkan", atau "harus" tanpa subjek.
+3. **Lead menjawab 5W+1H** (apa, siapa, kapan, di mana, mengapa, bagaimana) dan langsung menjelaskan pokok berita. Lead dan pemicu beritanya adalah kunci.
+4. **Kutipan langsung** wajib ada.
+5. **Satu rilis, satu isu spesifik.**
+6. "2 baris max" masih ambigu: maksudnya 2 halaman, atau lead maksimal 2 baris? Tanyakan. Kalau yang dimaksud lead, lead harus dipangkas menjadi satu kalimat padat.
 
 Aturan ini mengalahkan pola apa pun di bawah yang bertentangan dengannya.
 
@@ -133,7 +142,7 @@ Kutipan langsung jarang berisi data mentah. Data diletakkan di kalimat berita. P
 5. Minimal satu angka diterjemahkan dengan "setara…" ke ukuran sehari-hari.
 6. Setiap angka punya sumber. Angka hitungan sendiri disertai keterbatasannya.
 7. Satu jangkar hukum yang spesifik: pasal atau diktum.
-8. Tuntutan ditujukan ke lembaga tertentu. Minimal satu tuntutan terukur (tenggat, berkala, indikator).
+8. Tuntutan berupa kalimat naratif tegas yang menyebut alamatnya ("Karena itu, WALHI meminta [lembaga] untuk…"), tanpa kata lunak. Minimal satu tuntutan terukur (tenggat, berkala, indikator).
 9. Ada alternatif, bukan hanya penolakan.
 10. Ditutup kutipan: ukuran keberhasilan, peringatan, atau janji mengawal.
 11. Maksimal 2 halaman (±700–900 kata). Tidak ada poin-poin tuntutan. Periksa salah ketik, atribusi ganda, dan kalimat menggantung.
