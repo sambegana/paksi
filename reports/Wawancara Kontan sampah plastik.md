@@ -46,6 +46,15 @@ Sembilan pertanyaan ini tumpang tindih: 1/2/7/9 adalah satu pertanyaan ("di mana
 
 ---
 
+## 2b. Pembanding antarnegara dan kerangka risiko BNPB
+
+Rincian: `research_notes/Kebijakan sampah hulu hilir Indonesia/pembanding_negara_penduduk.md`. Ringkasnya:
+- Paling berguna: **Brasil** (sama-sama UMIC, cakupan pengumpulan 93% vs Indonesia 62,5%) dan **AS** (plastik per orang ±2,5× Indonesia [olahan], tetapi pengumpulannya hampir 100% dan sebagian risikonya diekspor).
+- Cottom dkk. 2024 (*Nature*): emisi plastik Indonesia 3,4 Mt/thn, peringkat 3 dunia, setara Nigeria (3,5 Mt). Di negara Selatan, plastik fleksibel lebih mungkin lepas ke lingkungan daripada plastik kaku (56:44).
+- World Bank: ±80% daur ulang yang tercatat di Indonesia dikerjakan sektor informal [olahan dari data SIPSN].
+- Pengaman kerangka R = H × V / C: ancamannya **diproduksi**, jadi turunkan H di sumbernya, dan jangan jawab dengan "tambah kapasitas" berupa insinerator.
+- World Bank mencatat EPR Indonesia "wajib dan mengikat". Siapkan rumusan "wajib di atas kertas, tanpa iuran dan sanksi; 28 dari 842".
+
 ## 3. Yang harus dihindari
 
 - "14% polusi Jakarta dari bakar sampah" — tidak valid.
