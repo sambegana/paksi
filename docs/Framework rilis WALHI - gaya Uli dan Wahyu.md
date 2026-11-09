@@ -13,6 +13,8 @@
 
 Aturan ini mengalahkan pola apa pun di bawah yang bertentangan dengannya.
 
+Bedah mendalam satu rilis (paragraf demi paragraf): `docs/Bedah rilis - Plastik Naik Rakyat Tercekik.md`.
+
 ## 0. Sampel inti yang dibedah
 
 | Juru bicara | Rilis | Tipe pemicu berita |
