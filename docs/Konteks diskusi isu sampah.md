@@ -70,7 +70,7 @@
 | Siaran pers nasional | Ditunda | tab "Siaran pers nasional (ditunda)" di Doc yang sama; `reports/Draf rilis sampah.md` |
 | Policy brief "Hulu Dibiarkan, Hilir Dibakar" | Draf. Gaya Tempo Institute dan WALHI, ditandatangani WALHI sendiri | tab utama di Doc yang sama; `reports/Policy brief - Hulu Dibiarkan Hilir Dibakar.md`; `reports/Catatan penyusun policy brief.md` |
 | Rekonstruksi teori kebijakan Perpres 109/2025 | Selesai, untuk figur utama brief | `research_notes/.../rekonstruksi_teori_kebijakan_perpres109.md` |
-| Wawancara Tabloid Kontan (Adit Ramadhani; kontak dari Kak Uli; 9 pertanyaan sampah plastik) | Sedang dikerjakan | sesi https://claude.ai/code/session_01HPqUVK3RM5Qw5VcV9A6mCK; hasilnya ke `reports/Wawancara Kontan sampah plastik.md` |
+| Wawancara Tabloid Kontan (Adit Ramadhani; kontak dari Kak Uli; 9 pertanyaan sampah plastik) | Sedang dikerjakan. Paksi sudah mendapat izin. Strategi, jebakan, dan amunisi selesai; Paksi belum merumuskan pesan inti | sesi https://claude.ai/code/session_01HPqUVK3RM5Qw5VcV9A6mCK; hasilnya ke `reports/Wawancara Kontan sampah plastik.md` |
 
 Isi rilis global: lima desakan ke delegasi RI di COP31 (Antalya, 9–20 Nov):
 1. Jangan jadikan paviliun ajang MoU pembakaran.
@@ -80,6 +80,13 @@ Isi rilis global: lima desakan ke delegasi RI di COP31 (Antalya, 9–20 Nov):
 5. Buka daftar delegasi dan sponsor.
 
 Rilis itu menyebut sesi Paviliun Indonesia tanggal 14 Nov (PLTSa/RDF/pirolisis sebagai NDC) dan 16 Nov (EPR, dengan Danone Indonesia dan ADUPI), sponsor Mayora, dan mitra Djarum Foundation (bingkai "kebiasaan kecil warga").
+
+Temuan baru dari sesi wawancara Kontan (9 Nov 2026), berlaku juga untuk produk lain:
+- **Rancangan pengganti P.75 sudah memuat iuran produsen ke PRO nonprofit**, "dihitung secara proporsional berdasarkan volume dan jenis kemasan", dan importir ikut bertanggung jawab (KLH, 8 Sep 2026) [TERVERIFIKASI]. Besaran, sanksi, dan perlakuan atas saset serta RDF belum dibuka. Target terbit November 2026 belum terkonfirmasi. Karena itu klaim "produsen membayar nol" harus ditulis **"sampai hari ini"** dan disertai catatan bahwa rancangan menjanjikan iuran.
+- **World Bank (What a Waste 3.0) mencatat EPR Indonesia "Mandatory" dan "legally-binding"** berdasarkan P.75. Hindari rumusan "Indonesia belum punya EPR wajib". Pakai "wajib di atas kertas: hanya peta jalan, tanpa iuran dan sanksi; 28 dari 842".
+- KLH, 8 Sep 2026: "sekitar 25 persen sampah tercatat telah terkelola"; "sekitar 36,59 persen sampah masih masuk ke lingkungan" [TERVERIFIKASI].
+- SE Menteri LH No. 2/2026 menyasar pemda (lebih dari 300 kab/kota punya Perda plastik sekali pakai), tidak menyasar produsen [TERVERIFIKASI].
+- Pembanding antarnegara (World Bank, Cottom dkk. 2024 *Nature*): `research_notes/.../pembanding_negara_penduduk.md`. Sekitar 80% daur ulang yang tercatat di Indonesia dikerjakan sektor informal [OLAHAN dari data SIPSN di dataset World Bank].
 
 Keputusan editorial yang berlaku:
 - Pakai "desakan", bukan "ujian".
