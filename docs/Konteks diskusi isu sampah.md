@@ -81,6 +81,8 @@ Isi rilis global: lima desakan ke delegasi RI di COP31 (Antalya, 9–20 Nov):
 
 Rilis itu menyebut sesi Paviliun Indonesia tanggal 14 Nov (PLTSa/RDF/pirolisis sebagai NDC) dan 16 Nov (EPR, dengan Danone Indonesia dan ADUPI), sponsor Mayora, dan mitra Djarum Foundation (bingkai "kebiasaan kecil warga").
 
+Aturan rilis dari senior (9 Nov 2026): **rilis WALHI maksimal 2 halaman, dan tuntutan dinarasikan, bukan poin-poin.** Rilis global COP31 melanggar keduanya: lima desakan bernomor dan ±1.300 kata. Untuk rilis berikutnya, ikuti `docs/Framework rilis WALHI - gaya Uli dan Wahyu.md`.
+
 Keputusan editorial yang berlaku:
 - Pakai "desakan", bukan "ujian".
 - Tanpa Manila.

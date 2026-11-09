@@ -4,6 +4,15 @@
 >
 > Beberapa file berformat rusak dan isinya tidak terbaca utuh: Keadilan Ekologis Agustus, Karhutla Agustus, Pantura, Petambak. Framework ini pola yang teramati, bukan pedoman resmi WALHI. Konfirmasi ke Kak Uli atau tim media bila ada standar tertulis.
 
+## Aturan resmi dari senior (diteruskan Paksi, 9 Nov 2026)
+
+> "Secara umum, rilis WALHI maksimal 2 halaman dan tdk ada poin2 tuntutan. Tuntutannya di narasikan."
+
+- **Maksimal 2 halaman.** Dalam praktik sekitar 700–900 kata, tergantung format.
+- **Tidak ada daftar bernomor atau poin-poin tuntutan.** Tuntutan ditulis sebagai narasi.
+
+Aturan ini mengalahkan pola apa pun di bawah yang bertentangan dengannya.
+
 ## 0. Sampel inti yang dibedah
 
 | Juru bicara | Rilis | Tipe pemicu berita |
@@ -38,7 +47,9 @@ Footer alamat WALHI
 
 - **Panjang:** umumnya 500–1.100 kata. Median sampel sekitar 700 kata.
 - **Kutipan langsung:** 2–3 blok. Kutipan pertama muncul paling lambat paragraf ke-3, dan rilis hampir selalu **ditutup dengan kutipan** ("tutup Wahyu", "pungkas Uli").
-- **Tuntutan:** ditulis dalam paragraf prosa ("WALHI mendesak…", "WALHI merekomendasikan…"), bukan daftar bernomor. Pengecualian: rilis panjang atau rilis koalisi.
+- **Tuntutan:** WAJIB dinarasikan dalam paragraf prosa ("WALHI mendesak…", "WALHI merekomendasikan…"), tidak boleh berupa daftar bernomor atau poin-poin (aturan senior). Ada dua tempat yang lazim:
+  - satu atau dua paragraf tuntutan, masing-masing dengan alamat lembaga yang jelas;
+  - kutipan penutup juru bicara, yang memuat tuntutan paling tajam. Contoh: "Pemerintah, dalam hal ini KLH, Pemprov Jateng, dan Pemkot Surakarta, perlu segera…" (Wahyu).
 - **Subjudul:** jarang. Hanya muncul di rilis yang memuat dua cerita, misalnya Putri Cempo: "Kondisi Warga di Sekitar TPA Putri Cempo".
 
 ## 2. Judul: tujuh pola
@@ -123,7 +134,7 @@ Kutipan langsung jarang berisi data mentah. Data diletakkan di kalimat berita. P
 8. Tuntutan ditujukan ke lembaga tertentu. Minimal satu tuntutan terukur (tenggat, berkala, indikator).
 9. Ada alternatif, bukan hanya penolakan.
 10. Ditutup kutipan: ukuran keberhasilan, peringatan, atau janji mengawal.
-11. Panjang 500–900 kata. Periksa salah ketik, atribusi ganda, dan kalimat menggantung.
+11. Maksimal 2 halaman (±700–900 kata). Tidak ada poin-poin tuntutan. Periksa salah ketik, atribusi ganda, dan kalimat menggantung.
 12. Nama perusahaan hanya disebut berdasarkan data mereka sendiri atau audit yang diatribusikan, dengan bahasa "terindikasi" atau "tercantum".
 
 ## 9. Cermin untuk rilis Paksi (COP31, 7 Nov 2026)
@@ -134,6 +145,21 @@ Kutipan langsung jarang berisi data mentah. Data diletakkan di kalimat berita. P
   - Tuntutan dalam daftar bernomor. Ini sah untuk rilis COP atau koalisi, tetapi gaya rumah lebih sering memakai prosa.
   - Belum ada hitungan WALHI sendiri, juga belum ada terjemahan "setara…".
   - Penjelasan "sampah basah" belum dibalik penuh menjadi kegagalan desain kebijakan (lihat teknik 4.1).
+- **Melanggar aturan senior:** rilis ini memuat lima desakan bernomor, dan panjangnya sekitar 1.300 kata (perkiraan, lebih dari 2 halaman).
+
+**Contoh latihan: lima desakan COP31 dinarasikan.** Dua paragraf berikut ditambah kutipan penutup menggantikan daftar bernomor:
+
+> WALHI mendesak delegasi Indonesia tidak menjadikan Paviliun Indonesia ajang nota kesepahaman pembakaran sampah dengan produsen kemasan dan industri petrokimia, serta berhenti mempromosikan PSEL, PLTSa, RDF, dan pirolisis sebagai energi terbarukan. Pembakaran sampah, termasuk RDF dan *co-processing* di tanur semen, tidak boleh dihitung sebagai pemenuhan tanggung jawab produsen. Yang harus dibawa pulang dari Antalya adalah komitmen tanggung jawab produsen yang diperluas (EPR) yang mengikat sesuai Pasal 15 Undang-Undang Pengelolaan Sampah, dengan iuran produsen yang membiayai pengangkutan sampah sampai ke desa yang selama ini tak terlayani, tanpa menghapus kewajiban negara untuk menyelenggarakannya.
+>
+> Di meja perundingan, delegasi semestinya menolak kredit karbon dan kredit plastik dari pembakaran sampah dan TPA melalui Pasal 6.2 dan 6.4 Persetujuan Paris, dan mengakui pengelolaan sampah organik oleh komunitas lewat pendekatan non-pasar Pasal 6.8. Indonesia juga perlu mendukung pembatasan produksi plastik primer dalam perundingan perjanjian plastik global, sebab selama produksi tidak dibatasi, tungku akan terus diberi makan.
+>
+> "…Kalau pemerintah yakin tidak ada yang disembunyikan, buka daftar lengkap delegasi dan sponsor Paviliun Indonesia, termasuk produsen kemasan dan perusahaan petrokimia, supaya publik tahu kepentingan siapa yang dibawa ke Antalya," tutup Paksi.
+
+Teknik yang dipakai:
+- Desakan dikelompokkan per **arena**: paviliun dan kebijakan nasional, lalu meja perundingan.
+- Tiap paragraf punya satu alamat.
+- Desakan transparansi dipindah ke **kutipan penutup**, sehingga terdengar sebagai tantangan, bukan butir daftar.
+
 - **Untuk rilis berikutnya**, misalnya rapor pascasesi paviliun:
   - Pakai rumus lead "sambut, lalu namun" bila pemerintah menyinggung EPR.
   - Taruh satu kutipan tajam di paragraf 2–3.
