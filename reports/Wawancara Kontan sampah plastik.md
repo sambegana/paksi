@@ -55,6 +55,29 @@ Rincian: `research_notes/Kebijakan sampah hulu hilir Indonesia/pembanding_negara
 - Pengaman kerangka R = H × V / C: ancamannya **diproduksi**, jadi turunkan H di sumbernya, dan jangan jawab dengan "tambah kapasitas" berupa insinerator.
 - World Bank mencatat EPR Indonesia "wajib dan mengikat". Siapkan rumusan "wajib di atas kertas, tanpa iuran dan sanksi; 28 dari 842".
 
+## 2c. Cek ulang kebijakan (9 Nov 2026)
+
+| Kebijakan | Status | Label |
+|---|---|---|
+| Pengganti P.75/2019 (EPR) | Masih rancangan. Ada **PRO nonprofit**, produsen **membayar iuran** yang "dihitung secara proporsional berdasarkan volume dan jenis kemasan", importir ikut bertanggung jawab. Besaran iuran, sanksi, dan aturan khusus saset tidak disebut. Rilis KLH 8 Sep 2026 (laman KLH menulis "Nomor 75 Tahun 2018"; seharusnya 2019). Target terbit **November 2026** dan sosialisasi sampai Mei 2027 hanya muncul di ringkasan pencarian, belum terkonfirmasi. Kewajiban penuh 2028 (Ecobiz). Konsultasi 6 Okt 2026 dengan 74 entitas, tanpa LSM dan pemulung. | TERVERIFIKASI (KLH) + CUPLIKAN (tanggal) |
+| Capaian nasional | KLH, 8 Sep 2026: "sekitar 25 persen sampah tercatat telah terkelola"; "sekitar 36,59 persen sampah masih masuk ke lingkungan". | TERVERIFIKASI |
+| SE Menteri LH No. 2/2026 | Meminta **pemda** mempercepat Perda pembatasan plastik sekali pakai. Lebih dari 300 kab/kota sudah punya aturan (216 pada 2025). Jenis barang yang dibatasi tidak dirinci; produsen tidak disasar. (KLH, 13 Jun 2026) | TERVERIFIKASI |
+| Perpres Jakstranas baru | "tengah memproses penyusunan", belum terbit. | TERVERIFIKASI (KLH, Sep 2026) |
+| PSEL | Tahap I: Bekasi, Denpasar, Bogor Raya (pemenang termasuk perusahaan Tiongkok). Tahap II: 8 pemenang, CLoA 13 Jul 2026, termasuk entitas grup Chandra Asri (petrokimia) dan Grup Bakrie, sekitar Rp25 T. Target 33 fasilitas. | SEKUNDER (Bisnis, Tempo, Bloomberg Technoz) |
+| Cukai plastik | Tidak ditemukan dalam RAPBN 2027. Terakhir ditunda berulang kali. | TIDAK DITEMUKAN (perlu cek Nota Keuangan 2027) |
+| Perjanjian plastik global | INC-5.2 (Agu 2025) gagal. Indonesia–Norwegia menggelar konsultasi informal di Jakarta 13–15 Okt 2026. | SEKUNDER |
+
+**Akibatnya untuk pesan inti:** "produsen membayar nol" masih benar **untuk hari ini**, tetapi jangan ditulis seolah tidak ada rencana iuran. Rumusan yang tahan uji: *"Sampai hari ini produsen tidak membayar apa pun. Rancangan aturan baru menjanjikan iuran, tetapi besarannya, sanksinya, dan apakah pembakaran ikut dihitung belum dibuka ke publik, dan kewajiban penuhnya baru 2028."*
+
+## 2d. Lensa Wahyu Eka Styawan (ekstrapolasi dari pernyataan publiknya, bukan kutipan)
+
+Kerangka: IDS/Kartodihardjo (diskursus – aktor/jaringan – kepentingan). Rujukan pernyataan Wahyu ada di `posisi_walhi.md` dan `rilis_walhi_agustus_oktober_2026.md`.
+- **Diskursus:** kebijakan merepresentasikan masalah sebagai kesadaran warga (maka SE 2/2026 menyasar pemda dan warga) dan sebagai "sampah = energi" (maka PSEL). Yang dibisukan: desain kemasan, layanan publik, dan bahwa sampah Indonesia mayoritas organik.
+- **Aktor/jaringan:** KLH, Danantara/Denera, PLN, pemenang tender PSEL (termasuk entitas grup petrokimia), asosiasi produsen di forum konsultasi EPR. Yang absen: warga sekitar TPA, pemulung, LSM.
+- **Kepentingan:** kontrak 30 tahun dan take-or-pay di hilir; produsen menunda iuran sampai 2028; pemda dikejar kewajiban pasokan 1.000 t/hari.
+- Pesan yang konsisten dengan rekam jejak Wahyu: (1) krisis sampah adalah "kegagalan negara", dan sampah adalah layanan publik, bukan bisnis; (2) PSEL adalah jalan pintas yang mengunci produksi sampah, dengan beban PLN/APBN; (3) pengurangan di sumber lewat pembatasan sekali pakai, guna ulang, dan EPR yang efektif; (4) warga di sekitar fasilitas yang menanggung dampaknya.
+- Perbedaan tekanan: Wahyu lebih menyasar negara dan PSEL, jarang menyebut merek. Untuk pertanyaan Kontan yang khusus soal plastik dan saset, tekanan pada produsen tetap tepat, asalkan negara tetap disebut sebagai pihak yang membiarkan.
+
 ## 3. Yang harus dihindari
 
 - "14% polusi Jakarta dari bakar sampah" — tidak valid.
