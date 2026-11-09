@@ -78,6 +78,23 @@ Kerangka: IDS/Kartodihardjo (diskursus – aktor/jaringan – kepentingan). Ruju
 - Pesan yang konsisten dengan rekam jejak Wahyu: (1) krisis sampah adalah "kegagalan negara", dan sampah adalah layanan publik, bukan bisnis; (2) PSEL adalah jalan pintas yang mengunci produksi sampah, dengan beban PLN/APBN; (3) pengurangan di sumber lewat pembatasan sekali pakai, guna ulang, dan EPR yang efektif; (4) warga di sekitar fasilitas yang menanggung dampaknya.
 - Perbedaan tekanan: Wahyu lebih menyasar negara dan PSEL, jarang menyebut merek. Untuk pertanyaan Kontan yang khusus soal plastik dan saset, tekanan pada produsen tetap tepat, asalkan negara tetap disebut sebagai pihak yang membiarkan.
 
+## 2e. Kerangka Kartodihardjo (lima tema) dipetakan ke pertanyaan
+
+Sumber: `rekonstruksi_teori_kebijakan_perpres109.md` (branch riset, commit de04d75). Kartodihardjo, Pendahuluan hlm. 19–20, mengutip Leroy & Nelissen (2000) via Runhaar dkk. (2008), serta Sutton (1999).
+
+| Tema | Pertanyaan Kontan | Bahan |
+|---|---|---|
+| Isi (asumsi kebijakan) | 7 | Rantai PSEL patah di A1 (sampah basah: kadar air >70% vs syarat mesin <20%; 2 dari 12 PLTSa beroperasi) dan H1 (produsen tidak ada di rantai kebijakan) |
+| Proses (wacana, aktor) | 1, 3 | Sutton: kegagalan dialamatkan ke "orang di lapangan". Rumusan: "negara belum membangun sistem pengumpulan terpilah, tetapi sudah membeli mesin yang hanya bekerja bila sampah terpilah" |
+| Organisasi (pusat–daerah) | 2 | Pemda menanggung kompensasi pasokan; APBD persampahan rata-rata 0,53%; desa 5,7% diangkut |
+| Dampak (distribusi biaya) | 6, 8 | Siapa membayar: PLN/APBN, APBD, warga (asap), pemulung (±80% daur ulang tercatat informal) vs produsen yang hari ini belum membayar |
+| Konteks | 9 | Target "100% terkelola 2028", PSEL 33 fasilitas, EPR penuh baru 2028 |
+
+**Catatan:**
+- Rekonstruksi di atas membedah **PSEL**, sedangkan wawancara ini soal **plastik**. Pakai terutama untuk no. 7. Jangan biarkan semua jawaban berubah jadi soal PSEL.
+- Untuk no. 8, lebih tepat merekonstruksi teori **rancangan pengganti P.75**: produsen bayar iuran → PRO mengumpulkan → sampah kemasan berkurang. Asumsi yang perlu diuji: apakah iurannya cukup untuk membiayai pengumpulan sampai ke desa, apakah RDF/pembakaran ikut dihitung sebagai "terkelola", apakah ada target pengurangan (bukan hanya pengumpulan), dan apakah saset disentuh. Semua belum dibuka ke publik. Itu yang dituntut.
+- Klaim "Putri Cempo menerima sampah dari Bali" hanya bersumber sekunder dan klaim warga. Jangan pakai di wawancara.
+
 ## 3. Yang harus dihindari
 
 - "14% polusi Jakarta dari bakar sampah" — tidak valid.
