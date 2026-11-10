@@ -95,6 +95,27 @@ Sumber: `rekonstruksi_teori_kebijakan_perpres109.md` (branch riset, commit de04d
 - Untuk no. 8, lebih tepat merekonstruksi teori **rancangan pengganti P.75**: produsen bayar iuran → PRO mengumpulkan → sampah kemasan berkurang. Asumsi yang perlu diuji: apakah iurannya cukup untuk membiayai pengumpulan sampai ke desa, apakah RDF/pembakaran ikut dihitung sebagai "terkelola", apakah ada target pengurangan (bukan hanya pengumpulan), dan apakah saset disentuh. Semua belum dibuka ke publik. Itu yang dituntut.
 - Klaim "Putri Cempo menerima sampah dari Bali" hanya bersumber sekunder dan klaim warga. Jangan pakai di wawancara.
 
+## 2f. Dari analisis struktural sesi utama (10 Nov 2026)
+
+Sumber: `reports/Analisis struktural krisis sampah.md`, `bukti_model_mental_dan_ekonomi_saset.md`, `ekonomi_politik_plastik_dan_tren.md`. Label mengikuti file sumber.
+
+**Koreksi wajib:**
+- Jangan sebut saset "pajak kemiskinan" atau "lebih mahal per ml". Di India dan Filipina saset dilaporkan lebih murah, dan untuk Indonesia belum ada datanya. Rumusan yang tahan uji: *saset murah di kasir karena biaya pengumpulan dan pencemarannya tidak masuk harga.*
+- Jangan tulis "pemerintah hanya menyalahkan warga". Rumusannya: *tanggung jawab produsen sudah masuk pidato, tetapi diagnosis akar masalahnya tetap perilaku warga, dan aturan yang mengikat belum terbit.*
+- "Indonesia menolak pembatasan produksi" diganti *"belum menyatakan dukungan pada target pengurangan produksi yang mengikat".*
+- Argumen "resin baru yang murah mematikan daur ulang" tidak berlaku untuk 2026, karena harga resin naik.
+- Perbandingan "pembayaran PSEL 1,5–2,5 kali belanja persampahan pemda" berkeyakinan rendah. Jangan dipakai.
+
+**Amunisi per pertanyaan:**
+| No. | Bahan | Label |
+|---|---|---|
+| 1, 9 | Porsi plastik dalam sampah naik dari ±11% (2010) ke ±19–20% (2023–2024), menurut pejabat KLH. Yang berubah adalah kemasan, bukan jumlah warga. | SEKUNDER (Antara, Jun 2025); tahun dasar 2010/2015 belum pasti |
+| 3 | Studi Medan (Hutagalung dkk. 2026, 401 rumah tangga): rumah tangga yang terlayani pengangkutan jauh lebih kecil kemungkinannya membuang sampah secara tidak layak. Pendidikan juga berpengaruh, jadi jangan klaim "kesadaran tidak berpengaruh". Survei Greenpeace 2021 (3 kota): 55% menunjuk produsen; hampir 70% mau isi ulang bila harganya sama. Warung menyumbang 67% penjualan FMCG (Kantar 2025). | TERVERIFIKASI / survei LSM 2021 / SEKUNDER |
+| 4, 5 | Reuters 2022: eksekutif Unilever menyebut saset multilapis "evil because you cannot recycle it" (2019), CEO: "We have to get rid of them" (2020). Di Sri Lanka, Unilever melobi dengan "sachets are a poor man's commodity". | TERVERIFIKASI (Reuters) |
+| 6 | Pejabat KLH: hanya 7% sampah plastik yang didaur ulang. Ini angka resmi pertama yang kita punya, meski tidak per polimer. ADUPI: daur ulang menyumbang ±20% pasokan bahan baku plastik nasional. | SEKUNDER |
+| 7 | Instrumen hulu selalu gugur: kantong plastik berbayar 2016 menurunkan pemakaian 25–30%, lalu dihentikan Aprindo 1 Okt 2016. Cukai plastik diusulkan sejak 2016 dan tidak pernah dipungut (tidak ada di RAPBN 2025–2027). Bank sampah, andalan narasi partisipasi warga, hanya menangani 1,7% (2018) sampai 2,7% (2021) sampah nasional, dan kedua angka KLHK ini tidak saling konsisten. Di sisi lain, ada pembebasan pajak 20 tahun untuk Chandra Asri Perkasa. | TERVERIFIKASI / SEKUNDER |
+| 8 | WWF/Dalberg 2023: biaya sosial plastik per kg di negara berpendapatan menengah-bawah 8 kali negara kaya (hasil model). | TERVERIFIKASI (hasil model) |
+
 ## 3. Yang harus dihindari
 
 - "14% polusi Jakarta dari bakar sampah" — tidak valid.
