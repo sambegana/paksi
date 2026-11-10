@@ -20,7 +20,7 @@ Karena masyarakat tidak diberi pilihan lain. Punya uang untuk membeli saset tida
 
 **4. Bagaimana WALHI melihat penggunaan sachet dan kemasan multilapis yang banyak digunakan dalam produk kebutuhan sehari-hari?**
 
-Saset adalah model bisnis yang menjual kepada orang kecil dan mengirim tagihannya kepada publik. Menurut kami saset bukan bentuk keberpihakan kepada warga berpenghasilan rendah, melainkan cara menjangkau pasar sampai ke warung paling pelosok. Produsen sering berkata saset adalah barang orang kecil. Tetapi orang kecil tidak pernah diminta memilih. Mereka membeli saset karena hanya itu yang tersedia di warung, lalu mereka pula yang menanggung bungkusnya: dibakar di halaman, menyumbat selokan, atau hanyut ke sungai. Produsen tahu bungkus ini tidak bisa didaur ulang dan tidak laku di tangan pemulung, tetapi tetap menjualnya ke desa-desa yang tidak punya layanan sampah. Itu keputusan, bukan ketidaktahuan. Audit merek yang kami ikuti bersama Break Free From Plastic menemukan saset Wings, Grup Salim, Mayora, Unilever, dan Kapal Api paling banyak tercecer di lingkungan. Jadi ini bukan soal satu perusahaan, melainkan soal cara berjualan yang dibiarkan negara.
+Saset murah diproduksi, mudah dijual, dan bisa menjangkau warung sampai ke pelosok. Bagi produsen, ini cara berjualan yang sangat menguntungkan. Masalahnya, harga murah itu tidak menghitung ongkos sesudah isinya habis. Saset termasuk kemasan yang paling sulit terurai dan didaur ulang, sehingga ujungnya dibakar, ditimbun, atau hanyut ke sungai dan pecah menjadi mikroplastik. Jadi yang sebenarnya membayar adalah lingkungan dan kesehatan warga. Menurut kami penggunaan saset harus dilarang secara bertahap, dan produsen wajib menyediakan pengganti yang sama murahnya, misalnya kemasan isi ulang.
 
 **5. Mengapa kemasan sachet sulit dikelola dan apakah masih memiliki peluang untuk didaur ulang secara ekonomis?**
 
@@ -36,7 +36,7 @@ Ya, dan itu terlihat dari apa yang dijalankan dan apa yang ditunda. Kebijakan ya
 
 **8. Apa tiga langkah paling mendesak yang harus dilakukan pemerintah dan produsen untuk mengurangi persoalan sampah plastik?**
 
-Pertama, KLH membuka rancangan aturan tanggung jawab produsen ke publik dan memastikan tiga hal: sanksinya berarti, pembakaran sampah tidak dihitung sebagai pemenuhan kewajiban, dan saset diatur. Kedua, pemerintah menetapkan jadwal pengurangan saset dan mewajibkan produsen menyediakan isi ulang dengan harga yang setara, supaya warga punya pilihan. Ketiga, produsen membuka berapa banyak kemasan yang mereka pasarkan setiap tahun. Tanpa angka itu, tidak ada yang bisa memeriksa janji mereka. Produsen tidak perlu menunggu aturan untuk memulai, karena mereka sudah lama tahu kemasan mana yang tidak bisa didaur ulang.
+Pertama, KLH membuka rancangan aturan tanggung jawab produsen ke publik dan memastikan tiga hal: sanksinya berarti, pembakaran sampah tidak dihitung sebagai pemenuhan kewajiban, dan saset diatur. Kedua, pemerintah menetapkan jadwal pelarangan bertahap saset dan mewajibkan produsen menyediakan isi ulang dengan harga yang setara, supaya warga punya pilihan. Ketiga, produsen membuka berapa banyak kemasan yang mereka pasarkan setiap tahun. Tanpa angka itu, tidak ada yang bisa memeriksa janji mereka. Produsen tidak perlu menunggu aturan untuk memulai, karena mereka sudah lama tahu kemasan mana yang tidak bisa didaur ulang.
 
 **9. Bagaimana WALHI melihat kondisi persoalan sampah plastik di Indonesia saat ini?**
 
@@ -53,8 +53,8 @@ Kita sedang mengepel lantai sambil membiarkan kerannya terbuka. Produksi plastik
 
 1. **Izin dan peninjauan.** Pastikan ke Kak Uli bahwa kamu boleh menjawab atas nama WALHI dan siapa yang meninjau. Koordinasikan dengan Bang Wahyu.
 2. **Jawaban 2, cerita kampung di Kalimantan.** Kalimatnya diambil dari kutipan Paksi di rilis COP31. Pastikan sesuai pengalamannya.
-3. **Jawaban 4, tanpa kutipan luar negeri.** Kutipan Reuters dan Sri Lanka dibuang atas permintaan Paksi (10 Nov). Isinya pendapat WALHI dengan logika untuk konteks Indonesia.
-4. **Jawaban 4 dan 5, nama perusahaan.** Semuanya dengan atribusi ke audit atau penelusuran organisasi lingkungan. Unilever membantah penilaian soal pabrik sasetnya.
+3. **Jawaban 4, tanpa kutipan luar negeri.** Kutipan Reuters, Sri Lanka, dan nama produsen dari audit merek dibuang atas permintaan Paksi (10 Nov). Isinya pendapat WALHI yang langsung ke pokok.
+4. **Jawaban 5, nama perusahaan.** Semuanya dengan atribusi ke audit atau penelusuran organisasi lingkungan. Unilever membantah penilaian soal pabrik sasetnya.
 5. **Jawaban 8, langkah ketiga.** Membuka data volume kemasan belum pernah menjadi tuntutan resmi WALHI. Minta persetujuan dulu.
 6. **Sumber angka bila ditanya:** 28 dari 842 (rilis KLH, Oktober 2026); delapan dari sepuluh rumah tangga desa (SKI 2023: 80,8 persen); 30 tahun (Perpres 109/2025).
 
