@@ -104,7 +104,7 @@ Keputusan editorial yang berlaku:
 
 ## 7. Pekerjaan tertunda dan verifikasi yang belum beres
 
-- Kajian WALHI 2024 "Menabur Benih Kerusakan" (sumber primer klaim Bali). Kutipan Wamen LH soal kadar air 70%/20% (Metrotvnews, 22 Jan 2026). JDIH KLH Permen LH No. 15/2026. Kantor WALHI mana yang ikut audit BFFP (WALHI NTB?). Teks resmi Perpres 109 Ps. 18 dan pasal transisinya.
+- Kajian WALHI 2024 "Menabur Benih Kerusakan": **sudah dibaca 10 Nov 2026** (versi Inggris). Klaim Bali, abu, dan keluhan kesehatan terverifikasi primer; lihat `putri_cempo_bali_dan_abu.md`. Kutipan Wamen LH soal kadar air 70%/20% (Metrotvnews, 22 Jan 2026). JDIH KLH Permen LH No. 15/2026. Kantor WALHI mana yang ikut audit BFFP (WALHI NTB?). Teks resmi Perpres 109 Ps. 18 dan pasal transisinya.
 - Peluang: revisi UU 18/2008 masih di long-list Prolegnas. **Prolegnas Prioritas 2027** adalah jendela kebijakan; bahas dengan atasan.
 - Tawaran yang belum diambil: lembar satu halaman untuk tim di Antalya, rilis "rapor" pascasesi paviliun, revisi policy brief (pakai rekonstruksi Perpres 109 sebagai figur utama).
 - Celah data paling besar: data lapangan sendiri, dan angka daur ulang nasional per polimer.

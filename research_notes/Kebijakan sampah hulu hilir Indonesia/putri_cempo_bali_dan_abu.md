@@ -16,3 +16,19 @@
 
 ## Asap / partikel halus
 - [SEKUNDER] WALHI Jatim (Jul 2025), judul publikasi: "Studi Insinerator Sampah Picu Partikulat Udara hingga 8 Kali Lebih Tinggi dari Standar WHO" (PLTSa Benowo). https://walhijatim.org/2025/07/04/studi-insinerator-sampah-picu-partikulat-udara-hingga-8-kali-lebih-tinggi-dari-standar-who/ . Catatan: angka di pemberitaan Jakarta Post tidak konsisten; pakai rumusan judul WALHI Jatim dan atribusikan.
+
+
+## Verifikasi primer (10 Nov 2026): kajian WALHI 2024 sudah dibaca
+
+Sumber: WALHI (2024), *Sowing the Seeds of Destruction: Review of Waste-to-Energy National Strategic Project in Indonesia* (versi Inggris dari *Menabur Benih Kerusakan*), PDF 66 halaman yang diunggah Paksi. Tautan: https://www.walhi.or.id/uploads/2024-Rilis/%28EN%29%20SOWING%20THE%20SEEDS%20OF%20DESTRUCTION.pdf
+
+- **Sampah dari Bali [TERVERIFIKASI-PRIMER], hlm. 20:** "Waste import from Bali. PLTSa Putri Cempo is recorded to have received and treated waste from Bali that is indicated to be transported by PT Bali CMPP … under the same ownership with PT SCMPP".
+- **Alasan (dua versi dalam kajian yang sama):**
+  - hlm. 22–23: PT Bali CMPP gagal mengoperasikan TPST Kesiman Kertalangu dan Padangsambian Kaja "to the point where they needed to send it to Surakarta City".
+  - Bagian pola lintas kasus: "Surakarta: The facility is suspected of using waste from other areas to balance the composition of the waste so that it can be processed by the PLTSa." Ini berstatus **dugaan** ("suspected").
+  - Rumusan aman: "kajian WALHI mencatat PLTSa itu menerima sampah dari Bali, yang diduga untuk menyeimbangkan komposisi sampahnya".
+- **Abu [TERVERIFIKASI-PRIMER], hlm. 20:** "according to the laboratory test by the operator of PLTSa, the bottom ash is considered as a hazardous waste … However, the bottom ash generated is only stored in an open space and ends up dispersed into the environment and local communities every day."
+- **Kesehatan [TERVERIFIKASI-PRIMER], hlm. 20:** warga yang terpapar abu terbang "suffering from coughing and asphyxiation. Tens of people suffering from coughs and rashes received free medical treatment".
+- **Limbah cair, hlm. 20:** tar dan kondensat dibuang ke Sungai Jengglong yang bermuara ke Bengawan Solo tanpa pengolahan memadai.
+- **Benturan dengan kebijakan pengurangan:** kajian menyebut Permen LHK 75/2019 "will create a conflict with PLTSa demand for waste to operate".
+- **Rekomendasi kajian:** solusi dipandang sebagai sistem (regulasi, budaya, infrastruktur) sesuai hierarki zero waste; contoh regulasi: larangan plastik sekali pakai dan larangan sampah organik masuk TPA.
