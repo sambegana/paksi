@@ -82,6 +82,7 @@
 | **Analisis struktural berlapis** (peristiwa, pola, struktur, model mental, mitos; uji penjelasan tandingan; titik ungkit) | Selesai 10 Nov 2026 | `reports/Analisis struktural krisis sampah.md` |
 | Rekonstruksi teori kebijakan Perpres 109/2025 | Selesai, untuk figur utama brief | `research_notes/.../rekonstruksi_teori_kebijakan_perpres109.md` |
 | Wawancara Tabloid Kontan (Adit Ramadhani; kontak dari Kak Uli; 9 pertanyaan sampah plastik) | Sedang dikerjakan | sesi https://claude.ai/code/session_01HPqUVK3RM5Qw5VcV9A6mCK; hasilnya ke `reports/Wawancara Kontan sampah plastik.md` |
+| Draf sembilan jawaban wawancara Kontan dan daftar bacaan bertautan | Draf, menunggu revisi Paksi | `reports/Wawancara Kontan - draf jawaban dan bacaan.md`; tab "Wawancara Kontan (draf jawaban)" di Claude Doc |
 
 Isi rilis global: lima desakan ke delegasi RI di COP31 (Antalya, 9–20 Nov):
 1. Jangan jadikan paviliun ajang MoU pembakaran.
