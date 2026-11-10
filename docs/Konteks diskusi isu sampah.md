@@ -59,6 +59,16 @@
 - Jangan membandingkan dengan Filipina/Manila: EPR di sana menghitung pembakaran di kiln, jadi tidak apple to apple.
 - Klaim Putri Cempo dan Bali: tulis "menerima dan mengolah" (kajian WALHI 2024). Jangan tulis motifnya ("untuk menutup kekurangan pasokan") sebagai temuan kajian.
 
+## 5a. Koreksi dan temuan dari analisis struktural (10 Nov 2026)
+
+- **Jangan** menulis "saset adalah pajak kemiskinan" sebagai fakta: di India dan Filipina saset lebih murah per ml; klaim 40% di `risiko_kebijakan_dan_pengaman.md` §2c tidak terlacak. Argumen yang tahan uji: saset murah di kasir karena biaya pengumpulan dan pencemarannya tidak masuk harga.
+- **Jangan** menulis "pemerintah hanya menyalahkan warga". Rumusan yang benar: tanggung jawab produsen sudah masuk pidato, tetapi diagnosis akar masalahnya tetap perilaku warga, dan aturan yang mengikat produsen belum terbit.
+- "Indonesia menolak pembatasan produksi plastik" diganti "belum menyatakan dukungan pada target pengurangan produksi yang mengikat".
+- Tesis "produsen penyebabnya" hanya kuat untuk aliran kemasan (±20%). Untuk sisa makanan (±40%), penyebab strukturalnya adalah negara yang tidak membangun layanan terpilah.
+- Data baru: Podes 2024 (69,84% desa menimbun atau membakar; ±80% desa tanpa TPS; satuannya DESA, jangan digabung dengan SKI). Bank sampah menangani 1,7% (2018) sampai 2,7% (2021) sampah nasional menurut KLHK. Studi Medan 2026: pembuangan tak layak "is system-driven".
+- Tiga titik ungkit yang belum digarap: ukuran resmi ("terkelola" diganti "timbulan berkurang"), keterbukaan data (volume kemasan per produsen, biaya kompensasi PSEL), dan mandat layanan untuk desa.
+- Hitungan perbandingan pembayaran PSEL vs belanja persampahan pemda adalah hitungan penyusun dengan keyakinan rendah. Jangan dikutip sebagai "subsidi".
+
 ## 6. Produk dan statusnya
 
 | Produk | Status | Lokasi |
@@ -69,6 +79,7 @@
 | **Siaran pers global jelang COP31**, "Tungku untuk Produsen, Asap untuk Warga" | **Dikirim 7 Nov 2026** | Claude Doc https://claude.ai/artifact/EQPWUETUTHSac9dLfUeoNS, tab "Siaran pers global (7 Nov)" |
 | Siaran pers nasional | Ditunda | tab "Siaran pers nasional (ditunda)" di Doc yang sama; `reports/Draf rilis sampah.md` |
 | Policy brief "Hulu Dibiarkan, Hilir Dibakar" | Draf. Gaya Tempo Institute dan WALHI, ditandatangani WALHI sendiri | tab utama di Doc yang sama; `reports/Policy brief - Hulu Dibiarkan Hilir Dibakar.md`; `reports/Catatan penyusun policy brief.md` |
+| **Analisis struktural berlapis** (peristiwa, pola, struktur, model mental, mitos; uji penjelasan tandingan; titik ungkit) | Selesai 10 Nov 2026 | `reports/Analisis struktural krisis sampah.md` |
 | Rekonstruksi teori kebijakan Perpres 109/2025 | Selesai, untuk figur utama brief | `research_notes/.../rekonstruksi_teori_kebijakan_perpres109.md` |
 | Wawancara Tabloid Kontan (Adit Ramadhani; kontak dari Kak Uli; 9 pertanyaan sampah plastik) | Sedang dikerjakan | sesi https://claude.ai/code/session_01HPqUVK3RM5Qw5VcV9A6mCK; hasilnya ke `reports/Wawancara Kontan sampah plastik.md` |
 
@@ -100,6 +111,7 @@ Keputusan editorial yang berlaku:
 ## 8. Peta catatan riset
 
 Semua di `research_notes/Kebijakan sampah hulu hilir Indonesia/`:
+- **Analisis struktural:** `bukti_model_mental_dan_ekonomi_saset.md`, `ekonomi_politik_plastik_dan_tren.md`, `nota_kesepahaman_paviliun_cop31.md`.
 - **Kebijakan:** `peta_kebijakan.md`, `matriks_celah_kebijakan.md`, `status_regulasi_dan_pembanding.md`, `status_revisi_uu_sampah.md`, `rekonstruksi_teori_kebijakan_perpres109.md`.
 - **Rantai dan dampak:** `rantai_hulu_hilir.md`, `data_bakar_sampah_wilayah.md`, `bukti_pemulung_dan_beban_warga.md`, `tpa_gambut_karhutla.md`, `pltsa_pasokan_kalor.md`, `putri_cempo_bali_dan_abu.md`.
 - **Korporasi:** `akuntabilitas_korporasi.md`, `verifikasi_produsen_global.md`, `verifikasi_perusahaan_impor.md`.
