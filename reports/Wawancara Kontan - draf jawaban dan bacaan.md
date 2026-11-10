@@ -24,7 +24,7 @@ Saset murah diproduksi, mudah dijual, dan bisa menjangkau warung sampai ke pelos
 
 **5. Mengapa kemasan sachet sulit dikelola dan apakah masih memiliki peluang untuk didaur ulang secara ekonomis?**
 
-Secara ekonomis, tidak. Saset terbuat dari beberapa lapis plastik dan aluminium yang direkatkan, ukurannya kecil, dan kotor oleh sisa isinya. Ongkos mengumpulkan dan memisahkannya lebih besar daripada harga bahannya. Itu sebabnya pemulung, yang paling tahu nilai sampah, tidak memungutnya. Unilever pernah membangun pabrik percontohan daur ulang saset di Indonesia, dan menurut penelusuran jaringan organisasi lingkungan, pabrik itu berhenti sekitar dua tahun kemudian. Yang sekarang disebut "pengolahan" saset kebanyakan adalah membakarnya sebagai bahan bakar pabrik semen. Itu bukan daur ulang. Pertanyaannya bukan bagaimana mendaur ulang saset, melainkan kapan saset dikurangi.
+Tidak. Saset sulit dikelola bukan karena teknologinya belum ditemukan, tetapi karena sejak awal dirancang untuk dijual, bukan untuk dikumpulkan kembali. Bungkusnya terdiri atas lapisan plastik dan aluminium yang direkatkan, ukurannya kecil, dan kotor oleh sisa isinya. Ongkos mengumpulkan dan memisahkannya jauh lebih besar daripada harga bahannya. Pemulung, yang paling tahu nilai sampah, tidak memungutnya. Pabrik percontohan daur ulang saset yang pernah dibangun produsen besar di Indonesia pun berhenti dalam sekitar dua tahun. Yang sekarang sering disebut "mengolah" saset adalah membakarnya sebagai bahan bakar pabrik semen, dan membakar bukan mendaur ulang. Menurut kami, janji bahwa saset kelak bisa didaur ulang hanya membeli waktu. Yang masuk akal secara ekonomi adalah berhenti memproduksinya.
 
 **6. Apakah kapasitas industri daur ulang Indonesia sudah mampu menyerap sampah plastik yang dihasilkan?**
 
@@ -54,7 +54,7 @@ Kita sedang mengepel lantai sambil membiarkan kerannya terbuka. Produksi plastik
 1. **Izin dan peninjauan.** Pastikan ke Kak Uli bahwa kamu boleh menjawab atas nama WALHI dan siapa yang meninjau. Koordinasikan dengan Bang Wahyu.
 2. **Jawaban 2, cerita kampung di Kalimantan.** Kalimatnya diambil dari kutipan Paksi di rilis COP31. Pastikan sesuai pengalamannya.
 3. **Jawaban 4, tanpa kutipan luar negeri.** Kutipan Reuters, Sri Lanka, dan nama produsen dari audit merek dibuang atas permintaan Paksi (10 Nov). Isinya pendapat WALHI yang langsung ke pokok.
-4. **Jawaban 5, nama perusahaan.** Semuanya dengan atribusi ke audit atau penelusuran organisasi lingkungan. Unilever membantah penilaian soal pabrik sasetnya.
+4. **Jawaban 5, nama perusahaan.** Jawaban 5 tidak lagi menyebut nama. Pabrik percontohan yang dimaksud milik Unilever, menurut penelusuran GAIA dan Aliansi Zero Waste Indonesia (2022). Unilever membantah penilaian mereka, tetapi proyeknya memang dihentikan. Siapkan keterangan ini kalau Adit bertanya.
 5. **Jawaban 8, langkah ketiga.** Membuka data volume kemasan belum pernah menjadi tuntutan resmi WALHI. Minta persetujuan dulu.
 6. **Sumber angka bila ditanya:** 28 dari 842 (rilis KLH, Oktober 2026); delapan dari sepuluh rumah tangga desa (SKI 2023: 80,8 persen); 30 tahun (Perpres 109/2025).
 
