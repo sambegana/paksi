@@ -175,3 +175,27 @@ Teknik yang dipakai:
   - Pakai rumus lead "sambut, lalu namun" bila pemerintah menyinggung EPR.
   - Taruh satu kutipan tajam di paragraf 2–3.
   - Tutup dengan ukuran keberhasilan, misalnya: "Keberhasilan delegasi tidak diukur dari jumlah MoU, tetapi dari…".
+
+## 10. Sebelum menulis tuntutan: petakan dulu janji pemerintah
+
+Prinsip dari Paksi (10 Nov 2026): jangan menuntut hal yang sudah dipikirkan atau dijanjikan pemerintah, kecuali untuk menegaskan. Tuntutan yang kuat menyasar **selisih** antara janji dan isinya.
+
+Cara kerja: sebelum menulis tuntutan, baca rilis KLH terbaru tentang isu itu, lalu isi tiga kolom.
+
+| Sudah dijanjikan (cukup ditegaskan, lalu ditagih tenggatnya) | Dijanjikan tetapi isinya belum dibuka (tuntut dibuka dan diberi pengaman) | Tidak disentuh sama sekali (tuntutan baru) |
+|---|---|---|
+
+Contoh untuk tanggung jawab produsen atas kemasan, per November 2026 (rincian dan sumber di `reports/Wawancara Kontan sampah plastik.md`, branch `claude/wawancara-kontan`, dan `bukti_model_mental_dan_ekonomi_saset.md`):
+
+| Sudah dijanjikan | Isinya belum dibuka | Tidak disentuh |
+|---|---|---|
+| EPR dinaikkan dari sukarela menjadi wajib | Besaran iuran | Cukai plastik |
+| Produsen membayar iuran ke lembaga pengelola nirlaba, dihitung menurut volume dan jenis kemasan | Sanksi bagi yang tidak patuh | Batas produksi plastik baru |
+| Importir ikut bertanggung jawab | Apakah pembakaran dan RDF dihitung sebagai pemenuhan | Kewajiban guna ulang dan isi ulang |
+| Pemda diminta mempercepat aturan pembatasan plastik sekali pakai (SE Menteri LH 2/2026) | Apakah saset multilapis diatur | Data volume kemasan per produsen yang terbuka |
+| Kewajiban penuh 2028 | Apakah targetnya pengurangan atau hanya pengumpulan | Mandat dan dana layanan angkut untuk desa |
+| | Siapa yang duduk di lembaga pengelola; konsultasi Oktober 2026 melibatkan 74 entitas tanpa LSM dan pemulung | |
+
+Akibatnya untuk rumusan: "WALHI mendesak KLH menerbitkan EPR yang mengikat" lemah, karena itu sudah dijanjikan. Yang kuat: "WALHI meminta KLH membuka rancangan aturan itu ke publik dan memastikan tiga hal: sanksi yang berarti, pembakaran tidak dihitung, dan saset multilapis diatur."
+
+Pelajaran pembanding (Reuters, 2022): UU EPR Filipina lolos tanpa penghapusan bertahap plastik sekali pakai, dengan denda 5–20 juta peso, dan mengizinkan sampah yang terkumpul dibakar di pembangkit dan tanur semen. Pakai Filipina sebagai **peringatan** tentang lubang yang harus ditutup, bukan sebagai model keberhasilan. Cek status pelaksanaannya sebelum dikutip.
