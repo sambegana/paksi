@@ -1,0 +1,709 @@
+<title>Dosir Data Center AI Indonesia</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,400..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a field dossier. Single reading column (~68ch) with full-width figure plates; survey-sheet labels in mono. */
+:root{
+  --paper:#F3F6F5; --sheet:#FFFFFF; --ink:#13232B; --muted:#53646B; --rule:#CBD6D6;
+  --water:#0B6E78; --water-soft:#D5ECEC; --fossil:#4A4A44; --ochre:#B7791F; --ochre-soft:#F6E7CC;
+  --alert:#B33A2E; --alert-soft:#F7DEDA; --ok:#2F7D4F; --ok-soft:#DCEFE2;
+  --display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0E1619; --sheet:#152126; --ink:#E4ECEC; --muted:#9AAEB2; --rule:#2B3B41;
+  --water:#4FC0C8; --water-soft:#123A3F; --fossil:#B9B9AE; --ochre:#E2A64A; --ochre-soft:#3A2C14;
+  --alert:#F08070; --alert-soft:#3F1F1B; --ok:#6CC08D; --ok-soft:#173526; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0E1619; --sheet:#152126; --ink:#E4ECEC; --muted:#9AAEB2; --rule:#2B3B41;
+  --water:#4FC0C8; --water-soft:#123A3F; --fossil:#B9B9AE; --ochre:#E2A64A; --ochre-soft:#3A2C14;
+  --alert:#F08070; --alert-soft:#3F1F1B; --ok:#6CC08D; --ok-soft:#173526; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:18px;line-height:1.62;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 64px}
+a{color:var(--water);text-underline-offset:3px}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--water);outline-offset:3px;border-radius:2px}
+.wrap{max-width:1080px;margin:0 auto}
+.col{max-width:68ch}
+h1,h2,h3,h4{font-family:var(--display);line-height:1.12;text-wrap:balance;margin:0}
+h2{font-size:clamp(28px,4.2vw,40px);font-weight:800;font-stretch:88%;letter-spacing:-.01em}
+h3{font-size:22px;font-weight:750;font-stretch:92%}
+h4{font-size:17px;font-weight:700}
+p{margin:0}
+.flow{display:flex;flex-direction:column;gap:18px}
+.lbl{font-family:var(--mono);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.mono{font-family:var(--mono)}
+.num{font-variant-numeric:tabular-nums}
+small,.small{font-size:15px;color:var(--muted)}
+
+/* masthead */
+.mast{padding-block:28px 8px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--rule)}
+.hero{padding-block:44px 36px;display:grid;gap:28px}
+.hero h1{font-size:clamp(40px,7.4vw,84px);font-weight:900;font-stretch:78%;letter-spacing:-.02em;line-height:.98;max-width:15ch}
+.hero h1 em{font-style:normal;color:var(--water)}
+.lede{font-size:21px;max-width:60ch}
+.gauges{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.gauge{background:var(--sheet);padding:16px 18px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.gauge b{font-family:var(--display);font-size:34px;font-weight:800;font-stretch:85%;line-height:1}
+.gauge span{font-size:15px;color:var(--muted);line-height:1.4}
+
+/* toc */
+nav.toc{display:flex;flex-wrap:wrap;gap:8px 18px;padding-block:14px;border-block:1px solid var(--rule);font-family:var(--mono);font-size:13.5px}
+nav.toc a{text-decoration:none;color:var(--ink)}
+nav.toc a:hover{color:var(--water)}
+
+section{padding-block:56px 8px;display:flex;flex-direction:column;gap:22px}
+.sec-head{display:flex;flex-direction:column;gap:8px}
+
+/* persona council */
+.council{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+.pcard{background:var(--sheet);border:1px solid var(--rule);padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.pcard .who{font-family:var(--mono);font-size:12.5px;color:var(--water)}
+.pcard p{font-size:16px;line-height:1.5}
+
+/* mind map */
+.mm{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:820px){.mm{grid-template-columns:1fr}}
+.mm-svg{background:var(--sheet);border:1px solid var(--rule);overflow-x:auto}
+.mm-svg svg{display:block;width:100%;height:auto;min-width:520px}
+.mm-node{cursor:pointer}
+.mm-node rect{fill:var(--sheet);stroke:var(--rule);stroke-width:1.2}
+.mm-node text{fill:var(--ink);font-family:var(--display);font-size:13.5px;font-weight:650}
+.mm-node.on rect{fill:var(--water);stroke:var(--water)}
+.mm-node.on text{fill:var(--sheet)}
+.mm-node:focus-visible rect{stroke:var(--water);stroke-width:2.5}
+.mm-root circle{fill:var(--ink)}
+.mm-root text{fill:var(--paper);font-family:var(--display);font-weight:800;font-size:15px}
+.mm-edge{stroke:var(--rule);stroke-width:1.5;fill:none}
+.mm-edge.on{stroke:var(--water);stroke-width:2.5}
+.panel{background:var(--sheet);border:1px solid var(--rule);padding:18px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.panel ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.panel li{display:grid;grid-template-columns:auto 1fr;gap:10px;font-size:16px;line-height:1.45;padding-bottom:10px;border-bottom:1px solid var(--rule)}
+.panel li:last-child{border-bottom:0;padding-bottom:0}
+.tags{display:flex;gap:4px;flex-direction:column;align-items:flex-start}
+.tag{font-family:var(--mono);font-size:11px;letter-spacing:.04em;padding:2px 6px;border-radius:2px;white-space:nowrap;line-height:1.4}
+.t-id{background:var(--ochre-soft);color:var(--ochre)}
+.t-gl{background:var(--water-soft);color:var(--water)}
+.c-t{background:var(--ok-soft);color:var(--ok)}
+.c-s{background:var(--paper);color:var(--muted);border:1px solid var(--rule)}
+.c-r{background:var(--alert-soft);color:var(--alert)}
+.legend{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;font-size:14px;color:var(--muted)}
+details.outline{background:var(--sheet);border:1px solid var(--rule);padding:12px 16px}
+details.outline summary{cursor:pointer;font-family:var(--mono);font-size:14px}
+details.outline ol{margin:12px 0 0;padding-left:22px;font-size:16px;display:flex;flex-direction:column;gap:8px}
+details.outline ol ul{padding-left:18px;margin:4px 0 0;color:var(--muted)}
+
+/* figures */
+figure{margin:0;background:var(--sheet);border:1px solid var(--rule);padding:18px 18px 14px;display:flex;flex-direction:column;gap:10px;min-width:0}
+figure .fig-n{font-family:var(--mono);font-size:12.5px;color:var(--water);letter-spacing:.06em}
+figure h4{font-size:18px}
+figcaption{font-size:14.5px;color:var(--muted);line-height:1.45}
+.chart{overflow-x:auto}
+.chart svg{display:block;width:100%;height:auto}
+.chart text{font-family:var(--mono);font-size:12px;fill:var(--muted)}
+.chart .v{fill:var(--ink);font-weight:500}
+.chart .grid{stroke:var(--rule);stroke-width:1}
+.figrow{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,440px),1fr));gap:16px}
+
+/* chain + leakage */
+.chain{display:flex;flex-wrap:wrap;gap:6px;align-items:stretch}
+.link{flex:1 1 120px;background:var(--paper);border:1px solid var(--rule);padding:10px;display:flex;flex-direction:column;gap:4px;min-width:0;position:relative}
+.link b{font-family:var(--display);font-size:15px}
+.link span{font-size:13.5px;line-height:1.35;color:var(--muted)}
+.link.id{border-color:var(--ochre);background:var(--ochre-soft)}
+.link.id span{color:var(--ink)}
+.leak{display:grid;grid-template-columns:1fr auto 1fr auto 1fr;gap:8px;align-items:stretch}
+.leak .arrow{align-self:center;font-family:var(--mono);color:var(--muted);font-size:20px}
+@media (max-width:700px){.leak{grid-template-columns:1fr}.leak .arrow{transform:rotate(90deg);justify-self:center}}
+.leak .stop{background:var(--paper);border:1px solid var(--rule);padding:12px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.leak .stop.last{border:2px solid var(--alert)}
+.leak .stop p{font-size:14.5px;line-height:1.4}
+
+/* stories */
+.story{border-left:3px solid var(--water);padding:4px 0 4px 18px;display:flex;flex-direction:column;gap:10px}
+.story.id{border-left-color:var(--ochre)}
+blockquote{margin:0;font-style:italic;font-size:19px}
+.src{font-size:14px;color:var(--muted)}
+
+/* hotspots */
+.spots{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.spot{background:var(--sheet);border:1px solid var(--rule);padding:16px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.spot .top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.pill{font-family:var(--mono);font-size:11.5px;padding:3px 8px;border-radius:99px;white-space:nowrap}
+.p-konflik{background:var(--alert-soft);color:var(--alert)}
+.p-bangun{background:var(--ochre-soft);color:var(--ochre)}
+.p-rencana{background:var(--water-soft);color:var(--water)}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:15px;line-height:1.4}
+.kv dt{font-family:var(--mono);font-size:12px;color:var(--muted);padding-top:2px}
+.kv dd{margin:0}
+.spot p{font-size:15.5px;line-height:1.45}
+
+/* timeline */
+.tl{list-style:none;margin:0;padding:0;border-left:2px solid var(--rule);display:flex;flex-direction:column;gap:14px}
+.tl li{padding-left:18px;position:relative;font-size:16px;line-height:1.45}
+.tl li::before{content:"";position:absolute;left:-7px;top:7px;width:12px;height:12px;border-radius:50%;background:var(--sheet);border:2px solid var(--water)}
+.tl li.hot::before{background:var(--alert);border-color:var(--alert)}
+.tl li.next::before{background:var(--ochre);border-color:var(--ochre)}
+.tl .d{font-family:var(--mono);font-size:13px;color:var(--muted);display:block}
+
+/* tables */
+.tbl{overflow-x:auto;border:1px solid var(--rule);background:var(--sheet)}
+table{border-collapse:collapse;width:100%;font-size:15px;line-height:1.4}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:var(--mono);font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:500;background:var(--paper)}
+tr:last-child td{border-bottom:0}
+
+/* callouts */
+.note{background:var(--ochre-soft);border:1px solid var(--ochre);padding:14px 16px;font-size:16px;line-height:1.5}
+.warn{background:var(--alert-soft);border:1px solid var(--alert);padding:14px 16px;font-size:16px;line-height:1.5}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:14px}
+.box{background:var(--sheet);border:1px solid var(--rule);padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.box ul,.box ol{margin:0;padding-left:20px;font-size:16px;line-height:1.5;display:flex;flex-direction:column;gap:6px}
+.dont{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:14px}
+.dont .box{gap:6px}
+.dont .x{font-family:var(--mono);font-size:13px;color:var(--alert);text-decoration:line-through}
+.dont .y{font-size:16px}
+footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--rule);font-size:14px;color:var(--muted);display:flex;flex-direction:column;gap:8px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <span class="lbl">Dosir advokasi · disusun 15 November 2026</span>
+    <span class="lbl">8 agen riset ber-persona · untuk pengkampanye WALHI</span>
+  </header>
+
+  <div class="hero">
+    <h1>Awan digital yang <em>minum dari waduk</em> kita</h1>
+    <p class="lede">Data center AI di Indonesia sedang tumbuh dari ratusan megawatt menuju skala gigawatt. Listriknya datang dari jaringan yang 82% fosil, airnya dari waduk tadah hujan, izinnya lewat celah kawasan industri. Di Batam dan Jatiluhur, warga sudah merasakannya. Dosir ini memetakan masalahnya dari global ke tapak, lalu menyusun apa yang perlu dilakukan.</p>
+    <div class="gauges">
+      <div class="gauge"><b class="num">550–700 MW</b><span>kapasitas data center yang beroperasi di Indonesia hari ini (tak ada angka resmi tunggal)</span></div>
+      <div class="gauge"><b class="num">±6–7 GW</b><span>pipeline proyek bernama, ±10× hari ini; lebih dari separuh baru pengumuman</span></div>
+      <div class="gauge"><b class="num">+20 GW</b><span>permintaan listrik data center menurut PLN, <em>di luar</em> rencana RUPTL 69,5 GW</span></div>
+      <div class="gauge"><b class="num">±80 L/detik</b><span>surplus air Batam saat ini. Satu skenario data center butuh 5–7× lipatnya</span></div>
+    </div>
+  </div>
+
+  <nav class="toc" aria-label="Daftar isi">
+    <a href="#dewan">Dewan persona</a>
+    <a href="#peta">Peta masalah</a>
+    <a href="#global">Kisah global</a>
+    <a href="#indonesia">Indonesia</a>
+    <a href="#hukum">Celah hukum</a>
+    <a href="#strategi">Strategi</a>
+    <a href="#jaga">Batas klaim</a>
+    <a href="#cek">Perlu dicek</a>
+  </nav>
+
+  <!-- ===================== DEWAN ===================== -->
+  <section id="dewan">
+    <div class="sec-head col">
+      <span class="lbl">Bagian 1</span>
+      <h2>Dewan persona</h2>
+      <p>Delapan agen riset bekerja paralel, masing-masing memakai lensa analitis tokoh nyata. Lensa itu cara berpikir, bukan juru bicara: tidak ada kutipan yang dikarang. Kutipan di dosir ini hanya yang ditemukan sumbernya.</p>
+    </div>
+    <div class="council">
+      <div class="pcard"><span class="who">Orang dalam AI</span><h4>Timnit Gebru · Mrinank Sharma</h4><p>Gebru (eks-Google, <i>Stochastic Parrots</i> 2021) sejak awal bertanya siapa yang menanggung biaya lingkungan model raksasa. Sharma memimpin riset safeguards di Anthropic, mundur 9 Feb 2026: "The world is in peril."</p></div>
+      <div class="pcard"><span class="who">Ilmuwan lingkungan</span><h4>Luccioni · Shaolei Ren · de Vries-Gao · IEA</h4><p>Mengukur listrik, air, emisi. Temuan kunci: iklim tropis lembap adalah tempat paling boros air untuk mendinginkan server.</p></div>
+      <div class="pcard"><span class="who">Paham AI dan lingkungan</span><h4>Karen Hao · Kate Crawford</h4><p>AI sebagai rantai ekstraksi dari tambang ke e-waste. 15 kasus perlawanan warga di dunia, dari Memphis sampai Johor.</p></div>
+      <div class="pcard"><span class="who">Jurnalis investigasi</span><h4>Gaya Tempo · Gecko Project</h4><p>Inventaris proyek, pemilik, kapasitas, aliran uang. Temuan: tak ada register nasional data center.</p></div>
+      <div class="pcard"><span class="who">Ahli dampak lapangan</span><h4>Gaya IESR · Ember · JATAM</h4><p>Listrik Batam yang terisolasi, neraca air yang tipis, siapa yang antre jeriken.</p></div>
+      <div class="pcard"><span class="who">Ekonom skeptis</span><h4>Acemoglu · Mazzucato · CELIOS</h4><p>Gelembung belanja AI, siapa menanggung risiko, lapangan kerja per rupiah.</p></div>
+      <div class="pcard"><span class="who">Ahli hukum lingkungan</span><h4>Gaya ICEL</h4><p>Celah AMDAL kawasan, Perpres AI yang belum terbit, tuas hukum dari yang termurah sampai terberat.</p></div>
+      <div class="pcard"><span class="who">Ahli strategi kampanye</span><h4>Gary Cook · Marshall Ganz</h4><p>Cook memimpin kampanye "Clicking Clean" Greenpeace yang memaksa raksasa teknologi berjanji energi terbarukan. Ganz: narasi publik dan kekuatan terorganisir.</p></div>
+    </div>
+  </section>
+
+  <!-- ===================== PETA ===================== -->
+  <section id="peta">
+    <div class="sec-head col">
+      <span class="lbl">Bagian 2</span>
+      <h2>Peta masalah</h2>
+      <p>Sepuluh cabang masalah AI dan data center. Pilih satu cabang untuk melihat rinciannya. Setiap butir diberi tanda cakupan (global atau Indonesia) dan tingkat keyakinan bukti, supaya kamu tahu mana yang bisa dipakai di depan publik dan mana yang masih perlu diperkuat.</p>
+    </div>
+    <div class="legend">
+      <span class="tag t-gl">GLOBAL</span><span class="tag t-id">INDONESIA</span>
+      <span class="tag c-t">bukti kuat</span><span class="tag c-s">bukti sedang</span><span class="tag c-r">bukti lemah</span>
+    </div>
+    <div class="mm">
+      <div class="mm-svg" id="mmsvg" role="group" aria-label="Peta masalah, pilih cabang"></div>
+      <div class="panel" id="mmpanel" aria-live="polite"></div>
+    </div>
+    <details class="outline">
+      <summary>Lihat seluruh peta sebagai daftar</summary>
+      <ol id="mmlist"></ol>
+    </details>
+  </section>
+
+  <!-- ===================== GLOBAL ===================== -->
+  <section id="global">
+    <div class="sec-head col">
+      <span class="lbl">Bagian 3</span>
+      <h2>Bagaimana sebuah awan menjadi haus</h2>
+    </div>
+
+    <div class="col flow">
+      <p>Di dalam laboratorium AI ada satu keyakinan yang menggerakkan semuanya: kemampuan model naik secara terprediksi kalau komputasi, data, dan parameter ditambah. Epoch AI menghitung komputasi untuk melatih model terdepan tumbuh empat sampai lima kali setiap tahun. Selama keyakinan itu dipegang, lab mana pun yang berhenti membangun merasa tertinggal.</p>
+      <p>Keyakinan itu kini berwujud beton dan trafo. Empat perusahaan cloud terbesar (Amazon, Alphabet, Microsoft, Meta) membelanjakan sekitar US$413 miliar untuk infrastruktur pada 2025, dan panduan mereka untuk 2026 sekitar US$720–760 miliar. Bain memperkirakan, untuk membiayai semua itu industri butuh pendapatan US$2 triliun per tahun pada 2030, dan proyeksinya kurang sekitar US$800 miliar. IMF, BIS, dan Bank of England sepanjang 2026 memperingatkan pembiayaan yang makin berutang dan saling melingkar.</p>
+      <p>Hasil fisiknya bisa diukur. Menurut IEA, data center dunia memakai 416 TWh listrik pada 2024 dan 485 TWh pada 2025. Proyeksinya hampir dua kali lipat menjadi sekitar 945 TWh pada 2030. Sebagai pembanding, seluruh penjualan listrik PLN pada 2025 adalah 317,69 TWh.</p>
+    </div>
+
+    <div class="figrow">
+      <figure>
+        <span class="fig-n">GAMBAR 1</span>
+        <h4>Listrik data center dunia, TWh per tahun</h4>
+        <div class="chart" id="fig1"></div>
+        <figcaption>Sumber: IEA, <i>Energy and AI</i> (2025) dan <i>Key Questions on Energy and AI</i> (2026), Base Case. Garis putus: penjualan listrik PLN 2025 (317,69 TWh). Batang 2030 diberi rentang skenario 833–1.008 TWh.</figcaption>
+      </figure>
+      <figure>
+        <span class="fig-n">GAMBAR 2</span>
+        <h4>Kenaikan emisi total perusahaan sejak tahun dasar</h4>
+        <div class="chart" id="fig2"></div>
+        <figcaption>Sumber: laporan keberlanjutan resmi 2026. Google dan Amazon dibanding 2019; Microsoft dibanding tahun fiskal 2020. Microsoft sendiri menyebut ekspansi data center AI sebagai pendorong utama kenaikan 25% dalam setahun terakhir.</figcaption>
+      </figure>
+    </div>
+
+    <div class="col flow">
+      <p>Perusahaan menjawab dengan sertifikat. Dengan metode "berbasis pasar", perusahaan boleh mengurangi emisi di atas kertas dengan membeli sertifikat energi terbarukan, walaupun listrik yang benar-benar mengalir ke server berasal dari jaringan yang sama. Contoh paling telanjang ada di laporan Meta sendiri.</p>
+    </div>
+
+    <figure>
+      <span class="fig-n">GAMBAR 3</span>
+      <h4>Emisi listrik data center Meta 2024, dua cara menghitung</h4>
+      <div class="chart" id="fig3"></div>
+      <figcaption>Sumber: Meta Environmental Data Index 2025. Selisihnya sekitar 43.000 kali. Contoh lain: Google di Singapura punya efisiensi fasilitas yang bagus (PUE 1,13), tetapi hanya sekitar 5% listriknya bebas karbon bila dihitung per jam.</figcaption>
+    </figure>
+
+    <div class="col flow">
+      <h3>Kenapa iklim tropis paling haus</h3>
+      <p>Server mengubah hampir seluruh listrik menjadi panas, dan panas itu harus dibuang. Di Irlandia, udara luar yang dingin bisa dipakai gratis hampir sepanjang tahun. Di Jakarta dan Batam, udara panas dan lembap memaksa operator memilih: lebih banyak listrik untuk chiller, atau lebih banyak air untuk menara pendingin evaporatif. IEA mencatat efisiensi air pendinginan langsung di Asia Pasifik sekitar 1,65 liter per kWh, lebih dari tiga kali rata-rata global.</p>
+      <p>Data Microsoft sendiri memperlihatkannya. Dari 29 lokasi data center yang dilaporkan untuk tahun fiskal 2025, Jakarta punya intensitas penarikan air tertinggi.</p>
+    </div>
+
+    <figure>
+      <span class="fig-n">GAMBAR 4</span>
+      <h4>Penarikan air per kWh listrik, data center Microsoft, FY2025</h4>
+      <div class="chart" id="fig4"></div>
+      <figcaption>Dihitung dari tabel 15 Microsoft Environmental Data Fact Sheet 2026 (penarikan air dibagi listrik). Ini penarikan, bukan konsumsi bersih, dan fasilitas Jakarta tergolong kecil. Pakai sebagai indikasi pola tropis, bukan vonis atas satu fasilitas. Hampir seluruh air data center Singapura berasal dari sumber non-minum.</figcaption>
+    </figure>
+
+    <div class="col flow">
+      <h3>AI sebagai rantai ekstraksi</h3>
+      <p>Karen Hao dan Kate Crawford membaca AI bukan sebagai "awan" yang ringan, melainkan rantai ekstraksi yang panjang. Bagi WALHI, kerangka ini akrab: beban fisik ditaruh di Selatan, nilai dan kendali tetap di Utara. Indonesia kebetulan berada di dua ujungnya sekaligus.</p>
+    </div>
+
+    <figure>
+      <span class="fig-n">GAMBAR 5</span>
+      <h4>Tujuh mata rantai ekstraksi AI, dan posisi Indonesia</h4>
+      <div class="chain">
+        <div class="link"><b>Mineral</b><span>tembaga, galium, silikon, tanah jarang</span></div>
+        <div class="link id"><b>Energi</b><span>grid 82% fosil, PLTG baru Batam, ancaman captive</span></div>
+        <div class="link id"><b>Air</b><span>Duriangkang, Jatiluhur, air baku Batang</span></div>
+        <div class="link id"><b>Lahan</b><span>KEK, kawasan industri, pulau kecil, pesisir</span></div>
+        <div class="link"><b>Tenaga kerja</b><span>pelabel data Kenya, Filipina; indikasi di Indonesia</span></div>
+        <div class="link"><b>Data</b><span>bahasa, wajah, karya, tanpa persetujuan bermakna</span></div>
+        <div class="link"><b>E-waste</b><span>GPU berumur 3–5 tahun; 0,4–2,5 juta ton/thn pada 2030</span></div>
+      </div>
+      <figcaption>Kotak berwarna: mata rantai yang bebannya sudah atau akan jatuh di Indonesia dengan bukti kuat. Indonesia juga hulu nikel dan timah, tetapi kaitan nikel ke data center <b>lemah</b> (lihat bagian Batas klaim).</figcaption>
+    </figure>
+
+    <div class="col flow">
+      <h3>Tiga kisah dari luar negeri yang perlu kamu ceritakan</h3>
+      <div class="story">
+        <h4>Uruguay dan Chile: siapa memegang data air, dia memegang narasi</h4>
+        <p>Pada 2023 Uruguay dilanda kekeringan terparah dalam puluhan tahun. Saat itu terungkap Google merencanakan 7,6 juta liter air minum per hari untuk mendinginkan server. Fakta itu tidak diumumkan perusahaan. Ia terbuka karena peneliti Daniel Pena menggugat hak atas informasi dan menang. Di Chile, warga Cerrillos bersama MOSACAT membawa proyek serupa ke pengadilan lingkungan, dan izinnya dibatalkan sebagian pada 2024. Google lalu mengganti desain ke pendingin udara di kedua negara.</p>
+        <p>Ada ekornya. Pada Oktober 2026, badan evaluasi lingkungan Chile memutuskan desain baru itu tak wajib evaluasi penuh. Solusi teknis bisa berubah menjadi jalan pintas menghindari pengawasan publik.</p>
+        <p class="src">Sumber: Mongabay (2023), DCD, BioBioChile (19 Okt 2026). Karen Hao kepada Democracy Now (4 Jun 2025): perusahaan itu "proposed for their data center to use a thousand times more freshwater than that community used annually".</p>
+      </div>
+      <div class="story">
+        <h4>Memphis: turbin dulu, izin belakangan</h4>
+        <p>xAI membangun superkomputer Colossus di Boxtown, kampung mayoritas kulit hitam yang sudah lama dikepung industri. Untuk mengejar waktu, perusahaan menyalakan puluhan turbin gas tanpa izin udara. NAACP, diwakili SELC, menggugat. Pemerintah federal ikut membela xAI dengan dalih keamanan nasional. Pada 31 Oktober 2026 hakim tetap menolak permohonan pembatalan gugatan.</p>
+        <p>Pelajarannya untuk Indonesia: begitu proyek diberi label strategis nasional, hukum lingkungan mudah dikesampingkan. Itu yang harus dicegah dari doktrin "bawa energi sendiri" Danantara.</p>
+        <p class="src">Sumber: TechCrunch (31 Okt 2026), Electrek, SELC/Earthjustice.</p>
+      </div>
+      <div class="story">
+        <h4>Querétaro dan Aragón: janji pekerjaan yang menguap</h4>
+        <p>Di Querétaro, Meksiko, Microsoft menjanjikan 300.000 pekerjaan. Data perusahaan sendiri menunjukkan 64 orang bekerja di satu data center, sementara warga Viborillas mendapat air tiga hari seminggu. Aktivis Teresa Roldán menerima ancaman pembunuhan. Di Aragón, Spanyol, dari 1.300 pekerjaan yang dijanjikan, hanya 30–70 yang terwujud.</p>
+        <p class="src">Sumber: Context/Thomson Reuters Foundation; El Salto (Agu 2026).</p>
+      </div>
+    </div>
+
+    <div class="col flow">
+      <h3>Beban yang bocor ke selatan</h3>
+      <p>Moratorium di satu tempat tidak menghapus permintaan. Ia memindahkannya ke yurisdiksi dengan pengawasan paling lemah. Industri sendiri menyebut Johor dan Batam "pasar limpahan" Singapura.</p>
+    </div>
+    <figure>
+      <span class="fig-n">GAMBAR 6</span>
+      <h4>Rantai kebocoran beban data center</h4>
+      <div class="leak">
+        <div class="stop"><span class="lbl">Singapura</span><p>Moratorium izin baru 2019–2022, lalu kapasitas dijatah ketat. Data center ±10% listrik nasional.</p></div>
+        <div class="arrow" aria-hidden="true">→</div>
+        <div class="stop"><span class="lbl">Johor</span><p>Tarif air khusus RM5,33/m³ (Agu 2025). Tier 1–2 dihentikan (Nov 2025). Sejak Mar 2026 hanya Tier 3–4 berpendingin udara, wajib air daur ulang.</p></div>
+        <div class="arrow" aria-hidden="true">→</div>
+        <div class="stop last"><span class="lbl">Batam</span><p>Pipeline 1,47 GW. Surplus air ±80 L/detik. Belum ada tarif khusus, standar efisiensi, atau moratorium.</p></div>
+      </div>
+      <figcaption>Implikasinya: tuntutan WALHI sebaiknya berupa standar yang berlaku di mana pun, bukan penolakan per lokasi saja. Kalau Batam menolak tanpa aturan, bebannya bisa pindah ke Bintan atau Jawa.</figcaption>
+    </figure>
+  </section>
+
+  <!-- ===================== INDONESIA ===================== -->
+  <section id="indonesia">
+    <div class="sec-head col">
+      <span class="lbl">Bagian 4</span>
+      <h2>Indonesia: yang sudah terjadi dan yang sedang datang</h2>
+      <p>Dugaanmu tepat: titik masalah utama Indonesia ada di data center. Lebih tepatnya di tiga hal yang saling mengunci, yaitu listrik yang masih fosil, air yang sudah tipis, dan izin yang tertutup.</p>
+    </div>
+
+    <div class="col flow">
+      <div class="story id">
+        <h4>Sambau, Nongsa: "Air mati sejak ada data center"</h4>
+        <p>Pada 5 Oktober 2026, sekitar 300 warga RT 03 RW 02 Kavling Sambau berdiri di depan gerbang Nongsa Digital Park sambil membawa galon kosong. Air di rumah mereka sudah enam bulan menyala-mati, lalu mati total tiga bulan. Ketua RT Andi Lalang jujur soal batas klaimnya: "Ada kemungkinan besar. Saya tidak pernah mengatakan 100 persen."</p>
+        <p>Dua minggu sebelumnya, ratusan warga mendatangi KEK Nongsa. Media lokal Terasbatam melaporkan pasokan ke data center terus mengalir lewat pipa khusus dari Waduk Duriangkang ketika keran warga kering. BP Batam membantah dan menyalahkan El Niño: produksi instalasi air Nongsa turun dari 90 ke 25 liter per detik. Jawaban direktur SDM kawasan itu kepada warga: "Penyediaan air untuk masyarakat warga itu kan bukan di kami."</p>
+        <p>Di Teluk Mata Ikan, Rahmat (52) bercerita kepada AFP bahwa warga memakai air laut untuk cebok. Sulastri (38) menyebut air tangki pemerintah "berbau, kekuningan". Usaha es batu berhenti.</p>
+        <p class="src">Sumber: detik, BatamNow, Terasbatam (24 Sep 2026), VnExpress/AFP (12 Nov 2026), The Star/AFP (8 Nov 2026).</p>
+      </div>
+      <div class="story id">
+        <h4>Jatiluhur: gubernur menghentikan proyek enam hari setelah peletakan batu pertama</h4>
+        <p>BDx, operator yang 25% saham anak usaha Indonesianya dipegang Indosat, merancang kampus AI hingga 640 MW di dekat Waduk Jatiluhur, dengan kontrak listrik PLN 788 MVA. Kebutuhan airnya 384 liter per detik, hampir sama dengan seluruh pemakaian historis PDAM Purwakarta dari waduk itu. Konstruksi sudah jalan sebelum AMDAL dan izin bangunan terbit. Gubernur Jawa Barat menghentikannya: "warga Purwakarta yang berkorban untuk kepentingan Jatiluhur harus mendapat akses air. Tidak boleh terganggu."</p>
+        <p>Asosiasi industri IDPRO langsung menyuarakan kekhawatiran soal iklim investasi. Proyek ini dijanjikan menyerap 2.000–3.000 pekerja. Dengan rasio staf data center internasional, pekerja permanennya kira-kira 18–42 orang.</p>
+        <p class="src">Sumber: Katadata (4 Okt 2026), ANTARA, Bapenda Jabar. Angka 18–42 adalah hitungan kasar dari rasio 0,15–0,35 staf per MW untuk 120 MW, bukan data proyek.</p>
+      </div>
+    </div>
+
+    <div class="figrow">
+      <figure>
+        <span class="fig-n">GAMBAR 7</span>
+        <h4>Neraca air Batam vs kebutuhan data center, liter per detik</h4>
+        <div class="chart" id="fig7"></div>
+        <figcaption>Surplus: kebutuhan 3.700 vs produksi 4.500 L/detik dikurangi kehilangan 16% (Batam Pos). Skenario A: 605 MW proyeksi PLN 2034; B: pipeline BP Batam 1,47 GW IT. Intensitas air 70–102 m³ per MW per hari. Hitungan agen riset; sensitif terhadap jenis pendingin.</figcaption>
+      </figure>
+      <figure>
+        <span class="fig-n">GAMBAR 8</span>
+        <h4>Sistem listrik Batam yang terisolasi, MW</h4>
+        <div class="chart" id="fig8"></div>
+        <figcaption>Batam tidak tersambung ke jaringan nasional. Kontrak tiga data center (DayOne 511, Altiva 690, NeutraDC-Nxera 90) dalam MVA, sudah melampaui beban puncak kota. Pembangkit baru yang direncanakan adalah gas. Sumber: Batam Pos (10 Nov 2026), BMI.</figcaption>
+      </figure>
+    </div>
+
+    <div class="col flow">
+      <h3>Kronologi</h3>
+      <ul class="tl">
+        <li><span class="d">Jun 2024</span>Ransomware melumpuhkan Pusat Data Nasional Sementara 2 di Surabaya; 239 instansi terdampak, tanpa cadangan.</li>
+        <li class="hot"><span class="d">Des 2024</span>Warga Teluk Mata Ikan protes di depan kawasan data center KEK Nongsa: kawasan industri teraliri, rumah kering.</li>
+        <li><span class="d">27 Mei 2025</span>Microsoft membuka region cloud "Indonesia Central" (Karawang dan Cikarang). Kapasitasnya tidak diungkap.</li>
+        <li class="hot"><span class="d">19 Sep 2026</span>Ratusan warga mendatangi KEK Nongsa. BP Batam lalu "mewajibkan" data center membangun desalinasi sendiri, tanpa dasar hukum tertulis yang ditemukan.</li>
+        <li class="hot"><span class="d">Akhir Sep 2026</span>Gubernur Jabar menghentikan konstruksi kampus AI BDx Jatiluhur karena AMDAL dan PBG belum ada.</li>
+        <li class="hot"><span class="d">5 Okt 2026</span>Sekitar 300 warga Sambau memblokade gerbang Nongsa Digital Park.</li>
+        <li><span class="d">Okt 2026</span>PLN dan Menteri ESDM menyebut kebutuhan listrik data center ±20 GW di luar RUPTL. Danantara meminta proyek data center AI di atas 500 MW membangun pembangkit sendiri.</li>
+        <li><span class="d">4 Nov 2026</span>Kemenkeu menyatakan tax holiday tidak diperpanjang; insentif pengganti sedang dirancang.</li>
+        <li><span class="d">8–12 Nov 2026</span>AFP memberitakan krisis air Batam ke dunia. Wali Kota sekaligus Kepala BP Batam membantah data center sebagai penyebab.</li>
+        <li class="next"><span class="d">3–4 Des 2026</span>Danantara dijadwalkan mengumumkan investasi data center dan AI di New Asia Forum, Bali, termasuk rencana data center 1 GW.</li>
+      </ul>
+    </div>
+
+    <div class="col flow">
+      <h3>Titik panas: yang sudah ada dan yang sedang datang</h3>
+      <p>Diurutkan dari yang paling mendesak. Status: <span class="pill p-konflik">konflik terjadi</span> <span class="pill p-bangun">sedang dibangun</span> <span class="pill p-rencana">rencana</span></p>
+    </div>
+    <div class="spots">
+      <div class="spot"><div class="top"><h4>Nongsa, Batam</h4><span class="pill p-konflik">konflik terjadi</span></div>
+        <dl class="kv"><dt>Proyek</dt><dd>KEK Nongsa Digital Park: DayOne 72 MW (penyewa Oracle), BW Digital, PDG, Racks Central; EGSB Teluk Mata Ikan hingga 580 MW (US$5 miliar)</dd><dt>Air</dt><dd>Waduk Duriangkang dan Nongsa; 10 data center butuh ±32 juta L/hari pada 2032 (8,4% pasokan kota)</dd></dl>
+        <p>Prioritas tertinggi. Konflik air nyata, sengketa data soal pipa khusus, dugaan cut-and-fill di area berpapan hutan lindung di Teluk Mata Ikan (satu sumber, belum terverifikasi).</p></div>
+      <div class="spot"><div class="top"><h4>Kabil, Batam</h4><span class="pill p-bangun">sedang dibangun</span></div>
+        <dl class="kv"><dt>Proyek</dt><dd>DayOne + Firmus "AI Factory" 360 MW dengan hingga 170.000 akselerator NVIDIA; NeutraDC–Nxera (Telkom, Singtel)</dd><dt>Listrik</dt><dd>Kontrak 511 MVA, terbesar di Indonesia; target Q1 2027</dd></dl>
+        <p>NeutraDC saja butuh hingga 3 juta L/hari, hampir separuh pasokan air kawasan Kabil.</p></div>
+      <div class="spot"><div class="top"><h4>Jatiluhur, Purwakarta</h4><span class="pill p-konflik">dihentikan</span></div>
+        <dl class="kv"><dt>Proyek</dt><dd>BDx CGK4, 72 MW beroperasi, ekspansi hingga 640 MW; rencana INET 180–200 ha di dekatnya</dd><dt>Air</dt><dd>384 L/detik dari waduk, ±33.000 m³/hari</dd></dl>
+        <p>Preseden penghentian. Pertanyaannya sekarang: apakah AMDAL yang akan disusun menghitung skenario kekeringan, emisi, dan genset?</p></div>
+      <div class="spot"><div class="top"><h4>Batang, Jawa Tengah</h4><span class="pill p-rencana">rencana</span></div>
+        <dl class="kv"><dt>Proyek</dt><dd>Zankore (Ooredoo, Indosat, NVIDIA, Nokia) 200 MW fase 1, target 1 GW; Nextier 60 MW</dd><dt>Air</dt><dd>Sistem air baku APBN 285 L/detik; fase 1 bisa menyerap &gt;30%</dd></dl>
+        <p>Tanah amblas 6–20 cm per tahun. Sumber listrik dan teknologi pendingin belum diungkap.</p></div>
+      <div class="spot"><div class="top"><h4>Bintan, Kepri</h4><span class="pill p-rencana">rencana</span></div>
+        <dl class="kv"><dt>Proyek</dt><dd>DCI H3 "Sky DC Park" bersama Gallant Venture (Grup Salim), &gt;1 GW, ±700 ha</dd><dt>Listrik</dt><dd>Awalnya pembangkit fosil, lalu surya + gas milik Gallant (US$2,7–3 miliar)</dd></dl>
+        <p>Pulau kecil dan kandidat terkuat pembangkit captive. Kepri sudah punya 4,75 GW PLTU captive yang diumumkan untuk industri lain.</p></div>
+      <div class="spot"><div class="top"><h4>Koridor Bekasi–Karawang</h4><span class="pill p-bangun">sedang dibangun</span></div>
+        <dl class="kv"><dt>Proyek</dt><dd>Digital Edge 500 MW→1 GW (US$4,5 miliar), PDG 360 MW, STT ±200 MW, DCI H1/H2, Microsoft, AWS, CoreWeave 360 MW</dd><dt>Konteks</dt><dd>Subsiden 10–15 cm/thn di kawasan industri Bekasi; grid Jawa-Bali ±0,87 tCO₂/MWh</dd></dl>
+        <p>Konsentrasi skala gigawatt terbesar. Dampak kumulatif terhadap air dan listrik belum pernah dikaji. Sumber air tiap data center tidak terbuka.</p></div>
+      <div class="spot"><div class="top"><h4>Doktrin "bawa energi sendiri"</h4><span class="pill p-rencana">kebijakan</span></div>
+        <dl class="kv"><dt>Aktor</dt><dd>Danantara, untuk proyek data center AI &gt;500 MW</dd><dt>Risiko</dt><dd>Melegitimasi pembangkit captive fosil di luar RUPTL, lewat celah PSN di Perpres 112/2022</dd></dl>
+        <p>Momen terdekat: New Asia Forum, Bali, 3–4 Desember 2026.</p></div>
+      <div class="spot"><div class="top"><h4>BSD, Tangerang Selatan</h4><span class="pill p-bangun">keluhan warga</span></div>
+        <dl class="kv"><dt>Isu</dt><dd>Kebisingan pendingin dan genset, emisi, air, banjir</dd><dt>Respons</dt><dd>Pemkot: lokasi "sesuai tata ruang"</dd></dl>
+        <p>Unggahan viral 1 November 2026. Tanda bahwa keluhan mulai muncul di kawasan perkotaan Jabodetabek.</p></div>
+    </div>
+
+    <div class="col flow">
+      <h3>Siapa untung, siapa menanggung</h3>
+      <p>Bagian terbesar belanja data center AI adalah GPU impor. Yang tinggal di dalam negeri adalah sewa lahan, konstruksi, listrik, air, dan segelintir teknisi. Margin layanan cloud dan royalti model mengalir ke kantor pusat. Kalau gelembung pecah, kerugian ekuitas ditanggung investor, tetapi pembangkit PLN, kompensasi APBN, lahan, dan alokasi air tetap tinggal di sini. GPU usang dalam beberapa tahun, pembangkit gas dan batu bara bertahan puluhan tahun.</p>
+    </div>
+    <div class="figrow">
+      <figure>
+        <span class="fig-n">GAMBAR 9</span>
+        <h4>Pekerjaan per Rp1 triliun investasi</h4>
+        <div class="chart" id="fig9"></div>
+        <figcaption>Rata-rata nasional: realisasi investasi Jan–Sep 2026 dibagi penyerapan tenaga kerja (hitungan agen ekonom). Data center permanen: rasio 0,15–0,35 staf per MW. Data center menciptakan sekitar 100–300 kali lebih sedikit pekerjaan tetap per rupiah. * termasuk pekerja konstruksi sementara. ** termasuk pekerjaan tidak langsung.</figcaption>
+      </figure>
+      <div class="tbl">
+        <table>
+          <thead><tr><th>Pihak</th><th>Mendapat</th><th>Menanggung</th></tr></thead>
+          <tbody>
+            <tr><td>NVIDIA, hyperscaler, CoreWeave, Ooredoo</td><td>Penjualan GPU, sewa komputasi, margin cloud</td><td>Ekuitas jika gelembung pecah</td></tr>
+            <tr><td>Konglomerat dan pengelola kawasan</td><td>Nilai lahan, sewa</td><td>Rendah</td></tr>
+            <tr><td>PLN</td><td>Penjualan kWh besar</td><td>Pembangkit dan transmisi baru, aset terdampar</td></tr>
+            <tr><td>APBN dan pembayar pajak</td><td>Pajak, bila tanpa insentif</td><td>Kompensasi listrik (Rp245,6 T di 2026), insentif pajak, modal Danantara</td></tr>
+            <tr><td>Warga sekitar DAS dan waduk</td><td>Hampir tidak ada</td><td>Air, lahan, kebisingan</td></tr>
+            <tr><td>Pekerja klerikal, perempuan, pemuda</td><td>Sebagian kecil pelatihan</td><td>ILO: 21,7% pekerja Indonesia terpapar AI generatif; klerikal 93,9%</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== HUKUM ===================== -->
+  <section id="hukum">
+    <div class="sec-head col">
+      <span class="lbl">Bagian 5</span>
+      <h2>Celah hukum yang membuat semua ini mungkin</h2>
+      <p>Indonesia belum punya rezim hukum lingkungan khusus data center. Itu kelemahan sekaligus peluang: instrumen umum yang ada cukup tajam bila dipakai dengan benar, dan beberapa aturan kunci sedang disusun sekarang.</p>
+    </div>
+    <div class="grid2">
+      <div class="box"><span class="lbl">Celah 1 · AMDAL</span><h4>Wajib AMDAL dipicu luas lahan, bukan listrik</h4><p class="small">Permen LHK 4/2021: data center wajib AMDAL bila lahan ≥5 ha atau bangunan ≥10.000 m². Tidak ada ambang megawatt. Pemicu lain yang bisa dipakai: air sungai/danau ≥250 L/detik (Jatiluhur 384), air tanah komersial ≥50 L/detik, pembangkit ≥100 MW.</p></div>
+      <div class="box"><span class="lbl">Celah 2 · Kawasan</span><h4>Penyewa kawasan cukup RKL-RPL rinci</h4><p class="small">Data center di kawasan industri, KEK, atau KPBPB yang sudah punya AMDAL kawasan cukup menyusun RKL-RPL rinci yang disahkan pengelola kawasan, tanpa konsultasi publik. AMDAL kawasan lama tidak menghitung beban data center AI. Nomor pasal perlu dicek.</p></div>
+      <div class="box"><span class="lbl">Celah 3 · Energi</span><h4>Pengecualian PLTU captive untuk PSN</h4><p class="small">Perpres 112/2022 Pasal 3 ayat (4) huruf b membolehkan PLTU baru yang terintegrasi industri atau PSN. Draf revisinya disebut memperluas pengecualian. Data center berstatus PSN atau di kawasan PSN berpotensi masuk.</p></div>
+      <div class="box"><span class="lbl">Celah 4 · AI</span><h4>Perpres AI belum terbit, tanpa pasal lingkungan</h4><p class="small">Rancangan Peta Jalan AI 2026–2029 dan Perpres Etika AI masih menunggu per akhir Oktober 2026. Isinya soal risiko, pelabelan, talenta. Tidak ada energi, air, atau pusat data. Jendela yang masih terbuka.</p></div>
+      <div class="box"><span class="lbl">Celah 5 · Partisipasi</span><h4>Cipta Kerja mempersempit siapa yang boleh bersuara</h4><p class="small">Partisipasi dalam AMDAL dibatasi pada masyarakat terdampak langsung; jalur khusus gugatan izin lingkungan (Pasal 93 UU PPLH) dihapus. Uji materi WALHI ke MK (Juni 2025) belum ditemukan putusannya.</p></div>
+      <div class="box"><span class="lbl">Celah 6 · Data</span><h4>Tidak ada register dan kewajiban keterbukaan</h4><p class="small">Asosiasi industri sendiri memberi empat angka kapasitas berbeda dalam setahun (456, 520, 630, 650 MW). Hyperscaler tidak mengungkap MW, air, maupun sumber listrik per lokasi. Kontrak PLN hanya menyebut MVA.</p></div>
+    </div>
+    <div class="col flow">
+      <h3>Tuas hukum, dari yang termurah sampai terberat</h3>
+      <div class="tbl">
+        <table>
+          <thead><tr><th>Tuas</th><th>Untuk apa</th><th>Preseden atau catatan</th></tr></thead>
+          <tbody>
+            <tr><td>Permohonan informasi publik (UU KIP)</td><td>Dokumen AMDAL/RKL-RPL, izin air, kontrak dan kapasitas PLN, alokasi air per penyewa</td><td>Model Uruguay. Penolakan pun berguna sebagai bahan kampanye.</td></tr>
+            <tr><td>Pengaduan ke DLH, Ombudsman, Komnas HAM</td><td>Konstruksi tanpa izin, layanan air buruk, hak atas air</td><td>Jatiluhur menunjukkan kepala daerah mau bertindak.</td></tr>
+            <tr><td>Intervensi proses AMDAL</td><td>Tanggapan tertulis, dampingi warga terdampak langsung</td><td>Desak perhitungan kekeringan, MW total, emisi, genset.</td></tr>
+            <tr><td>Mekanisme internasional</td><td>OECD NCP negara asal investor, CAO/ADB bila mendanai</td><td>Murah tapi lambat; berbasis reputasi.</td></tr>
+            <tr><td>Gugatan PTUN atas izin</td><td>Pembatalan persetujuan lingkungan atau izin air</td><td>Menang: PLTU Tanjung Jati A (PTUN Bandung, 2022). Kalah: PTUN Jakarta 2025 menolak legal standing karena proyek belum dibangun. Gugat setelah izin terbit, bersama warga.</td></tr>
+            <tr><td>Gugatan organisasi lingkungan (Pasal 92 UU PPLH)</td><td>Pemulihan, penghentian, audit air</td><td>PN Poso mengabulkan sebagian gugatan WALHI Sulteng (2025).</td></tr>
+            <tr><td>Citizen lawsuit</td><td>Kelalaian negara mengatur</td><td>Polusi udara Jakarta menang sampai kasasi (2023).</td></tr>
+            <tr><td>Uji materi MA/MK</td><td>Permen tanpa ambang, celah Perpres 112/2022</td><td>Paling berat dan lama, dampak sistemik.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== STRATEGI ===================== -->
+  <section id="strategi">
+    <div class="sec-head col">
+      <span class="lbl">Bagian 6</span>
+      <h2>Apa yang perlu dilakukan</h2>
+    </div>
+    <!--STRATEGI-->
+  </section>
+
+  <!-- ===================== JAGA ===================== -->
+  <section id="jaga">
+    <div class="sec-head col">
+      <span class="lbl">Bagian 7</span>
+      <h2>Batas klaim: yang jangan dipakai, dan penggantinya</h2>
+      <p>Kampanye ini akan dilawan dengan data. Satu klaim yang dipatahkan bisa merusak kredibilitas klaim lain yang benar. Berikut klaim yang menggoda tetapi lemah, beserta versi yang bisa dipertahankan.</p>
+    </div>
+    <div class="dont">
+      <div class="box"><span class="x">"Satu prompt = sebotol air"</span><p class="y">Dengan angka energi per prompt terbaru dan parameter Indonesia, satu botol 500 mL setara kira-kira 400 prompt. Pakai skala: satu kampus 100 MW memakai sekitar 2 juta liter per hari (IEA), dan iklim tropis paling boros.</p></div>
+      <div class="box"><span class="x">"Data center menyebabkan krisis air Batam"</span><p class="y">Kausalitas belum terbukti; kemarau juga nyata. Tuntut audit air independen dan keterbukaan meter air per penyewa. Kalau memang bukan penyebabnya, kenapa datanya tidak dibuka?</p></div>
+      <div class="box"><span class="x">"Nikel Indonesia menggerakkan AI"</span><p class="y">Tidak ada data pelacakan rantai pasok. IEA tidak menyebut nikel untuk data center. Versi aman: ledakan AI menambah permintaan logam global yang di Indonesia diproduksi dengan PLTU captive.</p></div>
+      <div class="box"><span class="x">"AI menghabiskan listrik dunia"</span><p class="y">Data center ±1,5% listrik dunia (2024). Kekuatan argumen ada di konsentrasi lokal: 22% listrik Irlandia, kontrak data center di Batam melampaui beban puncak kota.</p></div>
+      <div class="box"><span class="x">"AI akan membawa kiamat"</span><p class="y">Bahasa risiko eksistensial terdengar fiksi ilmiah dan malah memperkuat narasi "harus berlomba". Pakai kesaksian orang dalam sebagai bukti budaya korporasi.</p></div>
+      <div class="box"><span class="x">"Tolak semua data center"</span><p class="y">Tuduhan "anti-kemajuan" menunggu di sini. Posisi kuat: syarat, bukan penolakan. Malaysia memperketat syarat dan tetap menarik investasi.</p></div>
+      <div class="box"><span class="x">"Data center menggusur sawah Karawang" / "terkait Rempang"</span><p class="y">Data center di Karawang berada di kawasan industri yang sudah ada. Rempang: belum ada proyek di pulau itu. Kaitan yang sah adalah pola tata kelola BP Batam, bukan lokasi.</p></div>
+      <div class="box"><span class="x">"7,62 kali lebih tinggi" (The Guardian)</span><p class="y">Angka untuk 2020–2022, data center milik sendiri. Pakai angka primer dari laporan perusahaan 2026 di Gambar 2 dan 3.</p></div>
+    </div>
+  </section>
+
+  <!-- ===================== CEK ===================== -->
+  <section id="cek">
+    <div class="sec-head col">
+      <span class="lbl">Bagian 8</span>
+      <h2>Perlu dicek sebelum dipakai di publik atau pengadilan</h2>
+      <p>Kuota pencarian web para agen habis di tengah riset, dan beberapa portal resmi memblokir akses otomatis. Butir berikut belum terverifikasi penuh.</p>
+    </div>
+    <div class="grid2">
+      <div class="box"><span class="lbl">Hukum · ke ICEL atau LBH</span><ul>
+        <li>Apakah Permen LHK 4/2021 sudah diganti peraturan KLH/BPLH 2025–2026</li>
+        <li>Nomor pasal pengecualian penyewa kawasan di PP 22/2021 dan PP 28/2025</li>
+        <li>Tingkat risiko data center di lampiran PP 28/2025; kode KBLI 2025</li>
+        <li>Putusan uji materi WALHI atas UU 6/2023; status uji materiil Perpres 112/2022</li>
+        <li>Apakah genset cadangan dihitung "pembangkit" untuk ambang AMDAL 100 MW</li>
+        <li>Status AMDAL kawasan Nongsa dan Kabil; tenggat prosedural UU KIP</li></ul></div>
+      <div class="box"><span class="lbl">Data dan fakta</span><ul>
+        <li>Klaim pipa khusus Duriangkang ke data center vs bantahan BP Batam</li>
+        <li>Dugaan cut-and-fill hutan lindung di Teluk Mata Ikan (satu sumber)</li>
+        <li>Klaim PLTU Babelan memasok data center di Cibitung (sumber sekunder)</li>
+        <li>Keterlibatan IFC, ADB, atau AIIB dalam pendanaan operator</li>
+        <li>Pemilik manfaat EGSB, Altiva, Range IDC; pembeli 70% NeutraDC</li>
+        <li>Data upah pelabel data di Indonesia; dampak AI pada pekerja BPO dan kreatif</li>
+        <li>Angka sekunder: rincian capex per perusahaan, keuangan OpenAI, insentif KEK Nongsa</li></ul></div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Riset lengkap per persona, dengan semua URL sumber, ada di folder <span class="mono">docs/advokasi-ai-datacenter/riset/</span> (berkas 01–08).</p>
+    <p>Dosir ini adalah bahan kerja advokasi, bukan nasihat hukum. Angka yang ditandai "hitungan" adalah perkiraan dengan asumsi terbuka di berkas riset.</p>
+  </footer>
+</div>
+
+<script>
+(function(){
+const MM = [
+ {k:"Akar: logika skala dan modal", items:[
+  ["Komputasi untuk melatih model terdepan tumbuh 4–5× per tahun (Epoch AI)","gl","t"],
+  ["Belanja infrastruktur 4 hyperscaler: ±US$413 miliar (2025) → ±US$720–760 miliar (2026)","gl","s"],
+  ["Kurang pendapatan ±US$800 miliar/tahun pada 2030 (Bain); IMF, BIS, BoE memperingatkan pembiayaan melingkar","gl","t"],
+  ["Pengumuman ≠ kapasitas: Stargate Abilene ±618 MW dari rencana 1,2 GW","gl","s"],
+  ["Pipeline Indonesia ±6–7 GW, lebih dari separuh baru pengumuman","id","r"]]},
+ {k:"Energi dan iklim", items:[
+  ["Listrik data center dunia 416 TWh (2024) → 485 (2025) → ±945 (2030), IEA","gl","t"],
+  ["Emisi: Google +81% (vs 2019), Microsoft +62% (vs FY20), Amazon +58% (vs 2019)","gl","t"],
+  ["Gas dan batu bara memasok >40% tambahan listrik data center sampai 2030; PLTU di AS batal pensiun","gl","t"],
+  ["Grid Indonesia 82% fosil (2024); RUPTL 2025–29: 3,4 GW batu bara + 9,3 GW gas","id","t"],
+  ["PLN: permintaan data center ±20 GW di luar RUPTL; risiko ditutup pembangkit fosil tercepat","id","t"],
+  ["Batam: grid terisolasi, kontrak data center 1.291 MVA > beban puncak 780 MW; pembangkit baru gas","id","t"],
+  ["Doktrin \"bawa energi sendiri\" Danantara (>500 MW) → risiko captive fosil","id","s"]]},
+ {k:"Air", items:[
+  ["Air data center dunia ±560 → 1.200 miliar liter (2023→2030); dua pertiga tidak langsung dari pembangkit","gl","t"],
+  ["Iklim tropis paling boros: Microsoft Jakarta ±3,8 L/kWh, tertinggi dari 29 lokasi","id","s"],
+  ["Batam: surplus ±80 L/detik, 18 wilayah layanan <8 jam/hari, air tanah dilarang","id","t"],
+  ["Konflik Sambau dan Teluk Mata Ikan (Des 2024, Sep–Okt 2026)","id","t"],
+  ["Jatiluhur: 384 L/detik ≈ seluruh pemakaian PDAM Purwakarta dari waduk","id","t"],
+  ["Kausalitas data center → air mati di Sambau belum terbukti; tuntut audit","id","r"],
+  ["Solusi teknis memindahkan beban: desalinasi (brine, listrik), pendingin udara (listrik)","gl","t"]]},
+ {k:"Lahan, pesisir, ruang", items:[
+  ["Data center masuk lewat KEK dan kawasan industri yang AMDAL-nya lama","id","s"],
+  ["Bintan: >1 GW di ±700 ha pulau kecil","id","s"],
+  ["Batang amblas 6–20 cm/thn; Bekasi 10–15 cm/thn","id","s"],
+  ["Teluk Mata Ikan: dugaan cut-and-fill area berpapan hutan lindung","id","r"],
+  ["Sawah Karawang dan Rempang: tidak ada bukti kaitan langsung","id","r"]]},
+ {k:"Material dan limbah", items:[
+  ["2030: tembaga 512 kt (±2% permintaan 2024), galium 11%","gl","t"],
+  ["E-waste AI generatif 0,4–2,5 juta ton/tahun pada 2030","gl","s"],
+  ["GPU berumur pendek; 58,7% gangguan pelatihan Llama 3 karena GPU","gl","t"],
+  ["Nikel Indonesia → data center: kaitan lemah, tidak langsung","id","r"]]},
+ {k:"Ekonomi: siapa membayar", items:[
+  ["Pekerjaan tetap data center ±5–12 per Rp1 T vs ±1.426 rata-rata investasi nasional","id","s"],
+  ["Subsidi + kompensasi listrik APBN 2026 Rp245,6 T; tarif ditahan → biaya baru bisa jatuh ke APBN","id","t"],
+  ["Tax holiday dihentikan 4 Nov 2026; insentif pengganti sedang dirancang","id","t"],
+  ["AS: data center menyumbang 46% biaya kapasitas PJM (US$29,4 miliar)","gl","t"],
+  ["Johor: kontrak 8,35 GW vs beban riil 1,26 GW; aset terdampar","gl","s"]]},
+ {k:"Kekuasaan dan kedaulatan", items:[
+  ["Pemilik: modal AS, Singapura/Temasek, Qatar, PE global, konglomerat domestik","id","t"],
+  ["\"Sovereign AI\": chip, perangkat lunak, model tetap milik asing","id","s"],
+  ["NVIDIA simpul bersama tiga proyek AI terbesar (Zankore, Firmus, Indosat)","id","s"],
+  ["Kebocoran beban Singapura → Johor → Batam","gl","t"],
+  ["BP Batam: pemberi lahan, pengelola air, promotor investasi sekaligus","id","t"],
+  ["Surya Kepri dirancang untuk ekspor ke Singapura","id","s"]]},
+ {k:"Manusia dan demokrasi", items:[
+  ["Pelabel data Kenya <US$2/jam; OpenAI membayar kontraktor US$12,50","gl","t"],
+  ["Pelabel data Indonesia: indikasi ada, tanpa data upah","id","r"],
+  ["ILO: 21,7% pekerja Indonesia terpapar AI generatif; klerikal 93,9%; perempuan >2×","id","t"],
+  ["Deepfake Soeharto dalam kampanye Pemilu 2024","id","t"],
+  ["Orang dalam: tekanan komersial vs keselamatan (Leike 2024, Sharma 2026)","gl","t"],
+  ["Hak cipta: penyelesaian Bartz v. Anthropic US$1,5 miliar (2026)","gl","t"]]},
+ {k:"Tata kelola dan hukum", items:[
+  ["Tak ada register nasional; IDPRO memberi 4 angka kapasitas berbeda","id","t"],
+  ["AMDAL tanpa ambang megawatt","id","t"],
+  ["Penyewa kawasan cukup RKL-RPL rinci tanpa konsultasi publik","id","s"],
+  ["Perpres AI belum terbit, tanpa pasal lingkungan","id","t"],
+  ["Celah PLTU captive untuk PSN (Perpres 112/2022)","id","s"],
+  ["Bangun dulu, izin belakangan (Jatiluhur)","id","t"],
+  ["PDN lumpuh ransomware 2024; PDN Batam dibatalkan","id","t"]]},
+ {k:"Narasi yang perlu dibongkar", items:[
+  ["\"AI selamatkan iklim\": 74% klaim tak didukung bukti; IEA: \"no momentum\"","gl","s"],
+  ["\"Efisiensi menyelamatkan\": energi per prompt Google turun 33×, listrik total naik 37% setahun","gl","t"],
+  ["\"100% terbarukan\": Google Singapura ±5% bebas karbon per jam","gl","t"],
+  ["\"Ribuan lapangan kerja\": Querétaro 64 orang; Aragón 30–70 dari 1.300","gl","t"],
+  ["\"Sovereign AI\" sebagai pembenaran proyek milik asing","id","s"]]}
+];
+const CONF={t:["c-t","kuat"],s:["c-s","sedang"],r:["c-r","lemah"]};
+const SCOPE={gl:["t-gl","GLOBAL"],id:["t-id","INDONESIA"]};
+const svgNS="http://www.w3.org/2000/svg";
+const host=document.getElementById("mmsvg"), panel=document.getElementById("mmpanel");
+const W=640,H=520,cx=W/2,cy=H/2,R=200;
+const svg=document.createElementNS(svgNS,"svg");
+svg.setAttribute("viewBox",`0 0 ${W} ${H}`);
+const edges=[],nodes=[];
+function el(t,a){const e=document.createElementNS(svgNS,t);for(const k in a)e.setAttribute(k,a[k]);return e;}
+const gE=el("g",{}),gN=el("g",{});svg.append(gE,gN);
+function wrap(txt,max){const w=txt.split(" ");const lines=[];let cur="";for(const x of w){if((cur+" "+x).trim().length>max&&cur){lines.push(cur);cur=x;}else cur=(cur+" "+x).trim();}lines.push(cur);return lines;}
+MM.forEach((b,i)=>{
+  const a=-Math.PI/2+i*2*Math.PI/MM.length;
+  const x=cx+R*Math.cos(a)*1.25,y=cy+R*Math.sin(a);
+  const p=el("path",{d:`M${cx},${cy} Q${(cx+x)/2},${(cy+y)/2+((i%2)?14:-14)} ${x},${y}`,class:"mm-edge"});
+  gE.append(p);edges.push(p);
+  const lines=wrap(b.k,16);const bw=134,bh=16+lines.length*16;
+  const g=el("g",{class:"mm-node",tabindex:"0",role:"button","aria-label":b.k});
+  g.append(el("rect",{x:x-bw/2,y:y-bh/2,width:bw,height:bh,rx:4}));
+  lines.forEach((ln,j)=>{const t=el("text",{x:x,y:y-bh/2+20+j*16,"text-anchor":"middle"});t.textContent=ln;g.append(t);});
+  g.addEventListener("click",()=>pick(i));
+  g.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();pick(i);}});
+  gN.append(g);nodes.push(g);
+});
+const root=el("g",{class:"mm-root"});
+root.append(el("circle",{cx:cx,cy:cy,r:58}));
+["Masalah AI &","data center"].forEach((s,j)=>{const t=el("text",{x:cx,y:cy-4+j*18,"text-anchor":"middle"});t.textContent=s;root.append(t);});
+gN.append(root);
+host.append(svg);
+function tags(it){return `<span class="tags"><span class="tag ${SCOPE[it[1]][0]}">${SCOPE[it[1]][1]}</span><span class="tag ${CONF[it[2]][0]}">${CONF[it[2]][1]}</span></span>`;}
+function pick(i){
+  nodes.forEach((n,j)=>n.classList.toggle("on",j===i));
+  edges.forEach((n,j)=>n.classList.toggle("on",j===i));
+  const b=MM[i];
+  panel.innerHTML=`<span class="lbl">Cabang ${i+1} dari ${MM.length}</span><h3>${b.k}</h3><ul>${b.items.map(it=>`<li>${tags(it)}<span>${it[0]}</span></li>`).join("")}</ul>`;
+}
+pick(1);
+document.getElementById("mmlist").innerHTML=MM.map(b=>`<li><b>${b.k}</b><ul>${b.items.map(it=>`<li>${it[0]} <span class="tag ${SCOPE[it[1]][0]}">${SCOPE[it[1]][1]}</span> <span class="tag ${CONF[it[2]][0]}">${CONF[it[2]][1]}</span></li>`).join("")}</ul></li>`).join("");
+
+/* ---------- charts ---------- */
+const fmt=n=>n.toLocaleString("id-ID");
+function hbar(id,rows,o){
+  o=o||{};const lw=o.lw||150,w=560,bh=26,gap=12,top=8;const h=top+rows.length*(bh+gap)+(o.axis?22:0);
+  const max=o.max||Math.max(...rows.map(r=>r.hi||r.v));
+  const sc=v=>lw+(w-lw-70)*v/max;
+  let s=`<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="${o.label||""}">`;
+  rows.forEach((r,i)=>{const y=top+i*(bh+gap);
+    s+=`<text x="${lw-8}" y="${y+bh/2+4}" text-anchor="end">${r.k}</text>`;
+    const col=r.c||"var(--water)";
+    if(r.hi!=null){s+=`<rect x="${sc(0)}" y="${y}" width="${Math.max(1,sc(r.v)-sc(0))}" height="${bh}" fill="${col}"/>`;
+      s+=`<rect x="${sc(r.v)}" y="${y}" width="${Math.max(1,sc(r.hi)-sc(r.v))}" height="${bh}" fill="${col}" fill-opacity=".35"/>`;
+      s+=`<text class="v" x="${sc(r.hi)+6}" y="${y+bh/2+4}">${r.lab||fmt(r.v)+"–"+fmt(r.hi)}</text>`;}
+    else{s+=`<rect x="${sc(0)}" y="${y}" width="${Math.max(2,sc(r.v)-sc(0))}" height="${bh}" fill="${col}"/>`;
+      s+=`<text class="v" x="${sc(r.v)+6}" y="${y+bh/2+4}">${r.lab||fmt(r.v)}</text>`;}
+  });
+  if(o.ref){const x=sc(o.ref.v);s+=`<line x1="${x}" x2="${x}" y1="0" y2="${h-(o.axis?22:0)}" stroke="var(--ochre)" stroke-width="2" stroke-dasharray="5 4"/><text x="${x}" y="${h-6}" text-anchor="middle" fill="var(--ochre)">${o.ref.k}</text>`;}
+  s+=`</svg>`;document.getElementById(id).innerHTML=s;
+}
+/* fig1 vertical columns */
+(function(){
+  const d=[["2023",360],["2024",416],["2025",485],["2030",945]];const w=560,h=300,l=44,b=28,t=16,max=1100;
+  const sy=v=>t+(h-t-b)*(1-v/max);const bw=70,step=(w-l-20)/d.length;
+  let s=`<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="Listrik data center dunia">`;
+  [0,250,500,750,1000].forEach(v=>{s+=`<line class="grid" x1="${l}" x2="${w-8}" y1="${sy(v)}" y2="${sy(v)}"/><text x="${l-6}" y="${sy(v)+4}" text-anchor="end">${fmt(v)}</text>`;});
+  d.forEach((r,i)=>{const x=l+step*i+(step-bw)/2;s+=`<rect x="${x}" y="${sy(r[1])}" width="${bw}" height="${sy(0)-sy(r[1])}" fill="var(--water)"/><text class="v" x="${x+bw/2}" y="${sy(r[1])-6}" text-anchor="middle">${fmt(r[1])}</text><text x="${x+bw/2}" y="${h-8}" text-anchor="middle">${r[0]}</text>`;
+    if(r[0]==="2030"){const xm=x+bw/2;s+=`<line x1="${xm}" x2="${xm}" y1="${sy(1008)}" y2="${sy(833)}" stroke="var(--ink)" stroke-width="1.5"/><line x1="${xm-8}" x2="${xm+8}" y1="${sy(1008)}" y2="${sy(1008)}" stroke="var(--ink)"/><line x1="${xm-8}" x2="${xm+8}" y1="${sy(833)}" y2="${sy(833)}" stroke="var(--ink)"/>`;}});
+  const yr=sy(317.69);s+=`<line x1="${l}" x2="${w-8}" y1="${yr}" y2="${yr}" stroke="var(--ochre)" stroke-width="2" stroke-dasharray="6 4"/><text x="${w-10}" y="${yr-6}" text-anchor="end" fill="var(--ochre)">PLN 2025: 317,69</text>`;
+  s+=`</svg>`;document.getElementById("fig1").innerHTML=s;
+})();
+hbar("fig2",[{k:"Google",v:81,lab:"+81%"},{k:"Microsoft",v:62,lab:"+62%"},{k:"Amazon",v:58,lab:"+58%"}],{max:100,lw:100,label:"Kenaikan emisi"});
+hbar("fig3",[{k:"Berbasis pasar",v:135,lab:"135 tCO₂e",c:"var(--ok)"},{k:"Berbasis lokasi",v:5862614,lab:"5.862.614 tCO₂e",c:"var(--fossil)"}],{lw:130,label:"Emisi Meta"});
+hbar("fig4",[{k:"Jakarta",v:3.8,lab:"±3,8",c:"var(--ochre)"},{k:"Singapura",v:1.25,lab:"±1,25"},{k:"Kuala Lumpur",v:1.15,lab:"±1,15"},{k:"Phoenix",v:1.03,lab:"±1,03"},{k:"Dublin",v:0.014,lab:"±0,014"}],{lw:110,max:4.2,label:"Liter per kWh"});
+hbar("fig7",[{k:"Surplus air kini",v:80,lab:"±80",c:"var(--ok)"},{k:"DC skenario A",v:376,hi:548,lab:"376–548",c:"var(--ochre)"},{k:"DC skenario B",v:1189,hi:1731,lab:"1.189–1.731",c:"var(--alert)"},{k:"Target desalinasi",v:750,hi:1000,lab:"750–1.000"}],{lw:130,max:1900,label:"Liter per detik"});
+hbar("fig8",[{k:"Beban puncak Okt 2026",v:780},{k:"Pasokan Okt 2026",v:930,c:"var(--ok)"},{k:"Kontrak 3 DC (MVA)",v:1291,c:"var(--ochre)"},{k:"Beban puncak 2035",v:2540,c:"var(--alert)"}],{lw:160,label:"MW"});
+hbar("fig9",[{k:"Rata-rata nasional",v:1426,c:"var(--ok)"},{k:"Klaim Jatiluhur*",v:571,hi:857,lab:"571–857"},{k:"AWS Chile**",v:109},{k:"DC, pekerja tetap",v:5,hi:12,lab:"5–12",c:"var(--alert)"}],{lw:140,max:1600,label:"Pekerjaan per Rp1 triliun"});
+})();
+</script>
