@@ -35,7 +35,7 @@ Pola lintas isu: [[benang-merah]]
 ## Tempat & kasus (19)
 [[jakarta|Jakarta]] **×8** · [[batam|Batam]] **×5** · [[kalimantan-barat|Kalimantan Barat]] **×4** · [[solo-putri-cempo|Solo]] **×3** · [[surabaya-benowo|Surabaya]] **×3** · [[antalya-cop31|Antalya, Türkiye]] **×2** · [[tropodo-bangun|Tropodo]] **×2** · [[bali-suwung-jimbaran|Bali]] · [[bantargebang|TPST Bantargebang]] · [[banyumas|Kabupaten Banyumas, Jawa Tengah]] · [[cilegon-serang|Cilegon & Serang]] · [[denpasar-bali|Denpasar/Bali]] · [[gambut-lamandau-pekanbaru|Lamandau]] · [[kali-brantas|Kali Brantas]] · [[karanganyar|Kabupaten Karanganyar, Jawa Tengah]] · [[kediri-klothok|TPA Klothok, Kediri]] · [[leuwigajah|TPA Leuwigajah]] · [[makassar|Kota Makassar]] · [[semarang|Kota Semarang]]
 
-## Angka kunci (205) — lengkapnya di [[angka-kunci]]
+## Angka kunci (207) — lengkapnya di [[angka-kunci]]
 
 | Angka | Konteks | Sumber | Status | Isu | Sesi |
 |---|---|---|---|---|---|
@@ -244,6 +244,8 @@ Pola lintas isu: [[benang-merah]]
 | 1,7–2,7% | porsi sampah nasional yang ditangani bank sampah (2018–2021) | KLHK | [diverifikasi-di-sesi lewat riset] | sampah | [[2026-11-06-advokasi-kebijakan-hariadi-dan-sampah]] |
 | 914 (412/386/116) | kontainer limbah tiga importir di Batam | Bea Cukai Batam, Jan 2026 | [diverifikasi-di-sesi] | sampah | [[2026-11-06-advokasi-kebijakan-hariadi-dan-sampah]] |
 | 136 dokumen | inventaris rilis WALHI soal sampah 2012–Nov 2026 (39 nasional, 12 aliansi, 85 daerah) | riset sesi | [diverifikasi-di-sesi; ±25 hanya lewat cuplikan] | sampah, advokasi-kebijakan | [[2026-11-06-advokasi-kebijakan-hariadi-dan-sampah]] |
+| peringkat 2 dunia | penyumbang sampah plastik ke laut | Jambeck dkk., Science 2015 (data 2010), dikutip Deklarasi Sumba | [belum-diverifikasi] data lama | sampah | [[deklarasi-sumba-keadilan-ekologis]] |
+| 13 g/bulan | mikroplastik yang ditelan rata-rata orang Indonesia (tertinggi di dunia) | Zhao dkk., Environ. Sci. Technol. 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | sampah, air | [[deklarasi-sumba-keadilan-ekologis]] |
 
 ## Sumber sesi
 - [[2026-11-21-sungai-jakarta-ruang-air]]

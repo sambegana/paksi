@@ -11,6 +11,9 @@ di bawah muncul di **lebih dari satu isu** dan ditaut ke entitas tempat buktinya
 Status bukti mengikuti catatan sumber: angka dan klaim yang `belum-diverifikasi` ada di
 [[angka-kunci]] dan di catatan entitas masing-masing. **Cek di sana sebelum dikutip.**
 
+Pijakan nilai lembaga: [[deklarasi-sumba-keadilan-ekologis]]. Krisis adalah hasil pilihan politik dan
+ekonomi, dan "arah pembangunan harus dibalik".
+
 Tesis yang menyatukan semuanya, dirumuskan sendiri oleh sesi raker tata ruang
 ([[2026-11-04-raker-tata-ruang-pengkampanye-urban]]): **tata ruang bukan isu ketiga di
 samping data center dan sampah, melainkan lensa untuk membaca keduanya.** Isu-isu itu pada

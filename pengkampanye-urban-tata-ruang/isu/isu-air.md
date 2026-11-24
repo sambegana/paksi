@@ -34,7 +34,7 @@ Pola lintas isu: [[benang-merah]]
 ## Tempat & kasus (27)
 [[jakarta|Jakarta]] **×8** · [[batam|Batam]] **×5** · [[semarang-demak|Pesisir Semarang–Demak]] **×3** · [[batang-kitb|KIT Batang / KEK Industropolis Batang]] **×2** · [[bekasi-cikarang-karawang|Koridor Bekasi–Cikarang–Karawang]] **×2** · [[jatiluhur-purwakarta|Jatiluhur, Kab. Purwakarta]] **×2** · [[kabil|Kawasan Industri Kabil]] **×2** · [[singapura-johor|Singapura & Johor]] **×2** · [[yogyakarta|Yogyakarta]] **×2** · [[bandung|Bandung / Cekungan Bandung / Kawasan Bandung Utara]] · [[cerrillos-chile|Cerrillos, Chile]] · [[gunungkidul-gunung-sewu|Gunungkidul / Gunung Sewu]] · [[hutan-kota-ui|Hutan Kota Universitas Indonesia]] · [[jakarta-utara|Jakarta Utara]] · [[kasus-global|Kasus perlawanan global]] · [[kek-nongsa|KEK Nongsa]] · [[kendeng|Pegunungan Kendeng]] · [[lain-lain-jawa|Wadas]] · [[nongsa-sambau|Nongsa, Batam]] · [[pantura-jabar|Pantura Jabar]] · [[pekalongan|Kota Pekalongan]] · [[preseden-luar-negeri|Preseden luar negeri]] · [[situ-jabodetabek|Situ & danau Jabodetabek]] · [[srengseng-sawah-jagakarsa|Srengseng Sawah, Jagakarsa, Jakarta Selatan]] · [[tambakrejo-semarang|Kampung Tambakrejo, RW 16, Kel. Tanjung Mas,…]] · [[tanggul-laut-raksasa-pantura|Tanggul laut raksasa]] · [[waduk-duriangkang|Waduk Duriangkang, Batam]]
 
-## Angka kunci (61) — lengkapnya di [[angka-kunci]]
+## Angka kunci (62) — lengkapnya di [[angka-kunci]]
 
 | Angka | Konteks | Sumber | Status | Isu | Sesi |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@ Pola lintas isu: [[benang-merah]]
 | ~60 miliar yuan | belanja Sponge City Zhengzhou, tetap banjir 2021 | tidak disebut | [belum-diverifikasi] | air | [[2026-11-03-analisis-grant-eba-walhi]] |
 | ~DKK 9 miliar | manfaat sosial lebih besar biru-hijau+pipa vs pipa saja | Copenhagen Cloudburst CBA (kota sendiri) | [belum-diverifikasi] | air | [[2026-11-03-analisis-grant-eba-walhi]] |
 | >10 cm/tahun | Penurunan tanah di titik-titik Jakarta Utara & Semarang | Abidin dkk. (tahun tidak disebut) | [belum-diverifikasi] | air, tata-ruang | [[2026-11-06-clare-asean-panas-kota-eba]] |
+| 13 g/bulan | mikroplastik yang ditelan rata-rata orang Indonesia (tertinggi di dunia) | Zhao dkk., Environ. Sci. Technol. 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | sampah, air | [[deklarasi-sumba-keadilan-ekologis]] |
 
 ## Sumber sesi
 - [[2026-11-21-sungai-jakarta-ruang-air]]

@@ -21,6 +21,8 @@ bukan isu ketiga, melainkan cara membaca data center dan sampah.
 
 Pola lintas isu: [[benang-merah]]
 
+Dokumen sumber (RTRW, RDTR, KLHS, peta): [[daftar-dokumen]]
+
 <!-- AUTO:mulai — dibuat hub.py, jangan disunting -->
 
 ## Konsep (48)

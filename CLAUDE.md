@@ -12,6 +12,9 @@ kota, iklim, advokasi) ada di vault Obsidian `pengkampanye-urban-tata-ruang/` (k
   katakan.
 - **Di akhir sesi** yang menghasilkan keputusan, temuan penting, atau pekerjaan setengah
   jadi, tawarkan `/catat-sesi` (satu kalimat, jangan memaksa).
+- Posisi lembaga ada di `pengkampanye-urban-tata-ruang/rujukan-walhi/` (Statuta WALHI 2025, Deklarasi Sumba).
+  Rujuk ke sana saat menyusun pernyataan atas nama WALHI, dan **cek larangan pendanaan Statuta Pasal 41(2)**
+  setiap kali menganalisis grant atau donor.
 - Jangan menulis rahasia (API key, token, kredensial) ke `pengkampanye-urban-tata-ruang/`.
 
 ## Proyek lain di repo ini (bukan bagian vault)

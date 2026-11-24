@@ -469,3 +469,10 @@ Hub tiap isu menampilkan potongan tabel ini.
 | ±9.900 ha | Wilayah tangkap Rupat Utara dipertahankan dari tambang pasir | policy brief WALHI, Okt 2026 | [kata-pengguna] | iklim-kota, tata-ruang | [[2026-11-10-green-jobs-wkr-cop31]] |
 | Rp10–15 ribu → Rp3–4 ribu/kg | Harga kopi Solok Selatan saat pandemi | katalog WALHI, 2023 | [kata-pengguna] | iklim-kota | [[2026-11-10-green-jobs-wkr-cop31]] |
 | >20 pekerja tewas | Ledakan smelter ITSS di IMIP, Des 2023 | tidak disebut (dinilai benar di sesi) | [belum-diverifikasi] | iklim-kota | [[2026-11-10-green-jobs-wkr-cop31]] |
+| 32 juta ha | kehilangan tutupan pohon Indonesia 2001–2024 dibanding 2000 | Global Forest Watch 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
+| ±20%; peringkat 2 dunia | porsi Indonesia dalam emisi global dari deforestasi 2013–2022 | Climate Action Tracker 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
+| ±1 GtCO₂e/tahun | emisi LULUCF Indonesia, hampir separuh emisi nasional | Climate Action Tracker 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
+| peringkat 2 dunia | penyumbang sampah plastik ke laut | Jambeck dkk., Science 2015 (data 2010), dikutip Deklarasi Sumba | [belum-diverifikasi] data lama | sampah | [[deklarasi-sumba-keadilan-ekologis]] |
+| 13 g/bulan | mikroplastik yang ditelan rata-rata orang Indonesia (tertinggi di dunia) | Zhao dkk., Environ. Sci. Technol. 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | sampah, air | [[deklarasi-sumba-keadilan-ekologis]] |
+| ≥3.500/tahun | kejadian bencana ekologis (banjir, longsor, kebakaran) | BNPB, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
+| 23,85 juta | penduduk di bawah garis kemiskinan (2025) | BPS, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | advokasi | [[deklarasi-sumba-keadilan-ekologis]] |

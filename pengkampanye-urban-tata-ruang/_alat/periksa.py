@@ -30,8 +30,15 @@ def catatan() -> dict[str, Path]:
     return hasil
 
 
+def lampiran() -> set[str]:
+    """Nama berkas non-Markdown (PDF, gambar, dll.) — boleh ditaut sebagai [[berkas.pdf]]."""
+    return {p.name for p in VAULT.rglob("*") if p.is_file() and p.suffix.lower() != ".md"
+            and not LEWATI & set(p.relative_to(VAULT).parts)}
+
+
 def main() -> int:
     semua = catatan()
+    berkas = lampiran()
     ditaut: set[str] = set()
     rusak = tanpa_frontmatter = 0
 
@@ -45,6 +52,8 @@ def main() -> int:
             if target in semua:
                 if target != nama:
                     ditaut.add(target)
+            elif target in berkas:
+                pass
             else:
                 rusak += 1
                 print(f"RUSAK   {path.relative_to(VAULT)} -> [[{target}]]")

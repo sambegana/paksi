@@ -9,6 +9,10 @@ tag: []
 
 Terkait: [[isu-sungai]], [[isu-tata-ruang]]
 
+## Dokumen sumber
+- [[jurnal-jsg-2026-pemetaan-partisipatif-betawi-ciliwung.pdf]]
+- [[proposal-cbrut-wisata-kota-regeneratif-jakarta-500.pdf]] (kemungkinan dari Padepokan Ciliwung Condet)
+
 ## Sumber
 <!-- gabung.py: sumber tambahan di bawah -->
 

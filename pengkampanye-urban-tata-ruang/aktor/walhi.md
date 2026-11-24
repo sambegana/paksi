@@ -9,6 +9,10 @@ tag: []
 
 Terkait: [[isu-advokasi-kebijakan]], [[isu-air]], [[isu-data-center]], [[isu-hutan-kota]], [[isu-iklim-kota]], [[isu-sampah]], [[isu-sungai]], [[isu-tata-ruang]]
 
+## Dokumen dasar lembaga
+- [[statuta-walhi-2025]]: nilai, prinsip, struktur, dan **larangan sumber pendanaan** (Pasal 41(2))
+- [[deklarasi-sumba-keadilan-ekologis]]: posisi keadilan ekologis, PNLH XIV 2025
+
 ## Sumber
 <!-- gabung.py: sumber tambahan di bawah -->
 

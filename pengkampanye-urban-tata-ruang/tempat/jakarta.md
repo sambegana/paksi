@@ -9,6 +9,9 @@ tag: []
 
 Terkait: [[isu-air]], [[isu-data-center]], [[isu-hutan-kota]], [[isu-iklim-kota]], [[isu-sampah]], [[isu-sungai]], [[isu-tata-ruang]]
 
+## Dokumen sumber
+RTRW 2024–2044, RDTR, RTRW 2030 (pembanding), dan kajian Jakarta Timur: [[daftar-dokumen]]
+
 ## Sumber
 <!-- gabung.py: sumber tambahan di bawah -->
 
