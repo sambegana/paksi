@@ -95,6 +95,7 @@ Semua artefak HTML privat (claude.ai):
 - [ ] Selidiki kontradiksi "tidak ada aliran langsung Duriangkang → kawasan data center" (BP Batam) vs laporan pipa khusus/air dua waduk (BatamNow) — bersama WALHI daerah & liputan Batambergerak.
 - [ ] Cari tahu siapa di Eknas yang memegang uji materi Perpres 112/2022 dan kasus Rempang.
 - [ ] Baca naskah lengkap Deklarasi Sumba sebelum bicara atas nama lembaga.
+  *(2026-11-24: naskahnya kini ada di vault → [[deklarasi-sumba-keadilan-ekologis]])*
 - [ ] Revisi brief WALHI: tambah bagian energi (risiko captive) dan tata ruang (D3TLH, zona penyangga, batas kumulatif per pulau/waduk, penunjukan lokasi), lensa rekognisi (kampung tua, petani Pantura, nelayan) dan ekologis (brine, biosida).
 
 ## Terkait

@@ -11,6 +11,10 @@ Claude yang terpisah, lalu disambungkan lewat isu, konsep, regulasi, aktor, dan 
 **Mulai dari sini:** [[benang-merah]], yaitu delapan pola yang menghubungkan semua isu, ditambah daftar
 klaim yang *jangan* dipakai.
 
+## Rujukan dasar lembaga
+- [[deklarasi-sumba-keadilan-ekologis]]: rumusan resmi keadilan ekologis WALHI (PNLH XIV, 20 Sep 2025). Baca sebelum bicara atas nama lembaga
+- [[statuta-walhi-2025]]: nilai, prinsip, struktur, dan **larangan sumber pendanaan** (Pasal 41(2)). Cek setiap analisis grant
+
 ## Isu
 | Hub | Inti |
 |---|---|

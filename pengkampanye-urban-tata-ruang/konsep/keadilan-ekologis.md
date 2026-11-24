@@ -9,6 +9,13 @@ tag: []
 
 Terkait: [[isu-advokasi-kebijakan]], [[isu-air]], [[isu-data-center]], [[isu-iklim-kota]], [[isu-sampah]], [[isu-tata-ruang]]
 
+## Rumusan resmi WALHI (Deklarasi Sumba, 20 Sep 2025)
+> "Keadilan ekologis adalah gagasan sekaligus kompas moral. Ia menempatkan manusia, alam, dan generasi
+> mendatang dalam satu kesetaraan. Keadilan ekologis bukan sekadar soal kelestarian, tapi soal hak hidup."
+
+Enam penegasan, lima sikap, dan seruannya: [[deklarasi-sumba-keadilan-ekologis]]. Keadilan ekologis juga satu
+dari delapan nilai di [[statuta-walhi-2025]]. (diverifikasi dari naskah)
+
 ## Sumber
 <!-- gabung.py: sumber tambahan di bawah -->
 

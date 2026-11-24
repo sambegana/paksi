@@ -33,7 +33,7 @@ Pola lintas isu: [[benang-merah]]
 ## Tempat & kasus (37)
 [[jakarta|Jakarta]] **×8** · [[batam|Batam]] **×5** · [[kalimantan-barat|Kalimantan Barat]] **×4** · [[semarang-demak|Pesisir Semarang–Demak]] **×3** · [[solo-putri-cempo|Solo]] **×3** · [[antalya-cop31|Antalya, Türkiye]] **×2** · [[bintan|Pulau Bintan]] **×2** · [[kabil|Kawasan Industri Kabil]] **×2** · [[surabaya|Surabaya]] **×2** · [[ahmedabad|Ahmedabad, India]] · [[bantargebang|TPST Bantargebang]] · [[batu-ampar-kalimantan-barat|Batu Ampar, Kubu Raya, Kalimantan Barat]] · [[cilegon-serang|Cilegon & Serang]] · [[durban|Durban, Afrika Selatan]] · [[gambut-lamandau-pekanbaru|Lamandau]] · [[hutan-desa-labbo-bantaeng|Hutan Desa Labbo, Bantaeng, Sulawesi Selatan]] · [[hutan-kota-ui|Hutan Kota Universitas Indonesia]] · [[ibun-kamojang|Ibun, lereng Gunung Kamojang, Jawa Barat]] · [[jakarta-utara|Jakarta Utara]] · [[jambi|Jambi]] · [[kalaodi-tidore|Kalaodi, Tidore, Maluku Utara]] · [[kamanggih-sumba-timur|Kamanggih, Sumba Timur, NTT]] · [[kampung-akuarium|Kampung Akuarium, Jakarta Utara]] · [[lampung-babel|Lampung]] · [[leuwigajah|TPA Leuwigajah]] · [[makassar|Kota Makassar]] · [[pekalongan|Kota Pekalongan]] · [[rupat-utara|Rupat Utara, Riau]] · [[situ-jabodetabek|Situ & danau Jabodetabek]] · [[solok-selatan|Solok Selatan, Sumatera Barat]] · [[sumatera-selatan|Sumatera Selatan]] · [[tahura-ngurah-rai-bali|Tahura Ngurah Rai, Denpasar–Badung, Bali]] · [[tambakrejo-semarang|Kampung Tambakrejo, RW 16, Kel. Tanjung Mas,…]] · [[tanggul-laut-raksasa-pantura|Tanggul laut raksasa]] · [[tanjung-aur-bengkulu|Tanjung Aur, Bengkulu]] · [[tanjung-sauh|Tanjung Sauh]] · [[trawas-mojokerto|Trawas, Mojokerto, Jawa Timur]]
 
-## Angka kunci (117) — lengkapnya di [[angka-kunci]]
+## Angka kunci (121) — lengkapnya di [[angka-kunci]]
 
 | Angka | Konteks | Sumber | Status | Isu | Sesi |
 |---|---|---|---|---|---|
@@ -154,6 +154,10 @@ Pola lintas isu: [[benang-merah]]
 | ±9.900 ha | Wilayah tangkap Rupat Utara dipertahankan dari tambang pasir | policy brief WALHI, Okt 2026 | [kata-pengguna] | iklim-kota, tata-ruang | [[2026-11-10-green-jobs-wkr-cop31]] |
 | Rp10–15 ribu → Rp3–4 ribu/kg | Harga kopi Solok Selatan saat pandemi | katalog WALHI, 2023 | [kata-pengguna] | iklim-kota | [[2026-11-10-green-jobs-wkr-cop31]] |
 | >20 pekerja tewas | Ledakan smelter ITSS di IMIP, Des 2023 | tidak disebut (dinilai benar di sesi) | [belum-diverifikasi] | iklim-kota | [[2026-11-10-green-jobs-wkr-cop31]] |
+| 32 juta ha | kehilangan tutupan pohon Indonesia 2001–2024 dibanding 2000 | Global Forest Watch 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
+| ±20%; peringkat 2 dunia | porsi Indonesia dalam emisi global dari deforestasi 2013–2022 | Climate Action Tracker 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
+| ±1 GtCO₂e/tahun | emisi LULUCF Indonesia, hampir separuh emisi nasional | Climate Action Tracker 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
+| ≥3.500/tahun | kejadian bencana ekologis (banjir, longsor, kebakaran) | BNPB, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
 
 ## Sumber sesi
 - [[2026-11-21-sungai-jakarta-ruang-air]]

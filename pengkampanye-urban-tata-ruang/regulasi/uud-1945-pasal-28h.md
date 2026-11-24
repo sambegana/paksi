@@ -9,6 +9,9 @@ tag: []
 
 Terkait: [[isu-tata-ruang]]
 
+## Dipakai dalam posisi WALHI
+[[deklarasi-sumba-keadilan-ekologis]] merujuk Pasal 28H dan Pasal 33 UUD 1945 sebagai mandat negara.
+
 ## Sumber
 <!-- gabung.py: sumber tambahan di bawah -->
 
