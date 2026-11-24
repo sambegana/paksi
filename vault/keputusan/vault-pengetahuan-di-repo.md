@@ -1,7 +1,7 @@
 ---
 jenis: keputusan
 tanggal: 2026-11-24
-status: berlaku
+status: berlaku, diperluas oleh [[vault-tematik-lintas-sesi]]
 tag: [meta, ingatan]
 ---
 
