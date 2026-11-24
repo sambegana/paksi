@@ -9,6 +9,11 @@ tag: []
 
 Terkait: [[isu-air]], [[isu-data-center]], [[isu-hutan-kota]], [[isu-iklim-kota]], [[isu-sampah]], [[isu-sungai]], [[isu-tata-ruang]]
 
+## Dokumen sumber (Jakarta)
+- RTRW berlaku: Perda DKI 7/2024 (2024–2044), menggantikan Perda 1/2012 (diverifikasi dari teks dokumen) → [[regulasi-perda-dki-7-2024-rtrw-jakarta-2024-2044-teks]]
+- RDTR: Pergub DKI 31/2022 → [[regulasi-pergub-dki-31-2022-rdtr-wp-jakarta.pdf]]
+- Daftar lengkap: [[daftar-dokumen]]
+
 ## Sumber
 <!-- gabung.py: sumber tambahan di bawah -->
 

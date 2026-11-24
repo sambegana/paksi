@@ -9,6 +9,10 @@ tag: []
 
 Terkait: [[isu-advokasi-kebijakan]], [[isu-sungai]]
 
+## Dokumen sumber
+- Penulis kedua artikel [[jurnal-jsg-2026-pemetaan-partisipatif-betawi-ciliwung.pdf]]
+- Kemungkinan penyusun [[proposal-cbrut-wisata-kota-regeneratif-jakarta-500.pdf]] (belum dipastikan)
+
 ## Sumber
 <!-- gabung.py: sumber tambahan di bawah -->
 

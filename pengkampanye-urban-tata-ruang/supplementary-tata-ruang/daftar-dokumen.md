@@ -40,6 +40,36 @@ Dokumen di sini adalah **bahan primer** untuk memverifikasi klaim di [[isu-tata-
 
 ## Daftar dokumen
 
-| Berkas / tautan | Jenis | Wilayah | Nomor & tahun | Status berlaku | Sumber resmi | Catatan |
+Berkas diunggah dari folder Drive pengguna ([Supplementary Tata Ruang](https://drive.google.com/drive/folders/1JM063wyd3ub_RqUTq7kLNPYcM3TDcKJf)),
+ditambah dokumen resmi yang dicari dari situs pemerintah. Ditambahkan 2026-11-24.
+
+### Regulasi (resmi)
+
+| Berkas / tautan | Jenis | Wilayah | Nomor & tahun | Status berlaku | Sumber | Catatan |
 |---|---|---|---|---|---|---|
-| | | | | | | |
+| [[regulasi-perda-dki-7-2024-rtrw-jakarta-2024-2044-teks]] · [[regulasi-perda-dki-7-2024-rtrw-jakarta-2024-2044-batang-tubuh.pdf]] · [PDF utuh 132 MB di Drive](https://drive.google.com/file/d/15J0TdPr0A4F1sHsvAD7B1DmHcS_vhL8s/view) | RTRW | Provinsi DKI Jakarta | Perda 7/2024, LD 2024 No. 103 | **Berlaku**; menggantikan Perda 1/2012 | Salinan pengguna; [JDIH DKI](https://jdih.jakarta.go.id) | Batang tubuh hal. 1–169, penjelasan 170–196, lampiran 197–372 (peta hal. 263–294). PDF batang tubuh = hal. 1–196. Teks = ekstraksi otomatis seluruh 372 halaman |
+| [[regulasi-pergub-dki-31-2022-rdtr-wp-jakarta.pdf]] | RDTR | Provinsi DKI Jakarta | Pergub 31/2022 | Berlaku; belum ada perubahan yang terkonfirmasi (dicek sekilas 2026-11-24) | [DCKTRP DKI](https://dcktrp.jakarta.go.id/website-admin/storage/peraturan/Pergub%20no%2031%20tahun%202022.pdf) | **Identik byte-per-byte** dengan salinan resmi DCKTRP (200 hal., tanpa lampiran peta). Menggantikan Perda 1/2014 RDTR-PZ |
+| [[regulasi-perda-dki-1-2012-rtrw-jakarta-2030.pdf]] | RTRW | Provinsi DKI Jakarta | Perda 1/2012 | **Dicabut**, diganti Perda 7/2024 | [Situs Pemprov DKI (Distamhut)](https://flona.jakarta.go.id/assets/data/data-peraturan/PERDA-01_TAHUN_2012-TENTANG-RTRW_2030.pdf) | Pembanding: apa yang berubah dari RTRW 2030 ke 2044 |
+| [Perpres 60/2020 di BPK](https://peraturan.bpk.go.id/Download/199214/Perpres%20Nomor%2060%20Tahun%202020.pdf) *(belum diunggah)* | RTR KSN | Jabodetabek-Punjur | Perpres 60/2020 | Berlaku per laporan 2020; status terbaru belum dicek | BPK | Situs BPK memblokir unduhan otomatis. **Unduh manual lewat browser lalu unggah ke sini.** Rujukan di atas RTRW untuk Jakarta dan kota sekitarnya |
+
+### Peta
+
+| Berkas | Isi | Sumber | Catatan |
+|---|---|---|---|
+| [[peta-rtrw-jakarta-2030-jakarta-timur.pdf]] | Peta RTRW 2030 Jakarta Timur, 10 lembar | Salinan pengguna; nama berkas asli menunjukkan unggahan Scribd, bukan sumber resmi | Peta era Perda 1/2012 (sudah dicabut) |
+
+### Kajian & bahan pendukung (bukan dokumen resmi)
+
+| Berkas | Isi | Catatan |
+|---|---|---|
+| [[kajian-studio-pwk-ut-2026-rtrw-jakarta-timur-laporan.pdf]] | Laporan akhir Studio PWK (STPL 4219) Universitas Terbuka 2026: RTRW Jakarta Timur 2024–2044, WP Pasar Rebo, Kramat Jati, Jatinegara, Pulogadung, Cakung (317 hal.) | **Latihan akademik mahasiswa**, bukan rencana resmi. Berguna untuk profil wilayah dan isu |
+| [[kajian-studio-pwk-ut-2026-rtrw-jakarta-timur-presentasi.pdf]] · [[kajian-studio-pwk-ut-2026-rtrw-jakarta-timur-ringkasan.pdf]] · [[kajian-studio-pwk-ut-2026-rtrw-jakarta-timur-poster.pdf]] | Presentasi (71 hal.), ringkasan (15 hal., berbasis gambar), poster | Studio yang sama |
+| [[kajian-studio-pwk-ut-2026-rtrw-jakarta-timur-infografis.jpg]] · [[kajian-studio-pwk-ut-2026-peta-pola-ruang-jakarta-timur.jpg]] · [[kajian-studio-pwk-ut-2026-peta-struktur-ruang-jakarta-timur.jpg]] | Infografis, peta rencana pola ruang & struktur ruang (1:150.000) | Studio yang sama. Usulannya antara lain "normalisasi 18 km tanggul sungai", yang **berseberangan** dengan arah naturalisasi di [[isu-sungai]] |
+| [[jurnal-jsg-2026-pemetaan-partisipatif-betawi-ciliwung.pdf]] | Artikel *Jurnal Sains Geografi* 4(2) 2026: pemetaan partisipatif kearifan lokal Betawi di bantaran Ciliwung segmen Jaksel–Jaktim | Penulis kedua dari [[padepokan-ciliwung-condet]]. Terkait [[ciliwung]], [[condet]] |
+| [[peta-rancangan-pemetaan-partisipatif-ciliwung-2026.jpg]] | Rancangan jalur pemetaan partisipatif 2026 (33,3 km) vs jalur 2021 (19 km, 22 titik) | Pendamping artikel jurnal di atas |
+| [[proposal-cbrut-wisata-kota-regeneratif-jakarta-500.pdf]] | Proposal "Wisata Kota Regeneratif Berbasis Komunitas (CBRUT)": ruang hijau dan sungai menuju 500 tahun Jakarta (22 Juni 2027), 20 hal. | Nama berkas asli "TMD_PCC", kemungkinan dari Padepokan Ciliwung Condet (belum dipastikan) |
+
+### Dicari, belum ditemukan / belum diunggah
+- **Perpres Rencana Induk Pembangunan Kawasan Aglomerasi (RIPKA)** sesuai UU 2/2024 tentang DKJ: penyusunannya dimulai Agustus 2025; status pengesahan belum terverifikasi.
+- **Peta resmi Perda 7/2024** dalam format data (SHP/GDB): cek GISTARU ATR/BPN dan portal Jakarta Satu.
+- **KLHS RTRW Jakarta 2024–2044**: belum dicari.

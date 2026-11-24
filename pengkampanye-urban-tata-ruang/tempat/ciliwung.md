@@ -9,6 +9,10 @@ tag: []
 
 Terkait: [[isu-sungai]], [[isu-tata-ruang]]
 
+## Dokumen sumber
+- [[jurnal-jsg-2026-pemetaan-partisipatif-betawi-ciliwung.pdf]], pemetaan partisipatif kearifan lokal Betawi di bantaran Ciliwung (2026)
+- [[peta-rancangan-pemetaan-partisipatif-ciliwung-2026.jpg]]
+
 ## Sumber
 <!-- gabung.py: sumber tambahan di bawah -->
 
