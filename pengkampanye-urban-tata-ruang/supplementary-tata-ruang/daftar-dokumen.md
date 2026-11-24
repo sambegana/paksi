@@ -91,6 +91,22 @@ ditambah dokumen resmi yang dicari dari situs pemerintah. Ditambahkan 2026-11-24
 | [[proposal-cbrut-wisata-kota-regeneratif-jakarta-500.pdf]] | Proposal "Wisata Kota Regeneratif Berbasis Komunitas (CBRUT)": ruang hijau dan sungai menuju 500 tahun Jakarta (22 Juni 2027), 20 hal. | Nama berkas asli "TMD_PCC", kemungkinan dari Padepokan Ciliwung Condet (belum dipastikan) |
 
 ### Dicari, belum ditemukan / belum diunggah
+
+Hasil penelusuran web 2026-11-24 ([[2026-11-24-peta-belajar-tata-ruang]]). Status tautan dicek dari sesi cloud.
+
+| Bahan | Temuan | Tautan / langkah |
+|---|---|---|
+| **RDTR Nongsa & Kabil** | Ada: **Perwali Batam 60/2021** tentang RDTR WP Nongsa, Batam Kota, Bengkong, Batu Ampar, Lubuk Baja, Sekupang, dan Batu Aji 2021–2041 (Berita Daerah 2021 No. 847), dirujuk di Perwali Batam 3/2022. Naskahnya belum ditemukan daring | Minta ke DCKTR Kota Batam atau PPID Pemkot Batam; cek GISTARU ATR/BPN untuk peta RDTR. Rujukan: [Perwali Batam 3/2022 di BPK](https://peraturan.bpk.go.id/Download/300605/Perwali%20Batam%20No%203%20Tahun%202022.pdf) (unduh manual lewat browser) |
+| Forum Penataan Ruang Kota Batam | Perwali Batam 3/2022 mengatur mekanisme dan tata kerja Forum Penataan Ruang (sasaran advokasi, setara FPRD Jakarta) | [BPK](https://peraturan.bpk.go.id/Download/300605/Perwali%20Batam%20No%203%20Tahun%202022.pdf) (unduh manual) |
+| KLHS RTRW Batam 2021 | Belum ditemukan. Yang tersedia: KLHS **RDTR** WP Sagulung, Sungai Beduk, Belakang Padang (memuat tinjauan RTRW 2021–2041). KLHS RDTR Nongsa tidak ditemukan | [KLHS RDTR Sagulung](https://silh.batam.go.id/web/wp-content/uploads/2023/08/KLHS-RDTR-WP-Sagulung.pdf) (tautan hidup, 12 MB) · [Sungai Beduk](https://silh.batam.go.id/web/wp-content/uploads/2023/08/Dokumen-KLHS-RDTR-WP-Sungai-Beduk.pdf) · [Belakang Padang](https://silh.batam.go.id/web/wp-content/uploads/2023/08/Dokumen-RDTR-KLHS-Belakang-Padang_V23Feb2022.pdf). KLHS RTRW dan KLHS RDTR Nongsa: permohonan KIP ke DLH Kota Batam |
+| KLHS RTRW Jakarta 2024–2044 | Belum ditemukan. Ada **KLHS Revisi RTRW Jakarta 2030, validasi Desember 2018** (kemungkinan KLHS proses revisi yang berujung di Perda 7/2024), tetapi tautan di situs DLH DKI kini **404** | Tautan lama: dinaslhdki.id/files/kajian/2018/KLHS-RTRW-2018/LAPORAN-KLHS-RTRW-JAKARTA-2030-final-Validasi-2018.pdf (mati). Coba Wayback Machine, lalu permohonan KIP ke DLH DKI dan DCKTRP. Kepgub DKI 188/2022 membentuk pokja KLHS untuk RDTR |
+| Peta lampiran Perda Batam 3/2021 | Pasal pola ruang merujuk Peta Pola Ruang skala 1:25.000 di Lampiran II; belum ditemukan daring | JDIH Kota Batam / DCKTR Batam; Lembaran Daerah 2021 No. 3 |
+| Salinan resmi Statuta WALHI 2025 | Tidak dipublikasikan di walhi.or.id | Minta ke Eksekutif Nasional (internal) |
+| Naskah resmi Deklarasi Sumba | Ada di situs WALHI (versi ID dan EN); situs memblokir unduhan otomatis, buka lewat browser | [ID](https://walhi.or.id/uploads/WALHI%202025-2029/Dokumen/Naskah%20Deklarasi%20Keadilan%20Ekologis_id_A4.pdf) · [EN](https://walhi.or.id/uploads/WALHI%202025-2029/Dokumen/Naskah%20Deklarasi%20Keadilan%20Ekologis_en.pdf) |
+| Perubahan Perpres 87/2011 | Tidak ditemukan perpres perubahan; pasal.id mencantumkan "berlaku" | Cek riwayat di [JDIH BPK](https://peraturan.bpk.go.id/Details/41235/perpres-no-87-tahun-2011) |
+| Bacaan pendukung | Mongabay, 7 Apr 2026: "Tata ruang Batam antara ambisi industri dan krisis lingkungan" | [Mongabay](https://mongabay.co.id/2026/04/07/tata-ruang-batam-antara-ambisi-industri-dan-krisis-lingkungan/) |
+
+Lainnya:
 - **Peta lampiran Perda Batam 3/2021** (peta struktur & pola ruang skala kota): PDF 152 hal. hanya memuat batang tubuh, penjelasan, dan tabel indikasi program.
 - **Perubahan atas Perpres 87/2011 dan Perpres 60/2020** (bila ada): belum dicek.
 - **Perpres Rencana Induk Pembangunan Kawasan Aglomerasi (RIPKA)** sesuai UU 2/2024 tentang DKJ: penyusunannya dimulai Agustus 2025; status pengesahan belum terverifikasi.

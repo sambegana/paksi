@@ -55,9 +55,9 @@ dan folder Drive "Supplementary Tata Ruang", lalu mengunggah dokumen yang dimint
   reklamasi B8 berdaya dukung rendah tetap untuk permukiman/industri. [diverifikasi-di-sesi]
 
 ## Keputusan & sikap
-- Pengguna setuju dengan arah roadmap ("bolehhh"); empat keputusan belum dijawab: kasus jangkar (usul: Jakarta
-  utama, Batam kedua, Semarang–Demak pembanding), nasib modul data center L2–L8 (usul: L4–L6 diserap ke M8/M9/M5),
-  ritme mingguan (asumsi 4 sesi), pekerjaan peta (usul: baca portal + overlay sendiri, analisis berat bermitra).
+- **Disepakati pengguna ("setuju semua rekom"):** kasus jangkar Jakarta (utama), Batam (kedua), Semarang–Demak
+  (pembanding); modul data center L4–L6 diserap ke M9/M8/M5+M7, L2–L3 ditunda ke Januari, L7–L8 digabung dengan
+  M12–M13; ritme 4 sesi/minggu; peta: belajar baca portal + overlay sendiri, analisis spasial berat bersama mitra. [kata-pengguna]
 - Roadmap tidak dimulai sebelum FGD data center 25 Nov 2026.
 - Terjemahan urban Deklarasi Sumba diperlakukan sebagai usulan, bukan posisi lembaga, sampai disahkan internal.
 
@@ -67,7 +67,9 @@ dan folder Drive "Supplementary Tata Ruang", lalu mengunggah dokumen yang dimint
   sudah digabung ke `claude/laughing-franklin-b16kvn`.
 
 ## Belum selesai / langkah berikutnya
-- [ ] Jawaban empat keputusan pengguna; lalu mulai M0 (tes awal + pilih kasus jangkar).
+- [ ] M0 dikirim: **Tes Awal Tata Ruang** https://claude.ai/artifact/Y7Z7iamYxQy6XecDegTocp — tunggu jawaban pengguna, lalu nilai
+  (ketepatan × keyakinan), bandingkan dengan penilaian diri, dan sesuaikan kedalaman M1–M13.
+- [ ] Ambil Perwali Batam 60/2021 (RDTR Nongsa dkk.) dan KLHS-nya; lihat tabel "Dicari" di [[daftar-dokumen]].
 - [ ] Cek manual Perda Batam 3/2021 (tabel indikasi program hal. 114–152) untuk "kampung tua" sebelum klaim ketidaksesuaian dipakai; cari peta lampirannya.
 - [ ] Cek apakah Perpres 87/2011 dan Perpres 60/2020 sudah diubah.
 - [ ] Cari KLHS RTRW Jakarta 2024–2044 dan KLHS RTRW Batam 2021 (KIP bila perlu).

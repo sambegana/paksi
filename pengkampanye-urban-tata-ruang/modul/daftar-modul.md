@@ -81,3 +81,4 @@ Status `[ ]` = belum diimpor.
 ## [[2026-11-24-peta-belajar-tata-ruang]]
 
 - [ ] Peta Belajar Tata Ruang Berkeadilan (analisis kebutuhan, peta masalah, lensa 6 dimensi × Deklarasi Sumba, roadmap 14 modul + capstone, jalur cepat raker, daftar verifikasi) — https://claude.ai/artifact/2RybbPxhXxoSE8qu7tXeEc
+- [ ] M0 · Tes Awal Tata Ruang (15 soal diagnostik + tanda keyakinan, definisi awal, penilaian diri) — https://claude.ai/artifact/Y7Z7iamYxQy6XecDegTocp
