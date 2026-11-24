@@ -78,3 +78,6 @@ Status `[ ]` = belum diimpor.
 - [ ] Modul 5 — Ruang Air Jakarta — https://claude.ai/artifact/W4CdWMR16juNLP4xLb5AFj
 - [ ] Modul 6 — Rencana Ruang Air Jakarta (atlas kerja) — https://claude.ai/artifact/UmPj4jyeBuS8pADfMk9n1n
 
+## [[2026-11-24-peta-belajar-tata-ruang]]
+
+- [ ] Peta Belajar Tata Ruang Berkeadilan (analisis kebutuhan, peta masalah, lensa 6 dimensi × Deklarasi Sumba, roadmap 14 modul + capstone, jalur cepat raker, daftar verifikasi) — https://claude.ai/artifact/2RybbPxhXxoSE8qu7tXeEc

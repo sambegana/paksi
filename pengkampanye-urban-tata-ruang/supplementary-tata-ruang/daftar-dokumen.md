@@ -60,7 +60,7 @@ otomatis: minta pengguna mengunduh manual lalu menaruhnya di folder Drive di ata
 ## Daftar dokumen
 
 Berkas diunggah dari folder Drive pengguna ([Supplementary Tata Ruang](https://drive.google.com/drive/folders/1JM063wyd3ub_RqUTq7kLNPYcM3TDcKJf)),
-ditambah dokumen resmi yang dicari dari situs pemerintah. Ditambahkan 2026-11-24.
+ditambah dokumen resmi yang dicari dari situs pemerintah. Ditambahkan 2026-11-24; gelombang kedua (Perpres 60/2020, Perpres 87/2011, Perda Batam 3/2021) ditambahkan di hari yang sama.
 
 ### Regulasi (resmi)
 
@@ -69,7 +69,9 @@ ditambah dokumen resmi yang dicari dari situs pemerintah. Ditambahkan 2026-11-24
 | [[regulasi-perda-dki-7-2024-rtrw-jakarta-2024-2044-teks]] · [[regulasi-perda-dki-7-2024-rtrw-jakarta-2024-2044-batang-tubuh.pdf]] · [PDF utuh 132 MB di Drive](https://drive.google.com/file/d/15J0TdPr0A4F1sHsvAD7B1DmHcS_vhL8s/view) | RTRW | Provinsi DKI Jakarta | Perda 7/2024, LD 2024 No. 103 | **Berlaku**; menggantikan Perda 1/2012 | Salinan pengguna; [JDIH DKI](https://jdih.jakarta.go.id) | Batang tubuh hal. 1–169, penjelasan 170–196, lampiran 197–372 (peta hal. 263–294). PDF batang tubuh = hal. 1–196. Teks = ekstraksi otomatis seluruh 372 halaman |
 | [[regulasi-pergub-dki-31-2022-rdtr-wp-jakarta.pdf]] | RDTR | Provinsi DKI Jakarta | Pergub 31/2022 | Berlaku; belum ada perubahan yang terkonfirmasi (dicek sekilas 2026-11-24) | [DCKTRP DKI](https://dcktrp.jakarta.go.id/website-admin/storage/peraturan/Pergub%20no%2031%20tahun%202022.pdf) | **Identik byte-per-byte** dengan salinan resmi DCKTRP (200 hal., tanpa lampiran peta). Menggantikan Perda 1/2014 RDTR-PZ |
 | [[regulasi-perda-dki-1-2012-rtrw-jakarta-2030.pdf]] | RTRW | Provinsi DKI Jakarta | Perda 1/2012 | **Dicabut**, diganti Perda 7/2024 | [Situs Pemprov DKI (Distamhut)](https://flona.jakarta.go.id/assets/data/data-peraturan/PERDA-01_TAHUN_2012-TENTANG-RTRW_2030.pdf) | Pembanding: apa yang berubah dari RTRW 2030 ke 2044 |
-| [Perpres 60/2020 di BPK](https://peraturan.bpk.go.id/Download/199214/Perpres%20Nomor%2060%20Tahun%202020.pdf) *(belum diunggah)* | RTR KSN | Jabodetabek-Punjur | Perpres 60/2020 | Berlaku per laporan 2020; status terbaru belum dicek | BPK | Situs BPK memblokir unduhan otomatis. **Unduh manual lewat browser lalu unggah ke sini.** Rujukan di atas RTRW untuk Jakarta dan kota sekitarnya |
+| [[regulasi-perpres-60-2020-rtr-jabodetabekpunjur-teks]] · [PDF utuh 55 MB di Drive](https://drive.google.com/file/d/1Y1lINTF8VvzOm2yen-S7daWogzoty7g4/view) | RTR KSN | Jabodetabek-Punjur | Perpres 60/2020 | Berlaku per laporan 2020; perubahan setelahnya belum dicek | Diunggah pengguna ke Drive 2026-11-24; [BPK](https://peraturan.bpk.go.id/Download/199214/Perpres%20Nomor%2060%20Tahun%202020.pdf) | 199 hal. Pasal 81: Zona B8 (kawasan reklamasi) berdaya dukung rendah, rawan intrusi & abrasi, tetap untuk permukiman/perdagangan/industri (hal. 133). Pasal 122: "kebijakan strategis nasional" bisa menambah kegiatan di zona lindung (hal. 185). Kata "penurunan muka tanah" tidak ditemukan |
+| [[regulasi-perpres-87-2011-rtr-bbk-teks]] · [[regulasi-perpres-87-2011-rtr-bbk-batang-tubuh.pdf]] · lampiran di Drive: [I struktur](https://drive.google.com/file/d/1oNO3nkVl555bdL6ryithWn_LD_NO3vst/view), [II pola](https://drive.google.com/file/d/1QMpyF3JsARoYQUsez-gfOZDD1b4wvMYU/view), [III indikasi program](https://drive.google.com/file/d/1Zwh3_ZPOYBcEhl7ihkO1fKN87g4aDhr5/view) | RTR KSN | Batam, Bintan, Karimun | Perpres 87/2011 | Berlaku menurut konsiderans Perda Batam 3/2021; perubahan setelahnya belum dicek | Diunggah pengguna ke Drive 2026-11-24 | 139 hal. Pasal 56: sempadan waduk 50–100 m dari titik pasang air tertinggi (hal. 57). Pasal 62(2): ±40 kampung tua di Batam, termasuk Nongsa Pantai, Teluk Mata Ikan, Batu Besar, ditetapkan Zona L3 (hal. 62). Kampung tua Rempang tidak tercantum, hanya situs Jepang Sembulang |
+| [[regulasi-perda-batam-3-2021-rtrw-batam-2021-2041-teks-ocr]] · [[regulasi-perda-batam-3-2021-rtrw-batam-2021-2041.pdf]] | RTRW | Kota Batam | Perda 3/2021 | Berlaku | Diunggah pengguna ke Drive 2026-11-24 | **Pindaian tanpa teks; teks = OCR**. Isi: batang tubuh hal. 1–97, penjelasan hal. 98–112, tabel indikasi program hal. 114–152. Pasal 28: cagar budaya hanya 5 situs, tanpa kampung tua (hal. 35). Pasal 29: mangrove ±404 ha. Pasal 30: RTH ≥30% (20% publik, 10% privat). Pasal 35: industri ±11.603 ha, termasuk 663 ha yang masih hutan lindung, 1.151 ha HPK di Galang, dan 3.628 ha reklamasi perairan (hal. 39–40). Kata "pusat data", "KLHS", dan "kampung" tidak ditemukan di OCR batang tubuh dan penjelasan (hal. 1–112). Hal. 114–152 = tabel indikasi program yang diputar, tidak terbaca OCR. Peta lampiran tidak ada di PDF ini |
 
 ### Peta
 
@@ -89,6 +91,8 @@ ditambah dokumen resmi yang dicari dari situs pemerintah. Ditambahkan 2026-11-24
 | [[proposal-cbrut-wisata-kota-regeneratif-jakarta-500.pdf]] | Proposal "Wisata Kota Regeneratif Berbasis Komunitas (CBRUT)": ruang hijau dan sungai menuju 500 tahun Jakarta (22 Juni 2027), 20 hal. | Nama berkas asli "TMD_PCC", kemungkinan dari Padepokan Ciliwung Condet (belum dipastikan) |
 
 ### Dicari, belum ditemukan / belum diunggah
+- **Peta lampiran Perda Batam 3/2021** (peta struktur & pola ruang skala kota): PDF 152 hal. hanya memuat batang tubuh, penjelasan, dan tabel indikasi program.
+- **Perubahan atas Perpres 87/2011 dan Perpres 60/2020** (bila ada): belum dicek.
 - **Perpres Rencana Induk Pembangunan Kawasan Aglomerasi (RIPKA)** sesuai UU 2/2024 tentang DKJ: penyusunannya dimulai Agustus 2025; status pengesahan belum terverifikasi.
 - **Peta resmi Perda 7/2024** dalam format data (SHP/GDB): cek GISTARU ATR/BPN dan portal Jakarta Satu.
 - **KLHS RTRW Jakarta 2024–2044**: belum dicari.
