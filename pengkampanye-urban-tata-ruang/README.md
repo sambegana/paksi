@@ -31,6 +31,7 @@ saat grafnya terlalu ramai. Plugin *Obsidian Git* bisa dipakai untuk menarik pem
 | `argumen-kampanye.md`, `pertanyaan-terbuka.md` | Bahan kerja per sumber |
 | `sesi/` | Log tiap sesi Claude (sumber), ditulis sekali |
 | `modul/` | Daftar modul HTML; isinya diimpor setelah final |
+| `suplementary-tata-ruang/` | Dokumen sumber tata ruang (RTRW, RDTR, KLHS, peta) + `daftar-dokumen.md` |
 | `_meta/` | Catatan tentang sistem vault ini sendiri |
 | `_templat/`, `_alat/` | Templat catatan; skrip `periksa.py`, `gabung.py`, `hub.py`, status `sinkron.json` |
 
