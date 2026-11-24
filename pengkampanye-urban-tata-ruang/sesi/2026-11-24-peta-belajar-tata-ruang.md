@@ -54,6 +54,18 @@ dan folder Drive "Supplementary Tata Ruang", lalu mengunggah dokumen yang dimint
   enam kriteria longgar → bukti tertulis jalur pengecualian (sebagian menjawab celah riset #1). Pasal 81: zona
   reklamasi B8 berdaya dukung rendah tetap untuk permukiman/industri. [diverifikasi-di-sesi]
 
+## Hasil M0 (tes awal)
+- Rapor: https://claude.ai/artifact/J5ZL3RkENpyJvPJPDEax7E · Tes: https://claude.ai/artifact/Y7Z7iamYxQy6XecDegTocp
+- Skor 10/15; salah 4 (skala RDTR), 11 (pemutihan, terbalik dengan penertiban), 12 (kriteria Fainstein);
+  tidak tahu 7 (pasal KLHS) dan 10 (KDB/KLB). Klaster: arsitektur hukum 6/6, menyebut pasal 0/1, peta & angka 1/3,
+  konsep & teori 0/2, posisi WALHI 2/2 (bahan baru dibaca), lapangan 1/1. Kolom keyakinan tidak diisi.
+- Penilaian diri 1 di semua kemampuan (2 untuk menulis tuntutan): meremehkan klaster hukum, tepat untuk peta & teori.
+- Definisi awal (16 kata): "Tata ruang berkeadilan adalah perencanaan ruang / pembangunan yang memberikan keadilan
+  distribusi, rekognisi, spasial dan ekologis." Masalah: melingkar, mencampur dimensi dan ranah, tanpa prosedur.
+- Kunci M0 (untuk sesi berikutnya): 1A 2C 3D 4D 5B 6C 7B 8D 9A 10A 11C 12B 13D 14A 15C.
+- Penyesuaian: M3a (skala, KDB/KLB, matriks ITBX) masuk jalur cepat → M0 ✓ → M2 → M3a → M4 → M5 → lokakarya raker;
+  M2 fokus kartu pasal; istilah rawan (pemutihan, penertiban, PK, revisi, keterlanjuran) di M2; kolom keyakinan wajib.
+
 ## Keputusan & sikap
 - **Disepakati pengguna ("setuju semua rekom"):** kasus jangkar Jakarta (utama), Batam (kedua), Semarang–Demak
   (pembanding); modul data center L4–L6 diserap ke M9/M8/M5+M7, L2–L3 ditunda ke Januari, L7–L8 digabung dengan
@@ -67,8 +79,8 @@ dan folder Drive "Supplementary Tata Ruang", lalu mengunggah dokumen yang dimint
   sudah digabung ke `claude/laughing-franklin-b16kvn`.
 
 ## Belum selesai / langkah berikutnya
-- [ ] M0 dikirim: **Tes Awal Tata Ruang** https://claude.ai/artifact/Y7Z7iamYxQy6XecDegTocp — tunggu jawaban pengguna, lalu nilai
-  (ketepatan × keyakinan), bandingkan dengan penilaian diri, dan sesuaikan kedalaman M1–M13.
+- [x] M0 selesai dan dinilai (lihat Hasil M0).
+- [ ] Berikutnya: M2 sesi 1, membaca UU 26/2007 jo. UU 6/2023 dari teks resmi + 4 kartu pasal pertama.
 - [ ] Ambil Perwali Batam 60/2021 (RDTR Nongsa dkk.) dan KLHS-nya; lihat tabel "Dicari" di [[daftar-dokumen]].
 - [ ] Cek manual Perda Batam 3/2021 (tabel indikasi program hal. 114–152) untuk "kampung tua" sebelum klaim ketidaksesuaian dipakai; cari peta lampirannya.
 - [ ] Cek apakah Perpres 87/2011 dan Perpres 60/2020 sudah diubah.
