@@ -24,6 +24,48 @@ FIELD = re.compile(r"^\s*-\s*([a-z][a-z\-/ ]*?)\s*:\s*(.*)$")
 PENANDA = "<!-- gabung.py: sumber tambahan di bawah -->"
 HARI_INI = date.today().isoformat()
 
+ISU = {"data-center": "isu-data-center", "sampah": "isu-sampah", "tata-ruang": "isu-tata-ruang",
+       "air": "isu-air", "sungai": "isu-sungai", "hutan-kota": "isu-hutan-kota",
+       "iklim": "isu-iklim-kota", "iklim-kota": "isu-iklim-kota",
+       "advokasi": "isu-advokasi-kebijakan", "advokasi-kebijakan": "isu-advokasi-kebijakan"}
+
+# Slug ganda -> slug kanonik. Diterapkan pada judul entitas DAN pada setiap [[tautan]].
+ALIAS = {
+    "additionality-ebt": "additionality",
+    "moratorium-berambang": "moratorium-bersyarat",
+    "lock-in-pasokan": "lock-in-psel",
+    "penurunan-muka-tanah-antropogenik": "penurunan-muka-tanah",
+    "pulau-panas-perkotaan": "panas-kota",
+    "akumulasi-lewat-perampasan": "perampasan-ruang",
+    "saset-multilapis": "ekonomi-saset",
+    "instrumen-asing-pembanding-semua-diverifikasi-di-sesi-lewat-sumber-hukum-berita-yang-dikutip":
+        "instrumen-asing-data-center",
+    "jakstranas-perpres-97-2017": "jakstranas-sampah",
+    "perpres-jakstranas": "jakstranas-sampah",
+    "pp-27-2020": "pp-27-2020-sampah-spesifik",
+    "pp-28-2025": "pp-28-2025-perizinan-berbasis-risiko",
+    "se-menlh-2-2026": "se-menlh-2-2026-plastik-sekali-pakai",
+    "second-ndc-indonesia": "sndc-indonesia",
+    "uu-keterbukaan-informasi-publik": "uu-kip",
+    "uu-23-2014-pemda": "uu-pemerintahan-daerah",
+    "uu-24-2007-penanggulangan-bencana": "uu-penanggulangan-bencana",
+    "pergub-zona-bebas-air-tanah": "pergub-dki-zona-bebas-air-tanah",
+    "regulasi-lain-disebut-s-adv-semua-belum-diverifikasi": "regulasi-lain-belum-diverifikasi",
+    "tempat-lain-disebut-s-adv": "tempat-lain-belum-diverifikasi",
+    "bdx": "bdx-indonesia",
+    "operator-dc-lain": "operator-lain-data-center",
+    "bekasi-karawang": "bekasi-cikarang-karawang",
+    "kit-batang": "batang-kitb",
+    "johor": "singapura-johor",
+    "isu-iklim": "isu-iklim-kota",
+    "isu-advokasi": "isu-advokasi-kebijakan",
+}
+_LINK = re.compile(r"\[\[([^\]|#]+)([^\]]*)\]\]")
+
+
+def ganti_alias(teks: str) -> str:
+    return _LINK.sub(lambda m: f"[[{ALIAS.get(m.group(1).strip(), m.group(1).strip())}{m.group(2)}]]", teks)
+
 
 def slugify(s: str) -> str:
     s = s.strip().strip("`[]").lower()
@@ -32,13 +74,12 @@ def slugify(s: str) -> str:
 
 
 def norm_isu(raw: str) -> list[str]:
-    items = re.split(r"[,\s]+", raw.replace("[", " ").replace("]", " "))
+    items = re.split(r"[,\s;·—]+", raw.replace("[", " ").replace("]", " "))
     out = []
     for it in items:
-        it = slugify(it)
-        if not it:
-            continue
-        out.append(it if it.startswith("isu-") else f"isu-{it}")
+        it = slugify(it).removeprefix("isu-")
+        if it in ISU and ISU[it] not in out:
+            out.append(ISU[it])
     return out
 
 
@@ -63,14 +104,19 @@ def parse(path: Path):
         if section in JENIS:
             if line.startswith("### "):
                 flush()
-                sub, fields, last_key = slugify(line[4:].split("—")[0].split(" - ")[0]), {}, None
+                sub = slugify(line[4:].split("—")[0].split(" - ")[0])
+                sub, fields, last_key = ALIAS.get(sub, sub), {}, None
                 continue
             if sub is None:
                 continue
             m = FIELD.match(line)
             if m:
                 last_key = m.group(1).strip().replace(" ", "-")
-                fields[last_key] = m.group(2).strip()
+                val = m.group(2).strip()
+                if last_key == "isu" and "sumber-sesi" in val:  # isu & sumber-sesi satu baris
+                    val, _, rest = val.partition("sumber-sesi")
+                    fields["sumber-sesi"] = rest.lstrip(" :")
+                fields[last_key] = val
             elif last_key and line.strip():
                 fields[last_key] += "\n" + line.rstrip()
         elif section:
@@ -81,7 +127,9 @@ def parse(path: Path):
 
 def sesi_links(v: str) -> list[str]:
     found = re.findall(r"\[\[([^\]|#]+)", v)
-    return [f.strip() for f in found] or ([v.strip()] if v.strip() else [])
+    if found:
+        return [f.strip() for f in found]
+    return re.findall(r"\d{4}-\d{2}-\d{2}-[a-z0-9\-]+", v)
 
 
 BIDANG = {
@@ -130,7 +178,7 @@ def tulis_entitas(jenis: str, slug: str, sumber: list[dict[str, str]], tulis: bo
         status = "baru"
     if tulis:
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(teks, encoding="utf-8")
+        path.write_text(ganti_alias(teks), encoding="utf-8")
     return status
 
 
@@ -163,8 +211,8 @@ def main() -> int:
         print(f"{jenis}: {dict(d)}")
     if tulis:
         out = src / "_kumpulan.md"
-        out.write_text("\n".join(f"# {sec}\n\n" + "\n".join(v) for sec, v in bebas_semua.items()),
-                       encoding="utf-8")
+        out.write_text(ganti_alias("\n".join(f"# {sec}\n\n" + "\n".join(v)
+                                             for sec, v in bebas_semua.items())), encoding="utf-8")
         print(f"bahan bebas -> {out}")
     return 0
 
