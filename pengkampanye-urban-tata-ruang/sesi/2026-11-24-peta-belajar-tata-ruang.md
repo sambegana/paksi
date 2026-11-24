@@ -85,6 +85,9 @@ dan folder Drive "Supplementary Tata Ruang", lalu mengunggah dokumen yang dimint
   cepat (18–23 Des) karena raker butuh mekanisme dulu; sesi dibuka dengan bingkai inti M1.
 - [ ] Tunggu jawaban latihan M2 S1 (kunci latihan 1: 20% × 103.374 ha ≈ 20.675 ha vs 5.299 ha → selisih ≈15.376 ha, ≈3,9×;
   sebelum jadi klaim, cek Permen ATR/BPN 14/2022 soal penyebut RTH dan argumen hutan lindung/wilayah non-perkotaan).
+- [x] Pertanyaan pengguna "masalah apa yang biasa muncul dalam tata ruang, termasuk politiknya" → halaman **Anatomi Masalah
+  Tata Ruang** https://claude.ai/artifact/KPFGgMrTQSexgjBoFpdXRu (7 lapis, siklus rente ruang, 3 perkara korupsi dokumen ruang,
+  teori, 6 kesalahan pengkampanye) → [[siklus-rente-ruang]].
 - [ ] M2 sesi 2: UU 32/2009 Ps. 15 + Pasal 14A, hierarki di Perda DKI 7/2024, kartu K5–K8, istilah rawan.
 - [ ] Ambil Perwali Batam 60/2021 (RDTR Nongsa dkk.) dan KLHS-nya; lihat tabel "Dicari" di [[daftar-dokumen]].
 - [ ] Cek manual Perda Batam 3/2021 (tabel indikasi program hal. 114–152) untuk "kampung tua" sebelum klaim ketidaksesuaian dipakai; cari peta lampirannya.

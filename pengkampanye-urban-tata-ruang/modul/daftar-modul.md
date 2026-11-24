@@ -84,3 +84,4 @@ Status `[ ]` = belum diimpor.
 - [ ] M0 · Tes Awal Tata Ruang (15 soal diagnostik + tanda keyakinan, definisi awal, penilaian diri) — https://claude.ai/artifact/Y7Z7iamYxQy6XecDegTocp
 - [ ] M0 · Hasil Tes Awal (skor per klaster, umpan balik per soal & definisi, penyesuaian jalur cepat) — https://claude.ai/artifact/J5ZL3RkENpyJvPJPDEax7E
 - [ ] M2 · Sesi 1 · Membaca UU Penataan Ruang (5 perubahan Cipta Kerja dari teks primer, kartu pasal K1–K4, 3 latihan) — https://claude.ai/artifact/ApSmqbjsx6oFafhiTnt3og
+- [ ] Bacaan pendamping · Anatomi Masalah Tata Ruang (7 lapis, siklus rente ruang, perkara Sanusi/Meikarta/Bogor, teori, kesalahan umum) — https://claude.ai/artifact/KPFGgMrTQSexgjBoFpdXRu
