@@ -1,0 +1,27 @@
+{
+  "terakhir_sinkron": "2026-11-24T05:00:00Z",
+  "sesi_diimpor": [
+    "session_01HPqUVJyCMG22CmDwQrwUcX",
+    "session_01HPqUVJRX6ht5MZZh6D6cvz",
+    "session_01HPqUVJanxtsD8MgXv3zeQP",
+    "session_01HPqUVK3RM5Qw5VcV9A6mCK",
+    "session_01HPqUVJyCM8iNH99CBDD7NW",
+    "session_01HPqUVK1AvBn6b6CULXtN2E",
+    "session_01HPqUVLgeVPkWhMaWdx5QwM",
+    "session_01HPqUVLFHzpSd2cpkHBhmhT",
+    "session_01HPqUVJbLwaFCpBzxXqFE4C",
+    "session_01HPqUVJjpgprNdC4jcVwQQU",
+    "session_01SCeX4eajSop1fgTJqGM4od",
+    "session_01HPqUVL2XJhJSu89HyqMttw",
+    "session_01HPqUVKLhufyXeaNcg5Bm95",
+    "session_01HPqUVMJSY61uZAoZCt8FfC",
+    "session_01HPqUVMp8Dw26WEwCYyDC2V"
+  ],
+  "branch_diimpor": [
+    "claude/riset-advokasi-sampah",
+    "claude/wawancara-kontan",
+    "claude/trusting-cori-urr48o",
+    "claude/dreamy-lamport-hrbnmr"
+  ],
+  "catatan": "Sesi pribadi (rumah, apartemen, motor, resep, LinkedIn, keamanan ponsel, akun) sengaja tidak diimpor."
+}
