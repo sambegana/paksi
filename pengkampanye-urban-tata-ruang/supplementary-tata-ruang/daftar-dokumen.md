@@ -26,8 +26,17 @@ Dokumen di sini adalah **bahan primer** untuk memverifikasi klaim di [[isu-tata-
   dokumen konsultasi publik. Draf internal, dokumen yang didapat lewat jalur tidak resmi, atau
   dokumen berisi data pribadi warga sebaiknya tidak ditaruh di sini.
 - **Ukuran berkas.** Unggahan lewat GitHub web dibatasi 25 MB per berkas, dan git menolak berkas di
-  atas 100 MB. Lampiran peta RTRW dan berkas SHP sering melebihi itu. Untuk berkas sebesar itu, simpan
-  di Google Drive dan cantumkan tautannya di tabel.
+  atas 100 MB. Berkas yang lebih besar disimpan bertingkat:
+  1. **Sumber resmi dulu.** Kalau dokumennya sudah ada di JDIH pemda, GISTARU ATR/BPN, atau
+     Ina-Geoportal, cantumkan tautan itu dan tanggal unduh. Versi resmi lebih kuat sebagai rujukan.
+  2. **Berkas utuh di Google Drive** dengan akses *Anyone with the link → Viewer*, lalu tempel tautannya
+     di tabel. Drive gratis hanya 15 GB; berkas ratusan GB butuh paket berbayar atau Shared Drive lembaga.
+  3. **Potongan yang dipakai masuk ke folder ini**: batang tubuh perda (pasal pola/struktur ruang,
+     zonasi, ketentuan peralihan), peta pola ruang wilayah kasus, tabel indikasi program. Potongan
+     inilah yang bisa dibaca di Obsidian dan diperiksa Claude. Berkas utuh berukuran ratusan GB tidak
+     bisa dibaca sekaligus.
+  - Untuk data spasial (SHP, geodatabase), ambil layer yang relevan saja untuk kecamatan kasus.
+  - Jangan pakai Git LFS (kuota gratis 1 GB) atau memecah berkas agar muat di GitHub.
 
 ## Daftar dokumen
 
