@@ -38,6 +38,25 @@ Dokumen di sini adalah **bahan primer** untuk memverifikasi klaim di [[isu-tata-
   - Untuk data spasial (SHP, geodatabase), ambil layer yang relevan saja untuk kecamatan kasus.
   - Jangan pakai Git LFS (kuota gratis 1 GB) atau memecah berkas agar muat di GitHub.
 
+## Untuk Claude: membaca berkas yang hanya ada di Drive
+
+Berkas Drive yang dibagikan *Anyone with the link* bisa diunduh di sesi cloud (diuji 2026-11-24
+untuk PDF 132 MB). Ambil ID dari tautan (`/file/d/<ID>/view`), lalu:
+
+```bash
+mkdir -p "$SCRATCH/drive" && curl -sL -o "$SCRATCH/drive/<nama>.pdf" \
+  "https://drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t"
+file "$SCRATCH/drive/<nama>.pdf"   # pastikan PDF, bukan halaman HTML
+```
+
+`$SCRATCH` = direktori scratchpad sesi. Simpan di sana, bukan di repo. Untuk teks, baca dulu versi
+`-teks.md` yang sudah ada di folder ini. Unduh PDF utuh hanya bila perlu peta atau lampiran.
+
+Batasan: tautan mati bila pemiliknya mengubah akses atau menghapus berkas. Drive kadang membatasi
+unduhan berkas yang sering diakses. Berkas yang jauh lebih besar dari sisa disk sesi tidak bisa
+diunduh utuh. Situs dengan pemeriksaan anti-bot (mis. peraturan.bpk.go.id) **tidak bisa** diunduh
+otomatis: minta pengguna mengunduh manual lalu menaruhnya di folder Drive di atas.
+
 ## Daftar dokumen
 
 Berkas diunggah dari folder Drive pengguna ([Supplementary Tata Ruang](https://drive.google.com/drive/folders/1JM063wyd3ub_RqUTq7kLNPYcM3TDcKJf)),
