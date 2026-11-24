@@ -83,3 +83,4 @@ Status `[ ]` = belum diimpor.
 - [ ] Peta Belajar Tata Ruang Berkeadilan (analisis kebutuhan, peta masalah, lensa 6 dimensi × Deklarasi Sumba, roadmap 14 modul + capstone, jalur cepat raker, daftar verifikasi) — https://claude.ai/artifact/2RybbPxhXxoSE8qu7tXeEc
 - [ ] M0 · Tes Awal Tata Ruang (15 soal diagnostik + tanda keyakinan, definisi awal, penilaian diri) — https://claude.ai/artifact/Y7Z7iamYxQy6XecDegTocp
 - [ ] M0 · Hasil Tes Awal (skor per klaster, umpan balik per soal & definisi, penyesuaian jalur cepat) — https://claude.ai/artifact/J5ZL3RkENpyJvPJPDEax7E
+- [ ] M2 · Sesi 1 · Membaca UU Penataan Ruang (5 perubahan Cipta Kerja dari teks primer, kartu pasal K1–K4, 3 latihan) — https://claude.ai/artifact/ApSmqbjsx6oFafhiTnt3og

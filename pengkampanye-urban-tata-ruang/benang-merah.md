@@ -66,7 +66,7 @@ urban) sampai pada kesimpulan yang sama: advokasi RDTR adalah advokasi izin sebe
   sendiri karena RKL-RPL disahkan pengelola kawasan. → [[amdal]], [[pp-68-2021-kek-nongsa]]
 - **PSN:** tanggul laut, PSEL (bila ditetapkan PSN), dan kawasan industri PSN diduga bisa
   memperoleh KKPR meski tidak sesuai RTRW daerah. Nelayan Kendal mengeluhkan RTRW dikesampingkan.
-  ⚠️ Mekanismenya di PP 21/2021 **belum diverifikasi**. Ini celah prosedur yang memotong isu air,
+  ✅ Di tingkat UU sudah terverifikasi (24 Nov 2026): **Pasal 34A UU 26/2007 jo. UU 6/2023**, kebijakan nasional strategis yang belum dimuat dalam RTR tetap boleh memanfaatkan ruang setelah rekomendasi KKPR dari pusat; turunannya untuk Jabodetabek-Punjur di Perpres 60/2020 Pasal 122 (lihat [[uu-penataan-ruang]], [[rtr-ksn]]). Rincian prosedurnya di PP 21/2021 masih **belum diverifikasi**. Ini celah prosedur yang memotong isu air,
   sampah, dan data center sekaligus. Prioritas riset.
 - **Respons pejabat yang sama:** Pemkot Tangsel menjawab keluhan data center BSD dengan "sudah
   sesuai tata ruang". Kalimat itu justru menunjukkan bahwa dokumen tata ruang itulah yang harus
@@ -190,7 +190,7 @@ surat siap pakai ke PPID BP Batam (lihat [[daftar-modul]]).
 
 ## Celah riset prioritas (lintas isu)
 
-1. Mekanisme PSN memperoleh KKPR tanpa kesesuaian RTRW (PP 21/2021). Celah ini memotong tiga isu.
+1. Mekanisme PSN memperoleh KKPR tanpa kesesuaian RTRW. **Sebagian terjawab:** dasar UU = Pasal 34A UU 26/2007 jo. UU 6/2023 (rekomendasi KKPR pusat). Sisa: prosedur rinci di PP 21/2021. Celah ini memotong tiga isu.
 2. Sumber dan volume air data center di Bekasi, Batang, dan Purwakarta (permohonan KIP).
 3. Kebutuhan air PSEL (rilis WALHI Makassar menyebutnya, tapi rinciannya tidak ada di repo).
 4. Hubungan RIPS (rencana induk persampahan) dengan RTRW/RDTR, termasuk alokasi lahan TPS3R

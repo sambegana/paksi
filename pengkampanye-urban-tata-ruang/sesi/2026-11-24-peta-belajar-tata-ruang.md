@@ -80,7 +80,12 @@ dan folder Drive "Supplementary Tata Ruang", lalu mengunggah dokumen yang dimint
 
 ## Belum selesai / langkah berikutnya
 - [x] M0 selesai dan dinilai (lihat Hasil M0).
-- [ ] Berikutnya: M2 sesi 1, membaca UU 26/2007 jo. UU 6/2023 dari teks resmi + 4 kartu pasal pertama.
+- [x] M2 sesi 1 dikirim: https://claude.ai/artifact/ApSmqbjsx6oFafhiTnt3og — lima perubahan Cipta Kerja atas UU 26/2007
+  (teks primer), kartu pasal K1–K4, tiga latihan. Pengguna bertanya kenapa M1 dilewati → dijawab: digeser ke setelah jalur
+  cepat (18–23 Des) karena raker butuh mekanisme dulu; sesi dibuka dengan bingkai inti M1.
+- [ ] Tunggu jawaban latihan M2 S1 (kunci latihan 1: 20% × 103.374 ha ≈ 20.675 ha vs 5.299 ha → selisih ≈15.376 ha, ≈3,9×;
+  sebelum jadi klaim, cek Permen ATR/BPN 14/2022 soal penyebut RTH dan argumen hutan lindung/wilayah non-perkotaan).
+- [ ] M2 sesi 2: UU 32/2009 Ps. 15 + Pasal 14A, hierarki di Perda DKI 7/2024, kartu K5–K8, istilah rawan.
 - [ ] Ambil Perwali Batam 60/2021 (RDTR Nongsa dkk.) dan KLHS-nya; lihat tabel "Dicari" di [[daftar-dokumen]].
 - [ ] Cek manual Perda Batam 3/2021 (tabel indikasi program hal. 114–152) untuk "kampung tua" sebelum klaim ketidaksesuaian dipakai; cari peta lampirannya.
 - [ ] Cek apakah Perpres 87/2011 dan Perpres 60/2020 sudah diubah.
