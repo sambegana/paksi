@@ -4,7 +4,7 @@ diperbarui: 2026-11-24
 isu: [isu-tata-ruang]
 ---
 
-# Suplementary tata ruang
+# Supplementary tata ruang
 
 Folder dokumen sumber tata ruang: RTRW, RDTR, RTR KSN, KLHS, peta, materi teknis, dan sejenisnya.
 Dokumen di sini adalah **bahan primer** untuk memverifikasi klaim di [[isu-tata-ruang]] dan

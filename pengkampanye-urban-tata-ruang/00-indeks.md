@@ -28,7 +28,7 @@ klaim yang *jangan* dipakai.
 - [[argumen-kampanye]]: klaim → bukti → kontra-argumen, per sumber
 - [[pertanyaan-terbuka]]: kandidat permohonan KIP dan riset lanjutan
 - [[daftar-modul]]: 48 modul dan artefak belajar (isinya diimpor setelah final)
-- [[daftar-dokumen]]: dokumen sumber tata ruang (RTRW, RDTR, KLHS, peta) di `suplementary-tata-ruang/`
+- [[daftar-dokumen]]: dokumen sumber tata ruang (RTRW, RDTR, KLHS, peta) di `supplementary-tata-ruang/`
 
 ## Pekerjaan terbuka (dari log sesi terbaru)
 - **FGD data center**: undangan menyebut 25 Nov, lampiran KAK 18 Nov; tanggal dan peran belum
