@@ -20,3 +20,10 @@ Isu: [[isu-tata-ruang]], [[isu-iklim-kota]], [[isu-sampah]], [[isu-data-center]]
 **Masalah / celah.** tuntutan peta bahaya iklim jadi syarat wajib KLHS; KLHS untuk setiap proyek PSEL; pertanyaan apakah KLHS RTRW Batam menghitung beban data center
 
 **Status.** [belum-diverifikasi]
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Pokok.** jalur memasukkan data lingkungan (tapak maupun makro) ke perencanaan; kajian risiko bencana harus menjadi bagian revisi [kata-narasumber]
+
+**Masalah / celah.** di Bali KLHS tidak diberikan ke publik dan konsultasi publik digelar mendadak [temuan lapangan WALHI]

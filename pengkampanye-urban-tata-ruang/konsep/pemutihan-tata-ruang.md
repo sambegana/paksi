@@ -20,3 +20,8 @@ Revisi RTRW (wajib ditinjau tiap 5 tahun) sering mengesahkan pelanggaran yang su
 **Dasar.** tidak disebut
 
 **Dipakai untuk.** membaca revisi RTRW sebagai titik rawan, bukan hanya peluang; tuntutan tolak pemutihan (mis. Puncak, Kawasan Bandung Utara).
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]]
+
+**Dipakai untuk.** tesis WALHI dalam diskusi: revisi dadakan sering beralasan bencana padahal tujuannya mengakomodasi keterlanjuran (contoh: izin di RTH diputihkan lewat revisi atau RDTR). Narasumber: bila alih fungsi sudah terjadi, opsi pemulihan sangat sedikit sehingga muncul pembenaran dan pemutihan [kata-narasumber]

@@ -47,3 +47,12 @@ Isu: [[isu-tata-ruang]]
 **Masalah / celah.** KKPR hampir otomatis di daerah ber-RDTR digital; konflik norma dengan perlindungan LP2B
 
 **Status.** [belum-diverifikasi]
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Pokok.** setelah UUCK kewenangan tata ruang tersentralisasi, daerah tinggal menyesuaikan; izin lewat OSS ("RTR-OSS")
+
+**Masalah / celah.** narasumber: akar masalah PSN ada di UUCK; tuntutan jangka panjang: revisi UU Penataan Ruang (yang diubah UUCK) menjadi payung omnibus lima dimensi yang memuat krisis tiga planet dan masyarakat sebagai co-creator
+
+**Status.** [kata-narasumber]

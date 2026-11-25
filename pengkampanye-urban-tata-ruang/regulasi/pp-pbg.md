@@ -20,3 +20,8 @@ Isu: [[isu-tata-ruang]], [[isu-data-center]]
 **Masalah / celah.** ketiadaan PBG jadi salah satu dasar Gubernur Jabar menghentikan BDx.
 
 **Status.** [belum-diverifikasi: nomor PP dari ingatan]
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Pokok.** PBG lalu SLF adalah titik tahan berikutnya dalam rantai izin PSN [kata-narasumber]

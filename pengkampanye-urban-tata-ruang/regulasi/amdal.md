@@ -65,3 +65,12 @@ Isu: [[isu-tata-ruang]], [[isu-air]]
 **Masalah / celah.** 13 usaha wisata tanpa AMDAL di Gunung Sewu (temuan WALHI Yogyakarta).
 
 **Status.** [belum-diverifikasi]
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Pokok.** titik tahan kedua dalam pengawalan PSN setelah KKPR otomatis [kata-narasumber]
+
+**Masalah / celah.** konsultasi AMDAL Giant Sea Wall tanpa membagikan dokumen AMDAL [temuan lapangan WALHI]
+
+**Status.** [kata-narasumber]

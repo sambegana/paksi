@@ -47,3 +47,8 @@ Masalah layanan dasar dan dampak iklim dibaca sebagai hasil keputusan ruang: sia
 **Dasar.** tidak disebut (dipakai sebagai sudut pandang pengguna, "tata ruang berkeadilan")
 
 **Dipakai untuk.** (a) S-AIR: "krisis air perempuan Tambakrejo adalah krisis tata ruang"; (b) S-RAKER: tata ruang sebagai lensa untuk membaca PSEL dan data center (proyek besar yang menyedot lahan, air, energi), bukan isu ketiga terpisah; (c) S-ADV: tata ruang sebagai instrumen pemersatu karena semua isu akhirnya diputuskan lewat peta & peraturan zonasi.
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]]
+
+**Dipakai untuk.** definisi operasional narasumber: distribusi tanah untuk rusun, rumah terjangkau, RTH, fasos, dan akses kelompok rentan (difabel, lansia, ibu hamil); dasar yang dirujuk PP 59/2022 tentang Perkotaan [kata-narasumber]

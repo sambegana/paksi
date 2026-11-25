@@ -20,19 +20,19 @@ Pola lintas isu: [[benang-merah]]
 
 <!-- AUTO:mulai — dibuat hub.py, jangan disunting -->
 
-## Konsep (13)
-[[partisipasi-bermakna|Partisipasi bermakna]] **×7** · [[adaptasi-berbasis-ekosistem|Adaptasi berbasis ekosistem]] **×3** · [[panas-kota|Panas ekstrem di hunian miskin kota]] **×2** · [[ruang-terbuka-hijau|Ruang terbuka hijau / hutan kota]] **×2** · [[batas-hukum-vs-batas-ekologis|Batas hukum ≠ batas ekologis]] · [[efek-tepi|Efek tepi]] · [[ekosistem-kota|Ekosistem kota]] · [[gentrifikasi-hijau|Green gentrification]] · [[impervious-cover-model|Impervious Cover Model]] · [[jasa-ekosistem-kota|Jasa ekosistem kota untuk risiko iklim]] · [[skenario-lokasi-abc-hutan-kota|Skenario posisi berdasarkan status lahan]] · [[solusi-berbasis-alam|Solusi berbasis alam]] · [[tanggapan-dua-tahap|Tanggapan advokasi dua tahap]]
+## Konsep (14)
+[[partisipasi-bermakna|Partisipasi bermakna]] **×8** · [[adaptasi-berbasis-ekosistem|Adaptasi berbasis ekosistem]] **×3** · [[ruang-terbuka-hijau|Ruang terbuka hijau / hutan kota]] **×3** · [[panas-kota|Panas ekstrem di hunian miskin kota]] **×2** · [[batas-hukum-vs-batas-ekologis|Batas hukum ≠ batas ekologis]] · [[efek-tepi|Efek tepi]] · [[ekosistem-kota|Ekosistem kota]] · [[gentrifikasi-hijau|Green gentrification]] · [[impervious-cover-model|Impervious Cover Model]] · [[jasa-ekosistem-kota|Jasa ekosistem kota untuk risiko iklim]] · [[pembekuan-harga-tanah|Pembekuan harga tanah]] · [[skenario-lokasi-abc-hutan-kota|Skenario posisi berdasarkan status lahan]] · [[solusi-berbasis-alam|Solusi berbasis alam]] · [[tanggapan-dua-tahap|Tanggapan advokasi dua tahap]]
 
 ## Regulasi (10)
-[[uu-pplh|UU No. 32 Tahun 2009 tentang Perlindungan dan…]] **×7** · [[amdal|AMDAL & persetujuan lingkungan]] **×6** · [[uu-kip|UU 14/2008 Keterbukaan Informasi Publik]] **×5** · [[rtrw-rdtr|RTRW & RDTR]] **×4** · [[uu-penataan-ruang|UU No. 26 Tahun 2007 tentang Penataan Ruang]] **×3** · [[pergub-dki-rth|Pergub DKI 9/2022 tentang RTH]] · [[permen-atr-rth|Permen ATR/BPN 14/2022 tentang RTH]] · [[pp-hutan-kota|PP 63/2002 tentang Hutan Kota]] · [[pp-penyelenggaraan-pplh|PP 22/2021 tentang Penyelenggaraan Perlindungan…]] · [[sk-gubernur-hutan-kota-ui|SK Gubernur DKI Jakarta No. 3487 Tahun 1999]]
+[[amdal|AMDAL & persetujuan lingkungan]] **×7** · [[uu-pplh|UU No. 32 Tahun 2009 tentang Perlindungan dan…]] **×7** · [[uu-kip|UU 14/2008 Keterbukaan Informasi Publik]] **×6** · [[rtrw-rdtr|RTRW & RDTR]] **×4** · [[uu-penataan-ruang|UU No. 26 Tahun 2007 tentang Penataan Ruang]] **×4** · [[pergub-dki-rth|Pergub DKI 9/2022 tentang RTH]] · [[permen-atr-rth|Permen ATR/BPN 14/2022 tentang RTH]] · [[pp-hutan-kota|PP 63/2002 tentang Hutan Kota]] · [[pp-penyelenggaraan-pplh|PP 22/2021 tentang Penyelenggaraan Perlindungan…]] · [[sk-gubernur-hutan-kota-ui|SK Gubernur DKI Jakarta No. 3487 Tahun 1999]]
 
 ## Aktor (10)
-[[kementerian-lh|Kementerian Lingkungan Hidup / BPLH]] **×9** · [[walhi|WALHI]] **×9** · [[kementerian-atr-bpn|Kementerian ATR/BPN]] **×4** · [[pemprov-dki-jakarta|Pemprov DKI Jakarta]] **×3** · [[kementerian-kehutanan|Kementerian Kehutanan]] **×2** · [[jaringan-warga-kota|JRMK]] · [[kementerian-sosial|Kementerian Sosial]] · [[pramono-anung|Pramono Anung, Gubernur DKI Jakarta]] · [[siura-studio|SIURA Studio]] · [[universitas-indonesia|Universitas Indonesia]]
+[[walhi|WALHI]] **×10** · [[kementerian-lh|Kementerian Lingkungan Hidup / BPLH]] **×9** · [[kementerian-atr-bpn|Kementerian ATR/BPN]] **×5** · [[pemprov-dki-jakarta|Pemprov DKI Jakarta]] **×3** · [[kementerian-kehutanan|Kementerian Kehutanan]] **×2** · [[jaringan-warga-kota|JRMK]] · [[kementerian-sosial|Kementerian Sosial]] · [[pramono-anung|Pramono Anung, Gubernur DKI Jakarta]] · [[siura-studio|SIURA Studio]] · [[universitas-indonesia|Universitas Indonesia]]
 
 ## Tempat & kasus (9)
-[[jakarta|Jakarta]] **×8** · [[semarang-demak|Pesisir Semarang–Demak]] **×3** · [[bandung|Bandung / Cekungan Bandung / Kawasan Bandung Utara]] · [[durban|Durban, Afrika Selatan]] · [[gambut-lamandau-pekanbaru|Lamandau]] · [[hutan-kota-ui|Hutan Kota Universitas Indonesia]] · [[pesanggrahan|Kali Pesanggrahan]] · [[srengseng-sawah-jagakarsa|Srengseng Sawah, Jagakarsa, Jakarta Selatan]] · [[tahura-ngurah-rai-bali|Tahura Ngurah Rai, Denpasar–Badung, Bali]]
+[[jakarta|Jakarta]] **×8** · [[semarang-demak|Pesisir Semarang–Demak]] **×4** · [[bandung|Bandung / Cekungan Bandung / Kawasan Bandung Utara]] · [[durban|Durban, Afrika Selatan]] · [[gambut-lamandau-pekanbaru|Lamandau]] · [[hutan-kota-ui|Hutan Kota Universitas Indonesia]] · [[pesanggrahan|Kali Pesanggrahan]] · [[srengseng-sawah-jagakarsa|Srengseng Sawah, Jagakarsa, Jakarta Selatan]] · [[tahura-ngurah-rai-bali|Tahura Ngurah Rai, Denpasar–Badung, Bali]]
 
-## Angka kunci (15) — lengkapnya di [[angka-kunci]]
+## Angka kunci (16) — lengkapnya di [[angka-kunci]]
 
 | Angka | Konteks | Sumber | Status | Isu | Sesi |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@ Pola lintas isu: [[benang-merah]]
 | 30% | kewajiban RTH, jarang terpenuhi | UU 26/2007 | [belum-diverifikasi] | hutan-kota | [[2026-11-03-analisis-grant-eba-walhi]] |
 | ±2.754 ha | Kekurangan RTH publik Semarang | tidak disebut | [belum-diverifikasi] | hutan-kota, tata-ruang | [[2026-11-06-clare-asean-panas-kota-eba]] |
 | ~1 °C | Taman kota rata-rata lebih sejuk siang hari, efek cepat hilang | Bowler dkk., 2010 (meta-analisis) | [belum-diverifikasi] | hutan-kota | [[2026-11-06-clare-asean-panas-kota-eba]] |
+| ±Rp60 juta/m² | harga tanah Kuningan, Jakarta — kendala pengadaan RTH | narasumber IAP | [belum-diverifikasi] kata narasumber | hutan-kota, tata-ruang | [[2026-11-24-diskusi-tata-ruang-iap]] |
 
 ## Sumber sesi
 - [[2026-11-17-hutan-kota-ui-sekolah-rakyat]]

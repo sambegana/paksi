@@ -89,6 +89,7 @@ ditambah dokumen resmi yang dicari dari situs pemerintah. Ditambahkan 2026-11-24
 | [[proposal-cbrut-wisata-kota-regeneratif-jakarta-500.pdf]] | Proposal "Wisata Kota Regeneratif Berbasis Komunitas (CBRUT)": ruang hijau dan sungai menuju 500 tahun Jakarta (22 Juni 2027), 20 hal. | Nama berkas asli "TMD_PCC", kemungkinan dari Padepokan Ciliwung Condet (belum dipastikan) |
 
 ### Dicari, belum ditemukan / belum diunggah
+- **PP 34/2026 tentang Penyelenggaraan Penataan Ruang** (dilaporkan mencabut PP 21/2021; diundangkan 28 Juli 2026). Prioritas: Forum Penataan Ruang dan KKPR untuk PSN. Belum ditemukan di JDIH resmi. → [[2026-11-24-diskusi-tata-ruang-iap]]
 - **Perpres Rencana Induk Pembangunan Kawasan Aglomerasi (RIPKA)** sesuai UU 2/2024 tentang DKJ: penyusunannya dimulai Agustus 2025; status pengesahan belum terverifikasi.
 - **Peta resmi Perda 7/2024** dalam format data (SHP/GDB): cek GISTARU ATR/BPN dan portal Jakarta Satu.
 - **KLHS RTRW Jakarta 2024–2044**: belum dicari.

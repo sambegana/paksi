@@ -72,3 +72,8 @@ Partisipasi diukur dari siapa memegang anggaran dan hak memutuskan, bukan siapa 
 **Dasar.** Arnstein 1969 (*ladder of participation*); Ostrom 1996 & Mitlin 2008 (co-production)
 
 **Dipakai untuk.** Mempertajam hot take pengguna no. 7; Kampung Akuarium (kampung susun co-design) sebagai satu-satunya hunian yang relatif nyaman termal di temuan Be-Housing.
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Dipakai untuk.** narasumber: aturan pelibatan ada tetapi pengawasannya tidak; juknis ATR tidak mengatur kualitas partisipasi (sewa hotel, undang 50 orang, tanda tangan berita acara) dan pemda tidak bisa disanksi. Kasus Bekasi (GSW): hanya 8 nelayan dari 8 desa diundang, dipilih camat, yang pernah menolak reklamasi tidak diundang. Inovasi: planning charrette dan platform digital; NGO sebagai co-creator dalam tim penyusun [kata-narasumber; kasus Bekasi dari temuan lapangan WALHI]

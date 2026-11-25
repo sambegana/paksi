@@ -38,3 +38,8 @@ Isu: [[isu-tata-ruang]], [[isu-hutan-kota]]
 **Masalah / celah.** kewajiban RTH jarang terpenuhi → bisa jadi indikator.
 
 **Status.** [belum-diverifikasi] (dikutip tanpa pembacaan teks di sesi)
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Pokok.** target advokasi "maraton": revisi menjadi payung omnibus darat–laut–udara–bawah tanah–bawah laut; IAP sudah menginisiasi lewat DPD [kata-narasumber]

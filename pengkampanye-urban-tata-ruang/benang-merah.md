@@ -6,7 +6,7 @@ tag: [lintas-isu]
 
 # Benang merah lintas isu
 
-Disusun dari 15 sumber (13 sesi Claude dan 2 berkas riset di repo, Okt–Nov 2026). Setiap pola
+Disusun dari 16 sumber (13 sesi Claude, 2 berkas riset di repo, dan 1 diskusi ahli tata ruang, Okt–Nov 2026). Setiap pola
 di bawah muncul di **lebih dari satu isu** dan ditaut ke entitas tempat buktinya disimpan.
 Status bukti mengikuti catatan sumber: angka dan klaim yang `belum-diverifikasi` ada di
 [[angka-kunci]] dan di catatan entitas masing-masing. **Cek di sana sebelum dikutip.**
@@ -64,10 +64,21 @@ urban) sampai pada kesimpulan yang sama: advokasi RDTR adalah advokasi izin sebe
 
 - **Kawasan khusus:** di KEK/KPBPB/kawasan industri, data center bisa tidak menyusun AMDAL
   sendiri karena RKL-RPL disahkan pengelola kawasan. → [[amdal]], [[pp-68-2021-kek-nongsa]]
-- **PSN:** tanggul laut, PSEL (bila ditetapkan PSN), dan kawasan industri PSN diduga bisa
-  memperoleh KKPR meski tidak sesuai RTRW daerah. Nelayan Kendal mengeluhkan RTRW dikesampingkan.
-  ⚠️ Mekanismenya di PP 21/2021 **belum diverifikasi**. Ini celah prosedur yang memotong isu air,
-  sampah, dan data center sekaligus. Prioritas riset.
+- **PSN:** tanggul laut, PSEL (bila ditetapkan PSN), dan kawasan industri PSN memperoleh KKPR
+  meski tidak sesuai RTRW daerah. Nelayan Kendal mengeluhkan RTRW dikesampingkan. **Dikonfirmasi
+  narasumber ahli IAP (24 Nov 2026): "PSN itu pesanan", KKPR-nya otomatis keluar.**
+  ⚠️ Pasalnya belum dibaca, dan PP 21/2021 dilaporkan sudah diganti **PP 34/2026**. Ini celah
+  prosedur yang memotong isu air, sampah, dan data center sekaligus.
+  ([[2026-11-24-diskusi-tata-ruang-iap]])
+- **Karena KKPR PSN otomatis, tahan di titik berikutnya.** Rantai pengawalan menurut narasumber:
+  persetujuan lingkungan ([[amdal]]) → PBG → SLF ([[pp-pbg]]) → gugatan lewat
+  [[uu-jasa-konstruksi]]. Akar masalahnya tetap [[uu-cipta-kerja]].
+- **Batas RTRW: ia hanya mengatur APL.** Hutan diatur lewat pelepasan atau pinjam pakai kawasan
+  (KLHK), laut lewat RZWP3K/[[kkprl]] (KKP), tambang dan migas lewat ESDM, udara lewat Kemenhan.
+  Kritik "RTRW gagal melindungi hutan atau laut" sering salah alamat; tuntutannya harus menyasar
+  rezim sektor yang memutuskan. Contoh paling tajam: [[teluk-kelabat-dalam]] (Babel) sudah
+  ditetapkan zona larang tambang di Perda RZWP3K, **tetapi PKKPRL tambang tetap keluar.**
+  Rencana tidak mengikat izin. → [[tata-ruang-lima-dimensi]]
 - **Respons pejabat yang sama:** Pemkot Tangsel menjawab keluhan data center BSD dengan "sudah
   sesuai tata ruang". Kalimat itu justru menunjukkan bahwa dokumen tata ruang itulah yang harus
   dipersoalkan.
@@ -166,6 +177,13 @@ surat siap pakai ke PPID BP Batam (lihat [[daftar-modul]]).
 - **Kerangka analisis:** [[segitiga-diskursus-aktor-kepentingan]], [[bacchi-wpr]],
   [[jendela-kebijakan]], [[rekonstruksi-teori-kebijakan]], [[teori-perubahan]],
   [[uji-empat-pertanyaan-tuntutan]] ([[2026-11-06-advokasi-kebijakan-hariadi-dan-sampah]]).
+- **Titik masuk penyusunan RTRW/RDTR** (narasumber IAP): (1) minta data sejak penyusunan
+  diumumkan, termasuk data berlabel "sementara" ([[uu-kip]]); (2) masuk **Forum Penataan Ruang**
+  daerah ([[pp-penyelenggaraan-penataan-ruang]], PP 34/2026); (3) masukkan data lingkungan dan
+  kajian risiko bencana lewat [[klhs]]; (4) dorong NGO masuk tim penyusun sebagai *co-creator*,
+  dimulai dari satu kepala daerah percontohan. Tuntut waktu penyusunan ±12 bulan, bukan 3–5
+  bulan mengikuti tahun anggaran. Ukur kualitas partisipasi, bukan berita acaranya
+  ([[transdisiplinaritas]]).
 - **Sikap:** "dukung tujuan, persoalkan cara dan lokasi, tawarkan alternatif" (hutan kota UI,
   normalisasi sungai). Tuntutan harus berujung instrumen tertulis. Masuk sebelum keputusan
   dikunci (Musrenbang, PKS, RDTR).
@@ -190,7 +208,10 @@ surat siap pakai ke PPID BP Batam (lihat [[daftar-modul]]).
 
 ## Celah riset prioritas (lintas isu)
 
-1. Mekanisme PSN memperoleh KKPR tanpa kesesuaian RTRW (PP 21/2021). Celah ini memotong tiga isu.
+1. **Teks resmi PP 34/2026** (pengganti PP 21/2021): ketentuan KKPR untuk PSN, Forum Penataan Ruang
+   (Pasal 268–269?), dan partisipasi. Narasumber ahli sudah mengonfirmasi praktiknya; yang belum
+   adalah pasalnya. Celah ini memotong tiga isu. Sekalian baca analisis Hukumonline "Revisi PP
+   Penataan Ruang Permudah Ubah Tata Ruang".
 2. Sumber dan volume air data center di Bekasi, Batang, dan Purwakarta (permohonan KIP).
 3. Kebutuhan air PSEL (rilis WALHI Makassar menyebutnya, tapi rinciannya tidak ada di repo).
 4. Hubungan RIPS (rencana induk persampahan) dengan RTRW/RDTR, termasuk alokasi lahan TPS3R

@@ -1,6 +1,6 @@
 ---
 jenis: data
-diperbarui: 2026-11-24
+diperbarui: 2026-11-25
 ---
 
 # Angka kunci
@@ -476,3 +476,11 @@ Hub tiap isu menampilkan potongan tabel ini.
 | 13 g/bulan | mikroplastik yang ditelan rata-rata orang Indonesia (tertinggi di dunia) | Zhao dkk., Environ. Sci. Technol. 2024, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | sampah, air | [[deklarasi-sumba-keadilan-ekologis]] |
 | ≥3.500/tahun | kejadian bencana ekologis (banjir, longsor, kebakaran) | BNPB, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | iklim | [[deklarasi-sumba-keadilan-ekologis]] |
 | 23,85 juta | penduduk di bawah garis kemiskinan (2025) | BPS, dikutip Deklarasi Sumba | [belum-diverifikasi] dikutip sekunder | advokasi | [[deklarasi-sumba-keadilan-ekologis]] |
+| ±2,1 km dalam 5 tahun | garis pantai Semarang mundur (akresi dan abrasi) | narasumber IAP, diskusi 24 Nov 2026 | [belum-diverifikasi] kata narasumber | iklim-kota, tata-ruang | [[2026-11-24-diskusi-tata-ruang-iap]] |
+| ±Rp60 juta/m² | harga tanah Kuningan, Jakarta — kendala pengadaan RTH | narasumber IAP | [belum-diverifikasi] kata narasumber | hutan-kota, tata-ruang | [[2026-11-24-diskusi-tata-ruang-iap]] |
+| ±12 bulan vs 3–5 bulan | waktu ideal menyusun RTRW vs praktik mengikuti tahun anggaran (Agustus–Desember) | narasumber IAP | [kata-narasumber] | tata-ruang, advokasi-kebijakan | [[2026-11-24-diskusi-tata-ruang-iap]] |
+| 8 nelayan dari 8 desa | yang diundang konsultasi GSW di Bekasi, dipilih camat | temuan lapangan WALHI | [kata-pengguna] temuan WALHI | tata-ruang, advokasi-kebijakan | [[2026-11-24-diskusi-tata-ruang-iap]] |
+| ±700.000 ha; 147 desa | luas dan cakupan pulau-laut KSN Jabodetabek-Punjur (3 prov, 4 kab/kota, 18 kec) | slide narasumber IAP | [belum-diverifikasi] slide | tata-ruang | [[2026-11-24-diskusi-tata-ruang-iap]] |
+| ±Rp1.200 T | klaim "potensi perputaran ekonomi laut" KSN Jabodetabek-Punjur | slide narasumber IAP | [belum-diverifikasi] slide, metode tak disebut | tata-ruang | [[2026-11-24-diskusi-tata-ruang-iap]] |
+| >40% | porsi sampah sisa makanan (organik) di sampah perkotaan kawasan Jabodetabek-Punjur (Bantargebang, Burangkeng, Mekarsari) | slide narasumber IAP | [belum-diverifikasi] slide | sampah | [[2026-11-24-diskusi-tata-ruang-iap]] |
+| 10 tahun | usulan sewa perairan Pulau Pari untuk karbon biru | temuan lapangan WALHI | [kata-pengguna] temuan WALHI | iklim-kota | [[2026-11-24-diskusi-tata-ruang-iap]] |

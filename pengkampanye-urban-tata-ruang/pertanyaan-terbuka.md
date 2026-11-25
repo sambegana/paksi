@@ -145,3 +145,13 @@ Sumber utama: [[2026-11-06-clare-asean-panas-kota-eba]]
 - Berapa jumlah penjaga (MPA, operator PLTMH, nelayan, petani agroforestri) di WKR yang bisa jadi sasaran RPL/BPJS?
 - Apakah ada standar/regulasi suhu dalam ruang untuk rusunawa pemerintah, dan siapa focal point panas yang realistis (BNPB, Kemenkes, Kementerian PKP)?
 - Pertanyaan refleksi penutup: opsi 1 (naskah) atau opsi 4 (deck tim) — keputusan akhir tak tercatat.
+
+## Diskusi ahli tata ruang (IAP)
+Sumber utama: [[2026-11-24-diskusi-tata-ruang-iap]]
+
+- Pasal PP 34/2026 tentang Forum Penataan Ruang (268–269?) dan ketentuan KKPR untuk PSN. Teks resmi belum dibaca.
+- Pasal UU Jasa Konstruksi mana yang bisa dipakai untuk menggugat setelah SLF terbit?
+- Permendagri 2024 "RP2P" yang dirujuk narasumber: nama dan isinya?
+- Jalur ketiga usulan tindak lanjut pemandu (audio tidak jelas).
+- Rasio KKPD terhadap ruang ekonomi di Jakarta.
+- Verifikasi angka garis pantai Semarang mundur ±2,1 km dalam 5 tahun ke data citra atau riset.

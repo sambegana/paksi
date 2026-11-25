@@ -42,6 +42,9 @@ klaim yang *jangan* dipakai.
   didukung riset. → [[2026-11-06-advokasi-kebijakan-hariadi-dan-sampah]]
 - **Hutan Kota UI**: klaim "Pramono menyepakati 8 ha" baru dari judul berita; verifikasi sebelum
   dipakai. → [[2026-11-17-hutan-kota-ui-sekolah-rakyat]]
+- **Tata ruang × IAP**: workshop tata ruang (Eknas, lalu Eksekutif Daerah), penjajakan MoU WALHI–IAP,
+  dan **pelajari teks resmi PP 34/2026** (Forum Penataan Ruang, KKPR untuk PSN).
+  → [[2026-11-24-diskusi-tata-ruang-iap]]
 - **Tata ruang**: modul belajar tata ruang berikutnya. Mulai dari celah riset di [[benang-merah]].
 
 ## Konsep yang paling banyak menyambung
@@ -50,6 +53,7 @@ klaim yang *jangan* dipakai.
 [[privatisasi-layanan-dasar]] · [[zona-pengorbanan]] · [[maladaptasi]]
 
 ## Log sesi
+- [[2026-11-24-diskusi-tata-ruang-iap]] *(diskusi ahli, dari notulensi)*
 - [[2026-11-21-sungai-jakarta-ruang-air]]
 - [[2026-11-17-roadmap-belajar-data-center-fgd]]
 - [[2026-11-17-hutan-kota-ui-sekolah-rakyat]]

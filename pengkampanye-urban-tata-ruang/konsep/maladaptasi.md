@@ -38,3 +38,8 @@ Respons adaptasi yang menambah risiko atau memindahkan beban: AC membuang panas 
 **Dasar.** Barnett & O'Neill 2010
 
 **Dipakai untuk.** Mempertajam poin "tidak semua bisa pakai AC" — AC bukan solusi bahkan bagi yang mampu; intervensi untuk satu bahaya bisa memperburuk bahaya lain.
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-iklim-kota]], [[isu-tata-ruang]]
+
+**Dipakai untuk.** Giant Sea Wall berisiko jadi "wallfront city", bukan waterfront city: tanggul 2 m membuat lantai satu rumah warga menghadap tembok; dijual sebagai adaptasi padahal masif dan menambah emisi (pengkampanye pesisir WALHI). Garis pantai bergeser — tanggul mengikuti garis pantai tahun berapa? [kata-narasumber]

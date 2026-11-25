@@ -29,3 +29,8 @@ Kewajiban RTH 30% (UU 26/2007) jarang terpenuhi.
 **Dasar.** UU 26/2007.
 
 **Dipakai untuk.** Indikator hak atas kota; peringatan: kebaruan WALHI jangan dijual sebagai "taman kota"; Babakan Siliwangi sebagai rekam jejak WALHI Jabar; U4 "hak atas keteduhan" (panas kota & pekerja informal) hanya komponen kecil.
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-hutan-kota]], [[isu-tata-ruang]]
+
+**Dipakai untuk.** RTH Jakarta terbentur harga tanah (Kuningan ±Rp60 juta/m²); saat RTH berkurang perencana disalahkan padahal peta bisa berubah di pembahasan DPRD; usulan pembekuan harga tanah [kata-narasumber]

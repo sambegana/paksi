@@ -78,3 +78,8 @@ Isu: [[isu-iklim-kota]], [[isu-advokasi-kebijakan]], [[isu-tata-ruang]]
 **Peran.** Mendampingi komunitas di WKR (1.726.472 ha, 799 entri, 202.852 KK per data internal terbaru); narasumber talkshow COP31 diwakili Direktur Eksekutif Nasional.
 
 **Kepentingan / posisi.** Masyarakat adat & komunitas lokal sebagai pelaku utama green jobs; tolak komodifikasi karbon/offset; dorong NMA berbasis WKR; ikut deklarasi GFC menolak TFFF. Empat pilar green jobs (versi 13 Nov): (1) kepastian hak tenurial & kontribusi diakui; (2) bebas komodifikasi alam & pasar karbon (+indikator non-karbon); (3) kedaulatan pangan & energi berbasis komunitas; (4) layak, terlindungi, inklusif.
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Peran.** Eknas sepakat menyusun workshop tata ruang (internal Eknas, lalu bersama Eksekutif Daerah) dan menjajaki MoU WALHI–IAP; tim urban mempelajari PP 34/2026 agar WALHI daerah masuk Forum Penataan Ruang

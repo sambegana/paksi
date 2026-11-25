@@ -37,3 +37,8 @@ Isu: [[isu-tata-ruang]], [[isu-data-center]], [[isu-sampah]]
 Isu: [[isu-tata-ruang]]
 
 **Peran.** Mengurus kepastian lahan — tidak disebut di deck KKP padahal kepastian lahan hambatan utama (66% Zona 5 Morodemak belum jelas status lahannya).
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]]
+
+**Peran.** juknis ATR tidak mengatur kualitas partisipasi; pemda tidak bisa disanksi [kata-narasumber]

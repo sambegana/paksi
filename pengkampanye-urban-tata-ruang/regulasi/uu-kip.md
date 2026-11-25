@@ -54,3 +54,8 @@ Isu: [[isu-advokasi-kebijakan]], [[isu-sampah]]
 **Pokok.** permohonan informasi untuk hibah dan bansos APBD ke ormas, kontrak, konsesi parkir; gugatan PTUN atas pembiaran atau koordinasi aparat. Di isu sampah: permohonan PPID atas rancangan Permen EPR adalah langkah advokasi tersendiri; preseden WALHI Jatim menang sengketa informasi AMDAL PLTSa Benowo sampai MA (Juli 2026).
 
 **Status.** [belum-diverifikasi] (Benowo dari inventaris rilis)
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Pokok.** titik masuk pertama: minta data sejak penyusunan RTRW diumumkan; data "sementara" tetap boleh dibagikan dengan label sementara [kata-narasumber]; notulensi menyebut "UU Satu Data" — yang ada Perpres 39/2019 Satu Data Indonesia

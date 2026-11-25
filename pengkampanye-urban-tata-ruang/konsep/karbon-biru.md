@@ -20,3 +20,8 @@ Stok karbon ekosistem pesisir; pada mangrove, tanah menyimpan 49–98% stok karb
 **Dasar.** Donato dkk. 2011 (*Nature Geoscience*); IPCC 2013 Wetlands Supplement (mewajibkan karbon tanah); Murdiyarso dkk. 2015 (stok mangrove Indonesia)
 
 **Dipakai untuk.** Mengkritik klaim NbCLARE "sabuk laut menyimpan karbon terbanyak" dan angka di deck KKP; zonasi laut sebaiknya memakai data yang punya lokasi jelas (stok karbon per zona, peredaman tsunami).
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-iklim-kota]]
+
+**Dipakai untuk.** konservasi mangrove, lamun, terumbu karang dibelokkan menjadi kawasan offset: pengelolaan berpindah dari masyarakat ke operator, beban emisi dialihkan ke pesisir dan pulau kecil. Pulau Pari: perairan diusulkan disewa 10 tahun untuk karbon biru tanpa informasi ke warga [temuan lapangan WALHI]

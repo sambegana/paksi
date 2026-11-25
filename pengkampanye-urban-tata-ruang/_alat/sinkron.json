@@ -23,5 +23,12 @@
     "claude/trusting-cori-urr48o",
     "claude/dreamy-lamport-hrbnmr"
   ],
-  "catatan": "Sesi pribadi (rumah, apartemen, motor, resep, LinkedIn, keamanan ponsel, akun) sengaja tidak diimpor."
+  "catatan": "Sesi pribadi (rumah, apartemen, motor, resep, LinkedIn, keamanan ponsel, akun) sengaja tidak diimpor.",
+  "sumber_lain": [
+    {
+      "tanggal": "2026-11-25",
+      "jenis": "notulensi diskusi ahli (Google Doc)",
+      "log": "2026-11-24-diskusi-tata-ruang-iap"
+    }
+  ]
 }

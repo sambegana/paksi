@@ -5,7 +5,7 @@ isu: [isu-data-center, isu-tata-ruang]
 tag: []
 ---
 
-# KKPR — Kesesuaian Kegiatan Pemanfaatan Ruang (PP 21/2021)
+# KKPR — Kesesuaian Kegiatan Pemanfaatan Ruang (PP 21/2021; cek PP 34/2026)
 
 Terkait: [[isu-data-center]], [[isu-tata-ruang]]
 
@@ -38,3 +38,12 @@ Isu: [[isu-tata-ruang]]
 **Masalah / celah.** zonasi RDTR menentukan ribuan izin tanpa penilaian → advokasi RDTR = advokasi izin sebelum keluar; KKPR bisa digugat ke PTUN
 
 **Status.** [belum-diverifikasi]
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]], [[isu-advokasi-kebijakan]]
+
+**Pokok.** narasumber: KKPR untuk PSN otomatis keluar ("PSN itu pesanan, pasti tidak mengindahkan tata ruang"); reklamasi tumpang tindih KKPRL (laut) dan KKPR (darat)
+
+**Masalah / celah.** jalur pengawalan PSN setelah KKPR: persetujuan lingkungan → PBG → SLF → gugatan lewat UU Jasa Konstruksi; akarnya ubah UU Cipta Kerja
+
+**Status.** [kata-narasumber] menguatkan klaim benang merah pola 2; pasal di PP 34/2026 belum dicek

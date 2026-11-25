@@ -65,3 +65,8 @@ Kerangka risiko IPCC AR6; AR6 secara eksplisit memasukkan respons (termasuk mala
 **Dasar.** IPCC AR6 (tahun/bab tidak disebut)
 
 **Dipakai untuk.** Menyusun hot take panas kota jadi pengetahuan, bukan daftar keluhan: bahaya (El Niño), paparan (panas dalam ruang), kerentanan (siapa yang terbebani), dampak (biaya, kesehatan), respons & tata kelola (AC, belum dianggap bencana, pendanaan, partisipasi). Hasilnya menunjukkan celah: dampak kesehatan paling lemah buktinya, tata kelola paling kosong → prioritas riset.
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-iklim-kota]], [[isu-tata-ruang]]
+
+**Dipakai untuk.** slide "Integrasi co-benefits ke rencana tata ruang" (ATR, 2018): bahaya (perubahan cepat & slow onset), paparan (ekonomi, sosial, lingkungan), kerentanan (sensitivitas; kapasitas adaptif: infrastruktur keras → struktur ruang, lunak → pola ruang) masuk ke rencana tata ruang lewat RAN/RAD API dan rencana konvergensi API–PRB; emisi (AFOLU, karbon biru, sektor urban) lewat RAN/RAD GRK; KLHS sebagai alat pengendalian. IAP punya modul iklim untuk perencana (low carbon city, resilient city, risiko iklim terhadap PDRB)

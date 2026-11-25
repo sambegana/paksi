@@ -26,3 +26,8 @@ Isu: [[isu-air]], [[isu-tata-ruang]], [[isu-iklim-kota]]
 Isu: [[isu-iklim-kota]], [[isu-tata-ruang]], [[isu-air]], [[isu-hutan-kota]]
 
 **Kasus.** Lokasi Be-Housing; kekurangan ±2.754 ha RTH publik di Semarang; penurunan tanah >10 cm/tahun; Building with Nature Demak memperlihatkan batas solusi mangrove murni; Morodemak: 66% Zona 5 belum jelas status lahannya (deck KKP).
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-iklim-kota]], [[isu-tata-ruang]]
+
+**Kasus.** Demak: kampung tenggelam, warga tetap membudidayakan kerang hijau di bekas kampung; narasumber: kerang hijau bisa jadi green belt; garis pantai Semarang disebut mundur ±2,1 km dalam 5 tahun [kata-narasumber]

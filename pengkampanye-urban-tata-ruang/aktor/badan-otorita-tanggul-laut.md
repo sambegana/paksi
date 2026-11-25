@@ -18,3 +18,8 @@ Isu: [[isu-tata-ruang]], [[isu-iklim-kota]]
 **Jenis.** pemerintah
 
 **Peran.** pengelola proyek tanggul laut raksasa Pantura; mengklaim kajian teknis bersama pemda
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]]
+
+**Peran.** disebut sebagai salah satu aktor ruang pesisir-laut Jabodetabek-Punjur di slide narasumber

@@ -20,3 +20,8 @@ Isu: [[isu-tata-ruang]], [[isu-sungai]]
 **Masalah / celah.** izin bertentangan zona lindung (Puncak, Kawasan Bandung Utara) → audit izin
 
 **Status.** [belum-diverifikasi]
+
+### Dari [[2026-11-24-diskusi-tata-ruang-iap]]
+Isu: [[isu-tata-ruang]]
+
+**Pokok.** slide narasumber "Penguatan Skenario dan Tujuan Pengembangan Wilayah Pesisir dan Pulau-Pulau Kecil di Kawasan Jabodetabek–Punjur": KSN pulau-laut ±700.000 ha
